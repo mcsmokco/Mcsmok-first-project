@@ -1,51 +1,19 @@
 <!doctype html>
 <html lang="ar" dir="rtl">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="ملخصات وأخبار كرة القدم — مباريات، نتائج، تحليلات وأهم الأخبار.">
-  <title>كورة اليوم | أخبار وملخصات كرة القدم</title>
-  <style>
-    :root{--bg:#07110d;--card:#0e1c16;--card2:#13271e;--text:#f4f7f5;--muted:#a9bbb2;--green:#22c55e;--green2:#16a34a;--line:#1d382b;--gold:#f6c453}
-    *{box-sizing:border-box} body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Tahoma,Arial,sans-serif;background:radial-gradient(circle at 85% 0,#123a24 0,transparent 34%),var(--bg);color:var(--text);line-height:1.7}
-    a{color:inherit;text-decoration:none}.wrap{width:min(1120px,92%);margin:auto}
-    header{position:sticky;top:0;z-index:10;background:rgba(7,17,13,.88);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
-    nav{height:72px;display:flex;align-items:center;justify-content:space-between;gap:20px}.brand{font-size:1.45rem;font-weight:900}.brand span{color:var(--green)}
-    .links{display:flex;gap:22px;color:var(--muted);font-weight:700}.links a:hover{color:var(--green)}
-    .hero{padding:70px 0 42px;display:grid;grid-template-columns:1.25fr .75fr;gap:28px;align-items:center}.eyebrow{color:var(--green);font-weight:900}.hero h1{font-size:clamp(2.4rem,6vw,4.8rem);line-height:1.05;margin:12px 0 18px}.hero p{font-size:1.1rem;color:var(--muted);max-width:650px}.hero-card{background:linear-gradient(145deg,var(--card2),var(--card));border:1px solid var(--line);padding:28px;border-radius:24px;box-shadow:0 20px 60px #0005}.score{display:flex;justify-content:space-between;align-items:center;margin:20px 0}.team{text-align:center;font-weight:800}.crest{width:58px;height:58px;border-radius:50%;display:grid;place-items:center;background:#173b29;font-size:1.7rem;margin:auto auto 8px}.result{font-size:2rem;font-weight:950}.tag{display:inline-block;padding:5px 10px;border-radius:999px;background:#173b29;color:#8df0ad;font-size:.8rem;font-weight:800}
-    section{padding:34px 0}.section-head{display:flex;align-items:end;justify-content:space-between;margin-bottom:18px}.section-head h2{margin:0;font-size:1.8rem}.muted{color:var(--muted)}
-    .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}.card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:22px;transition:.2s}.card:hover{transform:translateY(-3px);border-color:#2c6748}.card h3{margin:10px 0 8px;font-size:1.18rem}.meta{font-size:.84rem;color:var(--muted)}
-    .match{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:16px 0;border-bottom:1px solid var(--line)}.match:last-child{border:0}.match strong{font-size:1.15rem}.vs{font-weight:900;color:var(--gold)}
-    .cta{margin:34px 0;padding:30px;border-radius:22px;background:linear-gradient(100deg,#14532d,#0f2d20);border:1px solid #246b43;display:flex;justify-content:space-between;align-items:center;gap:20px}.btn{display:inline-block;background:var(--green);color:#041009;padding:11px 18px;border-radius:12px;font-weight:900}.btn:hover{background:#4ade80}
-    footer{border-top:1px solid var(--line);padding:30px 0;color:var(--muted);margin-top:25px}
-    @media(max-width:800px){.hero{grid-template-columns:1fr;padding-top:42px}.grid{grid-template-columns:1fr}.links{display:none}.cta{display:block}.cta .btn{margin-top:14px}}
-  </style>
-</head>
-<body>
-<header><div class="wrap"><nav><a class="brand" href="#top">⚽ كورة<span>اليوم</span></a><div class="links"><a href="#news">الأخبار</a><a href="#matches">المباريات</a><a href="#analysis">تحليلات</a></div></nav></div></header>
-<main id="top">
-  <div class="wrap">
-    <section class="hero">
-      <div><div class="eyebrow">أخبار كرة القدم بالعربية</div><h1>كل ما يهمك في عالم الكرة، في مكان واحد.</h1><p>ملخصات سريعة، أخبار مهمة، وقراءة بسيطة للمباريات والبطولات. الموقع مصمم ليكون سريعاً وواضحاً على الهاتف والكمبيوتر.</p><a class="btn" href="#news">اكتشف آخر الأخبار ↓</a></div>
-      <div class="hero-card"><span class="tag">مباراة اليوم</span><div class="score"><div class="team"><div class="crest">🔴</div>الفريق الأول</div><div class="result">2 - 1</div><div class="team"><div class="crest">🔵</div>الفريق الثاني</div></div><div class="meta">ملخص المباراة • أداء قوي وهجمات متبادلة</div></div>
-    </section>
-
-    <section id="news"><div class="section-head"><h2>📰 أبرز الأخبار</h2><span class="muted">تحديثات مختارة</span></div><div class="grid">
-      <article class="card"><span class="tag">خبر</span><h3>سوق الانتقالات يشعل المنافسة بين كبار أوروبا</h3><p class="muted">أندية القمة تواصل البحث عن صفقات جديدة لتعزيز تشكيلاتها قبل بداية الاستحقاقات الكبرى.</p><div class="meta">منذ ساعتين</div></article>
-      <article class="card"><span class="tag">تحليل</span><h3>لماذا أصبحت التحولات السريعة مفتاح الفوز؟</h3><p class="muted">نظرة مختصرة على الضغط العالي، المساحات خلف الدفاع، وكيفية استغلال المرتدات.</p><div class="meta">منذ 4 ساعات</div></article>
-      <article class="card"><span class="tag">ملخص</span><h3>مباراة مثيرة تنتهي بفارق هدف واحد</h3><p class="muted">فرص كثيرة وتقلبات في النتيجة حتى الدقائق الأخيرة، مع تألق حارس المرمى.</p><div class="meta">اليوم</div></article>
-    </div></section>
-
-    <section id="matches"><div class="section-head"><h2>📅 مباريات مختارة</h2><span class="muted">النتائج والأخبار</span></div><div class="card">
-      <div class="match"><strong>الدوري الإنجليزي</strong><span>الفريق أ <b>2</b> — <b>1</b> الفريق ب</span><span class="vs">نهائي</span></div>
-      <div class="match"><strong>الدوري الإسباني</strong><span>الفريق ج <b>1</b> — <b>1</b> الفريق د</span><span class="vs">نهائي</span></div>
-      <div class="match"><strong>دوري أبطال أوروبا</strong><span>الفريق هـ <b>—</b> الفريق و</span><span class="vs">قادمة</span></div>
-    </div></section>
-
-    <section id="analysis"><div class="section-head"><h2>🔎 تحليلات سريعة</h2></div><div class="grid"><article class="card"><h3>قوة الاستحواذ لا تكفي وحدها</h3><p class="muted">الفريق الأكثر استحواذاً يحتاج أيضاً إلى صناعة فرص حقيقية واستغلال المساحات.</p></article><article class="card"><h3>الضغط بعد فقدان الكرة</h3><p class="muted">استعادة الكرة بسرعة تمنح الفريق فرصاً إضافية قبل أن ينظم الخصم دفاعه.</p></article><article class="card"><h3>دور البدلاء</h3><p class="muted">التغييرات في الشوط الثاني قد تحسم مباريات متقاربة عندما يقل الإيقاع البدني.</p></article></div></section>
-
-    <div class="cta"><div><h2 style="margin:0 0 5px">تابع الموقع مع كل تحديث ⚡</h2><div class="muted">هذه النسخة جاهزة للنشر على GitHub Pages ويمكن تطويرها لاحقاً بمصدر أخبار ونتائج مباشر.</div></div><a class="btn" href="#news">ابدأ القراءة</a></div>
-  </div>
-</main>
-<footer><div class="wrap">© 2026 كورة اليوم — مشروع ويب منشور عبر GitHub Pages.</div></footer>
-</body></html>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="أحدث أخبار وملخصات كرة القدم من مصادر إخبارية. تحديث تلقائي.">
+<title>كورة اليوم | آخر أخبار كرة القدم</title>
+<style>
+:root{--bg:#07110d;--card:#0e1c16;--card2:#13271e;--text:#f4f7f5;--muted:#a9bbb2;--green:#22c55e;--line:#1d382b;--gold:#f6c453}*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Tahoma,Arial,sans-serif;background:radial-gradient(circle at 85% 0,#123a24,transparent 34%),var(--bg);color:var(--text);line-height:1.7}a{color:inherit;text-decoration:none}.wrap{width:min(1120px,92%);margin:auto}header{position:sticky;top:0;z-index:10;background:#07110ddd;backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}nav{height:70px;display:flex;align-items:center;justify-content:space-between}.brand{font-size:1.45rem;font-weight:900}.brand span{color:var(--green)}.links{display:flex;gap:22px;color:var(--muted);font-weight:700}.links a:hover{color:var(--green)}.hero{padding:65px 0 35px}.eyebrow{color:var(--green);font-weight:900}.hero h1{font-size:clamp(2.3rem,6vw,4.5rem);line-height:1.05;margin:12px 0}.hero p{color:var(--muted);font-size:1.1rem;max-width:720px}.status{display:inline-flex;gap:8px;align-items:center;background:#10271b;border:1px solid var(--line);border-radius:999px;padding:7px 13px;color:#9af0b5;font-size:.85rem}.dot{width:8px;height:8px;border-radius:50%;background:var(--green)}section{padding:30px 0}.head{display:flex;justify-content:space-between;align-items:end;margin-bottom:18px}.head h2{margin:0;font-size:1.8rem}.muted{color:var(--muted)}.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}.card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:21px;transition:.2s}.card:hover{transform:translateY(-3px);border-color:#2c6748}.tag{display:inline-block;padding:4px 9px;border-radius:999px;background:#173b29;color:#8df0ad;font-size:.78rem;font-weight:800}.card h3{margin:10px 0 7px;line-height:1.45}.meta{font-size:.8rem;color:var(--muted);margin-top:13px}.read{color:#80e7a1;font-weight:800}.empty{padding:30px;text-align:center}.cta{margin:35px 0;padding:25px;border-radius:20px;background:linear-gradient(100deg,#14532d,#0f2d20);border:1px solid #246b43}footer{border-top:1px solid var(--line);padding:28px 0;color:var(--muted)}@media(max-width:800px){.grid{grid-template-columns:1fr}.links{display:none}}
+</style></head>
+<body><header><div class="wrap"><nav><a class="brand" href="#top">⚽ كورة<span>اليوم</span></a><div class="links"><a href="#news">الأخبار</a><a href="#about">عن الموقع</a></div></nav></div></header>
+<main id="top"><div class="wrap"><section class="hero"><div class="status"><span class="dot"></span> أخبار تتحدث تلقائياً</div><div class="eyebrow" style="margin-top:18px">آخر المستجدات</div><h1>أخبار كرة القدم الحقيقية، في مكان واحد.</h1><p>نجمع عناوين كرة القدم الحديثة من خلاصات الأخبار ونضع رابط المصدر الأصلي حتى تستطيع قراءة الخبر كاملاً. يتم تحديث البيانات تلقائياً عبر GitHub Actions.</p></section>
+<section id="news"><div class="head"><h2>📰 أحدث الأخبار</h2><span id="updated" class="muted">جاري التحميل...</span></div><div id="newsGrid" class="grid"><div class="card empty">جاري تحميل آخر الأخبار...</div></div></section>
+<section id="about"><div class="cta"><h2 style="margin-top:0">ℹ️ كيف تعمل الأخبار؟</h2><p class="muted">الموقع لا يخترع الأخبار. يتم جلب عناوين وروابط من Google News RSS وفق مواضيع كرة القدم، ثم تُحدّث البيانات تلقائياً. اضغط «المصدر» لقراءة المقال الأصلي. دقة الخبر تعتمد على المصدر الناشر، لذلك راجع المقال الأصلي قبل اعتماد أي معلومة.</p></div></section></div></main>
+<footer><div class="wrap">© 2026 كورة اليوم — أخبار كرة القدم وروابط المصادر الأصلية.</div></footer>
+<script>
+const esc=s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
+function render(d){const grid=document.getElementById('newsGrid');document.getElementById('updated').textContent=d.updated_at?'آخر تحديث: '+new Date(d.updated_at).toLocaleString('ar-MA',{dateStyle:'medium',timeStyle:'short'}):'';if(!d.items?.length){grid.innerHTML='<div class="card empty">لا توجد أخبار متاحة حالياً. حاول لاحقاً.</div>';return}grid.innerHTML=d.items.map((x,i)=>`<article class="card"><span class="tag">خبر ${i+1}</span><h3>${esc(x.title)}</h3><p class="muted">${esc(x.summary||'اضغط على المصدر لقراءة التفاصيل.')}</p><div class="meta">${esc(x.source)}${x.date?' • '+esc(x.date):''}</div><p><a class="read" href="${esc(x.url)}" target="_blank" rel="noopener noreferrer">قراءة الخبر الأصلي ↗</a></p></article>`).join('')}
+fetch('data/news.json?v='+Date.now()).then(r=>r.json()).then(render).catch(()=>document.getElementById('newsGrid').innerHTML='<div class="card empty">تعذر تحميل الأخبار الآن.</div>');
+</script></body></html>
