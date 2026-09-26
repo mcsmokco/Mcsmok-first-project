@@ -1,6 +1,8 @@
 name: Update football news
 
 on:
+  push:
+    branches: ["main"]
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
@@ -10,6 +12,7 @@ permissions:
 
 jobs:
   update-news:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
