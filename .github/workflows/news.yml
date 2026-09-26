@@ -1,4 +1,4 @@
-name: Update football news
+name: Update and deploy football news
 
 on:
   push:
@@ -9,20 +9,50 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-news
+  cancel-in-progress: true
+
+env:
+  PYTHONUNBUFFERED: "1"
 
 jobs:
-  update-news:
+  update-and-deploy:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
       - name: Update news feed
         run: python3 scripts/update-news.py
+
       - name: Commit news data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/news.json
-          git diff --cached --quiet || git commit -m "Update football news"
-          git push
+          if git diff --cached --quiet; then
+            echo "No news changes to commit."
+          else
+            git commit -m "Update football news"
+            git push
+          fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
