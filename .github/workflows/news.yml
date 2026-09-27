@@ -16,9 +16,6 @@ concurrency:
   group: pages-news
   cancel-in-progress: true
 
-env:
-  PYTHONUNBUFFERED: "1"
-
 jobs:
   update-and-deploy:
     if: github.actor != 'github-actions[bot]'
@@ -30,18 +27,18 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Update news feed
+      - name: Update news, Raja news and matches
         run: python3 scripts/update-news.py
 
-      - name: Commit news data
+      - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/news.json
+          git add data/news.json data/raja-news.json data/matches.json
           if git diff --cached --quiet; then
-            echo "No news changes to commit."
+            echo "No data changes to commit."
           else
-            git commit -m "Update football news"
+            git commit -m "Update football and Raja data"
             git push
           fi
 
