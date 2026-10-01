@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T20:42:00.406451+00:00",
+  "updated_at": "2026-10-01T21:06:44.395307+00:00",
   "count": 100,
   "items": [
     {
@@ -306,8 +306,8 @@
       "league": "Football",
       "name": "Real Madrid at Manchester City",
       "date": "2026-10-01T19:00Z",
-      "state": "in",
-      "status": "84'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Manchester City",
@@ -329,8 +329,8 @@
       "league": "Football",
       "name": "Oud-Heverlee Leuven at Paris Saint-Germain",
       "date": "2026-10-01T19:00Z",
-      "state": "in",
-      "status": "85'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Paris Saint-Germain",
@@ -353,7 +353,7 @@
       "name": "Montserrat at British Virgin Islands",
       "date": "2026-10-01T20:00Z",
       "state": "in",
-      "status": "42'",
+      "status": "49'",
       "teams": [
         {
           "name": "British Virgin Islands",
@@ -365,7 +365,7 @@
           "name": "Montserrat",
           "short": "Montserrat",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/msr.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "TCIFA National Stadium"
@@ -376,7 +376,7 @@
       "name": "St. Martin at US Virgin Islands",
       "date": "2026-10-01T20:00Z",
       "state": "in",
-      "status": "41'",
+      "status": "48'",
       "teams": [
         {
           "name": "US Virgin Islands",
@@ -388,7 +388,7 @@
           "name": "St. Martin",
           "short": "St. Martin",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/stm.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Bethlehem Soccer Stadium"
@@ -398,8 +398,8 @@
       "league": "Football",
       "name": "Guyana at Dominica",
       "date": "2026-10-01T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "6'",
       "teams": [
         {
           "name": "Dominica",
@@ -1411,7 +1411,7 @@
       "name": "Incarnate Word at Lindenwood",
       "date": "2026-10-02T00:00Z",
       "state": "in",
-      "status": "6'",
+      "status": "28'",
       "teams": [
         {
           "name": "Lindenwood Lions",
@@ -1480,13 +1480,13 @@
       "name": "Massachusetts at Bowling Green",
       "date": "2026-10-01T19:00Z",
       "state": "in",
-      "status": "66'",
+      "status": "85'",
       "teams": [
         {
           "name": "Bowling Green Falcons",
           "short": "Bowling Green",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/189.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Massachusetts MInutewomen",
@@ -1502,8 +1502,8 @@
       "league": "Football",
       "name": "Le Moyne at Stonehill",
       "date": "2026-10-01T19:00Z",
-      "state": "in",
-      "status": "82'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Stonehill Skyhawks",
@@ -1526,7 +1526,7 @@
       "name": "Eastern Michigan at Ball State",
       "date": "2026-10-01T20:00Z",
       "state": "in",
-      "status": "32'",
+      "status": "HT",
       "teams": [
         {
           "name": "Ball State Cardinals",
@@ -1538,7 +1538,7 @@
           "name": "Eastern Michigan Eagles",
           "short": "E Michigan",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Briner Sports Complex"
@@ -1549,19 +1549,19 @@
       "name": "Central Michigan at Ohio",
       "date": "2026-10-01T20:00Z",
       "state": "in",
-      "status": "34'",
+      "status": "HT",
       "teams": [
         {
           "name": "Ohio Bobcats",
           "short": "Ohio",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/195.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Central Michigan Chippewas",
           "short": "C Michigan",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Chessa Field"
@@ -1572,7 +1572,7 @@
       "name": "Northern Illinois at Purdue Fort Wayne",
       "date": "2026-10-01T20:00Z",
       "state": "in",
-      "status": "35'",
+      "status": "HT",
       "teams": [
         {
           "name": "Purdue Fort Wayne Mastodons",
@@ -1595,7 +1595,7 @@
       "name": "East Carolina at Temple",
       "date": "2026-10-01T20:00Z",
       "state": "in",
-      "status": "29'",
+      "status": "HT",
       "teams": [
         {
           "name": "Temple Owls",
@@ -1618,7 +1618,7 @@
       "name": "Chattanooga at VMI",
       "date": "2026-10-01T20:00Z",
       "state": "in",
-      "status": "38'",
+      "status": "46'",
       "teams": [
         {
           "name": "VMI Keydets",
