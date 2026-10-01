@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T19:39:38.715934+00:00",
+  "updated_at": "2026-10-01T20:07:37.749185+00:00",
   "count": 100,
   "items": [
     {
@@ -31,13 +31,13 @@
       "name": "Portugal at Denmark",
       "date": "2026-10-01T18:45Z",
       "state": "in",
-      "status": "HT",
+      "status": "62'",
       "teams": [
         {
           "name": "Denmark",
           "short": "Denmark",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/den.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Portugal",
@@ -54,13 +54,13 @@
       "name": "Serbia at Germany",
       "date": "2026-10-01T18:45Z",
       "state": "in",
-      "status": "HT",
+      "status": "64'",
       "teams": [
         {
           "name": "Germany",
           "short": "Germany",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Serbia",
@@ -77,7 +77,7 @@
       "name": "Netherlands at Greece",
       "date": "2026-10-01T18:45Z",
       "state": "in",
-      "status": "HT",
+      "status": "63'",
       "teams": [
         {
           "name": "Greece",
@@ -89,7 +89,7 @@
           "name": "Netherlands",
           "short": "Netherlands",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Toumba Stadium"
@@ -100,7 +100,7 @@
       "name": "Kosovo at Israel",
       "date": "2026-10-01T18:45Z",
       "state": "in",
-      "status": "HT",
+      "status": "62'",
       "teams": [
         {
           "name": "Israel",
@@ -123,19 +123,19 @@
       "name": "Gibraltar at Malta",
       "date": "2026-10-01T18:45Z",
       "state": "in",
-      "status": "HT",
+      "status": "65'",
       "teams": [
         {
           "name": "Malta",
           "short": "Malta",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mlt.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Gibraltar",
           "short": "Gibraltar",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gib.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Ta' Qali National Stadium"
@@ -146,7 +146,7 @@
       "name": "Austria at Republic of Ireland",
       "date": "2026-10-01T18:45Z",
       "state": "in",
-      "status": "HT",
+      "status": "60'",
       "teams": [
         {
           "name": "Republic of Ireland",
@@ -169,13 +169,13 @@
       "name": "Norway at Wales",
       "date": "2026-10-01T18:45Z",
       "state": "in",
-      "status": "HT",
+      "status": "65'",
       "teams": [
         {
           "name": "Wales",
           "short": "Wales",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/wal.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Norway",
@@ -307,7 +307,7 @@
       "name": "Real Madrid at Manchester City",
       "date": "2026-10-01T19:00Z",
       "state": "in",
-      "status": "39'",
+      "status": "50'",
       "teams": [
         {
           "name": "Manchester City",
@@ -330,7 +330,7 @@
       "name": "Oud-Heverlee Leuven at Paris Saint-Germain",
       "date": "2026-10-01T19:00Z",
       "state": "in",
-      "status": "38'",
+      "status": "51'",
       "teams": [
         {
           "name": "Paris Saint-Germain",
@@ -352,8 +352,8 @@
       "league": "Football",
       "name": "Montserrat at British Virgin Islands",
       "date": "2026-10-01T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "7'",
       "teams": [
         {
           "name": "British Virgin Islands",
@@ -375,8 +375,8 @@
       "league": "Football",
       "name": "St. Martin at US Virgin Islands",
       "date": "2026-10-01T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "6'",
       "teams": [
         {
           "name": "US Virgin Islands",
@@ -865,13 +865,13 @@
           "name": "FC Atert Bissen",
           "short": "Atert",
           "logo": "",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "RFC Liège",
           "short": "Liège",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": ""
@@ -1019,8 +1019,8 @@
       "league": "Football",
       "name": "Spain U21 at San Marino U21",
       "date": "2026-10-01T18:15Z",
-      "state": "in",
-      "status": "69'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "San Marino U21",
@@ -1032,7 +1032,7 @@
           "name": "Spain U21",
           "short": "Spain",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
-          "score": "9"
+          "score": "13"
         }
       ],
       "venue": "San Marino Stadium"
@@ -1043,7 +1043,7 @@
       "name": "Georgia U21 at Northern Ireland U21",
       "date": "2026-10-01T18:45Z",
       "state": "in",
-      "status": "HT",
+      "status": "67'",
       "teams": [
         {
           "name": "Northern Ireland U21",
@@ -1055,7 +1055,7 @@
           "name": "Georgia U21",
           "short": "Georgia",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/geo.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "The Ballymena Showgrounds"
@@ -1457,13 +1457,13 @@
       "name": "Jacksonville State at Missouri State",
       "date": "2026-10-01T18:30Z",
       "state": "in",
-      "status": "HT",
+      "status": "68'",
       "teams": [
         {
           "name": "Missouri State Bears",
           "short": "Missouri St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Jacksonville State Gamecocks",
@@ -1480,13 +1480,13 @@
       "name": "Massachusetts at Bowling Green",
       "date": "2026-10-01T19:00Z",
       "state": "in",
-      "status": "32'",
+      "status": "HT",
       "teams": [
         {
           "name": "Bowling Green Falcons",
           "short": "Bowling Green",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/189.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Massachusetts MInutewomen",
@@ -1503,7 +1503,7 @@
       "name": "Le Moyne at Stonehill",
       "date": "2026-10-01T19:00Z",
       "state": "in",
-      "status": "36'",
+      "status": "47'",
       "teams": [
         {
           "name": "Stonehill Skyhawks",
@@ -1525,8 +1525,8 @@
       "league": "Football",
       "name": "Eastern Michigan at Ball State",
       "date": "2026-10-01T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "1'",
       "teams": [
         {
           "name": "Ball State Cardinals",
@@ -1548,8 +1548,8 @@
       "league": "Football",
       "name": "Central Michigan at Ohio",
       "date": "2026-10-01T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "1'",
       "teams": [
         {
           "name": "Ohio Bobcats",
@@ -1594,8 +1594,8 @@
       "league": "Football",
       "name": "East Carolina at Temple",
       "date": "2026-10-01T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "2'",
       "teams": [
         {
           "name": "Temple Owls",
@@ -1617,8 +1617,8 @@
       "league": "Football",
       "name": "Chattanooga at VMI",
       "date": "2026-10-01T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "5'",
       "teams": [
         {
           "name": "VMI Keydets",
