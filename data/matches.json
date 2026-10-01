@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T16:40:21.954065+00:00",
+  "updated_at": "2026-10-01T17:09:02.617848+00:00",
   "count": 100,
   "items": [
     {
@@ -8,7 +8,7 @@
       "name": "Liechtenstein at Azerbaijan",
       "date": "2026-10-01T16:00Z",
       "state": "in",
-      "status": "38'",
+      "status": "50'",
       "teams": [
         {
           "name": "Azerbaijan",
@@ -260,14 +260,14 @@
       "league": "Football",
       "name": "Internazionale at Austria Vienna",
       "date": "2026-10-01T16:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "23'",
       "teams": [
         {
           "name": "Austria Vienna",
           "short": "Vienna",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131643.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Internazionale",
@@ -283,14 +283,14 @@
       "league": "Football",
       "name": "Servette at HB Køge",
       "date": "2026-10-01T16:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "24'",
       "teams": [
         {
           "name": "HB Køge",
           "short": "HB Køge",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21127.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Servette",
@@ -537,7 +537,7 @@
       "name": "Kenya at Guinea",
       "date": "2026-10-01T16:00Z",
       "state": "in",
-      "status": "37'",
+      "status": "HT",
       "teams": [
         {
           "name": "Guinea",
@@ -836,7 +836,7 @@
       "name": "Drogheda United at Trabzonspor",
       "date": "2026-10-01T16:00Z",
       "state": "in",
-      "status": "40'",
+      "status": "51'",
       "teams": [
         {
           "name": "Trabzonspor",
@@ -927,8 +927,8 @@
       "league": "Football",
       "name": "Latvia U21 at Greece U21",
       "date": "2026-10-01T15:00Z",
-      "state": "in",
-      "status": "81'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Greece U21",
@@ -940,7 +940,7 @@
           "name": "Latvia U21",
           "short": "Latvia",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lva.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Levadia Municipal Stadium"
@@ -951,7 +951,7 @@
       "name": "Montenegro U21 at North Macedonia U21",
       "date": "2026-10-01T16:00Z",
       "state": "in",
-      "status": "40'",
+      "status": "51'",
       "teams": [
         {
           "name": "North Macedonia U21",
@@ -963,7 +963,7 @@
           "name": "Montenegro U21",
           "short": "Montenegro",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mtg.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stadion Petar Milosevski"
@@ -974,7 +974,7 @@
       "name": "Italy U21 at Armenia U21",
       "date": "2026-10-01T16:30Z",
       "state": "in",
-      "status": "10'",
+      "status": "38'",
       "teams": [
         {
           "name": "Armenia U21",
@@ -996,8 +996,8 @@
       "league": "Football",
       "name": "Lithuania U21 at Hungary U21",
       "date": "2026-10-01T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "5'",
       "teams": [
         {
           "name": "Hungary U21",
@@ -1249,8 +1249,8 @@
       "league": "Football",
       "name": "New Haven at Le Moyne",
       "date": "2026-10-01T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "5'",
       "teams": [
         {
           "name": "Le Moyne Dolphins",
@@ -1272,8 +1272,8 @@
       "league": "Football",
       "name": "Long Island University at Mercyhurst",
       "date": "2026-10-01T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "4'",
       "teams": [
         {
           "name": "Mercyhurst Lakers",
@@ -1433,8 +1433,8 @@
       "league": "Football",
       "name": "Central Connecticut at Howard",
       "date": "2026-10-01T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "3'",
       "teams": [
         {
           "name": "Howard Bison",
