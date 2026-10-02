@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T20:41:29.391650+00:00",
+  "updated_at": "2026-10-02T21:07:17.089287+00:00",
   "count": 100,
   "items": [
     {
@@ -398,8 +398,8 @@
       "league": "Football",
       "name": "Guadeloupe at St. Lucia",
       "date": "2026-10-02T19:00Z",
-      "state": "in",
-      "status": "82'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "St. Lucia",
@@ -421,8 +421,8 @@
       "league": "Football",
       "name": "Cuba at St. Kitts and Nevis",
       "date": "2026-10-02T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "7'",
       "teams": [
         {
           "name": "St. Kitts and Nevis",
@@ -605,14 +605,14 @@
       "league": "Football",
       "name": "Auchinleck Talbot at Cumnock",
       "date": "2026-10-02T18:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Cumnock",
           "short": "Cumnock",
           "logo": "",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Auchinleck Talbot",
