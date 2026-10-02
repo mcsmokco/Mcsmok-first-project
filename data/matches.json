@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T00:09:47.964039+00:00",
+  "updated_at": "2026-10-02T00:45:45.531005+00:00",
   "count": 100,
   "items": [
     {
@@ -1245,6 +1245,29 @@
       "venue": "Stade Marcel-Tribut"
     },
     {
+      "id": "401928084",
+      "league": "Football",
+      "name": "Belshina Bobruisk at Gomel",
+      "date": "2026-10-02T10:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Gomel",
+          "short": "Gomel",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2530.png",
+          "score": "0"
+        },
+        {
+          "name": "Belshina Bobruisk",
+          "short": "Belshina Bob",
+          "logo": "",
+          "score": "0"
+        }
+      ],
+      "venue": ""
+    },
+    {
       "id": "401923791",
       "league": "Football",
       "name": "BK Häcken at IF Elfsborg",
@@ -1653,6 +1676,29 @@
           "name": "Zulte-Waregem",
           "short": "Zulte-Waregem",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4691.png",
+          "score": "0"
+        }
+      ],
+      "venue": ""
+    },
+    {
+      "id": "401928048",
+      "league": "Football",
+      "name": "Dinamo Brest at Neman Grodno",
+      "date": "2026-10-02T12:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Neman Grodno",
+          "short": "Neman Grodno",
+          "logo": "",
+          "score": "0"
+        },
+        {
+          "name": "Dinamo Brest",
+          "short": "Dinamo Brest",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7833.png",
           "score": "0"
         }
       ],
@@ -2255,52 +2301,6 @@
         }
       ],
       "venue": "Stade de la Saulaie"
-    },
-    {
-      "id": "401927871",
-      "league": "Football",
-      "name": "Le Mans at Guingamp",
-      "date": "2026-10-02T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Guingamp",
-          "short": "Guingamp",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/171.png",
-          "score": "0"
-        },
-        {
-          "name": "Le Mans",
-          "short": "Le Mans",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png",
-          "score": "0"
-        }
-      ],
-      "venue": ""
-    },
-    {
-      "id": "401924463",
-      "league": "Football",
-      "name": "SG Sonnenhof Großaspach at Kaiserslautern",
-      "date": "2026-10-02T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Kaiserslautern",
-          "short": "Kaiserslautern",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/130.png",
-          "score": "0"
-        },
-        {
-          "name": "SG Sonnenhof Großaspach",
-          "short": "SG Sonnenhof",
-          "logo": "",
-          "score": "0"
-        }
-      ],
-      "venue": "Betzenberg Platz 4"
     }
   ]
 }
