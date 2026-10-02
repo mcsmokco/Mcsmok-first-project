@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T13:42:08.855710+00:00",
+  "updated_at": "2026-10-02T14:09:02.881570+00:00",
   "count": 100,
   "items": [
     {
@@ -7,8 +7,8 @@
       "league": "Football",
       "name": "Moldova at Kazakhstan",
       "date": "2026-10-02T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "Kazakhstan",
@@ -1594,8 +1594,8 @@
       "league": "Football",
       "name": "MFK Kosice at Debrecen",
       "date": "2026-10-02T11:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "Canceled",
       "teams": [
         {
           "name": "Debrecen",
@@ -1732,14 +1732,14 @@
       "league": "Football",
       "name": "Akron Tolyatti at Krylia Sovetov",
       "date": "2026-10-02T11:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Krylia Sovetov",
           "short": "Krylia",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3850.png",
-          "score": "0"
+          "score": "4"
         },
         {
           "name": "Akron Tolyatti",
@@ -1755,8 +1755,8 @@
       "league": "Football",
       "name": "Lens at Standard Liege",
       "date": "2026-10-02T11:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Standard Liege",
@@ -1768,7 +1768,7 @@
           "name": "Lens",
           "short": "Lens",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Stade François-Blin"
@@ -2052,20 +2052,20 @@
     {
       "id": "401928133",
       "league": "Football",
-      "name": "FC SELLIER & BELLOT VLAŠIM at FC SILON TÁBORSKO",
+      "name": "FC Sellier & Bellot Vla'im at FC Silon Taborsko",
       "date": "2026-10-02T13:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "FC SILON TÁBORSKO",
-          "short": "FC SILON",
+          "name": "FC Silon Taborsko",
+          "short": "FC Silon",
           "logo": "",
           "score": "0"
         },
         {
-          "name": "FC SELLIER & BELLOT VLAŠIM",
-          "short": "FC SELLIER",
+          "name": "FC Sellier & Bellot Vla'im",
+          "short": "FC Sellier",
           "logo": "",
           "score": "0"
         }
