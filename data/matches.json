@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T18:09:32.063032+00:00",
+  "updated_at": "2026-10-02T18:43:36.181961+00:00",
   "count": 100,
   "items": [
     {
@@ -783,6 +783,29 @@
         }
       ],
       "venue": "Stade Boréale"
+    },
+    {
+      "id": "401927900",
+      "league": "Football",
+      "name": "HNK Orijent at FC Koper",
+      "date": "2026-10-02T04:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "FC Koper",
+          "short": "Koper",
+          "logo": "",
+          "score": "0"
+        },
+        {
+          "name": "HNK Orijent",
+          "short": "HNK Orijent",
+          "logo": "",
+          "score": "0"
+        }
+      ],
+      "venue": ""
     },
     {
       "id": "401927448",
@@ -2278,29 +2301,6 @@
         }
       ],
       "venue": "Klaus-Roitinger-Stadion"
-    },
-    {
-      "id": "401923778",
-      "league": "Football",
-      "name": "ASK Voitsberg at Wolfsberger",
-      "date": "2026-10-02T13:30Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Wolfsberger",
-          "short": "Wolfsberger",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/13294.png",
-          "score": "2"
-        },
-        {
-          "name": "ASK Voitsberg",
-          "short": "Voitsberg",
-          "logo": "",
-          "score": "1"
-        }
-      ],
-      "venue": "Gmoan-Stadion"
     }
   ]
 }
