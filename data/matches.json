@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T07:41:02.898675+00:00",
+  "updated_at": "2026-10-02T08:08:58.226947+00:00",
   "count": 100,
   "items": [
     {
@@ -1176,6 +1176,29 @@
       "venue": "Miejski Stadion Pilkarski Raków"
     },
     {
+      "id": "401922019",
+      "league": "Football",
+      "name": "Karlsruher SC at SV Wehen Wiesbaden",
+      "date": "2026-10-02T09:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "SV Wehen Wiesbaden",
+          "short": "Wiesbaden",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3769.png",
+          "score": "0"
+        },
+        {
+          "name": "Karlsruher SC",
+          "short": "Karlsruher",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4471.png",
+          "score": "0"
+        }
+      ],
+      "venue": ""
+    },
+    {
       "id": "401922018",
       "league": "Football",
       "name": "FC Ingolstadt 04 at 1. FC Nürnberg",
@@ -2116,7 +2139,7 @@
           "score": "0"
         }
       ],
-      "venue": ""
+      "venue": "Mestsky Stadion Karvina"
     },
     {
       "id": "401923800",
@@ -2278,29 +2301,6 @@
         }
       ],
       "venue": "Stade Gaston-Gérard"
-    },
-    {
-      "id": "401920463",
-      "league": "Football",
-      "name": "Dynamo Dresden at FK Teplice",
-      "date": "2026-10-02T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "FK Teplice",
-          "short": "FK Teplice",
-          "logo": "",
-          "score": "0"
-        },
-        {
-          "name": "Dynamo Dresden",
-          "short": "D Dresden",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7017.png",
-          "score": "0"
-        }
-      ],
-      "venue": "AGC Aréna Na Stínadlech"
     }
   ]
 }
