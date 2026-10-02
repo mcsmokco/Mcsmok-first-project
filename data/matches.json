@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T10:06:51.577582+00:00",
+  "updated_at": "2026-10-02T10:40:54.085963+00:00",
   "count": 100,
   "items": [
     {
@@ -260,8 +260,8 @@
       "league": "Football",
       "name": "Palestine at China",
       "date": "2026-10-02T11:35Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "Canceled",
       "teams": [
         {
           "name": "China",
@@ -835,20 +835,20 @@
       "league": "Football",
       "name": "Ústí nad Labem at Arsenal Ceská Lípa",
       "date": "2026-10-02T08:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Arsenal Ceská Lípa",
           "short": "Ceská Lípa",
           "logo": "",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Ústí nad Labem",
           "short": "Labem",
           "logo": "",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": ""
@@ -858,20 +858,20 @@
       "league": "Football",
       "name": "CS Afumati at Petrolul Ploiesti",
       "date": "2026-10-02T08:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Petrolul Ploiesti",
           "short": "Petrolul",
           "logo": "",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "CS Afumati",
           "short": "Afumati",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": ""
@@ -1502,8 +1502,8 @@
       "league": "Football",
       "name": "Cremonese at Juventus",
       "date": "2026-10-02T10:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "Juventus",
@@ -1703,6 +1703,29 @@
         }
       ],
       "venue": ""
+    },
+    {
+      "id": "401928123",
+      "league": "Football",
+      "name": "Lens at Standard Liege",
+      "date": "2026-10-02T11:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Standard Liege",
+          "short": "Standard Liege",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/559.png",
+          "score": "0"
+        },
+        {
+          "name": "Lens",
+          "short": "Lens",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Stade François-Blin"
     },
     {
       "id": "401927911",
@@ -2278,29 +2301,6 @@
         }
       ],
       "venue": "Werner-Seelenbinder-Stadion"
-    },
-    {
-      "id": "401927423",
-      "league": "Football",
-      "name": "Galatasaray at Pendikspor",
-      "date": "2026-10-02T14:30Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Pendikspor",
-          "short": "Pendikspor",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9104.png",
-          "score": "0"
-        },
-        {
-          "name": "Galatasaray",
-          "short": "Galatasaray",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Siltas Yapi Pendik Stadium"
     }
   ]
 }
