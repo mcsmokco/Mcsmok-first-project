@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T15:42:31.386100+00:00",
+  "updated_at": "2026-10-02T16:08:57.226228+00:00",
   "count": 100,
   "items": [
     {
@@ -7,8 +7,8 @@
       "league": "Football",
       "name": "Moldova at Kazakhstan",
       "date": "2026-10-02T14:00Z",
-      "state": "in",
-      "status": "84'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Kazakhstan",
@@ -30,8 +30,8 @@
       "league": "Football",
       "name": "Armenia at Cyprus",
       "date": "2026-10-02T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "6'",
       "teams": [
         {
           "name": "Cyprus",
@@ -53,8 +53,8 @@
       "league": "Football",
       "name": "Montenegro at Latvia",
       "date": "2026-10-02T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "7'",
       "teams": [
         {
           "name": "Latvia",
@@ -66,7 +66,7 @@
           "name": "Montenegro",
           "short": "Montenegro",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mtg.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Skonto Stadions"
@@ -2238,20 +2238,20 @@
       "league": "Football",
       "name": "ASK Voitsberg at Wolfsberger",
       "date": "2026-10-02T13:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Wolfsberger",
           "short": "Wolfsberger",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/13294.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "ASK Voitsberg",
           "short": "Voitsberg",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Gmoan-Stadion"
