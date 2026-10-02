@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T07:09:07.303504+00:00",
+  "updated_at": "2026-10-02T07:41:02.898675+00:00",
   "count": 100,
   "items": [
     {
@@ -1544,29 +1544,6 @@
       "venue": ""
     },
     {
-      "id": "401924523",
-      "league": "Football",
-      "name": "NK Bravo at HNK Gorica",
-      "date": "2026-10-02T11:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "HNK Gorica",
-          "short": "HNK Gorica",
-          "logo": "",
-          "score": "0"
-        },
-        {
-          "name": "NK Bravo",
-          "short": "Bravo",
-          "logo": "",
-          "score": "0"
-        }
-      ],
-      "venue": ""
-    },
-    {
       "id": "401927430",
       "league": "Football",
       "name": "Odense Boldklub at Kolding FC",
@@ -1956,6 +1933,29 @@
         }
       ],
       "venue": "Stadio Benito Stirpe"
+    },
+    {
+      "id": "401924523",
+      "league": "Football",
+      "name": "NK Bravo at HNK Gorica",
+      "date": "2026-10-02T13:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "HNK Gorica",
+          "short": "HNK Gorica",
+          "logo": "",
+          "score": "0"
+        },
+        {
+          "name": "NK Bravo",
+          "short": "Bravo",
+          "logo": "",
+          "score": "0"
+        }
+      ],
+      "venue": ""
     },
     {
       "id": "401927426",
