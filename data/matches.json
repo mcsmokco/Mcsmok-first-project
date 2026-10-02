@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T02:08:11.324844+00:00",
+  "updated_at": "2026-10-02T02:40:38.074954+00:00",
   "count": 100,
   "items": [
     {
@@ -553,6 +553,29 @@
         }
       ],
       "venue": "Estadio Cuscatlán"
+    },
+    {
+      "id": "401928085",
+      "league": "Football",
+      "name": "Vanuatu at Papua New Guinea",
+      "date": "2026-10-03T00:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Papua New Guinea",
+          "short": "Papua New Guinea",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/png.png",
+          "score": "0"
+        },
+        {
+          "name": "Vanuatu",
+          "short": "Vanuatu",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/van.png",
+          "score": "0"
+        }
+      ],
+      "venue": "HFC Bank Stadium"
     },
     {
       "id": "401878630",
@@ -2278,29 +2301,6 @@
         }
       ],
       "venue": "AGC Aréna Na Stínadlech"
-    },
-    {
-      "id": "401926233",
-      "league": "Football",
-      "name": "FC Stade Lausanne-Ouchy at Grenoble",
-      "date": "2026-10-02T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Grenoble",
-          "short": "Grenoble",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6994.png",
-          "score": "0"
-        },
-        {
-          "name": "FC Stade Lausanne-Ouchy",
-          "short": "Lausanne-Ouchy",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21926.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Stade de la Saulaie"
     }
   ]
 }
