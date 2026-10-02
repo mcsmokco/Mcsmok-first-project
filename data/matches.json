@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T09:41:41.004641+00:00",
+  "updated_at": "2026-10-02T10:06:51.577582+00:00",
   "count": 100,
   "items": [
     {
@@ -233,29 +233,6 @@
       "venue": "City Arena - Stadión Antona Malatinského"
     },
     {
-      "id": "401918509",
-      "league": "Football",
-      "name": "Uganda at Congo DR",
-      "date": "2026-10-02T11:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Congo DR",
-          "short": "Congo DR",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rdc.png",
-          "score": "0"
-        },
-        {
-          "name": "Uganda",
-          "short": "Uganda",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uga.png",
-          "score": "0"
-        }
-      ],
-      "venue": ""
-    },
-    {
       "id": "401902634",
       "league": "Football",
       "name": "Venezuela at South Korea",
@@ -300,6 +277,29 @@
         }
       ],
       "venue": "Chongqing Longxing Football Stadium"
+    },
+    {
+      "id": "401918509",
+      "league": "Football",
+      "name": "Uganda at Congo DR",
+      "date": "2026-10-02T13:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Congo DR",
+          "short": "Congo DR",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rdc.png",
+          "score": "0"
+        },
+        {
+          "name": "Uganda",
+          "short": "Uganda",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uga.png",
+          "score": "0"
+        }
+      ],
+      "venue": ""
     },
     {
       "id": "401923178",
@@ -812,14 +812,14 @@
       "league": "Football",
       "name": "Arda at Lokomotiv Plovdiv",
       "date": "2026-10-02T08:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Lokomotiv Plovdiv",
           "short": "Lokomotiv Pl",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2952.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Arda",
@@ -921,6 +921,29 @@
         }
       ],
       "venue": "DATENPOL ARENA"
+    },
+    {
+      "id": "401928129",
+      "league": "Football",
+      "name": "Kladno at FC Hradec Králové",
+      "date": "2026-10-02T09:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "FC Hradec Králové",
+          "short": "Hradec Králové",
+          "logo": "",
+          "score": "0"
+        },
+        {
+          "name": "Kladno",
+          "short": "Kladno",
+          "logo": "",
+          "score": "0"
+        }
+      ],
+      "venue": "Malsovická Aréna"
     },
     {
       "id": "401926298",
@@ -1519,6 +1542,29 @@
         }
       ],
       "venue": "Voith-Arena"
+    },
+    {
+      "id": "401927861",
+      "league": "Football",
+      "name": "Servette at Annecy",
+      "date": "2026-10-02T11:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Annecy",
+          "short": "Annecy",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18066.png",
+          "score": "0"
+        },
+        {
+          "name": "Servette",
+          "short": "Servette",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20032.png",
+          "score": "0"
+        }
+      ],
+      "venue": ""
     },
     {
       "id": "401926843",
@@ -2255,52 +2301,6 @@
         }
       ],
       "venue": "Siltas Yapi Pendik Stadium"
-    },
-    {
-      "id": "401926844",
-      "league": "Football",
-      "name": "NK Jadran Luka Polc\fe at Zrinjski Mostar",
-      "date": "2026-10-02T14:30Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Zrinjski Mostar",
-          "short": "Zrinjski",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5239.png",
-          "score": "0"
-        },
-        {
-          "name": "NK Jadran Luka Polc\fe",
-          "short": "JADRAN",
-          "logo": "",
-          "score": "0"
-        }
-      ],
-      "venue": ""
-    },
-    {
-      "id": "401923756",
-      "league": "Football",
-      "name": "FC Blau-Weiß Linz at RB Salzburg",
-      "date": "2026-10-02T15:30Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "RB Salzburg",
-          "short": "RB Salzburg",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2790.png",
-          "score": "0"
-        },
-        {
-          "name": "FC Blau-Weiß Linz",
-          "short": "BW Linz",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21950.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Kulmlandstadion SV Pischelsdorf"
     }
   ]
 }
