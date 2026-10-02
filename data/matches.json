@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T09:08:33.969038+00:00",
+  "updated_at": "2026-10-02T09:41:41.004641+00:00",
   "count": 100,
   "items": [
     {
@@ -1636,6 +1636,29 @@
       "venue": ""
     },
     {
+      "id": "401928128",
+      "league": "Football",
+      "name": "Akron Tolyatti at Krylia Sovetov",
+      "date": "2026-10-02T11:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Krylia Sovetov",
+          "short": "Krylia",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3850.png",
+          "score": "0"
+        },
+        {
+          "name": "Akron Tolyatti",
+          "short": "Akron Tolyatti",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22271.png",
+          "score": "0"
+        }
+      ],
+      "venue": ""
+    },
+    {
       "id": "401927911",
       "league": "Football",
       "name": "Stade de Reims at Anderlecht",
@@ -2278,29 +2301,6 @@
         }
       ],
       "venue": "Kulmlandstadion SV Pischelsdorf"
-    },
-    {
-      "id": "401927898",
-      "league": "Football",
-      "name": "Troyes at Dijon FCO",
-      "date": "2026-10-02T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Dijon FCO",
-          "short": "Dijon FCO",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3170.png",
-          "score": "0"
-        },
-        {
-          "name": "Troyes",
-          "short": "Troyes",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Stade Gaston-Gérard"
     }
   ]
 }
