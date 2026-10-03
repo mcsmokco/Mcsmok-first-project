@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T10:53:04.624597+00:00",
+  "updated_at": "2026-10-03T12:02:12.699058+00:00",
   "count": 100,
   "items": [
     {
@@ -651,14 +651,14 @@
       "league": "Football",
       "name": "Alavés at Espanyol",
       "date": "2026-10-03T10:00Z",
-      "state": "in",
-      "status": "HT",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Espanyol",
           "short": "Espanyol",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21154.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Alavés",
@@ -675,19 +675,19 @@
       "name": "FC Badalona at Sevilla",
       "date": "2026-10-03T10:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "90'+13'",
       "teams": [
         {
           "name": "Sevilla",
           "short": "Sevilla",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21424.png",
-          "score": "1"
+          "score": "3"
         },
         {
           "name": "FC Badalona",
           "short": "Badalona",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21149.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Estadio Jesús Navas"
@@ -2123,14 +2123,14 @@
       "league": "Football",
       "name": "FC Baltika Kaliningrad at Rubin Kazan",
       "date": "2026-10-03T06:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Rubin Kazan",
           "short": " Rubin Kazan",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3851.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "FC Baltika Kaliningrad",
@@ -2146,8 +2146,8 @@
       "league": "Football",
       "name": "Dempo Sports Club at FC Goa",
       "date": "2026-10-03T06:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "FC Goa",
@@ -2159,7 +2159,7 @@
           "name": "Dempo Sports Club",
           "short": "Dempo SC",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Ella Ground"
@@ -2192,14 +2192,14 @@
       "league": "Football",
       "name": "Petrolul Ploiesti at Chindia Targoviste",
       "date": "2026-10-03T08:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Chindia Targoviste",
           "short": "Chindia",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Petrolul Ploiesti",
@@ -2215,8 +2215,8 @@
       "league": "Football",
       "name": "CSM Slatina at FC Arges",
       "date": "2026-10-03T08:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "FC Arges",
@@ -2238,14 +2238,14 @@
       "league": "Football",
       "name": "Gazovik Orenburg at Lokomotiv Moscow",
       "date": "2026-10-03T08:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Lokomotiv Moscow",
           "short": "Lokomotiv",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/442.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Gazovik Orenburg",
@@ -2261,20 +2261,20 @@
       "league": "Football",
       "name": "Bacau at Otelul Galati",
       "date": "2026-10-03T08:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Otelul Galati",
           "short": "Otelul Galat",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2942.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Bacau",
           "short": "Bacau",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stadionul Otelul"
@@ -2284,20 +2284,20 @@
       "league": "Football",
       "name": "Botev Vratsa at Slavia Sofia",
       "date": "2026-10-03T08:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Slavia Sofia",
           "short": "Slavia Sofia",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6216.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Botev Vratsa",
           "short": "Botev Vratsa",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": ""
