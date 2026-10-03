@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T16:16:26.620447+00:00",
+  "updated_at": "2026-10-03T20:10:16.111482+00:00",
   "count": 100,
   "items": [
     {
@@ -30,14 +30,14 @@
       "league": "Football",
       "name": "San Marino at Belarus",
       "date": "2026-10-03T16:00Z",
-      "state": "in",
-      "status": "16'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Belarus",
           "short": "Belarus",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/blr.png",
-          "score": "0"
+          "score": "4"
         },
         {
           "name": "San Marino",
@@ -53,8 +53,8 @@
       "league": "Football",
       "name": "England at Croatia",
       "date": "2026-10-03T16:00Z",
-      "state": "in",
-      "status": "14'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Croatia",
@@ -66,7 +66,7 @@
           "name": "England",
           "short": "England",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
-          "score": "1"
+          "score": "7"
         }
       ],
       "venue": "Stadion HNK Rijeka"
@@ -76,8 +76,8 @@
       "league": "Football",
       "name": "Luxembourg at Estonia",
       "date": "2026-10-03T16:00Z",
-      "state": "in",
-      "status": "15'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Estonia",
@@ -99,14 +99,14 @@
       "league": "Football",
       "name": "Bulgaria at Iceland",
       "date": "2026-10-03T16:00Z",
-      "state": "in",
-      "status": "16'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Iceland",
           "short": "Iceland",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/isl.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Bulgaria",
@@ -122,8 +122,8 @@
       "league": "Football",
       "name": "Scotland at North Macedonia",
       "date": "2026-10-03T18:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "45'+39'",
       "teams": [
         {
           "name": "North Macedonia",
@@ -135,7 +135,7 @@
           "name": "Scotland",
           "short": "Scotland",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Toše Proeski Arena"
@@ -145,14 +145,14 @@
       "league": "Football",
       "name": "Czechia at Spain",
       "date": "2026-10-03T18:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "66'",
       "teams": [
         {
           "name": "Spain",
           "short": "Spain",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Czechia",
@@ -168,20 +168,20 @@
       "league": "Football",
       "name": "Slovenia at Switzerland",
       "date": "2026-10-03T18:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "66'",
       "teams": [
         {
           "name": "Switzerland",
           "short": "Switzerland",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Slovenia",
           "short": "Slovenia",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/svn.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Swissporarena"
@@ -260,14 +260,14 @@
       "league": "Football",
       "name": "Namibia at Russia",
       "date": "2026-10-03T15:40Z",
-      "state": "in",
-      "status": "32'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Russia",
           "short": "Russia",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rus.png",
-          "score": "0"
+          "score": "6"
         },
         {
           "name": "Namibia",
@@ -283,14 +283,14 @@
       "league": "Football",
       "name": "Peru at Canada",
       "date": "2026-10-03T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Canada",
           "short": "Canada",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/can.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Peru",
@@ -306,8 +306,8 @@
       "league": "Football",
       "name": "Cameroon at Ivory Coast",
       "date": "2026-10-03T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "51'",
       "teams": [
         {
           "name": "Ivory Coast",
@@ -319,7 +319,7 @@
           "name": "Cameroon",
           "short": "Cameroon",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/crm.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stade Alassane Quattara"
@@ -329,8 +329,8 @@
       "league": "Football",
       "name": "Mali at Tunisia",
       "date": "2026-10-03T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "Canceled",
       "teams": [
         {
           "name": "Tunisia",
@@ -398,8 +398,8 @@
       "league": "Football",
       "name": "Utah Royals at Racing Louisville FC",
       "date": "2026-10-03T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "6'",
       "teams": [
         {
           "name": "Racing Louisville FC",
@@ -467,20 +467,20 @@
       "league": "Football",
       "name": "Atlético Calatayud at CD Baztán",
       "date": "2026-10-03T15:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "CD Baztán",
           "short": "Baztán",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Atlético Calatayud",
           "short": "Calatayud",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Paraje Gilxaurdi"
@@ -490,43 +490,43 @@
       "league": "Football",
       "name": "Anaitasuna at CD Tedeón",
       "date": "2026-10-03T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "CD Tedeón",
           "short": "Tedeon",
           "logo": "",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Anaitasuna",
           "short": "Anaitasuna",
           "logo": "",
-          "score": "0"
+          "score": "5"
         }
       ],
-      "venue": ""
+      "venue": "Estadio San Miguel"
     },
     {
       "id": "401918760",
       "league": "Football",
       "name": "UB Lebrijana at Ceuta 6 de Junio",
       "date": "2026-10-03T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Ceuta 6 de Junio",
           "short": "Ceuta 6",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "UB Lebrijana",
           "short": "Lebrijana",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Estadio José Martínez"
@@ -536,8 +536,8 @@
       "league": "Football",
       "name": "Atlético Pinatarense at Atlético Melilla",
       "date": "2026-10-03T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "Postponed",
       "teams": [
         {
           "name": "Atlético Melilla",
@@ -720,20 +720,20 @@
       "league": "Football",
       "name": "Athletic Club at Madrid CFF",
       "date": "2026-10-03T16:00Z",
-      "state": "in",
-      "status": "16'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Madrid CFF",
           "short": "Madrid CFF",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21425.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Athletic Club",
           "short": "Athletic ",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21372.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Estadio Fernando Torres"
@@ -743,14 +743,14 @@
       "league": "Football",
       "name": "Saint-Malo at Le Havre AC",
       "date": "2026-10-03T16:00Z",
-      "state": "in",
-      "status": "16'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Le Havre AC",
           "short": "Le Havre AC",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21635.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Saint-Malo",
@@ -766,14 +766,14 @@
       "league": "Football",
       "name": "Toulouse at OL Lyonnes",
       "date": "2026-10-03T16:00Z",
-      "state": "in",
-      "status": "15'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "OL Lyonnes",
           "short": "Lyonnes",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19256.png",
-          "score": "1"
+          "score": "5"
         },
         {
           "name": "Toulouse",
@@ -789,20 +789,20 @@
       "league": "Football",
       "name": "Montpellier at Nantes",
       "date": "2026-10-03T16:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Nantes",
           "short": "Nantes",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Montpellier",
           "short": "Montpellier",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21638.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stade de la Beaujoire"
@@ -812,20 +812,20 @@
       "league": "Football",
       "name": "Marseille at Strasbourg",
       "date": "2026-10-03T16:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Strasbourg",
           "short": "Strasbourg",
           "logo": "",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Marseille",
           "short": "Marseille",
           "logo": "",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Stade de la Meinau"
@@ -835,14 +835,14 @@
       "league": "Football",
       "name": "Lens at Paris FC",
       "date": "2026-10-03T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "51'",
       "teams": [
         {
           "name": "Paris FC",
           "short": "Paris FC",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21640.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Lens",
@@ -904,20 +904,20 @@
       "league": "Football",
       "name": "Irvine Meadow XI at Bo'ness United",
       "date": "2026-10-03T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "AET",
       "teams": [
         {
           "name": "Bo'ness United",
           "short": "Bo'ness",
           "logo": "",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Irvine Meadow XI",
           "short": "Irvine Meadow",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Newtown Park"
@@ -927,14 +927,14 @@
       "league": "Football",
       "name": "East Stirlingshire at Bonnyton Thistle",
       "date": "2026-10-03T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Bonnyton Thistle",
           "short": "Bonnyton Thistle",
           "logo": "",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "East Stirlingshire",
@@ -950,20 +950,20 @@
       "league": "Football",
       "name": "Buckie Thistle at Brechin City",
       "date": "2026-10-03T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT-Pens",
       "teams": [
         {
           "name": "Brechin City",
           "short": "Brechin",
           "logo": "",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Buckie Thistle",
           "short": "Buckie Thistle",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "The Carnegie Fuels Stadium at Glebe Park"
@@ -1019,14 +1019,14 @@
       "league": "Football",
       "name": "Bonnyrigg Rose at Clachnacuddin",
       "date": "2026-10-03T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Clachnacuddin",
           "short": "Clachnacuddin",
           "logo": "",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Bonnyrigg Rose",
@@ -1203,20 +1203,20 @@
       "league": "Football",
       "name": "Stonehaven at Keith",
       "date": "2026-10-03T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Keith",
           "short": "Keith",
           "logo": "",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Stonehaven",
           "short": "Stonehaven",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Kynoch Park"
@@ -1226,20 +1226,20 @@
       "league": "Football",
       "name": "Banks O'Dee at Kirkintilloch Rob Roy",
       "date": "2026-10-03T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT-Pens",
       "teams": [
         {
           "name": "Kirkintilloch Rob Roy",
           "short": "Kirkintilloch",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Banks O'Dee",
           "short": "Banks O'Dee",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Kirkintilloch Community Sports Complex"
@@ -1249,8 +1249,8 @@
       "league": "Football",
       "name": "Clydebank at Linlithgow Rose",
       "date": "2026-10-03T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Linlithgow Rose",
@@ -1262,7 +1262,7 @@
           "name": "Clydebank",
           "short": "Clydebank",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Prestonfield"
@@ -1318,8 +1318,8 @@
       "league": "Football",
       "name": "Gretna 2008 at Nairn County",
       "date": "2026-10-03T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Nairn County",
@@ -1331,7 +1331,7 @@
           "name": "Gretna 2008",
           "short": "Gretna 2008",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Station Park (Nairn)"
@@ -1341,20 +1341,20 @@
       "league": "Football",
       "name": "Johnstone Burgh FC at Newton Stewart",
       "date": "2026-10-03T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "AET",
       "teams": [
         {
           "name": "Newton Stewart",
           "short": "Newton Stewa",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Johnstone Burgh FC",
           "short": "Johnstone Burgh",
           "logo": "",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Blairmount Park"
@@ -1479,14 +1479,14 @@
       "league": "Football",
       "name": "Wick Academy at Tayport",
       "date": "2026-10-03T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Tayport",
           "short": "Tayport",
           "logo": "",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Wick Academy",
@@ -1502,20 +1502,20 @@
       "league": "Football",
       "name": "Turriff United at Tranent Juniors",
       "date": "2026-10-03T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "AET",
       "teams": [
         {
           "name": "Tranent Juniors",
           "short": "Tranent",
           "logo": "",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Turriff United",
           "short": "Turriff Utd",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Foresters Park"
@@ -1732,14 +1732,14 @@
       "league": "Football",
       "name": "Greenville Triumph at Athletic Club Boise",
       "date": "2026-10-03T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "HT",
       "teams": [
         {
           "name": "Athletic Club Boise",
           "short": "Boise",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131581.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Greenville Triumph",
@@ -2077,8 +2077,8 @@
       "league": "Football",
       "name": "Calgary Wild FC at Halifax Tides FC",
       "date": "2026-10-03T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Halifax Tides FC",
