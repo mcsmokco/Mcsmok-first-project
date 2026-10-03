@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T08:07:43.672615+00:00",
+  "updated_at": "2026-10-03T08:43:49.178318+00:00",
   "count": 100,
   "items": [
     {
@@ -2100,20 +2100,20 @@
       "league": "Football",
       "name": "Adelaide United at Perth Glory",
       "date": "2026-10-03T06:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Perth Glory",
           "short": "Perth Glory",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5322.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Adelaide United",
           "short": "Adelaide Utd",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5321.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Henry Street Oval"
