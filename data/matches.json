@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T09:40:08.543821+00:00",
+  "updated_at": "2026-10-03T10:06:18.944058+00:00",
   "count": 100,
   "items": [
     {
@@ -651,8 +651,8 @@
       "league": "Football",
       "name": "Alavés at Espanyol",
       "date": "2026-10-03T10:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "6'",
       "teams": [
         {
           "name": "Espanyol",
@@ -674,8 +674,8 @@
       "league": "Football",
       "name": "FC Badalona at Sevilla",
       "date": "2026-10-03T10:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "6'",
       "teams": [
         {
           "name": "Sevilla",
@@ -2169,8 +2169,8 @@
       "league": "Football",
       "name": "Ararat-Armenia at Ararat Yerevan",
       "date": "2026-10-03T07:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Ararat Yerevan",
@@ -2182,7 +2182,7 @@
           "name": "Ararat-Armenia",
           "short": "Ararat-Armenia",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20024.png",
-          "score": "0"
+          "score": "4"
         }
       ],
       "venue": "Sports Complex Dzoraghbyur"
