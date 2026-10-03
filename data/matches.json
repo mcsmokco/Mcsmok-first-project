@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T07:12:40.396149+00:00",
+  "updated_at": "2026-10-03T07:42:15.220907+00:00",
   "count": 100,
   "items": [
     {
@@ -2119,6 +2119,29 @@
       "venue": "Henry Street Oval"
     },
     {
+      "id": "401928229",
+      "league": "Football",
+      "name": "FC Baltika Kaliningrad at Rubin Kazan",
+      "date": "2026-10-03T06:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Rubin Kazan",
+          "short": " Rubin Kazan",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3851.png",
+          "score": "0"
+        },
+        {
+          "name": "FC Baltika Kaliningrad",
+          "short": "Baltika",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21949.png",
+          "score": "0"
+        }
+      ],
+      "venue": ""
+    },
+    {
       "id": "401923499",
       "league": "Football",
       "name": "Dempo Sports Club at FC Goa",
@@ -2273,29 +2296,6 @@
         {
           "name": "Botev Vratsa",
           "short": "Botev Vratsa",
-          "logo": "",
-          "score": "0"
-        }
-      ],
-      "venue": ""
-    },
-    {
-      "id": "401927454",
-      "league": "Football",
-      "name": "Lumezzane at Internazionale",
-      "date": "2026-10-03T09:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Internazionale",
-          "short": "Inter Milan",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-          "score": "0"
-        },
-        {
-          "name": "Lumezzane",
-          "short": "Lumezzane",
           "logo": "",
           "score": "0"
         }
