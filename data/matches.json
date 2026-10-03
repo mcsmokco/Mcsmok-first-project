@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T01:39:58.973557+00:00",
+  "updated_at": "2026-10-03T02:06:12.164669+00:00",
   "count": 100,
   "items": [
     {
@@ -210,6 +210,29 @@
       "venue": "HFC Bank Stadium"
     },
     {
+      "id": "401912238",
+      "league": "Football",
+      "name": "Djibouti at Sri Lanka",
+      "date": "2026-10-03T04:00Z",
+      "state": "post",
+      "status": "Canceled",
+      "teams": [
+        {
+          "name": "Sri Lanka",
+          "short": "Sri Lanka",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sri.png",
+          "score": "0"
+        },
+        {
+          "name": "Djibouti",
+          "short": "Djibouti",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/dji.png",
+          "score": "0"
+        }
+      ],
+      "venue": ""
+    },
+    {
       "id": "401903233",
       "league": "Football",
       "name": "Brazil at India",
@@ -277,29 +300,6 @@
         }
       ],
       "venue": "Stade Saputo"
-    },
-    {
-      "id": "401912238",
-      "league": "Football",
-      "name": "Djibouti at Sri Lanka",
-      "date": "2026-10-03T18:00Z",
-      "state": "pre",
-      "status": "TBD",
-      "teams": [
-        {
-          "name": "Sri Lanka",
-          "short": "Sri Lanka",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sri.png",
-          "score": "0"
-        },
-        {
-          "name": "Djibouti",
-          "short": "Djibouti",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/dji.png",
-          "score": "0"
-        }
-      ],
-      "venue": ""
     },
     {
       "id": "401917861",
