@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T21:07:58.303463+00:00",
+  "updated_at": "2026-10-04T21:47:09.841351+00:00",
   "count": 100,
   "items": [
     {
@@ -330,7 +330,7 @@
       "name": "Denver Summit FC at Chicago Stars FC",
       "date": "2026-10-04T20:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "80'",
       "teams": [
         {
           "name": "Chicago Stars FC",
@@ -342,7 +342,7 @@
           "name": "Denver Summit FC",
           "short": "Denver",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131563.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "Northwestern Medicine Field at Martin Stadium"
@@ -698,19 +698,19 @@
       "name": "US Virgin Islands at Bahamas",
       "date": "2026-10-04T20:00Z",
       "state": "in",
-      "status": "49'",
+      "status": "88'",
       "teams": [
         {
           "name": "Bahamas",
           "short": "Bahamas",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bah.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "US Virgin Islands",
           "short": "US Virgin Isl",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/vir.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "Bethlehem Soccer Stadium"
@@ -721,7 +721,7 @@
       "name": "British Virgin Islands at Turks and Caicos Islands",
       "date": "2026-10-04T20:00Z",
       "state": "in",
-      "status": "50'",
+      "status": "88'",
       "teams": [
         {
           "name": "Turks and Caicos Islands",
@@ -858,14 +858,14 @@
       "league": "Football",
       "name": "Lexington SC at Tampa Bay Sun FC",
       "date": "2026-10-04T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "38'",
       "teams": [
         {
           "name": "Tampa Bay Sun FC",
           "short": "Tampa Bay",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131455.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Lexington SC",
@@ -1710,7 +1710,7 @@
       "name": "Belgrano (Córdoba) at Talleres (Córdoba)",
       "date": "2026-10-04T20:00Z",
       "state": "in",
-      "status": "49'",
+      "status": "88'",
       "teams": [
         {
           "name": "Talleres (Córdoba)",
@@ -1722,7 +1722,7 @@
           "name": "Belgrano (Córdoba)",
           "short": "Belgrano ",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Mario Alberto Kempes"
@@ -1847,8 +1847,8 @@
       "league": "Football",
       "name": "Racing (Córdoba) at Central Norte",
       "date": "2026-10-04T19:30Z",
-      "state": "in",
-      "status": "76'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Central Norte",
@@ -1860,7 +1860,7 @@
           "name": "Racing (Córdoba)",
           "short": "Racing (Córdoba)",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19145.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Padre Ernesto Martearena"
@@ -1871,7 +1871,7 @@
       "name": "Colegiales at Güemes",
       "date": "2026-10-04T20:00Z",
       "state": "in",
-      "status": "47'",
+      "status": "86'",
       "teams": [
         {
           "name": "Güemes",
@@ -1883,7 +1883,7 @@
           "name": "Colegiales",
           "short": "Colegiales",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10149.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Arturo Miranda"
@@ -1894,19 +1894,19 @@
       "name": "Almagro at San Martín (San Juan)",
       "date": "2026-10-04T20:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "80'",
       "teams": [
         {
           "name": "San Martín (San Juan)",
           "short": "San Martín SJ",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7845.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Almagro",
           "short": "Almagro ",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Estadio Ingeniero Hilario Sánchez"
@@ -1917,13 +1917,13 @@
       "name": "Defensores de Belgrano at Chaco For Ever",
       "date": "2026-10-04T20:20Z",
       "state": "in",
-      "status": "44'",
+      "status": "60'",
       "teams": [
         {
           "name": "Chaco For Ever",
           "short": "Chaco",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11963.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Defensores de Belgrano",
@@ -1940,7 +1940,7 @@
       "name": "Atlanta at Atletico Rafaela",
       "date": "2026-10-04T20:30Z",
       "state": "in",
-      "status": "35'",
+      "status": "57'",
       "teams": [
         {
           "name": "Atletico Rafaela",
@@ -1952,7 +1952,7 @@
           "name": "Atlanta",
           "short": "Atlanta",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10146.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Estadio Nuevo Monumental"
@@ -1963,7 +1963,7 @@
       "name": "Los Andes at Godoy Cruz Antonio Tomba",
       "date": "2026-10-04T21:00Z",
       "state": "in",
-      "status": "2'",
+      "status": "41'",
       "teams": [
         {
           "name": "Godoy Cruz Antonio Tomba",
@@ -1985,8 +1985,8 @@
       "league": "Football",
       "name": "Gimnasia y Tiro (Salta) at San Martín (Tucumán)",
       "date": "2026-10-04T21:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "13'",
       "teams": [
         {
           "name": "San Martín (Tucumán)",
@@ -2193,13 +2193,13 @@
       "name": "Deportivo Pereira at Cúcuta Deportivo",
       "date": "2026-10-04T21:05Z",
       "state": "in",
-      "status": "2'",
+      "status": "41'",
       "teams": [
         {
           "name": "Cúcuta Deportivo",
           "short": "Cúcuta",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6101.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Deportivo Pereira",
@@ -2216,19 +2216,19 @@
       "name": "Once Caldas at Internacional de Bogotá",
       "date": "2026-10-04T21:05Z",
       "state": "in",
-      "status": "3'",
+      "status": "42'",
       "teams": [
         {
           "name": "Internacional de Bogotá",
           "short": "Inter Bogotá",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7445.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Once Caldas",
           "short": "Once Caldas",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2919.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Metropolitano de Techo"
