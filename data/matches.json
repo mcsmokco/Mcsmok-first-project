@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T23:05:52.674232+00:00",
+  "updated_at": "2026-10-04T23:39:35.636150+00:00",
   "count": 100,
   "items": [
     {
@@ -352,8 +352,8 @@
       "league": "Football",
       "name": "Washington Spirit at Houston Dash",
       "date": "2026-10-04T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "30'",
       "teams": [
         {
           "name": "Houston Dash",
@@ -365,7 +365,7 @@
           "name": "Washington Spirit",
           "short": "Washington",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15365.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Shell Energy Stadium"
@@ -744,13 +744,13 @@
       "name": "Cayman Islands at Puerto Rico",
       "date": "2026-10-04T22:00Z",
       "state": "in",
-      "status": "48'",
+      "status": "81'",
       "teams": [
         {
           "name": "Puerto Rico",
           "short": "Puerto Rico",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11766.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Cayman Islands",
@@ -767,7 +767,7 @@
       "name": "Curaçao at Trinidad and Tobago",
       "date": "2026-10-04T22:00Z",
       "state": "in",
-      "status": "48'",
+      "status": "81'",
       "teams": [
         {
           "name": "Trinidad and Tobago",
@@ -779,7 +779,7 @@
           "name": "Curaçao",
           "short": "Curaçao",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11678.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Hasely Crawford Stadium"
@@ -790,13 +790,13 @@
       "name": "Anguilla at Aruba",
       "date": "2026-10-04T23:00Z",
       "state": "in",
-      "status": "6'",
+      "status": "40'",
       "teams": [
         {
           "name": "Aruba",
           "short": "Aruba",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aru.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Anguilla",
@@ -858,8 +858,8 @@
       "league": "Football",
       "name": "Lexington SC at Tampa Bay Sun FC",
       "date": "2026-10-04T21:00Z",
-      "state": "in",
-      "status": "90'+6'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Tampa Bay Sun FC",
@@ -997,7 +997,7 @@
       "name": "Phoenix Rising FC at New Mexico United",
       "date": "2026-10-04T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "75'",
       "teams": [
         {
           "name": "New Mexico United",
@@ -1009,7 +1009,7 @@
           "name": "Phoenix Rising FC",
           "short": "Phoenix",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17850.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Isotopes Park"
@@ -1066,7 +1066,7 @@
       "name": "FC Juárez at Guadalajara",
       "date": "2026-10-04T23:00Z",
       "state": "in",
-      "status": "4'",
+      "status": "38'",
       "teams": [
         {
           "name": "Guadalajara",
@@ -1733,7 +1733,7 @@
       "name": "Tigre at Argentinos Juniors",
       "date": "2026-10-04T22:15Z",
       "state": "in",
-      "status": "45'+6'",
+      "status": "62'",
       "teams": [
         {
           "name": "Argentinos Juniors",
@@ -1745,7 +1745,7 @@
           "name": "Tigre",
           "short": "Tigre",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7767.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Diego Armando Maradona"
@@ -1985,8 +1985,8 @@
       "league": "Football",
       "name": "Gimnasia y Tiro (Salta) at San Martín (Tucumán)",
       "date": "2026-10-04T21:30Z",
-      "state": "in",
-      "status": "72'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "San Martín (Tucumán)",
@@ -2147,7 +2147,7 @@
       "name": "Peñarol at Racing (Montevideo)",
       "date": "2026-10-04T22:30Z",
       "state": "in",
-      "status": "28'",
+      "status": "HT",
       "teams": [
         {
           "name": "Racing (Montevideo)",
@@ -2238,20 +2238,20 @@
       "league": "Football",
       "name": "Atlético Junior at Atlético Bucaramanga",
       "date": "2026-10-04T23:10Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "29'",
       "teams": [
         {
           "name": "Atlético Bucaramanga",
           "short": "Bucaramanga",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6137.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Atlético Junior",
           "short": "Atl. Junior",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4815.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Estadio Alfonso López"
