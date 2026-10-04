@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T22:07:53.493541+00:00",
+  "updated_at": "2026-10-04T22:39:33.024768+00:00",
   "count": 100,
   "items": [
     {
@@ -744,7 +744,7 @@
       "name": "Cayman Islands at Puerto Rico",
       "date": "2026-10-04T22:00Z",
       "state": "in",
-      "status": "7'",
+      "status": "39'",
       "teams": [
         {
           "name": "Puerto Rico",
@@ -767,7 +767,7 @@
       "name": "Curaçao at Trinidad and Tobago",
       "date": "2026-10-04T22:00Z",
       "state": "in",
-      "status": "7'",
+      "status": "38'",
       "teams": [
         {
           "name": "Trinidad and Tobago",
@@ -859,7 +859,7 @@
       "name": "Lexington SC at Tampa Bay Sun FC",
       "date": "2026-10-04T21:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "70'",
       "teams": [
         {
           "name": "Tampa Bay Sun FC",
@@ -996,14 +996,14 @@
       "league": "Football",
       "name": "Phoenix Rising FC at New Mexico United",
       "date": "2026-10-04T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "31'",
       "teams": [
         {
           "name": "New Mexico United",
           "short": "New Mexico",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19408.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Phoenix Rising FC",
@@ -1732,14 +1732,14 @@
       "league": "Football",
       "name": "Tigre at Argentinos Juniors",
       "date": "2026-10-04T22:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "25'",
       "teams": [
         {
           "name": "Argentinos Juniors",
           "short": "Argentinos ",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Tigre",
@@ -1916,8 +1916,8 @@
       "league": "Football",
       "name": "Defensores de Belgrano at Chaco For Ever",
       "date": "2026-10-04T20:20Z",
-      "state": "in",
-      "status": "81'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Chaco For Ever",
@@ -1929,7 +1929,7 @@
           "name": "Defensores de Belgrano",
           "short": "Defensores",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10151.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Estadio Juan Alberto García"
@@ -1939,20 +1939,20 @@
       "league": "Football",
       "name": "Atlanta at Atletico Rafaela",
       "date": "2026-10-04T20:30Z",
-      "state": "in",
-      "status": "78'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Atletico Rafaela",
           "short": "Rafaela",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9747.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Atlanta",
           "short": "Atlanta",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10146.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "Estadio Nuevo Monumental"
@@ -1963,7 +1963,7 @@
       "name": "Los Andes at Godoy Cruz Antonio Tomba",
       "date": "2026-10-04T21:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "70'",
       "teams": [
         {
           "name": "Godoy Cruz Antonio Tomba",
@@ -1975,7 +1975,7 @@
           "name": "Los Andes",
           "short": "Los Andes ",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/13.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Estadio Feliciano Gambarte"
@@ -1986,7 +1986,7 @@
       "name": "Gimnasia y Tiro (Salta) at San Martín (Tucumán)",
       "date": "2026-10-04T21:30Z",
       "state": "in",
-      "status": "33'",
+      "status": "HT",
       "teams": [
         {
           "name": "San Martín (Tucumán)",
@@ -2146,8 +2146,8 @@
       "league": "Football",
       "name": "Peñarol at Racing (Montevideo)",
       "date": "2026-10-04T22:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "2'",
       "teams": [
         {
           "name": "Racing (Montevideo)",
@@ -2193,7 +2193,7 @@
       "name": "Deportivo Pereira at Cúcuta Deportivo",
       "date": "2026-10-04T21:05Z",
       "state": "in",
-      "status": "HT",
+      "status": "73'",
       "teams": [
         {
           "name": "Cúcuta Deportivo",
@@ -2216,7 +2216,7 @@
       "name": "Once Caldas at Internacional de Bogotá",
       "date": "2026-10-04T21:05Z",
       "state": "in",
-      "status": "HT",
+      "status": "75'",
       "teams": [
         {
           "name": "Internacional de Bogotá",
