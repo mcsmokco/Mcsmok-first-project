@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T04:35:07.493447+00:00",
+  "updated_at": "2026-10-04T10:59:03.000741+00:00",
   "count": 100,
   "items": [
     {
@@ -258,7 +258,7 @@
     {
       "id": "401922273",
       "league": "Football",
-      "name": "Mali at Morocco",
+      "name": "Ghana at Morocco",
       "date": "2026-10-04T18:00Z",
       "state": "pre",
       "status": "Scheduled",
@@ -270,9 +270,9 @@
           "score": "0"
         },
         {
-          "name": "Mali",
-          "short": "Mali",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mli.png",
+          "name": "Ghana",
+          "short": "Ghana",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gha.png",
           "score": "0"
         }
       ],
@@ -858,8 +858,8 @@
       "league": "Football",
       "name": "Dux Logroño at CD Tenerife",
       "date": "2026-10-04T10:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "HT",
       "teams": [
         {
           "name": "CD Tenerife",
@@ -881,8 +881,8 @@
       "league": "Football",
       "name": "Eibar at Granada",
       "date": "2026-10-04T10:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "HT",
       "teams": [
         {
           "name": "Granada",
@@ -1153,6 +1153,29 @@
       "venue": ""
     },
     {
+      "id": "401925183",
+      "league": "Football",
+      "name": "Rodina Moscow at Dinamo Moscow",
+      "date": "2026-10-04T10:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Dinamo Moscow",
+          "short": "Dinamo Moscow",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/596.png",
+          "score": "0"
+        },
+        {
+          "name": "Rodina Moscow",
+          "short": "Rodina",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21927.png",
+          "score": "0"
+        }
+      ],
+      "venue": "VTB UTB Novogorsk-Dynamo"
+    },
+    {
       "id": "401927909",
       "league": "Football",
       "name": "FC Zorya Luhansk at FC Kolos Kovalivka",
@@ -1174,29 +1197,6 @@
         }
       ],
       "venue": ""
-    },
-    {
-      "id": "401925183",
-      "league": "Football",
-      "name": "Rodina Moscow at Dinamo Moscow",
-      "date": "2026-10-04T11:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Dinamo Moscow",
-          "short": "Dinamo Moscow",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/596.png",
-          "score": "0"
-        },
-        {
-          "name": "Rodina Moscow",
-          "short": "Rodina",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21927.png",
-          "score": "0"
-        }
-      ],
-      "venue": "VTB UTB Novogorsk-Dynamo"
     },
     {
       "id": "401923795",
@@ -1265,7 +1265,7 @@
           "score": "0"
         }
       ],
-      "venue": ""
+      "venue": "Paralimni Stadium"
     },
     {
       "id": "401927904",
@@ -1311,30 +1311,7 @@
           "score": "0"
         }
       ],
-      "venue": ""
-    },
-    {
-      "id": "401927915",
-      "league": "Football",
-      "name": "BATE Borisov at Zenit St Petersburg",
-      "date": "2026-10-04T15:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Zenit St Petersburg",
-          "short": "Zenit",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2533.png",
-          "score": "0"
-        },
-        {
-          "name": "BATE Borisov",
-          "short": "BATE",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/497.png",
-          "score": "0"
-        }
-      ],
-      "venue": ""
+      "venue": "Huvepharma Arena"
     },
     {
       "id": "401923750",
@@ -1358,6 +1335,29 @@
         }
       ],
       "venue": "Aker Stadion"
+    },
+    {
+      "id": "401927915",
+      "league": "Football",
+      "name": "BATE Borisov at Zenit St Petersburg",
+      "date": "2026-10-04T16:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Zenit St Petersburg",
+          "short": "Zenit",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2533.png",
+          "score": "0"
+        },
+        {
+          "name": "BATE Borisov",
+          "short": "BATE",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/497.png",
+          "score": "0"
+        }
+      ],
+      "venue": ""
     },
     {
       "id": "401921831",
@@ -1475,6 +1475,29 @@
       "venue": "Estadio Gran Canaria"
     },
     {
+      "id": "401883190",
+      "league": "Football",
+      "name": "FC Andorra at CD Sabadell",
+      "date": "2026-10-04T19:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "CD Sabadell",
+          "short": "CD Sabadell",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11487.png",
+          "score": "0"
+        },
+        {
+          "name": "FC Andorra",
+          "short": "FC Andorra",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20179.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadi Municipal de la Nova Creu Alta"
+    },
+    {
       "id": "401883160",
       "league": "Football",
       "name": "Mallorca at Girona",
@@ -1525,8 +1548,8 @@
       "league": "Football",
       "name": "FC Utrecht at FC Twente",
       "date": "2026-10-04T10:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "43'",
       "teams": [
         {
           "name": "FC Twente",
@@ -2278,29 +2301,6 @@
         }
       ],
       "venue": "Estadio Gilberto Parada"
-    },
-    {
-      "id": "401907801",
-      "league": "Football",
-      "name": "Bolívar at Independiente Petrolero",
-      "date": "2026-10-04T23:30Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Independiente Petrolero",
-          "short": "CI Petrolero",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20889.png",
-          "score": "0"
-        },
-        {
-          "name": "Bolívar",
-          "short": "Bolívar",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2681.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Estadio Olímpico Patria"
     }
   ]
 }
