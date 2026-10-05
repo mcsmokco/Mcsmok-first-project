@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T11:08:53.587378+00:00",
+  "updated_at": "2026-10-05T11:44:15.505372+00:00",
   "count": 38,
   "items": [
     {
@@ -187,6 +187,29 @@
       "venue": "City Arena - Stadión Antona Malatinského"
     },
     {
+      "id": "401912454",
+      "league": "Football",
+      "name": "Sri Lanka at Mauritius",
+      "date": "2026-10-05T12:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Mauritius",
+          "short": "Mauritius",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mri.png",
+          "score": "0"
+        },
+        {
+          "name": "Sri Lanka",
+          "short": "Sri Lanka",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sri.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Cote d'Or National Sports Complex"
+    },
+    {
       "id": "401918508",
       "league": "Football",
       "name": "Congo DR at Uganda",
@@ -208,29 +231,6 @@
         }
       ],
       "venue": "FNB Training Pitch"
-    },
-    {
-      "id": "401912454",
-      "league": "Football",
-      "name": "Sri Lanka at Mauritius",
-      "date": "2026-10-05T15:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Mauritius",
-          "short": "Mauritius",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mri.png",
-          "score": "0"
-        },
-        {
-          "name": "Sri Lanka",
-          "short": "Sri Lanka",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sri.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Cote d'Or National Sports Complex"
     },
     {
       "id": "401928087",
