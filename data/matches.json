@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T12:48:40.753548+00:00",
+  "updated_at": "2026-10-05T13:11:53.066304+00:00",
   "count": 38,
   "items": [
     {
@@ -187,29 +187,6 @@
       "venue": "City Arena - Stadión Antona Malatinského"
     },
     {
-      "id": "401912454",
-      "league": "Football",
-      "name": "Sri Lanka at Mauritius",
-      "date": "2026-10-05T12:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Mauritius",
-          "short": "Mauritius",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mri.png",
-          "score": "0"
-        },
-        {
-          "name": "Sri Lanka",
-          "short": "Sri Lanka",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sri.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Cote d'Or National Sports Complex"
-    },
-    {
       "id": "401918508",
       "league": "Football",
       "name": "Congo DR at Uganda",
@@ -231,6 +208,29 @@
         }
       ],
       "venue": "FNB Training Pitch"
+    },
+    {
+      "id": "401912454",
+      "league": "Football",
+      "name": "Sri Lanka at Mauritius",
+      "date": "2026-10-05T15:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Mauritius",
+          "short": "Mauritius",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mri.png",
+          "score": "0"
+        },
+        {
+          "name": "Sri Lanka",
+          "short": "Sri Lanka",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sri.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Cote d'Or National Sports Complex"
     },
     {
       "id": "401928087",
@@ -812,8 +812,8 @@
       "league": "Football",
       "name": "Libertad at Deportivo Recoleta",
       "date": "2026-10-05T13:00Z",
-      "state": "post",
-      "status": "Susp",
+      "state": "in",
+      "status": "59'",
       "teams": [
         {
           "name": "Deportivo Recoleta",
@@ -825,7 +825,7 @@
           "name": "Libertad",
           "short": "Libertad",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2670.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Estadio Ricardo Gregor"
