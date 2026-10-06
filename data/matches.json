@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T19:43:57.799967+00:00",
+  "updated_at": "2026-10-06T20:06:58.042390+00:00",
   "count": 100,
   "items": [
     {
@@ -31,7 +31,7 @@
       "name": "San Marino at Albania",
       "date": "2026-10-06T18:45Z",
       "state": "in",
-      "status": "HT",
+      "status": "63'",
       "teams": [
         {
           "name": "Albania",
@@ -54,7 +54,7 @@
       "name": "Finland at Belarus",
       "date": "2026-10-06T18:45Z",
       "state": "in",
-      "status": "HT",
+      "status": "65'",
       "teams": [
         {
           "name": "Belarus",
@@ -77,7 +77,7 @@
       "name": "Spain at Croatia",
       "date": "2026-10-06T18:45Z",
       "state": "in",
-      "status": "HT",
+      "status": "65'",
       "teams": [
         {
           "name": "Croatia",
@@ -89,7 +89,7 @@
           "name": "Spain",
           "short": "Spain",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stadion Poljud"
@@ -100,13 +100,13 @@
       "name": "Czechia at England",
       "date": "2026-10-06T18:45Z",
       "state": "in",
-      "status": "HT",
+      "status": "65'",
       "teams": [
         {
           "name": "England",
           "short": "England",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "Czechia",
@@ -123,7 +123,7 @@
       "name": "Iceland at Estonia",
       "date": "2026-10-06T18:45Z",
       "state": "in",
-      "status": "HT",
+      "status": "65'",
       "teams": [
         {
           "name": "Estonia",
@@ -146,7 +146,7 @@
       "name": "Bulgaria at Luxembourg",
       "date": "2026-10-06T18:45Z",
       "state": "in",
-      "status": "HT",
+      "status": "64'",
       "teams": [
         {
           "name": "Luxembourg",
@@ -169,7 +169,7 @@
       "name": "Slovakia at Moldova",
       "date": "2026-10-06T18:45Z",
       "state": "in",
-      "status": "HT",
+      "status": "63'",
       "teams": [
         {
           "name": "Moldova",
@@ -181,7 +181,7 @@
           "name": "Slovakia",
           "short": "Slovakia",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/svk.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "Stadionul Zimbru"
@@ -192,7 +192,7 @@
       "name": "Slovenia at Scotland",
       "date": "2026-10-06T18:45Z",
       "state": "in",
-      "status": "HT",
+      "status": "62'",
       "teams": [
         {
           "name": "Scotland",
@@ -204,7 +204,7 @@
           "name": "Slovenia",
           "short": "Slovenia",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/svn.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Hampden Park"
@@ -215,7 +215,7 @@
       "name": "North Macedonia at Switzerland",
       "date": "2026-10-06T18:45Z",
       "state": "in",
-      "status": "HT",
+      "status": "64'",
       "teams": [
         {
           "name": "Switzerland",
@@ -490,14 +490,14 @@
       "league": "Football",
       "name": "Turks and Caicos Islands at Montserrat",
       "date": "2026-10-06T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "6'",
       "teams": [
         {
           "name": "Montserrat",
           "short": "Montserrat",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/msr.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Turks and Caicos Islands",
@@ -513,8 +513,8 @@
       "league": "Football",
       "name": "Bahamas at St. Martin",
       "date": "2026-10-06T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "6'",
       "teams": [
         {
           "name": "St. Martin",
@@ -606,7 +606,7 @@
       "name": "Malawi at Angola",
       "date": "2026-10-06T19:00Z",
       "state": "in",
-      "status": "43'",
+      "status": "HT",
       "teams": [
         {
           "name": "Angola",
@@ -618,7 +618,7 @@
           "name": "Malawi",
           "short": "Malawi",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mwi.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Estádio 11 de Novembro"
@@ -1135,13 +1135,13 @@
       "name": "Salford City at Accrington Stanley",
       "date": "2026-10-06T18:00Z",
       "state": "in",
-      "status": "86'",
+      "status": "Pens",
       "teams": [
         {
           "name": "Accrington Stanley",
           "short": "Accrington",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2731.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Salford City",
@@ -1158,7 +1158,7 @@
       "name": "Barnet at AFC Wimbledon",
       "date": "2026-10-06T18:00Z",
       "state": "in",
-      "status": "86'",
+      "status": "Pens",
       "teams": [
         {
           "name": "AFC Wimbledon",
@@ -1180,8 +1180,8 @@
       "league": "Football",
       "name": "Crewe Alexandra at Blackpool",
       "date": "2026-10-06T18:00Z",
-      "state": "in",
-      "status": "85'",
+      "state": "post",
+      "status": "FT-Pens",
       "teams": [
         {
           "name": "Blackpool",
@@ -1203,8 +1203,8 @@
       "league": "Football",
       "name": "Northampton Town at Cambridge United",
       "date": "2026-10-06T18:00Z",
-      "state": "in",
-      "status": "86'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Cambridge United",
@@ -1226,8 +1226,8 @@
       "league": "Football",
       "name": "Liverpool U21 at Doncaster Rovers",
       "date": "2026-10-06T18:00Z",
-      "state": "in",
-      "status": "86'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Doncaster Rovers",
@@ -1249,8 +1249,8 @@
       "league": "Football",
       "name": "Oxford United at Exeter City",
       "date": "2026-10-06T18:00Z",
-      "state": "in",
-      "status": "86'",
+      "state": "post",
+      "status": "FT-Pens",
       "teams": [
         {
           "name": "Exeter City",
@@ -1272,14 +1272,14 @@
       "league": "Football",
       "name": "Barnsley at Fleetwood Town",
       "date": "2026-10-06T18:00Z",
-      "state": "in",
-      "status": "87'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Fleetwood Town",
           "short": "Fleetwood Town",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3891.png",
-          "score": "3"
+          "score": "4"
         },
         {
           "name": "Barnsley",
@@ -1295,8 +1295,8 @@
       "league": "Football",
       "name": "Burton Albion at Grimsby Town",
       "date": "2026-10-06T18:00Z",
-      "state": "in",
-      "status": "87'",
+      "state": "post",
+      "status": "FT-Pens",
       "teams": [
         {
           "name": "Grimsby Town",
@@ -1318,14 +1318,14 @@
       "league": "Football",
       "name": "Rochdale at Huddersfield Town",
       "date": "2026-10-06T18:00Z",
-      "state": "in",
-      "status": "86'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Huddersfield Town",
           "short": "Huddersfield",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/335.png",
-          "score": "4"
+          "score": "5"
         },
         {
           "name": "Rochdale",
@@ -1342,19 +1342,19 @@
       "name": "Brentford U21 at Milton Keynes Dons",
       "date": "2026-10-06T18:00Z",
       "state": "in",
-      "status": "70'",
+      "status": "90'+3'",
       "teams": [
         {
           "name": "Milton Keynes Dons",
           "short": "MK Dons",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/390.png",
-          "score": "5"
+          "score": "7"
         },
         {
           "name": "Brentford U21",
           "short": "Brentford U21",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stadium MK"
@@ -1365,7 +1365,7 @@
       "name": "Plymouth Argyle at Newport County",
       "date": "2026-10-06T18:00Z",
       "state": "in",
-      "status": "85'",
+      "status": "Pens",
       "teams": [
         {
           "name": "Newport County",
@@ -1377,7 +1377,7 @@
           "name": "Plymouth Argyle",
           "short": "Plymouth",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/307.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Rodney Parade"
@@ -1387,8 +1387,8 @@
       "league": "Football",
       "name": "Ipswich Town U21 at Peterborough United",
       "date": "2026-10-06T18:00Z",
-      "state": "in",
-      "status": "86'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Peterborough United",
@@ -1410,8 +1410,8 @@
       "league": "Football",
       "name": "Mansfield Town at Port Vale",
       "date": "2026-10-06T18:00Z",
-      "state": "in",
-      "status": "85'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Port Vale",
@@ -1433,8 +1433,8 @@
       "league": "Football",
       "name": "Bradford City at Rotherham United",
       "date": "2026-10-06T18:00Z",
-      "state": "in",
-      "status": "85'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Rotherham United",
@@ -1446,7 +1446,7 @@
           "name": "Bradford City",
           "short": "Bradford",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/387.png",
-          "score": "3"
+          "score": "4"
         }
       ],
       "venue": "AESSEAL New York Stadium"
@@ -1456,8 +1456,8 @@
       "league": "Football",
       "name": "Sunderland U21 at Sheffield Wednesday",
       "date": "2026-10-06T18:00Z",
-      "state": "in",
-      "status": "86'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Sheffield Wednesday",
@@ -1479,8 +1479,8 @@
       "league": "Football",
       "name": "Stockport County at Shrewsbury Town",
       "date": "2026-10-06T18:00Z",
-      "state": "in",
-      "status": "87'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Shrewsbury Town",
@@ -1502,8 +1502,8 @@
       "league": "Football",
       "name": "Leicester City at Stevenage",
       "date": "2026-10-06T18:00Z",
-      "state": "in",
-      "status": "86'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Stevenage",
@@ -1525,14 +1525,14 @@
       "league": "Football",
       "name": "Bristol Rovers at Wycombe Wanderers",
       "date": "2026-10-06T18:00Z",
-      "state": "in",
-      "status": "82'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Wycombe Wanderers",
           "short": "Wycombe",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/344.png",
-          "score": "3"
+          "score": "4"
         },
         {
           "name": "Bristol Rovers",
@@ -1549,13 +1549,13 @@
       "name": "Bromley at Crawley Town",
       "date": "2026-10-06T18:45Z",
       "state": "in",
-      "status": "HT",
+      "status": "65'",
       "teams": [
         {
           "name": "Crawley Town",
           "short": "Crawley",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2594.png",
-          "score": "1"
+          "score": "3"
         },
         {
           "name": "Bromley",
@@ -1778,8 +1778,8 @@
       "league": "Football",
       "name": "Rubio Ñú at Sportivo Ameliano",
       "date": "2026-10-06T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "6'",
       "teams": [
         {
           "name": "Sportivo Ameliano",
@@ -1825,7 +1825,7 @@
       "name": "Real Tomayapo at Real Oruro",
       "date": "2026-10-06T19:00Z",
       "state": "in",
-      "status": "44'",
+      "status": "48'",
       "teams": [
         {
           "name": "Real Oruro",
@@ -1893,8 +1893,8 @@
       "league": "Football",
       "name": "Saudi Arabia at United Arab Emirates",
       "date": "2026-10-06T18:00Z",
-      "state": "in",
-      "status": "75'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "United Arab Emirates",
@@ -1917,7 +1917,7 @@
       "name": "New Haven at Villanova",
       "date": "2026-10-06T19:00Z",
       "state": "in",
-      "status": "34'",
+      "status": "HT",
       "teams": [
         {
           "name": "Villanova Wildcats",
