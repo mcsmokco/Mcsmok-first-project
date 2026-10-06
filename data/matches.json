@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T23:06:26.801557+00:00",
+  "updated_at": "2026-10-06T23:39:42.427500+00:00",
   "count": 100,
   "items": [
     {
@@ -375,8 +375,8 @@
       "league": "Football",
       "name": "Benin at Argentina",
       "date": "2026-10-06T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "Argentina",
@@ -560,19 +560,19 @@
       "name": "Aruba at Antigua and Barbuda",
       "date": "2026-10-06T23:00Z",
       "state": "in",
-      "status": "6'",
+      "status": "39'",
       "teams": [
         {
           "name": "Antigua and Barbuda",
           "short": "Antigua Barbuda",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/atg.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Aruba",
           "short": "Aruba",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aru.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Sir Vivian Richards Stadium"
@@ -1687,7 +1687,7 @@
       "name": "São Bernardo at Sport",
       "date": "2026-10-06T22:30Z",
       "state": "in",
-      "status": "34'",
+      "status": "47'",
       "teams": [
         {
           "name": "Sport",
@@ -1699,7 +1699,7 @@
           "name": "São Bernardo",
           "short": "São Bernardo",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11268.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Ilha do Retiro"
@@ -1709,8 +1709,8 @@
       "league": "Football",
       "name": "Athletic at Goiás",
       "date": "2026-10-06T23:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "Goiás",
@@ -1755,8 +1755,8 @@
       "league": "Football",
       "name": "Puerto Montt at Colo Colo",
       "date": "2026-10-06T23:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "Colo Colo",
@@ -1802,7 +1802,7 @@
       "name": "Nacional Asunción at Club Olimpia",
       "date": "2026-10-06T22:15Z",
       "state": "in",
-      "status": "45'+6'",
+      "status": "60'",
       "teams": [
         {
           "name": "Club Olimpia",
@@ -1848,13 +1848,13 @@
       "name": "San Antonio Bulo Bulo at Real Potosí",
       "date": "2026-10-06T22:00Z",
       "state": "in",
-      "status": "47'",
+      "status": "81'",
       "teams": [
         {
           "name": "Real Potosí",
           "short": "Real Potosí",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6051.png",
-          "score": "1"
+          "score": "3"
         },
         {
           "name": "San Antonio Bulo Bulo",
@@ -1940,7 +1940,7 @@
       "name": "St. Bonaventure at Binghamton",
       "date": "2026-10-06T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "68'",
       "teams": [
         {
           "name": "Binghamton Bearcats",
@@ -1952,7 +1952,7 @@
           "name": "St. Bonaventure Bonnies",
           "short": "St Bonaventure",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/179.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Bearcats Sports Complex"
@@ -1963,13 +1963,13 @@
       "name": "Furman at Charleston",
       "date": "2026-10-06T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "67'",
       "teams": [
         {
           "name": "College of Charleston Cougars",
           "short": "College of Charlesto",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/232.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Furman Paladins",
@@ -1986,13 +1986,13 @@
       "name": "Mercer at Charlotte",
       "date": "2026-10-06T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "65'",
       "teams": [
         {
           "name": "Charlotte 49ers",
           "short": "Charlotte",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2429.png",
-          "score": "4"
+          "score": "5"
         },
         {
           "name": "Mercer Bears",
@@ -2009,7 +2009,7 @@
       "name": "Campbell at Coastal Carolina",
       "date": "2026-10-06T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "66'",
       "teams": [
         {
           "name": "Coastal Carolina Chanticleers",
@@ -2032,7 +2032,7 @@
       "name": "Gardner-Webb at East Tennessee State",
       "date": "2026-10-06T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "64'",
       "teams": [
         {
           "name": "East Tennessee State Buccaneers",
@@ -2055,7 +2055,7 @@
       "name": "Jacksonville at Georgia State",
       "date": "2026-10-06T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "69'",
       "teams": [
         {
           "name": "Georgia State Panthers",
@@ -2078,13 +2078,13 @@
       "name": "DePaul at Louisville",
       "date": "2026-10-06T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "65'",
       "teams": [
         {
           "name": "Louisville Cardinals",
           "short": "Louisville",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "DePaul Blue Demons",
@@ -2101,7 +2101,7 @@
       "name": "Pennsylvania at Loyola Maryland",
       "date": "2026-10-06T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "74'",
       "teams": [
         {
           "name": "Loyola Maryland Greyhounds",
@@ -2124,7 +2124,7 @@
       "name": "Harvard at Northeastern",
       "date": "2026-10-06T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "72'",
       "teams": [
         {
           "name": "Northeastern Huskies",
@@ -2147,7 +2147,7 @@
       "name": "Maryland at Rutgers",
       "date": "2026-10-06T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "72'",
       "teams": [
         {
           "name": "Rutgers Scarlet Knights",
@@ -2170,7 +2170,7 @@
       "name": "Bryant at UConn",
       "date": "2026-10-06T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "70'",
       "teams": [
         {
           "name": "UConn Huskies",
@@ -2193,7 +2193,7 @@
       "name": "Queens University at Virginia",
       "date": "2026-10-06T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "73'",
       "teams": [
         {
           "name": "Virginia Cavaliers",
@@ -2216,19 +2216,19 @@
       "name": "Longwood at Virginia Tech",
       "date": "2026-10-06T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "61'",
       "teams": [
         {
           "name": "Virginia Tech Hokies",
           "short": "Virginia Tech",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/259.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Longwood Lancers",
           "short": "Longwood",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2344.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Thompson Field"
@@ -2239,13 +2239,13 @@
       "name": "Lakeland at Wisconsin",
       "date": "2026-10-06T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "67'",
       "teams": [
         {
           "name": "Wisconsin Badgers",
           "short": "Wisconsin",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
-          "score": "3"
+          "score": "5"
         },
         {
           "name": "Lakeland",
@@ -2262,7 +2262,7 @@
       "name": "Brown at Columbia",
       "date": "2026-10-06T22:30Z",
       "state": "in",
-      "status": "25'",
+      "status": "HT",
       "teams": [
         {
           "name": "Columbia Lions",
@@ -2285,13 +2285,13 @@
       "name": "Evansville at Xavier",
       "date": "2026-10-06T22:30Z",
       "state": "in",
-      "status": "24'",
+      "status": "HT",
       "teams": [
         {
           "name": "Xavier Muskateers",
           "short": "Xavier",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2752.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Evansville Purple Aces",
