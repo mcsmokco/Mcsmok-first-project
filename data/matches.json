@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T19:40:27.603153+00:00",
+  "updated_at": "2026-10-07T20:09:12.083667+00:00",
   "count": 64,
   "items": [
     {
@@ -513,8 +513,8 @@
       "league": "Football",
       "name": "Green Bay at Oakland",
       "date": "2026-10-07T18:00Z",
-      "state": "in",
-      "status": "76'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Oakland Golden Grizzlies",
@@ -537,7 +537,7 @@
       "name": "George Washington at VCU",
       "date": "2026-10-07T18:00Z",
       "state": "in",
-      "status": "72'",
+      "status": "88'",
       "teams": [
         {
           "name": "VCU Rams",
@@ -560,7 +560,7 @@
       "name": "Robert Morris at IU Indianapolis",
       "date": "2026-10-07T19:00Z",
       "state": "in",
-      "status": "33'",
+      "status": "HT",
       "teams": [
         {
           "name": "IU Indianapolis Jaguars",
@@ -582,8 +582,8 @@
       "league": "Football",
       "name": "Detroit Mercy at Northern Illinois",
       "date": "2026-10-07T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "7'",
       "teams": [
         {
           "name": "Northern Illinois Huskies",
@@ -1020,7 +1020,7 @@
       "name": "Rider at Manhattan",
       "date": "2026-10-07T19:00Z",
       "state": "in",
-      "status": "30'",
+      "status": "HT",
       "teams": [
         {
           "name": "Manhattan Jaspers",
@@ -1043,13 +1043,13 @@
       "name": "Sacred Heart at Quinnipiac",
       "date": "2026-10-07T19:30Z",
       "state": "in",
-      "status": "11'",
+      "status": "33'",
       "teams": [
         {
           "name": "Quinnipiac Bobcats",
           "short": "Quinnipiac",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2514.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Sacred Heart Pioneers",
@@ -1065,8 +1065,8 @@
       "league": "Football",
       "name": "Canisius at Siena",
       "date": "2026-10-07T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "2'",
       "teams": [
         {
           "name": "Siena Saints",
@@ -1088,8 +1088,8 @@
       "league": "Football",
       "name": "Xavier at Villanova",
       "date": "2026-10-07T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "3'",
       "teams": [
         {
           "name": "Villanova Wildcats",
