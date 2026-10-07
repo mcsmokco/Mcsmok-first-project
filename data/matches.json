@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T16:44:29.659348+00:00",
+  "updated_at": "2026-10-07T17:16:52.908582+00:00",
   "count": 64,
   "items": [
     {
@@ -30,20 +30,20 @@
       "league": "Football",
       "name": "Armenia at Jordan",
       "date": "2026-10-07T15:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Jordan",
           "short": "Jordan",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Armenia",
           "short": "Armenia",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/arm.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Aqaba Development Stadium"
@@ -491,7 +491,7 @@
       "name": "Fairfield at Quinnipiac",
       "date": "2026-10-07T16:00Z",
       "state": "in",
-      "status": "35'",
+      "status": "47'",
       "teams": [
         {
           "name": "Quinnipiac Bobcats",
@@ -974,7 +974,7 @@
       "name": "Mount St. Mary's at Niagara",
       "date": "2026-10-07T16:00Z",
       "state": "in",
-      "status": "31'",
+      "status": "47'",
       "teams": [
         {
           "name": "Niagara Purple Eagles",
@@ -996,8 +996,8 @@
       "league": "Football",
       "name": "Saint Peter's at Iona",
       "date": "2026-10-07T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "15'",
       "teams": [
         {
           "name": "Iona Gaels",
