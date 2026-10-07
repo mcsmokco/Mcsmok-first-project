@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T20:09:12.083667+00:00",
+  "updated_at": "2026-10-07T20:41:10.786565+00:00",
   "count": 64,
   "items": [
     {
@@ -536,8 +536,8 @@
       "league": "Football",
       "name": "George Washington at VCU",
       "date": "2026-10-07T18:00Z",
-      "state": "in",
-      "status": "88'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "VCU Rams",
@@ -560,7 +560,7 @@
       "name": "Robert Morris at IU Indianapolis",
       "date": "2026-10-07T19:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "73'",
       "teams": [
         {
           "name": "IU Indianapolis Jaguars",
@@ -583,7 +583,7 @@
       "name": "Detroit Mercy at Northern Illinois",
       "date": "2026-10-07T20:00Z",
       "state": "in",
-      "status": "7'",
+      "status": "37'",
       "teams": [
         {
           "name": "Northern Illinois Huskies",
@@ -1020,7 +1020,7 @@
       "name": "Rider at Manhattan",
       "date": "2026-10-07T19:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "73'",
       "teams": [
         {
           "name": "Manhattan Jaspers",
@@ -1043,7 +1043,7 @@
       "name": "Sacred Heart at Quinnipiac",
       "date": "2026-10-07T19:30Z",
       "state": "in",
-      "status": "33'",
+      "status": "HT",
       "teams": [
         {
           "name": "Quinnipiac Bobcats",
@@ -1066,13 +1066,13 @@
       "name": "Canisius at Siena",
       "date": "2026-10-07T20:00Z",
       "state": "in",
-      "status": "2'",
+      "status": "33'",
       "teams": [
         {
           "name": "Siena Saints",
           "short": "Siena",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2561.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Canisius Griffins",
@@ -1089,7 +1089,7 @@
       "name": "Xavier at Villanova",
       "date": "2026-10-07T20:00Z",
       "state": "in",
-      "status": "3'",
+      "status": "34'",
       "teams": [
         {
           "name": "Villanova Wildcats",
