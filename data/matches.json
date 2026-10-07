@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T20:41:10.786565+00:00",
+  "updated_at": "2026-10-07T21:07:44.253722+00:00",
   "count": 64,
   "items": [
     {
@@ -559,14 +559,14 @@
       "league": "Football",
       "name": "Robert Morris at IU Indianapolis",
       "date": "2026-10-07T19:00Z",
-      "state": "in",
-      "status": "73'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "IU Indianapolis Jaguars",
           "short": "IU Indy",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/85.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Robert Morris Colonials",
@@ -583,13 +583,13 @@
       "name": "Detroit Mercy at Northern Illinois",
       "date": "2026-10-07T20:00Z",
       "state": "in",
-      "status": "37'",
+      "status": "HT",
       "teams": [
         {
           "name": "Northern Illinois Huskies",
           "short": "N Illinois",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Detroit Mercy Titans",
@@ -1019,14 +1019,14 @@
       "league": "Football",
       "name": "Rider at Manhattan",
       "date": "2026-10-07T19:00Z",
-      "state": "in",
-      "status": "73'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Manhattan Jaspers",
           "short": "Manhattan",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2363.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Rider Broncs",
@@ -1043,7 +1043,7 @@
       "name": "Sacred Heart at Quinnipiac",
       "date": "2026-10-07T19:30Z",
       "state": "in",
-      "status": "HT",
+      "status": "69'",
       "teams": [
         {
           "name": "Quinnipiac Bobcats",
@@ -1066,13 +1066,13 @@
       "name": "Canisius at Siena",
       "date": "2026-10-07T20:00Z",
       "state": "in",
-      "status": "33'",
+      "status": "HT",
       "teams": [
         {
           "name": "Siena Saints",
           "short": "Siena",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2561.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Canisius Griffins",
@@ -1089,7 +1089,7 @@
       "name": "Xavier at Villanova",
       "date": "2026-10-07T20:00Z",
       "state": "in",
-      "status": "34'",
+      "status": "HT",
       "teams": [
         {
           "name": "Villanova Wildcats",
@@ -1134,8 +1134,8 @@
       "league": "Football",
       "name": "San José State at Wyoming",
       "date": "2026-10-07T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "1'",
       "teams": [
         {
           "name": "Wyoming Cowboys",
