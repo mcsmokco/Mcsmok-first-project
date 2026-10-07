@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T22:07:01.965697+00:00",
+  "updated_at": "2026-10-07T22:40:45.022661+00:00",
   "count": 64,
   "items": [
     {
@@ -122,14 +122,14 @@
       "league": "Football",
       "name": "Corinthians at Internacional",
       "date": "2026-10-07T22:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "Internacional",
           "short": "Internacional",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Corinthians",
@@ -145,8 +145,8 @@
       "league": "Football",
       "name": "Mirassol at Red Bull Bragantino",
       "date": "2026-10-07T22:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "Red Bull Bragantino",
@@ -168,8 +168,8 @@
       "league": "Football",
       "name": "Grêmio at Remo",
       "date": "2026-10-07T22:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "11'",
       "teams": [
         {
           "name": "Remo",
@@ -260,14 +260,14 @@
       "league": "Football",
       "name": "Londrina at Avaí",
       "date": "2026-10-07T22:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "Avaí",
           "short": "Avaí",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9966.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Londrina",
@@ -283,14 +283,14 @@
       "league": "Football",
       "name": "Botafogo-SP at Operário PR",
       "date": "2026-10-07T22:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "Operário PR",
           "short": "Operário PR",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18187.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Botafogo-SP",
@@ -376,7 +376,7 @@
       "name": "Universidad de Chile at Antofagasta",
       "date": "2026-10-07T22:00Z",
       "state": "in",
-      "status": "7'",
+      "status": "41'",
       "teams": [
         {
           "name": "Antofagasta",
@@ -399,7 +399,7 @@
       "name": "Cobreloa at Coquimbo Unido",
       "date": "2026-10-07T22:00Z",
       "state": "in",
-      "status": "5'",
+      "status": "39'",
       "teams": [
         {
           "name": "Coquimbo Unido",
@@ -422,7 +422,7 @@
       "name": "GV San José at Independiente Petrolero",
       "date": "2026-10-07T21:30Z",
       "state": "in",
-      "status": "36'",
+      "status": "54'",
       "teams": [
         {
           "name": "Independiente Petrolero",
@@ -494,13 +494,13 @@
       "status": "FT",
       "teams": [
         {
-          "name": "Quinnipiac Bobcats",
+          "name": "Quinnipiac",
           "short": "Quinnipiac",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2514.png",
           "score": "1"
         },
         {
-          "name": "Fairfield Stags",
+          "name": "Fairfield",
           "short": "Fairfield",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2217.png",
           "score": "2"
@@ -517,13 +517,13 @@
       "status": "FT",
       "teams": [
         {
-          "name": "Oakland Golden Grizzlies",
+          "name": "Oakland",
           "short": "Oakland",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2473.png",
           "score": "0"
         },
         {
-          "name": "Green Bay Phoenix",
+          "name": "Green Bay",
           "short": "Green Bay",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2739.png",
           "score": "0"
@@ -540,13 +540,13 @@
       "status": "FT",
       "teams": [
         {
-          "name": "VCU Rams",
+          "name": "VCU",
           "short": "VCU",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2670.png",
           "score": "1"
         },
         {
-          "name": "George Washington Revolutionaries",
+          "name": "George Washington",
           "short": "G Washington",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/45.png",
           "score": "1"
@@ -563,13 +563,13 @@
       "status": "FT",
       "teams": [
         {
-          "name": "IU Indianapolis Jaguars",
+          "name": "IU Indianapolis",
           "short": "IU Indy",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/85.png",
           "score": "1"
         },
         {
-          "name": "Robert Morris Colonials",
+          "name": "Robert Morris",
           "short": "Robert Morris",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2523.png",
           "score": "1"
@@ -586,13 +586,13 @@
       "status": "FT",
       "teams": [
         {
-          "name": "Northern Illinois Huskies",
+          "name": "Northern Illinois",
           "short": "N Illinois",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
           "score": "2"
         },
         {
-          "name": "Detroit Mercy Titans",
+          "name": "Detroit Mercy",
           "short": "Detroit Mercy",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2174.png",
           "score": "2"
@@ -605,20 +605,20 @@
       "league": "Football",
       "name": "NC State at UNC Greensboro",
       "date": "2026-10-07T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "28'",
       "teams": [
         {
-          "name": "UNC Greensboro Spartans",
+          "name": "UNC Greensboro",
           "short": "UNC Greensboro",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2430.png",
-          "score": "0"
+          "score": "1"
         },
         {
-          "name": "NC State Wolfpack",
+          "name": "NC State",
           "short": "NC State",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "UNCG Soccer Stadium"
@@ -632,13 +632,13 @@
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Fordham Rams",
+          "name": "Fordham",
           "short": "Fordham",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2230.png",
           "score": "0"
         },
         {
-          "name": "Saint Louis Billikens",
+          "name": "Saint Louis",
           "short": "Saint Louis",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/139.png",
           "score": "0"
@@ -655,13 +655,13 @@
       "status": "Scheduled",
       "teams": [
         {
-          "name": "George Mason Patriots",
+          "name": "George Mason",
           "short": "George Mason",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2244.png",
           "score": "0"
         },
         {
-          "name": "Loyola Chicago Ramblers",
+          "name": "Loyola Chicago",
           "short": "Loyola Chicago",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2350.png",
           "score": "0"
@@ -678,13 +678,13 @@
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Kansas City Kangaroos",
+          "name": "Kansas City",
           "short": "Kansas City",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/140.png",
           "score": "0"
         },
         {
-          "name": "Tulsa Golden Hurricane",
+          "name": "Tulsa",
           "short": "Tulsa",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/202.png",
           "score": "0"
@@ -701,13 +701,13 @@
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Northern Kentucky Norse",
+          "name": "Northern Kentucky",
           "short": "N Kentucky",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/94.png",
           "score": "0"
         },
         {
-          "name": "Wright State Raiders",
+          "name": "Wright State",
           "short": "Wright St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2750.png",
           "score": "0"
@@ -724,13 +724,13 @@
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Purdue Fort Wayne Mastodons",
+          "name": "Purdue Fort Wayne",
           "short": "Purdue FW",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2870.png",
           "score": "0"
         },
         {
-          "name": "Cleveland State Vikings",
+          "name": "Cleveland State",
           "short": "Cleveland St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/325.png",
           "score": "0"
@@ -747,13 +747,13 @@
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Rhode Island Rams",
+          "name": "Rhode Island",
           "short": "Rhode Island",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/227.png",
           "score": "0"
         },
         {
-          "name": "Davidson Wildcats",
+          "name": "Davidson",
           "short": "Davidson",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2166.png",
           "score": "0"
@@ -770,13 +770,13 @@
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Sacramento State Hornets",
+          "name": "Sacramento State",
           "short": "Sacramento St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/16.png",
           "score": "0"
         },
         {
-          "name": "Gonzaga Bulldogs",
+          "name": "Gonzaga",
           "short": "Gonzaga",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
           "score": "0"
@@ -793,13 +793,13 @@
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Saint Joseph's Hawks",
+          "name": "Saint Joseph's",
           "short": "Saint Joseph's",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2603.png",
           "score": "0"
         },
         {
-          "name": "La Salle Explorers",
+          "name": "La Salle",
           "short": "La Salle",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2325.png",
           "score": "0"
@@ -816,13 +816,13 @@
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Missouri State Bears",
+          "name": "Missouri State",
           "short": "Missouri St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
           "score": "0"
         },
         {
-          "name": "Oral Roberts Golden Eagles",
+          "name": "Oral Roberts",
           "short": "Oral Roberts",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/198.png",
           "score": "0"
@@ -839,13 +839,13 @@
       "status": "Scheduled",
       "teams": [
         {
-          "name": "UC Irvine Anteaters",
+          "name": "UC Irvine",
           "short": "UC Irvine",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/300.png",
           "score": "0"
         },
         {
-          "name": "Cal State Northridge Matadors",
+          "name": "Cal State Northridge",
           "short": "CSU Northridge",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2463.png",
           "score": "0"
@@ -862,13 +862,13 @@
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Cal State Bakersfield Roadrunners",
-          "short": "Bakersfield",
+          "name": "Cal State Bakersfield",
+          "short": "CSU Bakersfield",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2934.png",
           "score": "0"
         },
         {
-          "name": "UC Santa Barbara Gauchos",
+          "name": "UC Santa Barbara",
           "short": "Santa Barbara",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2540.png",
           "score": "0"
@@ -885,13 +885,13 @@
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Cal State Fullerton Titans",
+          "name": "Cal State Fullerton",
           "short": "Fullerton",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2239.png",
           "score": "0"
         },
         {
-          "name": "Utah Valley Wolverines",
+          "name": "Utah Valley",
           "short": "Utah Valley",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/3084.png",
           "score": "0"
@@ -908,14 +908,14 @@
       "status": "Scheduled",
       "teams": [
         {
-          "name": "California Baptist Lancers",
+          "name": "California Baptist",
           "short": "CA Baptist",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2856.png",
           "score": "0"
         },
         {
-          "name": "Oregon State Beavers",
-          "short": "Oregon St",
+          "name": "Oregon State",
+          "short": "Oregon State",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/204.png",
           "score": "0"
         }
@@ -931,13 +931,13 @@
       "status": "Scheduled",
       "teams": [
         {
-          "name": "San Diego State Aztecs",
+          "name": "San Diego State",
           "short": "San Diego St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
           "score": "0"
         },
         {
-          "name": "Cal Poly Mustangs",
+          "name": "Cal Poly",
           "short": "Cal Poly",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
           "score": "0"
@@ -954,13 +954,13 @@
       "status": "Scheduled",
       "teams": [
         {
-          "name": "UC Riverside Highlanders",
+          "name": "UC Riverside",
           "short": "UC Riverside",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/27.png",
           "score": "0"
         },
         {
-          "name": "UC San Diego Tritons",
+          "name": "UC San Diego",
           "short": "UC San Diego",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/28.png",
           "score": "0"
@@ -977,14 +977,14 @@
       "status": "FT",
       "teams": [
         {
-          "name": "Niagara Purple Eagles",
+          "name": "Niagara",
           "short": "Niagara",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/315.png",
           "score": "2"
         },
         {
-          "name": "Mount St. Mary's Mountaineers",
-          "short": "Mount St. Marys",
+          "name": "Mount St. Mary's",
+          "short": "Mount St Marys",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/116.png",
           "score": "1"
         }
@@ -1000,14 +1000,14 @@
       "status": "FT",
       "teams": [
         {
-          "name": "Iona Gaels",
+          "name": "Iona",
           "short": "Iona",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/314.png",
           "score": "4"
         },
         {
-          "name": "Saint Peter's Peacocks",
-          "short": "Saint Peter's",
+          "name": "Saint Peter's",
+          "short": "St Peter's",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2612.png",
           "score": "1"
         }
@@ -1023,13 +1023,13 @@
       "status": "FT",
       "teams": [
         {
-          "name": "Manhattan Jaspers",
+          "name": "Manhattan",
           "short": "Manhattan",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2363.png",
           "score": "1"
         },
         {
-          "name": "Rider Broncs",
+          "name": "Rider",
           "short": "Rider",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2520.png",
           "score": "0"
@@ -1046,13 +1046,13 @@
       "status": "FT",
       "teams": [
         {
-          "name": "Quinnipiac Bobcats",
+          "name": "Quinnipiac",
           "short": "Quinnipiac",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2514.png",
           "score": "1"
         },
         {
-          "name": "Sacred Heart Pioneers",
+          "name": "Sacred Heart",
           "short": "Sacred Heart",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2529.png",
           "score": "0"
@@ -1069,13 +1069,13 @@
       "status": "FT",
       "teams": [
         {
-          "name": "Siena Saints",
+          "name": "Siena",
           "short": "Siena",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2561.png",
           "score": "2"
         },
         {
-          "name": "Canisius Griffins",
+          "name": "Canisius",
           "short": "Canisius",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2099.png",
           "score": "0"
@@ -1092,13 +1092,13 @@
       "status": "FT",
       "teams": [
         {
-          "name": "Villanova Wildcats",
+          "name": "Villanova",
           "short": "Villanova",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/222.png",
           "score": "0"
         },
         {
-          "name": "Xavier Muskateers",
+          "name": "Xavier",
           "short": "Xavier",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2752.png",
           "score": "0"
@@ -1112,16 +1112,16 @@
       "name": "San José State at Wyoming",
       "date": "2026-10-07T21:00Z",
       "state": "in",
-      "status": "45'",
+      "status": "61'",
       "teams": [
         {
-          "name": "Wyoming Cowboys",
+          "name": "Wyoming",
           "short": "Wyoming",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
-          "score": "3"
+          "score": "4"
         },
         {
-          "name": "San José State Spartans",
+          "name": "San José State",
           "short": "San José St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
           "score": "0"
@@ -1135,16 +1135,16 @@
       "name": "James Madison at Arkansas State",
       "date": "2026-10-07T21:30Z",
       "state": "in",
-      "status": "31'",
+      "status": "53'",
       "teams": [
         {
-          "name": "Arkansas State Red Wolves",
+          "name": "Arkansas State",
           "short": "Arkansas St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2032.png",
           "score": "0"
         },
         {
-          "name": "James Madison Dukes",
+          "name": "James Madison",
           "short": "James Madison",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/256.png",
           "score": "1"
@@ -1157,20 +1157,20 @@
       "league": "Football",
       "name": "Georgetown at Providence",
       "date": "2026-10-07T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "31'",
       "teams": [
         {
-          "name": "Providence Friars",
+          "name": "Providence",
           "short": "Providence",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2507.png",
           "score": "0"
         },
         {
-          "name": "Georgetown Hoyas",
+          "name": "Georgetown",
           "short": "Georgetown",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/46.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Chapey Field at Anderson Stadium"
@@ -1180,17 +1180,17 @@
       "league": "Football",
       "name": "Seton Hall at UConn",
       "date": "2026-10-07T22:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "6'",
       "teams": [
         {
-          "name": "UConn Huskies",
+          "name": "UConn",
           "short": "UConn",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
           "score": "0"
         },
         {
-          "name": "Seton Hall Pirates",
+          "name": "Seton Hall",
           "short": "Seton Hall",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2550.png",
           "score": "0"
@@ -1207,13 +1207,13 @@
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Butler Bulldogs",
+          "name": "Butler",
           "short": "Butler",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2086.png",
           "score": "0"
         },
         {
-          "name": "St. John's Red Storm",
+          "name": "St. John's",
           "short": "St John's",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2599.png",
           "score": "0"
@@ -1230,13 +1230,13 @@
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Marist Red Foxes",
+          "name": "Marist",
           "short": "Marist",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2368.png",
           "score": "0"
         },
         {
-          "name": "Fairfield Stags",
+          "name": "Fairfield",
           "short": "Fairfield",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2217.png",
           "score": "0"
@@ -1253,13 +1253,13 @@
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Marquette Golden Eagles",
+          "name": "Marquette",
           "short": "Marquette",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/269.png",
           "score": "0"
         },
         {
-          "name": "Creighton Bluejays",
+          "name": "Creighton",
           "short": "Creighton",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/156.png",
           "score": "0"
@@ -1276,13 +1276,13 @@
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Saint Mary's Gaels",
+          "name": "Saint Mary's",
           "short": "Saint Mary's",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2608.png",
           "score": "0"
         },
         {
-          "name": "Loyola Marymount Lions",
+          "name": "Loyola Marymount",
           "short": "LMU",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2351.png",
           "score": "0"
@@ -1299,13 +1299,13 @@
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Colorado College Tigers",
-          "short": "Colorado Coll",
+          "name": "Colorado College",
+          "short": "Colorado College",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2144.png",
           "score": "0"
         },
         {
-          "name": "New Mexico Lobos",
+          "name": "New Mexico",
           "short": "New Mexico",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/167.png",
           "score": "0"
@@ -1322,13 +1322,13 @@
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Denver Pioneers",
+          "name": "Denver",
           "short": "Denver",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2172.png",
           "score": "0"
         },
         {
-          "name": "Pepperdine Waves",
+          "name": "Pepperdine",
           "short": "Pepperdine",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2492.png",
           "score": "0"
@@ -1345,13 +1345,13 @@
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Hawai'i Rainbow Warriors",
+          "name": "Hawai'i",
           "short": "Hawai'i",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
           "score": "0"
         },
         {
-          "name": "Nevada Wolf Pack",
+          "name": "Nevada",
           "short": "Nevada",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
           "score": "0"
@@ -1368,13 +1368,13 @@
       "status": "Scheduled",
       "teams": [
         {
-          "name": "San Francisco Dons",
+          "name": "San Francisco",
           "short": "San Francisco",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2539.png",
           "score": "0"
         },
         {
-          "name": "Portland Pilots",
+          "name": "Portland",
           "short": "Portland",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2501.png",
           "score": "0"
@@ -1391,13 +1391,13 @@
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Santa Clara Broncos",
+          "name": "Santa Clara",
           "short": "Santa Clara",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2541.png",
           "score": "0"
         },
         {
-          "name": "Pacific Tigers",
+          "name": "Pacific",
           "short": "Pacific",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/279.png",
           "score": "0"
@@ -1414,13 +1414,13 @@
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Seattle U Redhawks",
+          "name": "Seattle U",
           "short": "Seattle U",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2547.png",
           "score": "0"
         },
         {
-          "name": "San Diego Toreros",
+          "name": "San Diego",
           "short": "San Diego",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/301.png",
           "score": "0"
@@ -1437,13 +1437,13 @@
       "status": "Scheduled",
       "teams": [
         {
-          "name": "UC Davis Aggies",
+          "name": "UC Davis",
           "short": "UC Davis",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/302.png",
           "score": "0"
         },
         {
-          "name": "Grand Canyon Antelopes",
+          "name": "Grand Canyon",
           "short": "Grand Canyon",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2253.png",
           "score": "0"
@@ -1460,13 +1460,13 @@
       "status": "Scheduled",
       "teams": [
         {
-          "name": "UNLV Rebels",
+          "name": "UNLV",
           "short": "UNLV",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
           "score": "0"
         },
         {
-          "name": "Air Force Falcons",
+          "name": "Air Force",
           "short": "Air Force",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
           "score": "0"
