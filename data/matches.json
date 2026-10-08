@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T19:41:50.840842+00:00",
+  "updated_at": "2026-10-08T20:09:44.652411+00:00",
   "count": 100,
   "items": [
     {
@@ -237,8 +237,8 @@
       "league": "Football",
       "name": "Cienciano del Cusco at Deportivo Moquegua",
       "date": "2026-10-08T18:00Z",
-      "state": "in",
-      "status": "84'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Deportivo Moquegua",
@@ -284,7 +284,7 @@
       "name": "Nacional Potosí at Always Ready",
       "date": "2026-10-08T19:00Z",
       "state": "in",
-      "status": "42'",
+      "status": "52'",
       "teams": [
         {
           "name": "Always Ready",
@@ -399,13 +399,13 @@
       "name": "Chicago State at Stonehill",
       "date": "2026-10-08T19:00Z",
       "state": "in",
-      "status": "39'",
+      "status": "47'",
       "teams": [
         {
           "name": "Stonehill",
           "short": "Stonehill",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/284.png",
-          "score": "2"
+          "score": "4"
         },
         {
           "name": "Chicago State",
@@ -583,7 +583,7 @@
       "name": "Idaho at Northern Colorado",
       "date": "2026-10-08T18:00Z",
       "state": "in",
-      "status": "71'",
+      "status": "90'",
       "teams": [
         {
           "name": "Northern Colorado",
@@ -606,7 +606,7 @@
       "name": "George Mason at George Washington",
       "date": "2026-10-08T19:00Z",
       "state": "in",
-      "status": "37'",
+      "status": "46'",
       "teams": [
         {
           "name": "George Washington",
@@ -628,14 +628,14 @@
       "league": "Football",
       "name": "Arkansas-Pine Bluff at Alcorn State",
       "date": "2026-10-08T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "3'",
       "teams": [
         {
           "name": "Alcorn State",
           "short": "Alcorn St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2016.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Arkansas-Pine Bluff",
@@ -651,8 +651,8 @@
       "league": "Football",
       "name": "Central Arkansas at Eastern Kentucky",
       "date": "2026-10-08T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "4'",
       "teams": [
         {
           "name": "Eastern Kentucky",
@@ -674,14 +674,14 @@
       "league": "Football",
       "name": "Long Island University at Le Moyne",
       "date": "2026-10-08T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "5'",
       "teams": [
         {
           "name": "Le Moyne",
           "short": "Le Moyne",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2330.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Long Island University",
@@ -697,8 +697,8 @@
       "league": "Football",
       "name": "Omaha at North Dakota",
       "date": "2026-10-08T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "North Dakota",
