@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T22:10:02.431605+00:00",
+  "updated_at": "2026-10-08T22:41:24.675585+00:00",
   "count": 100,
   "items": [
     {
@@ -53,8 +53,8 @@
       "league": "Football",
       "name": "Flamengo at Santos",
       "date": "2026-10-08T22:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "11'",
       "teams": [
         {
           "name": "Santos",
@@ -145,8 +145,8 @@
       "league": "Football",
       "name": "Criciúma at Ceará",
       "date": "2026-10-08T22:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "Ceará",
@@ -168,8 +168,8 @@
       "league": "Football",
       "name": "Novorizontino at Náutico",
       "date": "2026-10-08T22:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "7'",
       "teams": [
         {
           "name": "Náutico",
@@ -260,8 +260,8 @@
       "league": "Football",
       "name": "Los Chankas at Atlético Grau",
       "date": "2026-10-08T20:30Z",
-      "state": "in",
-      "status": "75'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Atlético Grau",
@@ -422,7 +422,7 @@
       "name": "Eastern Illinois at Western Illinois",
       "date": "2026-10-08T21:00Z",
       "state": "in",
-      "status": "45'",
+      "status": "67'",
       "teams": [
         {
           "name": "Western Illinois",
@@ -434,7 +434,7 @@
           "name": "Eastern Illinois",
           "short": "E Illinois",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2197.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "John MacKenzie Alumni Field"
@@ -445,7 +445,7 @@
       "name": "SIU Edwardsville at Incarnate Word",
       "date": "2026-10-08T21:30Z",
       "state": "in",
-      "status": "28'",
+      "status": "HT",
       "teams": [
         {
           "name": "Incarnate Word",
@@ -468,13 +468,13 @@
       "name": "Howard at William & Mary",
       "date": "2026-10-08T22:00Z",
       "state": "in",
-      "status": "5'",
+      "status": "35'",
       "teams": [
         {
           "name": "William & Mary",
           "short": "William & Mary",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2729.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Howard",
@@ -721,7 +721,7 @@
       "name": "Fairleigh Dickinson at Delaware State",
       "date": "2026-10-08T21:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "72'",
       "teams": [
         {
           "name": "Delaware State",
@@ -733,7 +733,7 @@
           "name": "Fairleigh Dickinson",
           "short": "FDU",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/161.png",
-          "score": "6"
+          "score": "7"
         }
       ],
       "venue": "Drass Field"
@@ -744,7 +744,7 @@
       "name": "App State at Georgia Southern",
       "date": "2026-10-08T21:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "69'",
       "teams": [
         {
           "name": "Georgia Southern",
@@ -756,7 +756,7 @@
           "name": "App State",
           "short": "App State",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2026.png",
-          "score": "3"
+          "score": "4"
         }
       ],
       "venue": "Bo Pitts Field at Erk Russell Athletic Park"
@@ -767,7 +767,7 @@
       "name": "Washington State at Utah State",
       "date": "2026-10-08T21:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "71'",
       "teams": [
         {
           "name": "Utah State",
@@ -790,13 +790,13 @@
       "name": "Southern Miss at Coastal Carolina",
       "date": "2026-10-08T22:00Z",
       "state": "in",
-      "status": "3'",
+      "status": "32'",
       "teams": [
         {
           "name": "Coastal Carolina",
           "short": "Coastal",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/324.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Southern Miss",
@@ -813,7 +813,7 @@
       "name": "Gonzaga at Colorado State",
       "date": "2026-10-08T22:00Z",
       "state": "in",
-      "status": "2'",
+      "status": "33'",
       "teams": [
         {
           "name": "Colorado State",
@@ -836,7 +836,7 @@
       "name": "Charleston at Drexel",
       "date": "2026-10-08T22:00Z",
       "state": "in",
-      "status": "7'",
+      "status": "37'",
       "teams": [
         {
           "name": "Drexel",
@@ -848,7 +848,7 @@
           "name": "Charleston",
           "short": "Charleston",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/232.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Vidas Field"
@@ -859,13 +859,13 @@
       "name": "Jackson State at Grambling",
       "date": "2026-10-08T22:00Z",
       "state": "in",
-      "status": "4'",
+      "status": "31'",
       "teams": [
         {
           "name": "Grambling",
           "short": "Grambling",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2755.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Jackson State",
@@ -882,19 +882,19 @@
       "name": "SE Louisiana at Houston Christian",
       "date": "2026-10-08T22:00Z",
       "state": "in",
-      "status": "4'",
+      "status": "34'",
       "teams": [
         {
           "name": "Houston Christian",
           "short": "Hou Christian",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2277.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "SE Louisiana",
           "short": "SE Louisiana",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2545.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Sorrels Field"
@@ -905,13 +905,13 @@
       "name": "Richmond at La Salle",
       "date": "2026-10-08T22:00Z",
       "state": "in",
-      "status": "6'",
+      "status": "34'",
       "teams": [
         {
           "name": "La Salle",
           "short": "La Salle",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2325.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Richmond",
@@ -928,13 +928,13 @@
       "name": "Campbell at Monmouth",
       "date": "2026-10-08T22:00Z",
       "state": "in",
-      "status": "5'",
+      "status": "35'",
       "teams": [
         {
           "name": "Monmouth",
           "short": "Monmouth",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2405.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Campbell",
@@ -951,7 +951,7 @@
       "name": "Pittsburgh at NC State",
       "date": "2026-10-08T22:00Z",
       "state": "in",
-      "status": "4'",
+      "status": "29'",
       "teams": [
         {
           "name": "NC State",
@@ -974,7 +974,7 @@
       "name": "Elon at Northeastern",
       "date": "2026-10-08T22:00Z",
       "state": "in",
-      "status": "3'",
+      "status": "34'",
       "teams": [
         {
           "name": "Northeastern",
@@ -997,7 +997,7 @@
       "name": "Marshall at Old Dominion",
       "date": "2026-10-08T22:00Z",
       "state": "in",
-      "status": "2'",
+      "status": "28'",
       "teams": [
         {
           "name": "Old Dominion",
@@ -1020,7 +1020,7 @@
       "name": "Loyola Chicago at St Bonaventure",
       "date": "2026-10-08T22:00Z",
       "state": "in",
-      "status": "4'",
+      "status": "28'",
       "teams": [
         {
           "name": "St Bonaventure",
@@ -1032,7 +1032,7 @@
           "name": "Loyola Chicago",
           "short": "Loyola Chicago",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2350.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Marra Athletics Fields Complex"
@@ -1043,7 +1043,7 @@
       "name": "Hampton at Stony Brook",
       "date": "2026-10-08T22:00Z",
       "state": "in",
-      "status": "6'",
+      "status": "36'",
       "teams": [
         {
           "name": "Stony Brook",
@@ -1066,7 +1066,7 @@
       "name": "UNC Wilmington at Towson",
       "date": "2026-10-08T22:00Z",
       "state": "in",
-      "status": "7'",
+      "status": "38'",
       "teams": [
         {
           "name": "Towson",
@@ -1089,13 +1089,13 @@
       "name": "Louisiana Tech at Troy",
       "date": "2026-10-08T22:00Z",
       "state": "in",
-      "status": "4'",
+      "status": "32'",
       "teams": [
         {
           "name": "Troy",
           "short": "Troy",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2653.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Louisiana Tech",
@@ -1112,7 +1112,7 @@
       "name": "Little Rock at West Georgia",
       "date": "2026-10-08T22:00Z",
       "state": "in",
-      "status": "6'",
+      "status": "29'",
       "teams": [
         {
           "name": "West Georgia",
@@ -1124,7 +1124,7 @@
           "name": "Little Rock",
           "short": "Little Rock",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2031.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "University Soccer Field"
