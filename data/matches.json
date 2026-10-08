@@ -1,778 +1,755 @@
 {
-  "updated_at": "2026-10-07T23:39:28.005226+00:00",
-  "count": 64,
+  "updated_at": "2026-10-08T00:09:53.085382+00:00",
+  "count": 100,
   "items": [
     {
-      "id": "401914265",
+      "id": "401925167",
       "league": "Football",
-      "name": "Gibraltar at Liechtenstein",
-      "date": "2026-10-07T04:00Z",
-      "state": "post",
-      "status": "Canceled",
-      "teams": [
-        {
-          "name": "Liechtenstein",
-          "short": "Liechtenstein",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lie.png",
-          "score": "0"
-        },
-        {
-          "name": "Gibraltar",
-          "short": "Gibraltar",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gib.png",
-          "score": "0"
-        }
-      ],
-      "venue": ""
-    },
-    {
-      "id": "401916333",
-      "league": "Football",
-      "name": "Armenia at Jordan",
-      "date": "2026-10-07T15:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Jordan",
-          "short": "Jordan",
-          "logo": "",
-          "score": "1"
-        },
-        {
-          "name": "Armenia",
-          "short": "Armenia",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/arm.png",
-          "score": "2"
-        }
-      ],
-      "venue": "Aqaba Development Stadium"
-    },
-    {
-      "id": "401842188",
-      "league": "Football",
-      "name": "Richmond Kickers at FC Naples",
-      "date": "2026-10-07T23:00Z",
-      "state": "in",
-      "status": "33'",
-      "teams": [
-        {
-          "name": "FC Naples",
-          "short": "FC Naples",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22525.png",
-          "score": "1"
-        },
-        {
-          "name": "Richmond Kickers",
-          "short": "Richmond",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17545.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Paradise Coast Sports Complex"
-    },
-    {
-      "id": "401842192",
-      "league": "Football",
-      "name": "Chattanooga Red Wolves at One Knoxville",
-      "date": "2026-10-07T23:00Z",
-      "state": "in",
-      "status": "32'",
-      "teams": [
-        {
-          "name": "One Knoxville",
-          "short": "Knoxville",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21821.png",
-          "score": "1"
-        },
-        {
-          "name": "Chattanooga Red Wolves",
-          "short": "Chattanooga",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20000.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Covenant Health Park"
-    },
-    {
-      "id": "401842190",
-      "league": "Football",
-      "name": "Fort Wayne at Corpus Christi FC",
-      "date": "2026-10-08T00:30Z",
+      "name": "Russia  at India",
+      "date": "2026-10-08T12:30Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Corpus Christi FC",
-          "short": "Corpus Christi",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20671.png",
+          "name": "India",
+          "short": "India",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ind.png",
           "score": "0"
         },
         {
-          "name": "Fort Wayne",
-          "short": "Fort Wayne",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131580.png",
+          "name": "Russia ",
+          "short": "Russia",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rus.png",
           "score": "0"
         }
       ],
-      "venue": "Cabaniss Athletic Complex"
+      "venue": "Kishore Bharati Krirangan"
     },
     {
-      "id": "401841255",
+      "id": "401886349",
       "league": "Football",
-      "name": "Corinthians at Internacional",
-      "date": "2026-10-07T22:30Z",
-      "state": "in",
-      "status": "47'",
-      "teams": [
-        {
-          "name": "Internacional",
-          "short": "Internacional",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png",
-          "score": "1"
-        },
-        {
-          "name": "Corinthians",
-          "short": "Corinthians",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Estadio Beira-Rio"
-    },
-    {
-      "id": "401841253",
-      "league": "Football",
-      "name": "Mirassol at Red Bull Bragantino",
-      "date": "2026-10-07T22:30Z",
-      "state": "in",
-      "status": "46'",
-      "teams": [
-        {
-          "name": "Red Bull Bragantino",
-          "short": "Bragantino",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6079.png",
-          "score": "0"
-        },
-        {
-          "name": "Mirassol",
-          "short": "Mirassol",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9169.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Estádio Municipal Cicero de Souza Marques"
-    },
-    {
-      "id": "401841252",
-      "league": "Football",
-      "name": "Grêmio at Remo",
-      "date": "2026-10-07T22:30Z",
-      "state": "in",
-      "status": "47'",
-      "teams": [
-        {
-          "name": "Remo",
-          "short": "Remo",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4936.png",
-          "score": "0"
-        },
-        {
-          "name": "Grêmio",
-          "short": "Grêmio",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6273.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Mangueirão"
-    },
-    {
-      "id": "401841250",
-      "league": "Football",
-      "name": "Chapecoense at Vitória",
-      "date": "2026-10-07T23:00Z",
-      "state": "in",
-      "status": "36'",
-      "teams": [
-        {
-          "name": "Vitória",
-          "short": "Vitória",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
-          "score": "1"
-        },
-        {
-          "name": "Chapecoense",
-          "short": "Chapecoense",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9318.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Estadio Manoel Barradas"
-    },
-    {
-      "id": "401841257",
-      "league": "Football",
-      "name": "Vasco da Gama at Botafogo",
-      "date": "2026-10-07T23:30Z",
-      "state": "in",
-      "status": "9'",
-      "teams": [
-        {
-          "name": "Botafogo",
-          "short": "Botafogo",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6086.png",
-          "score": "0"
-        },
-        {
-          "name": "Vasco da Gama",
-          "short": "Vasco",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Joao Havelange Stadium"
-    },
-    {
-      "id": "401841249",
-      "league": "Football",
-      "name": "São Paulo at Cruzeiro",
-      "date": "2026-10-08T00:30Z",
+      "name": "Correcaminos UAT at Alebrijes de Oaxaca",
+      "date": "2026-10-09T01:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Cruzeiro",
-          "short": "Cruzeiro",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
+          "name": "Alebrijes de Oaxaca",
+          "short": "Oaxaca",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17233.png",
           "score": "0"
         },
         {
-          "name": "São Paulo",
-          "short": "São Paulo",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Estadio Mineirão"
-    },
-    {
-      "id": "401860374",
-      "league": "Football",
-      "name": "Londrina at Avaí",
-      "date": "2026-10-07T22:30Z",
-      "state": "in",
-      "status": "47'",
-      "teams": [
-        {
-          "name": "Avaí",
-          "short": "Avaí",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9966.png",
-          "score": "2"
-        },
-        {
-          "name": "Londrina",
-          "short": "Londrina",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17333.png",
+          "name": "Correcaminos UAT",
+          "short": "Correcaminos",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8931.png",
           "score": "0"
         }
       ],
-      "venue": "Estádio da Ressacada"
+      "venue": "Estadio Tecnólogico de Oaxaca"
     },
     {
-      "id": "401860373",
+      "id": "401841251",
       "league": "Football",
-      "name": "Botafogo-SP at Operário PR",
-      "date": "2026-10-07T22:30Z",
-      "state": "in",
-      "status": "47'",
+      "name": "Flamengo at Santos",
+      "date": "2026-10-08T22:30Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "Operário PR",
-          "short": "Operário PR",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18187.png",
-          "score": "1"
-        },
-        {
-          "name": "Botafogo-SP",
-          "short": "Botafogo-SP",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10281.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Germano Krüger"
-    },
-    {
-      "id": "401860379",
-      "league": "Football",
-      "name": "Fortaleza at América Mineiro",
-      "date": "2026-10-07T23:30Z",
-      "state": "in",
-      "status": "9'",
-      "teams": [
-        {
-          "name": "América Mineiro",
-          "short": "América-MG",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6154.png",
+          "name": "Santos",
+          "short": "Santos",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
           "score": "0"
         },
         {
-          "name": "Fortaleza",
+          "name": "Flamengo",
+          "short": "Flamengo",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estádio Vila Belmiro (Urbano Caldeira)"
+    },
+    {
+      "id": "401841256",
+      "league": "Football",
+      "name": "Atlético-MG at Athletico Paranaense",
+      "date": "2026-10-08T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Athletico-PR",
+          "short": "Athletico-PR",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3458.png",
+          "score": "0"
+        },
+        {
+          "name": "Atlético-MG",
+          "short": "Atlético-MG",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Arena da Baixada"
+    },
+    {
+      "id": "401841248",
+      "league": "Football",
+      "name": "Coritiba at Fluminense",
+      "date": "2026-10-09T00:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Fluminense",
+          "short": "Fluminense",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png",
+          "score": "0"
+        },
+        {
+          "name": "Coritiba",
+          "short": "Coritiba",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3456.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio do Maracana"
+    },
+    {
+      "id": "401841254",
+      "league": "Football",
+      "name": "Bahia at Palmeiras",
+      "date": "2026-10-09T00:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Palmeiras",
+          "short": "Palmeiras",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
+          "score": "0"
+        },
+        {
+          "name": "Bahia",
+          "short": "Bahia",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9967.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Allianz Parque"
+    },
+    {
+      "id": "401860378",
+      "league": "Football",
+      "name": "Criciúma at Ceará",
+      "date": "2026-10-08T22:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Ceará",
+          "short": "Ceará",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9969.png",
+          "score": "0"
+        },
+        {
+          "name": "Criciúma",
+          "short": "Criciúma",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9971.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Arena Castelão"
+    },
+    {
+      "id": "401860381",
+      "league": "Football",
+      "name": "Novorizontino at Náutico",
+      "date": "2026-10-08T22:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Náutico",
+          "short": "Náutico",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7633.png",
+          "score": "0"
+        },
+        {
+          "name": "Novorizontino",
+          "short": "Novorizontino",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18127.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estádio dos Aflitos"
+    },
+    {
+      "id": "401877883",
+      "league": "Football",
+      "name": "Deportes Tolima at Atlético Nacional",
+      "date": "2026-10-08T23:05Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Atlético Nacional",
+          "short": "Atl. Nacional",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5264.png",
+          "score": "0"
+        },
+        {
+          "name": "Deportes Tolima",
+          "short": "Tolima",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5489.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Metropolitano Ciudad de Itagüí"
+    },
+    {
+      "id": "401877887",
+      "league": "Football",
+      "name": "Millonarios at Fortaleza CEIF",
+      "date": "2026-10-09T01:10Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Fortaleza CEIF",
           "short": "Fortaleza",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Estádio Raimundo Sampaio (Independência)"
-    },
-    {
-      "id": "401860375",
-      "league": "Football",
-      "name": "Atlético Goianiense at CRB",
-      "date": "2026-10-07T23:30Z",
-      "state": "in",
-      "status": "9'",
-      "teams": [
-        {
-          "name": "CRB",
-          "short": "CRB",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9970.png",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4928.png",
           "score": "0"
         },
         {
-          "name": "Atlético Goianiense",
-          "short": "Atlético-GO",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10357.png",
+          "name": "Millonarios",
+          "short": "Millonarios",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5484.png",
           "score": "0"
         }
       ],
-      "venue": "Estádio Rei Pelé"
+      "venue": "Metropolitano de Techo"
     },
     {
-      "id": "401860376",
+      "id": "401886173",
       "league": "Football",
-      "name": "Cuiabá at Vila Nova",
-      "date": "2026-10-07T23:30Z",
-      "state": "in",
-      "status": "8'",
-      "teams": [
-        {
-          "name": "Vila Nova",
-          "short": "Vila Nova",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9973.png",
-          "score": "0"
-        },
-        {
-          "name": "Cuiabá",
-          "short": "Cuiabá",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17313.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Estádio Onésio Brasileiro Alvarenga"
-    },
-    {
-      "id": "401926840",
-      "league": "Football",
-      "name": "Universidad de Chile at Antofagasta",
-      "date": "2026-10-07T22:00Z",
-      "state": "in",
-      "status": "79'",
-      "teams": [
-        {
-          "name": "Antofagasta",
-          "short": "Antofagasta",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6071.png",
-          "score": "2"
-        },
-        {
-          "name": "Universidad de Chile",
-          "short": "U de Chile",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4139.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Estadio Bicentenario Calvo y Bascuñán"
-    },
-    {
-      "id": "401916339",
-      "league": "Football",
-      "name": "Cobreloa at Coquimbo Unido",
-      "date": "2026-10-07T22:00Z",
-      "state": "in",
-      "status": "76'",
-      "teams": [
-        {
-          "name": "Coquimbo Unido",
-          "short": "Coquimbo",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8186.png",
-          "score": "2"
-        },
-        {
-          "name": "Cobreloa",
-          "short": "Cobreloa",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2678.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Estadio Francisco Sánchez Rumoroso"
-    },
-    {
-      "id": "401907901",
-      "league": "Football",
-      "name": "GV San José at Independiente Petrolero",
-      "date": "2026-10-07T21:30Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Independiente Petrolero",
-          "short": "CI Petrolero",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20889.png",
-          "score": "1"
-        },
-        {
-          "name": "GV San José",
-          "short": "GV San José",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22174.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Estadio Olímpico Patria"
-    },
-    {
-      "id": "401907902",
-      "league": "Football",
-      "name": "The Strongest at Guabirá",
-      "date": "2026-10-08T00:30Z",
+      "name": "Cienciano del Cusco at Deportivo Moquegua",
+      "date": "2026-10-08T18:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Guabirá",
-          "short": "Guabirá",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9497.png",
+          "name": "Deportivo Moquegua",
+          "short": "Moquegua",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131654.png",
           "score": "0"
         },
         {
-          "name": "The Strongest",
-          "short": "Strongest",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2687.png",
+          "name": "Cienciano del Cusco",
+          "short": "Cienciano",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3372.png",
           "score": "0"
         }
       ],
-      "venue": "Estadio Gilberto Parada"
+      "venue": "Estadio 25 de Noviembre"
     },
     {
-      "id": "401907900",
+      "id": "401886170",
       "league": "Football",
-      "name": "Universitario de Vinto at Oriente Petrolero",
-      "date": "2026-10-08T00:30Z",
+      "name": "Los Chankas at Atlético Grau",
+      "date": "2026-10-08T20:30Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Oriente Petrolero",
-          "short": "Oriente",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2682.png",
+          "name": "Atlético Grau",
+          "short": "Atlético Grau",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20293.png",
           "score": "0"
         },
         {
-          "name": "Universitario de Vinto",
-          "short": "Univ. de Vinto",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21379.png",
+          "name": "Los Chankas",
+          "short": "Los Chankas",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22168.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio Municipal Ambrosio Maco Arroyo"
+    },
+    {
+      "id": "401907899",
+      "league": "Football",
+      "name": "Nacional Potosí at Always Ready",
+      "date": "2026-10-08T19:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Always Ready",
+          "short": "Always Ready",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19425.png",
+          "score": "0"
+        },
+        {
+          "name": "Nacional Potosí",
+          "short": "N Potosí",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10311.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Municipal Villa Ingenio"
+    },
+    {
+      "id": "401907799",
+      "league": "Football",
+      "name": "Bolívar at Blooming",
+      "date": "2026-10-09T00:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Blooming",
+          "short": "Blooming",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6047.png",
+          "score": "0"
+        },
+        {
+          "name": "Bolívar",
+          "short": "Bolívar",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2681.png",
           "score": "0"
         }
       ],
       "venue": "Estadio Ramón Tahuichi"
     },
     {
-      "id": "401925327",
+      "id": "401879561",
       "league": "Football",
-      "name": "Fairfield at Quinnipiac",
-      "date": "2026-10-07T16:00Z",
-      "state": "post",
-      "status": "FT",
+      "name": "Municipal at Antigua GFC",
+      "date": "2026-10-09T01:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "Quinnipiac",
-          "short": "Quinnipiac",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2514.png",
-          "score": "1"
-        },
-        {
-          "name": "Fairfield",
-          "short": "Fairfield",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2217.png",
-          "score": "2"
-        }
-      ],
-      "venue": "Quinnipiac Soccer & Lacrosse Stadium"
-    },
-    {
-      "id": "401901604",
-      "league": "Football",
-      "name": "Green Bay at Oakland",
-      "date": "2026-10-07T18:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Oakland",
-          "short": "Oakland",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2473.png",
+          "name": "Antigua GFC",
+          "short": "Antigua",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7253.png",
           "score": "0"
         },
         {
-          "name": "Green Bay",
-          "short": "Green Bay",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2739.png",
+          "name": "Municipal",
+          "short": "Municipal",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7258.png",
           "score": "0"
         }
       ],
-      "venue": "Oakland Soccer Field"
+      "venue": "Estadio Pensativo"
     },
     {
-      "id": "401902113",
+      "id": "401899718",
       "league": "Football",
-      "name": "George Washington at VCU",
-      "date": "2026-10-07T18:00Z",
-      "state": "post",
-      "status": "FT",
+      "name": "Alianza FC at CD FAS",
+      "date": "2026-10-09T01:30Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "VCU",
-          "short": "VCU",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2670.png",
-          "score": "1"
+          "name": "CD FAS",
+          "short": "CD FAS",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7229.png",
+          "score": "0"
         },
+        {
+          "name": "Alianza FC",
+          "short": "Alianza FC",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7225.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio Óscar Alberto Quiteño"
+    },
+    {
+      "id": "401898895",
+      "league": "Football",
+      "name": "Central Connecticut at Long Island University",
+      "date": "2026-10-08T17:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Long Island University",
+          "short": "Long Island",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2341.png",
+          "score": "0"
+        },
+        {
+          "name": "Central Connecticut",
+          "short": "C Connecticut",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2115.png",
+          "score": "0"
+        }
+      ],
+      "venue": "LIU Soccer Park"
+    },
+    {
+      "id": "401898741",
+      "league": "Football",
+      "name": "Chicago State at Stonehill",
+      "date": "2026-10-08T19:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Stonehill",
+          "short": "Stonehill",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/284.png",
+          "score": "0"
+        },
+        {
+          "name": "Chicago State",
+          "short": "Chicago St",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2130.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Skyhawk Field"
+    },
+    {
+      "id": "401898526",
+      "league": "Football",
+      "name": "Eastern Illinois at Western Illinois",
+      "date": "2026-10-08T21:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Western Illinois",
+          "short": "W Illinois",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2710.png",
+          "score": "0"
+        },
+        {
+          "name": "Eastern Illinois",
+          "short": "E Illinois",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2197.png",
+          "score": "0"
+        }
+      ],
+      "venue": "John MacKenzie Alumni Field"
+    },
+    {
+      "id": "401898573",
+      "league": "Football",
+      "name": "SIU Edwardsville at Incarnate Word",
+      "date": "2026-10-08T21:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Incarnate Word",
+          "short": "Incarnate Word",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2916.png",
+          "score": "0"
+        },
+        {
+          "name": "SIU Edwardsville",
+          "short": "SIUE",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2565.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Gayle and Tom Benson Stadium"
+    },
+    {
+      "id": "401892376",
+      "league": "Football",
+      "name": "Howard at William & Mary",
+      "date": "2026-10-08T22:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "William & Mary",
+          "short": "William & Mary",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2729.png",
+          "score": "0"
+        },
+        {
+          "name": "Howard",
+          "short": "Howard",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/47.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Martin Family Stadium at Albert-Daly Field"
+    },
+    {
+      "id": "401898587",
+      "league": "Football",
+      "name": "UT Rio Grande Valley at Lindenwood",
+      "date": "2026-10-09T00:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Lindenwood",
+          "short": "Lindenwood",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2815.png",
+          "score": "0"
+        },
+        {
+          "name": "UT Rio Grande Valley",
+          "short": "Rio Grande",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/292.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Hunter Stadium"
+    },
+    {
+      "id": "401898560",
+      "league": "Football",
+      "name": "Southern Indiana at Houston Christian",
+      "date": "2026-10-09T00:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Houston Christian",
+          "short": "Hou Christian",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2277.png",
+          "score": "0"
+        },
+        {
+          "name": "Southern Indiana",
+          "short": "S Indiana",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/88.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Sorrels Field"
+    },
+    {
+      "id": "401890261",
+      "league": "Football",
+      "name": "Idaho at Northern Colorado",
+      "date": "2026-10-08T18:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Northern Colorado",
+          "short": "N Colorado",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
+          "score": "0"
+        },
+        {
+          "name": "Idaho",
+          "short": "Idaho",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/70.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Jackson Stadium"
+    },
+    {
+      "id": "401889927",
+      "league": "Football",
+      "name": "George Mason at George Washington",
+      "date": "2026-10-08T19:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
         {
           "name": "George Washington",
           "short": "G Washington",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/45.png",
-          "score": "1"
-        }
-      ],
-      "venue": "SportsBackers Stadium"
-    },
-    {
-      "id": "401901613",
-      "league": "Football",
-      "name": "Robert Morris at IU Indianapolis",
-      "date": "2026-10-07T19:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "IU Indianapolis",
-          "short": "IU Indy",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/85.png",
-          "score": "1"
-        },
-        {
-          "name": "Robert Morris",
-          "short": "Robert Morris",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2523.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Michael A. Carroll Stadium"
-    },
-    {
-      "id": "401901573",
-      "league": "Football",
-      "name": "Detroit Mercy at Northern Illinois",
-      "date": "2026-10-07T20:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Northern Illinois",
-          "short": "N Illinois",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
-          "score": "2"
-        },
-        {
-          "name": "Detroit Mercy",
-          "short": "Detroit Mercy",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2174.png",
-          "score": "2"
-        }
-      ],
-      "venue": "NIU Soccer and Track & Field Complex"
-    },
-    {
-      "id": "401891902",
-      "league": "Football",
-      "name": "NC State at UNC Greensboro",
-      "date": "2026-10-07T22:00Z",
-      "state": "in",
-      "status": "59'",
-      "teams": [
-        {
-          "name": "UNC Greensboro",
-          "short": "UNC Greensboro",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2430.png",
-          "score": "1"
-        },
-        {
-          "name": "NC State",
-          "short": "NC State",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
-          "score": "1"
-        }
-      ],
-      "venue": "UNCG Soccer Stadium"
-    },
-    {
-      "id": "401902101",
-      "league": "Football",
-      "name": "Saint Louis at Fordham",
-      "date": "2026-10-07T23:00Z",
-      "state": "in",
-      "status": "28'",
-      "teams": [
-        {
-          "name": "Fordham",
-          "short": "Fordham",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2230.png",
           "score": "0"
         },
-        {
-          "name": "Saint Louis",
-          "short": "Saint Louis",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/139.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Moglia Stadium at Jack Coffey Field"
-    },
-    {
-      "id": "401902105",
-      "league": "Football",
-      "name": "Loyola Chicago at George Mason",
-      "date": "2026-10-07T23:00Z",
-      "state": "in",
-      "status": "27'",
-      "teams": [
         {
           "name": "George Mason",
           "short": "George Mason",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2244.png",
-          "score": "1"
-        },
-        {
-          "name": "Loyola Chicago",
-          "short": "Loyola Chicago",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2350.png",
           "score": "0"
         }
       ],
-      "venue": "George Mason Stadium"
+      "venue": "GW Soccer Field"
     },
     {
-      "id": "401899177",
+      "id": "401901503",
       "league": "Football",
-      "name": "Tulsa at Kansas City",
-      "date": "2026-10-07T23:00Z",
-      "state": "in",
-      "status": "30'",
+      "name": "Central Arkansas at Eastern Kentucky",
+      "date": "2026-10-08T20:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "Kansas City",
-          "short": "Kansas City",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/140.png",
-          "score": "1"
-        },
-        {
-          "name": "Tulsa",
-          "short": "Tulsa",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/202.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Stanley H. Durwood Soccer Stadium & Recreational Field"
-    },
-    {
-      "id": "401901638",
-      "league": "Football",
-      "name": "Wright State at Northern Kentucky",
-      "date": "2026-10-07T23:00Z",
-      "state": "in",
-      "status": "33'",
-      "teams": [
-        {
-          "name": "Northern Kentucky",
-          "short": "N Kentucky",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/94.png",
-          "score": "1"
-        },
-        {
-          "name": "Wright State",
-          "short": "Wright St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2750.png",
-          "score": "0"
-        }
-      ],
-      "venue": "NKU Soccer Stadium"
-    },
-    {
-      "id": "401901563",
-      "league": "Football",
-      "name": "Cleveland State at Purdue Fort Wayne",
-      "date": "2026-10-07T23:00Z",
-      "state": "in",
-      "status": "31'",
-      "teams": [
-        {
-          "name": "Purdue Fort Wayne",
-          "short": "Purdue FW",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2870.png",
+          "name": "Eastern Kentucky",
+          "short": "E Kentucky",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2198.png",
           "score": "0"
         },
         {
-          "name": "Cleveland State",
-          "short": "Cleveland St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/325.png",
+          "name": "Central Arkansas",
+          "short": "C Arkansas",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2110.png",
           "score": "0"
         }
       ],
-      "venue": "Hefner Soccer Complex"
+      "venue": "EKU Soccer Field"
     },
     {
-      "id": "401901258",
+      "id": "401900088",
       "league": "Football",
-      "name": "Davidson at Rhode Island",
-      "date": "2026-10-07T23:00Z",
-      "state": "in",
-      "status": "33'",
+      "name": "Long Island University at Le Moyne",
+      "date": "2026-10-08T20:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "Rhode Island",
-          "short": "Rhode Island",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/227.png",
-          "score": "1"
+          "name": "Le Moyne",
+          "short": "Le Moyne",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2330.png",
+          "score": "0"
         },
         {
-          "name": "Davidson",
-          "short": "Davidson",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2166.png",
+          "name": "Long Island University",
+          "short": "Long Island",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2341.png",
           "score": "0"
         }
       ],
-      "venue": "URI Soccer Complex"
+      "venue": "Ted Grant Field"
     },
     {
-      "id": "401891124",
+      "id": "401900103",
       "league": "Football",
-      "name": "Gonzaga at Sacramento State",
-      "date": "2026-10-07T23:00Z",
-      "state": "in",
-      "status": "26'",
+      "name": "Omaha at North Dakota",
+      "date": "2026-10-08T20:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "Sacramento State",
-          "short": "Sacramento St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/16.png",
+          "name": "North Dakota",
+          "short": "North Dakota",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/155.png",
+          "score": "0"
+        },
+        {
+          "name": "Omaha",
+          "short": "Omaha",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2437.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Bronson Field"
+    },
+    {
+      "id": "401900120",
+      "league": "Football",
+      "name": "Fairleigh Dickinson at Delaware State",
+      "date": "2026-10-08T21:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Delaware State",
+          "short": "Delaware St",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2169.png",
+          "score": "0"
+        },
+        {
+          "name": "Fairleigh Dickinson",
+          "short": "FDU",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/161.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Drass Field"
+    },
+    {
+      "id": "401890296",
+      "league": "Football",
+      "name": "App State at Georgia Southern",
+      "date": "2026-10-08T21:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Georgia Southern",
+          "short": "GA Southern",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/290.png",
+          "score": "0"
+        },
+        {
+          "name": "App State",
+          "short": "App State",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2026.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Bo Pitts Field at Erk Russell Athletic Park"
+    },
+    {
+      "id": "401900354",
+      "league": "Football",
+      "name": "Washington State at Utah State",
+      "date": "2026-10-08T21:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Utah State",
+          "short": "Utah State",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
+          "score": "0"
+        },
+        {
+          "name": "Washington State",
+          "short": "Washington St",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/265.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Chuck & Gloria Bell Soccer Field"
+    },
+    {
+      "id": "401890342",
+      "league": "Football",
+      "name": "Southern Miss at Coastal Carolina",
+      "date": "2026-10-08T22:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Coastal Carolina",
+          "short": "Coastal",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/324.png",
+          "score": "0"
+        },
+        {
+          "name": "Southern Miss",
+          "short": "Southern Miss",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2572.png",
+          "score": "0"
+        }
+      ],
+      "venue": "CCU Soccer Stadium"
+    },
+    {
+      "id": "401890404",
+      "league": "Football",
+      "name": "Gonzaga at Colorado State",
+      "date": "2026-10-08T22:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Colorado State",
+          "short": "Colorado State",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
           "score": "0"
         },
         {
@@ -782,43 +759,779 @@
           "score": "0"
         }
       ],
-      "venue": "Hornet Field"
+      "venue": "CSU Soccer Field"
     },
     {
-      "id": "401902129",
+      "id": "401887601",
       "league": "Football",
-      "name": "La Salle at Saint Joseph's",
-      "date": "2026-10-07T23:00Z",
-      "state": "in",
-      "status": "31'",
-      "teams": [
-        {
-          "name": "Saint Joseph's",
-          "short": "Saint Joseph's",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2603.png",
-          "score": "1"
-        },
-        {
-          "name": "La Salle",
-          "short": "La Salle",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2325.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Sean Sweeney Field"
-    },
-    {
-      "id": "401899006",
-      "league": "Football",
-      "name": "Oral Roberts at Missouri State",
-      "date": "2026-10-08T00:00Z",
+      "name": "Charleston at Drexel",
+      "date": "2026-10-08T22:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Missouri State",
-          "short": "Missouri St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
+          "name": "Drexel",
+          "short": "Drexel",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2182.png",
+          "score": "0"
+        },
+        {
+          "name": "Charleston",
+          "short": "Charleston",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/232.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Vidas Field"
+    },
+    {
+      "id": "401900285",
+      "league": "Football",
+      "name": "Jackson State at Grambling",
+      "date": "2026-10-08T22:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Grambling",
+          "short": "Grambling",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2755.png",
+          "score": "0"
+        },
+        {
+          "name": "Jackson State",
+          "short": "Jackson St",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2296.png",
+          "score": "0"
+        }
+      ],
+      "venue": "GSU Soccer Complex"
+    },
+    {
+      "id": "401889665",
+      "league": "Football",
+      "name": "SE Louisiana at Houston Christian",
+      "date": "2026-10-08T22:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Houston Christian",
+          "short": "Hou Christian",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2277.png",
+          "score": "0"
+        },
+        {
+          "name": "SE Louisiana",
+          "short": "SE Louisiana",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2545.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Sorrels Field"
+    },
+    {
+      "id": "401889965",
+      "league": "Football",
+      "name": "Richmond at La Salle",
+      "date": "2026-10-08T22:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "La Salle",
+          "short": "La Salle",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2325.png",
+          "score": "0"
+        },
+        {
+          "name": "Richmond",
+          "short": "Richmond",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/257.png",
+          "score": "0"
+        }
+      ],
+      "venue": "McCarthy Stadium (Philadelphia)"
+    },
+    {
+      "id": "401887399",
+      "league": "Football",
+      "name": "Campbell at Monmouth",
+      "date": "2026-10-08T22:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Monmouth",
+          "short": "Monmouth",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2405.png",
+          "score": "0"
+        },
+        {
+          "name": "Campbell",
+          "short": "Campbell",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2097.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Hesse Field on The Great Lawn"
+    },
+    {
+      "id": "401889798",
+      "league": "Football",
+      "name": "Pittsburgh at NC State",
+      "date": "2026-10-08T22:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "NC State",
+          "short": "NC State",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
+          "score": "0"
+        },
+        {
+          "name": "Pittsburgh",
+          "short": "Pittsburgh",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/221.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Dail Soccer Field/Track Complex"
+    },
+    {
+      "id": "401887628",
+      "league": "Football",
+      "name": "Elon at Northeastern",
+      "date": "2026-10-08T22:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Northeastern",
+          "short": "Northeastern",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/111.png",
+          "score": "0"
+        },
+        {
+          "name": "Elon",
+          "short": "Elon",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2210.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Parsons Field"
+    },
+    {
+      "id": "401891371",
+      "league": "Football",
+      "name": "Marshall at Old Dominion",
+      "date": "2026-10-08T22:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Old Dominion",
+          "short": "Old Dominion",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/295.png",
+          "score": "0"
+        },
+        {
+          "name": "Marshall",
+          "short": "Marshall",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/276.png",
+          "score": "0"
+        }
+      ],
+      "venue": "ODU Soccer Stadium"
+    },
+    {
+      "id": "401900265",
+      "league": "Football",
+      "name": "Alabama State at Prairie View A&M",
+      "date": "2026-10-08T22:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Prairie View A&M",
+          "short": "Prairie View",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2504.png",
+          "score": "0"
+        },
+        {
+          "name": "Alabama State",
+          "short": "Alabama St",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2011.png",
+          "score": "0"
+        }
+      ],
+      "venue": "PVAMU Soccer Complex"
+    },
+    {
+      "id": "401889946",
+      "league": "Football",
+      "name": "Loyola Chicago at St Bonaventure",
+      "date": "2026-10-08T22:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "St Bonaventure",
+          "short": "St Bonaventure",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/179.png",
+          "score": "0"
+        },
+        {
+          "name": "Loyola Chicago",
+          "short": "Loyola Chicago",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2350.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Marra Athletics Fields Complex"
+    },
+    {
+      "id": "401887655",
+      "league": "Football",
+      "name": "Hampton at Stony Brook",
+      "date": "2026-10-08T22:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Stony Brook",
+          "short": "Stony Brook",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2619.png",
+          "score": "0"
+        },
+        {
+          "name": "Hampton",
+          "short": "Hampton",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2261.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Kenneth P. LaValle Stadium"
+    },
+    {
+      "id": "401889460",
+      "league": "Football",
+      "name": "UNC Wilmington at Towson",
+      "date": "2026-10-08T22:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Towson",
+          "short": "Towson",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/119.png",
+          "score": "0"
+        },
+        {
+          "name": "UNC Wilmington",
+          "short": "UNC Wilmington",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/350.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Tiger Field"
+    },
+    {
+      "id": "401891396",
+      "league": "Football",
+      "name": "Louisiana Tech at Troy",
+      "date": "2026-10-08T22:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Troy",
+          "short": "Troy",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2653.png",
+          "score": "0"
+        },
+        {
+          "name": "Louisiana Tech",
+          "short": "Louisiana Tech",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Troy Soccer Complex"
+    },
+    {
+      "id": "401889850",
+      "league": "Football",
+      "name": "Little Rock at West Georgia",
+      "date": "2026-10-08T22:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "West Georgia",
+          "short": "West Georgia",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2698.png",
+          "score": "0"
+        },
+        {
+          "name": "Little Rock",
+          "short": "Little Rock",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2031.png",
+          "score": "0"
+        }
+      ],
+      "venue": "University Soccer Field"
+    },
+    {
+      "id": "401889865",
+      "league": "Football",
+      "name": "Tarleton State at Austin Peay",
+      "date": "2026-10-08T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Austin Peay",
+          "short": "Austin Peay",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2046.png",
+          "score": "0"
+        },
+        {
+          "name": "Tarleton State",
+          "short": "Tarleton St",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2627.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Morgan Bros. Field"
+    },
+    {
+      "id": "401887812",
+      "league": "Football",
+      "name": "East Carolina at Charlotte",
+      "date": "2026-10-08T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Charlotte",
+          "short": "Charlotte",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2429.png",
+          "score": "0"
+        },
+        {
+          "name": "East Carolina",
+          "short": "East Carolina",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/151.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Transamerica Field"
+    },
+    {
+      "id": "401886883",
+      "league": "Football",
+      "name": "Utah at Cincinnati",
+      "date": "2026-10-08T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Cincinnati",
+          "short": "Cincinnati",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2132.png",
+          "score": "0"
+        },
+        {
+          "name": "Utah",
+          "short": "Utah",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Gettler Stadium"
+    },
+    {
+      "id": "401889878",
+      "league": "Football",
+      "name": "Rhode Island at Davidson",
+      "date": "2026-10-08T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Davidson",
+          "short": "Davidson",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2166.png",
+          "score": "0"
+        },
+        {
+          "name": "Rhode Island",
+          "short": "Rhode Island",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/227.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Alumni Soccer Stadium"
+    },
+    {
+      "id": "401889889",
+      "league": "Football",
+      "name": "Dayton at Duquesne",
+      "date": "2026-10-08T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Duquesne",
+          "short": "Duquesne",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2184.png",
+          "score": "0"
+        },
+        {
+          "name": "Dayton",
+          "short": "Dayton",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2168.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Rooney Field"
+    },
+    {
+      "id": "401883592",
+      "league": "Football",
+      "name": "Alabama at Florida",
+      "date": "2026-10-08T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Florida",
+          "short": "Florida",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+          "score": "0"
+        },
+        {
+          "name": "Alabama",
+          "short": "Alabama",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Donald R. Dizney Stadium"
+    },
+    {
+      "id": "401897184",
+      "league": "Football",
+      "name": "North Florida at Florida Gulf Coast",
+      "date": "2026-10-08T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Florida Gulf Coast",
+          "short": "FGCU",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/526.png",
+          "score": "0"
+        },
+        {
+          "name": "North Florida",
+          "short": "North Florida",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2454.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Pickering Field at the FGCU Soccer Complex"
+    },
+    {
+      "id": "401889911",
+      "league": "Football",
+      "name": "VCU at Fordham",
+      "date": "2026-10-08T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Fordham",
+          "short": "Fordham",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2230.png",
+          "score": "0"
+        },
+        {
+          "name": "VCU",
+          "short": "VCU",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2670.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Moglia Stadium at Jack Coffey Field"
+    },
+    {
+      "id": "401889477",
+      "league": "Football",
+      "name": "William & Mary at Hofstra",
+      "date": "2026-10-08T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Hofstra",
+          "short": "Hofstra",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2275.png",
+          "score": "0"
+        },
+        {
+          "name": "William & Mary",
+          "short": "William & Mary",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2729.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Captains Field"
+    },
+    {
+      "id": "401883741",
+      "league": "Football",
+      "name": "Nebraska at Maryland",
+      "date": "2026-10-08T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Maryland",
+          "short": "Maryland",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
+          "score": "0"
+        },
+        {
+          "name": "Nebraska",
+          "short": "Nebraska",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Ludwig Field"
+    },
+    {
+      "id": "401883771",
+      "league": "Football",
+      "name": "Minnesota at Michigan State",
+      "date": "2026-10-08T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Michigan State",
+          "short": "Michigan St",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+          "score": "0"
+        },
+        {
+          "name": "Minnesota",
+          "short": "Minnesota",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png",
+          "score": "0"
+        }
+      ],
+      "venue": "DeMartin Stadium"
+    },
+    {
+      "id": "401900115",
+      "league": "Football",
+      "name": "St. Thomas at North Dakota State",
+      "date": "2026-10-08T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "North Dakota State",
+          "short": "N Dakota St",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2449.png",
+          "score": "0"
+        },
+        {
+          "name": "St. Thomas",
+          "short": "St Thomas",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2900.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Dacotah Field"
+    },
+    {
+      "id": "401901458",
+      "league": "Football",
+      "name": "Virginia at Notre Dame",
+      "date": "2026-10-08T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Notre Dame",
+          "short": "Notre Dame",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/87.png",
+          "score": "0"
+        },
+        {
+          "name": "Virginia",
+          "short": "Virginia",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Alumni Stadium"
+    },
+    {
+      "id": "401883756",
+      "league": "Football",
+      "name": "Michigan at Purdue",
+      "date": "2026-10-08T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Purdue",
+          "short": "Purdue",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
+          "score": "0"
+        },
+        {
+          "name": "Michigan",
+          "short": "Michigan",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Folk Field"
+    },
+    {
+      "id": "401885532",
+      "league": "Football",
+      "name": "Bellarmine at Queens University",
+      "date": "2026-10-08T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Queens University",
+          "short": "Queens",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2511.png",
+          "score": "0"
+        },
+        {
+          "name": "Bellarmine",
+          "short": "Bellarmine",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/91.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Queens Sports Complex"
+    },
+    {
+      "id": "401901409",
+      "league": "Football",
+      "name": "UAB at Rice",
+      "date": "2026-10-08T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Rice",
+          "short": "Rice",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/242.png",
+          "score": "0"
+        },
+        {
+          "name": "UAB",
+          "short": "UAB",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/5.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Holloway Field"
+    },
+    {
+      "id": "401883978",
+      "league": "Football",
+      "name": "Northwestern at Rutgers",
+      "date": "2026-10-08T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Rutgers",
+          "short": "Rutgers",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/164.png",
+          "score": "0"
+        },
+        {
+          "name": "Northwestern",
+          "short": "Northwestern",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
+          "score": "0"
+        }
+      ],
+      "venue": "RWJBarnabas Health Stadium at Yurcak Field"
+    },
+    {
+      "id": "401889831",
+      "league": "Football",
+      "name": "Virginia Tech at SMU",
+      "date": "2026-10-08T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "SMU",
+          "short": "SMU",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
+          "score": "0"
+        },
+        {
+          "name": "Virginia Tech",
+          "short": "Virginia Tech",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/259.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Washburne Soccer and Track Stadium"
+    },
+    {
+      "id": "401896609",
+      "league": "Football",
+      "name": "Kansas City at South Dakota",
+      "date": "2026-10-08T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "South Dakota",
+          "short": "South Dakota",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/233.png",
+          "score": "0"
+        },
+        {
+          "name": "Kansas City",
+          "short": "Kansas City",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/140.png",
+          "score": "0"
+        }
+      ],
+      "venue": "First Bank & Trust Soccer Complex"
+    },
+    {
+      "id": "401900159",
+      "league": "Football",
+      "name": "Oral Roberts at South Dakota State",
+      "date": "2026-10-08T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "South Dakota State",
+          "short": "S Dakota St",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2571.png",
           "score": "0"
         },
         {
@@ -828,651 +1541,766 @@
           "score": "0"
         }
       ],
-      "venue": "Betty and Bobby Allison South Stadium"
+      "venue": "Fishback Soccer Park"
     },
     {
-      "id": "401891081",
+      "id": "401901380",
       "league": "Football",
-      "name": "Cal State Northridge at UC Irvine",
-      "date": "2026-10-08T01:00Z",
+      "name": "UTSA at South Florida",
+      "date": "2026-10-08T23:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "UC Irvine",
-          "short": "UC Irvine",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/300.png",
+          "name": "South Florida",
+          "short": "South Florida",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/58.png",
           "score": "0"
         },
         {
-          "name": "Cal State Northridge",
-          "short": "CSU Northridge",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2463.png",
+          "name": "UTSA",
+          "short": "UTSA",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2636.png",
           "score": "0"
         }
       ],
-      "venue": "Anteater Stadium"
+      "venue": "Corbett Stadium"
     },
     {
-      "id": "401891045",
+      "id": "401885541",
       "league": "Football",
-      "name": "UC Santa Barbara at Cal State Bakersfield",
-      "date": "2026-10-08T02:00Z",
+      "name": "Jacksonville at Stetson",
+      "date": "2026-10-08T23:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Cal State Bakersfield",
-          "short": "CSU Bakersfield",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2934.png",
+          "name": "Stetson",
+          "short": "Stetson",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/56.png",
           "score": "0"
         },
         {
-          "name": "UC Santa Barbara",
-          "short": "Santa Barbara",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2540.png",
+          "name": "Jacksonville",
+          "short": "Jacksonville",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/294.png",
           "score": "0"
         }
       ],
-      "venue": "CSUB Main Soccer Field"
+      "venue": "Athletic Training Center"
     },
     {
-      "id": "401891063",
+      "id": "401889841",
       "league": "Football",
-      "name": "Utah Valley at Cal State Fullerton",
-      "date": "2026-10-08T02:00Z",
+      "name": "Stanford at Syracuse",
+      "date": "2026-10-08T23:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Cal State Fullerton",
-          "short": "Fullerton",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2239.png",
+          "name": "Syracuse",
+          "short": "Syracuse",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/183.png",
           "score": "0"
         },
         {
-          "name": "Utah Valley",
-          "short": "Utah Valley",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/3084.png",
+          "name": "Stanford",
+          "short": "Stanford",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
           "score": "0"
         }
       ],
-      "venue": "Titan Stadium"
+      "venue": "SU Soccer Stadium"
     },
     {
-      "id": "401897950",
+      "id": "401900300",
       "league": "Football",
-      "name": "Oregon State at California Baptist",
-      "date": "2026-10-08T02:00Z",
+      "name": "Southern at Texas Southern",
+      "date": "2026-10-08T23:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "California Baptist",
-          "short": "CA Baptist",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2856.png",
+          "name": "Texas Southern",
+          "short": "Texas Southern",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2640.png",
           "score": "0"
         },
+        {
+          "name": "Southern",
+          "short": "Southern",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2582.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Alexander Durley Stadium"
+    },
+    {
+      "id": "401885557",
+      "league": "Football",
+      "name": "Lipscomb at West Florida",
+      "date": "2026-10-08T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "West Florida",
+          "short": "West Florida",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2697.png",
+          "score": "0"
+        },
+        {
+          "name": "Lipscomb",
+          "short": "Lipscomb",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/288.png",
+          "score": "0"
+        }
+      ],
+      "venue": "UWF Soccer Complex"
+    },
+    {
+      "id": "401886858",
+      "league": "Football",
+      "name": "BYU at West Virginia",
+      "date": "2026-10-08T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "West Virginia",
+          "short": "West Virginia",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/277.png",
+          "score": "0"
+        },
+        {
+          "name": "BYU",
+          "short": "BYU",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Dick Dlesk Soccer Stadium"
+    },
+    {
+      "id": "401887054",
+      "league": "Football",
+      "name": "Kansas at Kansas State",
+      "date": "2026-10-08T23:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Kansas State",
+          "short": "Kansas St",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
+          "score": "0"
+        },
+        {
+          "name": "Kansas",
+          "short": "Kansas",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Buser Family Park"
+    },
+    {
+      "id": "401889715",
+      "league": "Football",
+      "name": "McNeese at UT Rio Grande Valley",
+      "date": "2026-10-08T23:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "UT Rio Grande Valley",
+          "short": "UT Rio Grande",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/292.png",
+          "score": "0"
+        },
+        {
+          "name": "McNeese",
+          "short": "McNeese",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2377.png",
+          "score": "0"
+        }
+      ],
+      "venue": "UTRGV Soccer and Track & Field Complex"
+    },
+    {
+      "id": "401900275",
+      "league": "Football",
+      "name": "Arkansas-Pine Bluff at Alcorn State",
+      "date": "2026-10-09T00:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Alcorn State",
+          "short": "Alcorn St",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2016.png",
+          "score": "0"
+        },
+        {
+          "name": "Arkansas-Pine Bluff",
+          "short": "AR-Pine Bluff",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2029.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Key City Park"
+    },
+    {
+      "id": "401891357",
+      "league": "Football",
+      "name": "South Alabama at Louisiana",
+      "date": "2026-10-09T00:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Louisiana",
+          "short": "Louisiana",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/309.png",
+          "score": "0"
+        },
+        {
+          "name": "South Alabama",
+          "short": "South Alabama",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/6.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Home Bank Soccer/Track Facility"
+    },
+    {
+      "id": "401888008",
+      "league": "Football",
+      "name": "Tulsa at Memphis",
+      "date": "2026-10-09T00:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Memphis",
+          "short": "Memphis",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/235.png",
+          "score": "0"
+        },
+        {
+          "name": "Tulsa",
+          "short": "Tulsa",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/202.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Billy J. Murphy Soccer/Track & Field Complex"
+    },
+    {
+      "id": "401890194",
+      "league": "Football",
+      "name": "Stephen F. Austin at Nicholls",
+      "date": "2026-10-09T00:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Nicholls",
+          "short": "Nicholls",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2447.png",
+          "score": "0"
+        },
+        {
+          "name": "Stephen F. Austin",
+          "short": "SF Austin",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Thibodaux Regional Sports Complex"
+    },
+    {
+      "id": "401901513",
+      "league": "Football",
+      "name": "Abilene Christian at North Alabama",
+      "date": "2026-10-09T00:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "North Alabama",
+          "short": "North Alabama",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2453.png",
+          "score": "0"
+        },
+        {
+          "name": "Abilene Christian",
+          "short": "Abilene Chrstn",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2000.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Cox Creek Spring Sports Complex"
+    },
+    {
+      "id": "401901436",
+      "league": "Football",
+      "name": "Florida Atlantic at North Texas",
+      "date": "2026-10-09T00:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "North Texas",
+          "short": "North Texas",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/249.png",
+          "score": "0"
+        },
+        {
+          "name": "Florida Atlantic",
+          "short": "FAU",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2226.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Norma Knobel Hunt Stadium"
+    },
+    {
+      "id": "401889626",
+      "league": "Football",
+      "name": "East Texas A&M at Northwestern State",
+      "date": "2026-10-09T00:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Northwestern State",
+          "short": "N'Western St",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2466.png",
+          "score": "0"
+        },
+        {
+          "name": "East Texas A&M",
+          "short": "East Texas A&M",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2837.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Lady Demon Soccer Complex"
+    },
+    {
+      "id": "401887076",
+      "league": "Football",
+      "name": "Texas Tech at Oklahoma State",
+      "date": "2026-10-09T00:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Oklahoma State",
+          "short": "Oklahoma St",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
+          "score": "0"
+        },
+        {
+          "name": "Texas Tech",
+          "short": "Texas Tech",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Neal Patterson Stadium"
+    },
+    {
+      "id": "401889975",
+      "league": "Football",
+      "name": "Saint Joseph's at Saint Louis",
+      "date": "2026-10-09T00:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Saint Louis",
+          "short": "Saint Louis",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/139.png",
+          "score": "0"
+        },
+        {
+          "name": "Saint Joseph's",
+          "short": "Saint Joseph's",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2603.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Robert R. Hermann Stadium"
+    },
+    {
+      "id": "401887081",
+      "league": "Football",
+      "name": "UCF at TCU",
+      "date": "2026-10-09T00:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "TCU",
+          "short": "TCU",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png",
+          "score": "0"
+        },
+        {
+          "name": "UCF",
+          "short": "UCF",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Garvey-Rosenthal Soccer Stadium"
+    },
+    {
+      "id": "401891407",
+      "league": "Football",
+      "name": "Georgia State at UL Monroe",
+      "date": "2026-10-09T00:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "UL Monroe",
+          "short": "UL Monroe",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2433.png",
+          "score": "0"
+        },
+        {
+          "name": "Georgia State",
+          "short": "Georgia St",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2247.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Brown Stadium (LA)"
+    },
+    {
+      "id": "401883989",
+      "league": "Football",
+      "name": "Ohio State at Wisconsin",
+      "date": "2026-10-09T00:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Wisconsin",
+          "short": "Wisconsin",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
+          "score": "0"
+        },
+        {
+          "name": "Ohio State",
+          "short": "Ohio State",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+          "score": "0"
+        }
+      ],
+      "venue": "McClimon Track/Soccer Complex"
+    },
+    {
+      "id": "401889682",
+      "league": "Football",
+      "name": "Texas A&M-Corpus Christi at Incarnate Word",
+      "date": "2026-10-09T00:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Incarnate Word",
+          "short": "Incarnate Word",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2916.png",
+          "score": "0"
+        },
+        {
+          "name": "Texas A&M-Corpus Christi",
+          "short": "Texas A&M-CC",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/357.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Gayle and Tom Benson Stadium"
+    },
+    {
+      "id": "401900072",
+      "league": "Football",
+      "name": "Stonehill at Chicago State",
+      "date": "2026-10-09T01:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Chicago State",
+          "short": "Chicago State",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2130.png",
+          "score": "0"
+        },
+        {
+          "name": "Stonehill",
+          "short": "Stonehill",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/284.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Gwendolyn Brooks College Prep"
+    },
+    {
+      "id": "401886981",
+      "league": "Football",
+      "name": "Baylor at Colorado",
+      "date": "2026-10-09T01:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Colorado",
+          "short": "Colorado",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+          "score": "0"
+        },
+        {
+          "name": "Baylor",
+          "short": "Baylor",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Prentup Field"
+    },
+    {
+      "id": "401890312",
+      "league": "Football",
+      "name": "Southern Utah at Idaho State",
+      "date": "2026-10-09T01:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Idaho State",
+          "short": "Idaho St",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/304.png",
+          "score": "0"
+        },
+        {
+          "name": "Southern Utah",
+          "short": "Southern Utah",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/253.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Davis Field"
+    },
+    {
+      "id": "401884073",
+      "league": "Football",
+      "name": "Penn State at Oregon",
+      "date": "2026-10-09T01:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Oregon",
+          "short": "Oregon",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
+          "score": "0"
+        },
+        {
+          "name": "Penn State",
+          "short": "Penn State",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Pape Field"
+    },
+    {
+      "id": "401900345",
+      "league": "Football",
+      "name": "San Diego State at Oregon State",
+      "date": "2026-10-09T01:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
         {
           "name": "Oregon State",
           "short": "Oregon State",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/204.png",
           "score": "0"
-        }
-      ],
-      "venue": "CBU Soccer Stadium"
-    },
-    {
-      "id": "401891297",
-      "league": "Football",
-      "name": "Cal Poly at San Diego State",
-      "date": "2026-10-08T02:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
+        },
         {
           "name": "San Diego State",
           "short": "San Diego St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
           "score": "0"
-        },
-        {
-          "name": "Cal Poly",
-          "short": "Cal Poly",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
-          "score": "0"
         }
       ],
-      "venue": "SDSU Sports Deck"
+      "venue": "Paul Lorenz Field"
     },
     {
-      "id": "401898057",
+      "id": "401897249",
       "league": "Football",
-      "name": "UC San Diego at UC Riverside",
-      "date": "2026-10-08T02:00Z",
+      "name": "Utah Tech at Weber State",
+      "date": "2026-10-09T01:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "UC Riverside",
-          "short": "UC Riverside",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/27.png",
+          "name": "Weber State",
+          "short": "Weber St",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2692.png",
           "score": "0"
         },
         {
-          "name": "UC San Diego",
-          "short": "UC San Diego",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/28.png",
+          "name": "Utah Tech",
+          "short": "Utah Tech",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/3101.png",
           "score": "0"
         }
       ],
-      "venue": "UC Riverside Soccer Stadium"
+      "venue": "Wildcat Soccer Field"
     },
     {
-      "id": "401890051",
+      "id": "401886951",
       "league": "Football",
-      "name": "Mount St. Mary's at Niagara",
-      "date": "2026-10-07T16:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Niagara",
-          "short": "Niagara",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/315.png",
-          "score": "2"
-        },
-        {
-          "name": "Mount St. Mary's",
-          "short": "Mount St Marys",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/116.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Niagara Field"
-    },
-    {
-      "id": "401899988",
-      "league": "Football",
-      "name": "Saint Peter's at Iona",
-      "date": "2026-10-07T17:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Iona",
-          "short": "Iona",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/314.png",
-          "score": "4"
-        },
-        {
-          "name": "Saint Peter's",
-          "short": "St Peter's",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2612.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Mazzella Field"
-    },
-    {
-      "id": "401890031",
-      "league": "Football",
-      "name": "Rider at Manhattan",
-      "date": "2026-10-07T19:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Manhattan",
-          "short": "Manhattan",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2363.png",
-          "score": "1"
-        },
-        {
-          "name": "Rider",
-          "short": "Rider",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2520.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Gaelic Park"
-    },
-    {
-      "id": "401890016",
-      "league": "Football",
-      "name": "Sacred Heart at Quinnipiac",
-      "date": "2026-10-07T19:30Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Quinnipiac",
-          "short": "Quinnipiac",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2514.png",
-          "score": "1"
-        },
-        {
-          "name": "Sacred Heart",
-          "short": "Sacred Heart",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2529.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Quinnipiac Soccer & Lacrosse Stadium"
-    },
-    {
-      "id": "401890000",
-      "league": "Football",
-      "name": "Canisius at Siena",
-      "date": "2026-10-07T20:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Siena",
-          "short": "Siena",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2561.png",
-          "score": "2"
-        },
-        {
-          "name": "Canisius",
-          "short": "Canisius",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2099.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Hickey Field"
-    },
-    {
-      "id": "401886600",
-      "league": "Football",
-      "name": "Xavier at Villanova",
-      "date": "2026-10-07T20:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Villanova",
-          "short": "Villanova",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/222.png",
-          "score": "0"
-        },
-        {
-          "name": "Xavier",
-          "short": "Xavier",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2752.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Higgins Soccer Complex"
-    },
-    {
-      "id": "401901014",
-      "league": "Football",
-      "name": "San José State at Wyoming",
-      "date": "2026-10-07T21:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Wyoming",
-          "short": "Wyoming",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
-          "score": "4"
-        },
-        {
-          "name": "San José State",
-          "short": "San José St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Madrid Sports Complex"
-    },
-    {
-      "id": "401890332",
-      "league": "Football",
-      "name": "James Madison at Arkansas State",
-      "date": "2026-10-07T21:30Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Arkansas State",
-          "short": "Arkansas St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2032.png",
-          "score": "0"
-        },
-        {
-          "name": "James Madison",
-          "short": "James Madison",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/256.png",
-          "score": "2"
-        }
-      ],
-      "venue": "A-State Soccer Park"
-    },
-    {
-      "id": "401886654",
-      "league": "Football",
-      "name": "Georgetown at Providence",
-      "date": "2026-10-07T22:00Z",
-      "state": "in",
-      "status": "72'",
-      "teams": [
-        {
-          "name": "Providence",
-          "short": "Providence",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2507.png",
-          "score": "1"
-        },
-        {
-          "name": "Georgetown",
-          "short": "Georgetown",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/46.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Chapey Field at Anderson Stadium"
-    },
-    {
-      "id": "401886583",
-      "league": "Football",
-      "name": "Seton Hall at UConn",
-      "date": "2026-10-07T22:30Z",
-      "state": "in",
-      "status": "47'",
-      "teams": [
-        {
-          "name": "UConn",
-          "short": "UConn",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
-          "score": "0"
-        },
-        {
-          "name": "Seton Hall",
-          "short": "Seton Hall",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2550.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Joseph J. Morrone Stadium at Rizza Performance Center"
-    },
-    {
-      "id": "401886627",
-      "league": "Football",
-      "name": "St. John's at Butler",
-      "date": "2026-10-07T23:00Z",
-      "state": "in",
-      "status": "33'",
-      "teams": [
-        {
-          "name": "Butler",
-          "short": "Butler",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2086.png",
-          "score": "0"
-        },
-        {
-          "name": "St. John's",
-          "short": "St John's",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2599.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Bud and Jackie Sellick Bowl"
-    },
-    {
-      "id": "401899997",
-      "league": "Football",
-      "name": "Fairfield at Marist",
-      "date": "2026-10-07T23:00Z",
-      "state": "in",
-      "status": "26'",
-      "teams": [
-        {
-          "name": "Marist",
-          "short": "Marist",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2368.png",
-          "score": "1"
-        },
-        {
-          "name": "Fairfield",
-          "short": "Fairfield",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2217.png",
-          "score": "3"
-        }
-      ],
-      "venue": "Tenney Stadium at Leonidoff Field"
-    },
-    {
-      "id": "401886789",
-      "league": "Football",
-      "name": "Creighton at Marquette",
-      "date": "2026-10-07T23:00Z",
-      "state": "in",
-      "status": "30'",
-      "teams": [
-        {
-          "name": "Marquette",
-          "short": "Marquette",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/269.png",
-          "score": "0"
-        },
-        {
-          "name": "Creighton",
-          "short": "Creighton",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/156.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Valley Fields"
-    },
-    {
-      "id": "401891430",
-      "league": "Football",
-      "name": "Loyola Marymount at Saint Mary's",
-      "date": "2026-10-07T23:00Z",
-      "state": "in",
-      "status": "26'",
-      "teams": [
-        {
-          "name": "Saint Mary's",
-          "short": "Saint Mary's",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2608.png",
-          "score": "0"
-        },
-        {
-          "name": "Loyola Marymount",
-          "short": "LMU",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2351.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Saint Mary's Stadium"
-    },
-    {
-      "id": "401900956",
-      "league": "Football",
-      "name": "New Mexico at Colorado College",
-      "date": "2026-10-08T00:00Z",
+      "name": "Houston at Arizona",
+      "date": "2026-10-09T02:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Colorado College",
-          "short": "Colorado College",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2144.png",
+          "name": "Arizona",
+          "short": "Arizona",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
           "score": "0"
         },
         {
-          "name": "New Mexico",
-          "short": "New Mexico",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/167.png",
+          "name": "Houston",
+          "short": "Houston",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
           "score": "0"
         }
       ],
-      "venue": "Stewart Field"
+      "venue": "Murphey Field at Mulcahy Soccer Stadium"
     },
     {
-      "id": "401891415",
+      "id": "401886964",
       "league": "Football",
-      "name": "Pepperdine at Denver",
-      "date": "2026-10-08T01:00Z",
+      "name": "Iowa State at Arizona State",
+      "date": "2026-10-09T02:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Denver",
-          "short": "Denver",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2172.png",
+          "name": "Arizona State",
+          "short": "Arizona St",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
           "score": "0"
         },
         {
-          "name": "Pepperdine",
-          "short": "Pepperdine",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2492.png",
+          "name": "Iowa State",
+          "short": "Iowa State",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
           "score": "0"
         }
       ],
-      "venue": "University of Denver Soccer Stadium"
+      "venue": "Sun Devil Soccer/Lacrosse Stadium"
     },
     {
-      "id": "401900973",
+      "id": "401890389",
       "league": "Football",
-      "name": "Nevada at Hawai'i",
-      "date": "2026-10-08T01:00Z",
+      "name": "Boise State at Fresno State",
+      "date": "2026-10-09T02:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Hawai'i",
-          "short": "Hawai'i",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
+          "name": "Fresno State",
+          "short": "Fresno St",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
           "score": "0"
         },
         {
-          "name": "Nevada",
-          "short": "Nevada",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
+          "name": "Boise State",
+          "short": "Boise St",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/68.png",
           "score": "0"
         }
       ],
-      "venue": "Waipi‘o Peninsula Soccer Stadium"
+      "venue": "Bulldog Soccer Stadium"
     },
     {
-      "id": "401891479",
+      "id": "401889654",
       "league": "Football",
-      "name": "Portland at San Francisco",
-      "date": "2026-10-08T01:00Z",
+      "name": "Eastern Washington at Northern Arizona",
+      "date": "2026-10-09T02:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "San Francisco",
-          "short": "San Francisco",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2539.png",
+          "name": "Northern Arizona",
+          "short": "N Arizona",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
           "score": "0"
         },
         {
-          "name": "Portland",
-          "short": "Portland",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2501.png",
+          "name": "Eastern Washington",
+          "short": "E Washington",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
           "score": "0"
         }
       ],
-      "venue": "Negoesco Stadium"
+      "venue": "Max Spilsbury Field at Lumberjack Stadium"
     },
     {
-      "id": "401891446",
+      "id": "401883688",
       "league": "Football",
-      "name": "Pacific at Santa Clara",
-      "date": "2026-10-08T02:00Z",
+      "name": "Indiana at UCLA",
+      "date": "2026-10-09T02:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Santa Clara",
-          "short": "Santa Clara",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2541.png",
+          "name": "UCLA",
+          "short": "UCLA",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
           "score": "0"
         },
         {
-          "name": "Pacific",
-          "short": "Pacific",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/279.png",
+          "name": "Indiana",
+          "short": "Indiana",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
           "score": "0"
         }
       ],
-      "venue": "Stevens Stadium - Buck Shaw Field"
+      "venue": "Wallis Annenberg Stadium"
     },
     {
-      "id": "401896588",
+      "id": "401883707",
       "league": "Football",
-      "name": "San Diego at Seattle U",
-      "date": "2026-10-08T02:00Z",
+      "name": "Iowa at Washington",
+      "date": "2026-10-09T02:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Seattle U",
-          "short": "Seattle U",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2547.png",
+          "name": "Washington",
+          "short": "Washington",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
           "score": "0"
         },
         {
-          "name": "San Diego",
-          "short": "San Diego",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/301.png",
+          "name": "Iowa",
+          "short": "Iowa",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png",
           "score": "0"
         }
       ],
-      "venue": "Championship Field"
-    },
-    {
-      "id": "401900964",
-      "league": "Football",
-      "name": "Grand Canyon at UC Davis",
-      "date": "2026-10-08T02:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "UC Davis",
-          "short": "UC Davis",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/302.png",
-          "score": "0"
-        },
-        {
-          "name": "Grand Canyon",
-          "short": "Grand Canyon",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2253.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Aggie Soccer Field"
-    },
-    {
-      "id": "401900944",
-      "league": "Football",
-      "name": "Air Force at UNLV",
-      "date": "2026-10-08T02:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "UNLV",
-          "short": "UNLV",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
-          "score": "0"
-        },
-        {
-          "name": "Air Force",
-          "short": "Air Force",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Peter Johann Memorial Field"
+      "venue": "Husky Soccer Stadium"
     }
   ]
 }
