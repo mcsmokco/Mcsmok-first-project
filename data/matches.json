@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T14:10:44.147796+00:00",
+  "updated_at": "2026-10-08T14:44:20.704267+00:00",
   "count": 100,
   "items": [
     {
@@ -7,8 +7,8 @@
       "league": "Football",
       "name": "Russia  at India",
       "date": "2026-10-08T12:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "India",
@@ -20,7 +20,7 @@
           "name": "Russia ",
           "short": "Russia",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rus.png",
-          "score": "0"
+          "score": "4"
         }
       ],
       "venue": "Kishore Bharati Krirangan"
