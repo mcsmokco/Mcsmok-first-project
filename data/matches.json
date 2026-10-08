@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T17:42:03.181016+00:00",
+  "updated_at": "2026-10-08T18:08:44.341985+00:00",
   "count": 100,
   "items": [
     {
@@ -237,8 +237,8 @@
       "league": "Football",
       "name": "Cienciano del Cusco at Deportivo Moquegua",
       "date": "2026-10-08T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "Deportivo Moquegua",
@@ -376,7 +376,7 @@
       "name": "Central Connecticut at Long Island University",
       "date": "2026-10-08T17:00Z",
       "state": "in",
-      "status": "33'",
+      "status": "HT",
       "teams": [
         {
           "name": "Long Island University",
@@ -536,20 +536,20 @@
       "league": "Football",
       "name": "Stonehill at Chicago State",
       "date": "2026-10-08T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Chicago State",
           "short": "Chicago State",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2130.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Stonehill",
           "short": "Stonehill",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/284.png",
-          "score": "0"
+          "score": "7"
         }
       ],
       "venue": "Gwendolyn Brooks College Prep"
@@ -559,8 +559,8 @@
       "league": "Football",
       "name": "Lipscomb at West Florida",
       "date": "2026-10-08T16:00Z",
-      "state": "in",
-      "status": "74'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "West Florida",
@@ -582,8 +582,8 @@
       "league": "Football",
       "name": "Idaho at Northern Colorado",
       "date": "2026-10-08T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "2'",
       "teams": [
         {
           "name": "Northern Colorado",
