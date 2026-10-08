@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T03:08:22.260879+00:00",
+  "updated_at": "2026-10-08T03:43:14.424776+00:00",
   "count": 100,
   "items": [
     {
@@ -532,6 +532,29 @@
       "venue": "Sorrels Field"
     },
     {
+      "id": "401900072",
+      "league": "Football",
+      "name": "Stonehill at Chicago State",
+      "date": "2026-10-08T16:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Chicago State",
+          "short": "Chicago State",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2130.png",
+          "score": "0"
+        },
+        {
+          "name": "Stonehill",
+          "short": "Stonehill",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/284.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Gwendolyn Brooks College Prep"
+    },
+    {
       "id": "401885557",
       "league": "Football",
       "name": "Lipscomb at West Florida",
@@ -599,6 +622,29 @@
         }
       ],
       "venue": "GW Soccer Field"
+    },
+    {
+      "id": "401900275",
+      "league": "Football",
+      "name": "Arkansas-Pine Bluff at Alcorn State",
+      "date": "2026-10-08T20:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Alcorn State",
+          "short": "Alcorn St",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2016.png",
+          "score": "0"
+        },
+        {
+          "name": "Arkansas-Pine Bluff",
+          "short": "AR-Pine Bluff",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2029.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Key City Park"
     },
     {
       "id": "401901503",
@@ -967,29 +1013,6 @@
         }
       ],
       "venue": "ODU Soccer Stadium"
-    },
-    {
-      "id": "401900265",
-      "league": "Football",
-      "name": "Alabama State at Prairie View A&M",
-      "date": "2026-10-08T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Prairie View A&M",
-          "short": "Prairie View",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2504.png",
-          "score": "0"
-        },
-        {
-          "name": "Alabama State",
-          "short": "Alabama St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2011.png",
-          "score": "0"
-        }
-      ],
-      "venue": "PVAMU Soccer Complex"
     },
     {
       "id": "401889946",
@@ -1406,6 +1429,29 @@
       "venue": "Alumni Stadium"
     },
     {
+      "id": "401900265",
+      "league": "Football",
+      "name": "Alabama State at Prairie View A&M",
+      "date": "2026-10-08T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Prairie View A&M",
+          "short": "Prairie View",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2504.png",
+          "score": "0"
+        },
+        {
+          "name": "Alabama State",
+          "short": "Alabama St",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2011.png",
+          "score": "0"
+        }
+      ],
+      "venue": "PVAMU Soccer Complex"
+    },
+    {
       "id": "401883756",
       "league": "Football",
       "name": "Michigan at Purdue",
@@ -1728,29 +1774,6 @@
       "venue": "UTRGV Soccer and Track & Field Complex"
     },
     {
-      "id": "401900275",
-      "league": "Football",
-      "name": "Arkansas-Pine Bluff at Alcorn State",
-      "date": "2026-10-09T00:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Alcorn State",
-          "short": "Alcorn St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2016.png",
-          "score": "0"
-        },
-        {
-          "name": "Arkansas-Pine Bluff",
-          "short": "AR-Pine Bluff",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2029.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Key City Park"
-    },
-    {
       "id": "401891357",
       "league": "Football",
       "name": "South Alabama at Louisiana",
@@ -2025,29 +2048,6 @@
         }
       ],
       "venue": "Gayle and Tom Benson Stadium"
-    },
-    {
-      "id": "401900072",
-      "league": "Football",
-      "name": "Stonehill at Chicago State",
-      "date": "2026-10-09T01:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Chicago State",
-          "short": "Chicago State",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2130.png",
-          "score": "0"
-        },
-        {
-          "name": "Stonehill",
-          "short": "Stonehill",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/284.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Gwendolyn Brooks College Prep"
     },
     {
       "id": "401886981",
