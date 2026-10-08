@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T20:09:44.652411+00:00",
+  "updated_at": "2026-10-08T20:42:49.134307+00:00",
   "count": 100,
   "items": [
     {
@@ -260,8 +260,8 @@
       "league": "Football",
       "name": "Los Chankas at Atlético Grau",
       "date": "2026-10-08T20:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "Atlético Grau",
@@ -284,13 +284,13 @@
       "name": "Nacional Potosí at Always Ready",
       "date": "2026-10-08T19:00Z",
       "state": "in",
-      "status": "52'",
+      "status": "85'",
       "teams": [
         {
           "name": "Always Ready",
           "short": "Always Ready",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19425.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Nacional Potosí",
@@ -399,19 +399,19 @@
       "name": "Chicago State at Stonehill",
       "date": "2026-10-08T19:00Z",
       "state": "in",
-      "status": "47'",
+      "status": "78'",
       "teams": [
         {
           "name": "Stonehill",
           "short": "Stonehill",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/284.png",
-          "score": "4"
+          "score": "6"
         },
         {
           "name": "Chicago State",
           "short": "Chicago St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2130.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Skyhawk Field"
@@ -582,8 +582,8 @@
       "league": "Football",
       "name": "Idaho at Northern Colorado",
       "date": "2026-10-08T18:00Z",
-      "state": "in",
-      "status": "90'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Northern Colorado",
@@ -606,13 +606,13 @@
       "name": "George Mason at George Washington",
       "date": "2026-10-08T19:00Z",
       "state": "in",
-      "status": "46'",
+      "status": "74'",
       "teams": [
         {
           "name": "George Washington",
           "short": "G Washington",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/45.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "George Mason",
@@ -629,13 +629,13 @@
       "name": "Arkansas-Pine Bluff at Alcorn State",
       "date": "2026-10-08T20:00Z",
       "state": "in",
-      "status": "3'",
+      "status": "31'",
       "teams": [
         {
           "name": "Alcorn State",
           "short": "Alcorn St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2016.png",
-          "score": "1"
+          "score": "5"
         },
         {
           "name": "Arkansas-Pine Bluff",
@@ -652,13 +652,13 @@
       "name": "Central Arkansas at Eastern Kentucky",
       "date": "2026-10-08T20:00Z",
       "state": "in",
-      "status": "4'",
+      "status": "35'",
       "teams": [
         {
           "name": "Eastern Kentucky",
           "short": "E Kentucky",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2198.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Central Arkansas",
@@ -675,7 +675,7 @@
       "name": "Long Island University at Le Moyne",
       "date": "2026-10-08T20:00Z",
       "state": "in",
-      "status": "5'",
+      "status": "39'",
       "teams": [
         {
           "name": "Le Moyne",
@@ -698,7 +698,7 @@
       "name": "Omaha at North Dakota",
       "date": "2026-10-08T20:00Z",
       "state": "in",
-      "status": "8'",
+      "status": "40'",
       "teams": [
         {
           "name": "North Dakota",
