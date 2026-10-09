@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T20:43:03.833401+00:00",
+  "updated_at": "2026-10-09T21:07:49.396397+00:00",
   "count": 100,
   "items": [
     {
@@ -7,14 +7,14 @@
       "league": "Football",
       "name": "Espanyol at Málaga",
       "date": "2026-10-09T19:00Z",
-      "state": "in",
-      "status": "85'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Málaga",
           "short": "Málaga",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Espanyol",
@@ -145,8 +145,8 @@
       "league": "Football",
       "name": "Queens Park Rangers at West Ham United",
       "date": "2026-10-09T19:00Z",
-      "state": "in",
-      "status": "83'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "West Ham United",
@@ -905,7 +905,7 @@
       "name": "Sporting CP at Braga",
       "date": "2026-10-09T19:15Z",
       "state": "in",
-      "status": "61'",
+      "status": "86'",
       "teams": [
         {
           "name": "Braga",
@@ -917,7 +917,7 @@
           "name": "Sporting CP",
           "short": "Sporting",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Estádio Municipal de Braga"
@@ -1686,8 +1686,8 @@
       "league": "Football",
       "name": "Atlético Tucumán at Gimnasia La Plata",
       "date": "2026-10-09T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "Gimnasia La Plata",
@@ -1802,7 +1802,7 @@
       "name": "Danubio at Montevideo City Torque",
       "date": "2026-10-09T20:00Z",
       "state": "in",
-      "status": "43'",
+      "status": "47'",
       "teams": [
         {
           "name": "Montevideo City Torque",
@@ -1940,7 +1940,7 @@
       "name": "Mushuc Runa at Delfín",
       "date": "2026-10-09T20:30Z",
       "state": "in",
-      "status": "12'",
+      "status": "37'",
       "teams": [
         {
           "name": "Delfín",
@@ -1952,7 +1952,7 @@
           "name": "Mushuc Runa",
           "short": "Mushuc Runa",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17176.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Estadio Jocay"
@@ -1962,8 +1962,8 @@
       "league": "Football",
       "name": "Real Tomayapo at San Antonio Bulo Bulo",
       "date": "2026-10-09T19:00Z",
-      "state": "in",
-      "status": "83'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "San Antonio Bulo Bulo",
@@ -2031,8 +2031,8 @@
       "league": "Football",
       "name": "Juticalpa FC at Platense",
       "date": "2026-10-09T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "5'",
       "teams": [
         {
           "name": "Platense",
