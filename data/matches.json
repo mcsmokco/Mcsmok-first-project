@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T22:08:02.707198+00:00",
+  "updated_at": "2026-10-09T22:41:48.394237+00:00",
   "count": 100,
   "items": [
     {
@@ -697,20 +697,20 @@
       "league": "Football",
       "name": "Uzbekistan at Morocco",
       "date": "2026-10-09T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Morocco",
           "short": "Morocco",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mor.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Uzbekistan",
           "short": "Uzbekistan",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20908.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stade Prince Moulay Al Hassan"
@@ -720,20 +720,20 @@
       "league": "Football",
       "name": "Philippines at Peru",
       "date": "2026-10-09T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Peru",
           "short": "Peru",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21130.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Philippines",
           "short": "Philippines",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/phi.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "La Videnita"
@@ -1687,7 +1687,7 @@
       "name": "Atlético Tucumán at Gimnasia La Plata",
       "date": "2026-10-09T21:00Z",
       "state": "in",
-      "status": "51'",
+      "status": "85'",
       "teams": [
         {
           "name": "Gimnasia La Plata",
@@ -1699,7 +1699,7 @@
           "name": "Atlético Tucumán",
           "short": "Atl Tucumán",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9785.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Juan Carmelo Zerillo (El Bosque)"
@@ -1709,8 +1709,8 @@
       "league": "Football",
       "name": "Boca Juniors at Instituto (Córdoba)",
       "date": "2026-10-09T22:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "6'",
       "teams": [
         {
           "name": "Instituto (Córdoba)",
@@ -1939,14 +1939,14 @@
       "league": "Football",
       "name": "Mushuc Runa at Delfín",
       "date": "2026-10-09T20:30Z",
-      "state": "in",
-      "status": "72'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Delfín",
           "short": "Delfín",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1011.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "Mushuc Runa",
@@ -2032,13 +2032,13 @@
       "name": "Juticalpa FC at Platense",
       "date": "2026-10-09T21:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "72'",
       "teams": [
         {
           "name": "Platense",
           "short": "Platense",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7243.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Juticalpa FC",
@@ -2101,7 +2101,7 @@
       "name": "Elon at Charleston",
       "date": "2026-10-09T22:00Z",
       "state": "in",
-      "status": "6'",
+      "status": "35'",
       "teams": [
         {
           "name": "Charleston",
@@ -2113,7 +2113,7 @@
           "name": "Elon",
           "short": "Elon",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2210.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Ralph Lundy Field at Patriots Point"
@@ -2123,8 +2123,8 @@
       "league": "Football",
       "name": "UCF at Coastal Carolina",
       "date": "2026-10-09T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "31'",
       "teams": [
         {
           "name": "Coastal Carolina",
@@ -2147,7 +2147,7 @@
       "name": "Boston University at Colgate",
       "date": "2026-10-09T22:00Z",
       "state": "in",
-      "status": "3'",
+      "status": "34'",
       "teams": [
         {
           "name": "Colgate",
@@ -2159,7 +2159,7 @@
           "name": "Boston University",
           "short": "Boston U",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/104.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Beyer-Small '76 Field"
@@ -2170,13 +2170,13 @@
       "name": "American University at Lehigh",
       "date": "2026-10-09T22:00Z",
       "state": "in",
-      "status": "2'",
+      "status": "35'",
       "teams": [
         {
           "name": "Lehigh",
           "short": "Lehigh",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2329.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "American University",
@@ -2193,13 +2193,13 @@
       "name": "High Point at South Carolina Upstate",
       "date": "2026-10-09T22:00Z",
       "state": "in",
-      "status": "2'",
+      "status": "29'",
       "teams": [
         {
           "name": "South Carolina Upstate",
           "short": "SC Upstate",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2908.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "High Point",
@@ -2216,13 +2216,13 @@
       "name": "Winthrop at UNC Asheville",
       "date": "2026-10-09T22:00Z",
       "state": "in",
-      "status": "4'",
+      "status": "29'",
       "teams": [
         {
           "name": "UNC Asheville",
           "short": "UNC Asheville",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2427.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Winthrop",
@@ -2239,13 +2239,13 @@
       "name": "California at Virginia",
       "date": "2026-10-09T22:00Z",
       "state": "in",
-      "status": "3'",
+      "status": "35'",
       "teams": [
         {
           "name": "Virginia",
           "short": "Virginia",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "California",
