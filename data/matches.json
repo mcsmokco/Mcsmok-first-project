@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T04:43:06.506555+00:00",
+  "updated_at": "2026-10-09T05:09:05.977409+00:00",
   "count": 100,
   "items": [
     {
@@ -578,6 +578,29 @@
       "venue": "DG Arena"
     },
     {
+      "id": "401929555",
+      "league": "Football",
+      "name": "Saudi Arabia at Malaysia",
+      "date": "2026-10-09T12:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Malaysia",
+          "short": "Malaysia",
+          "logo": "",
+          "score": "0"
+        },
+        {
+          "name": "Saudi Arabia",
+          "short": "Saudi Arabia",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ksa.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Aspire Complex"
+    },
+    {
       "id": "401922349",
       "league": "Football",
       "name": "Georgia at Moldova",
@@ -645,29 +668,6 @@
         }
       ],
       "venue": "Stade Bauer"
-    },
-    {
-      "id": "401929555",
-      "league": "Football",
-      "name": "Saudi Arabia at Malaysia",
-      "date": "2026-10-09T12:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Malaysia",
-          "short": "Malaysia",
-          "logo": "",
-          "score": "0"
-        },
-        {
-          "name": "Saudi Arabia",
-          "short": "Saudi Arabia",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ksa.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Aspire Complex"
     },
     {
       "id": "401902581",
