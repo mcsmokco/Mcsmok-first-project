@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T15:43:50.480150+00:00",
+  "updated_at": "2026-10-09T16:09:11.829436+00:00",
   "count": 100,
   "items": [
     {
@@ -215,13 +215,13 @@
       "name": "Serbia at Finland",
       "date": "2026-10-09T15:30Z",
       "state": "in",
-      "status": "13'",
+      "status": "39'",
       "teams": [
         {
           "name": "Finland",
           "short": "Finland",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fin.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Serbia",
@@ -237,8 +237,8 @@
       "league": "Football",
       "name": "Wales at Albania",
       "date": "2026-10-09T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "7'",
       "teams": [
         {
           "name": "Albania",
@@ -260,8 +260,8 @@
       "league": "Football",
       "name": "Austria at Kosovo",
       "date": "2026-10-09T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "Kosovo",
@@ -283,8 +283,8 @@
       "league": "Football",
       "name": "Ukraine at Slovakia ",
       "date": "2026-10-09T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "Slovakia ",
@@ -306,8 +306,8 @@
       "league": "Football",
       "name": "Slovenia at Türkiye",
       "date": "2026-10-09T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "Türkiye",
@@ -329,8 +329,8 @@
       "league": "Football",
       "name": "Sweden at Lithuania",
       "date": "2026-10-09T16:05Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "3'",
       "teams": [
         {
           "name": "Lithuania",
@@ -812,8 +812,8 @@
       "league": "Football",
       "name": "Al Qadsiah at Al Kholood",
       "date": "2026-10-09T13:50Z",
-      "state": "in",
-      "status": "90'+1'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Al Kholood",
@@ -836,7 +836,7 @@
       "name": "Al Ahli at Al Fateh",
       "date": "2026-10-09T14:55Z",
       "state": "in",
-      "status": "45'+4'",
+      "status": "54'",
       "teams": [
         {
           "name": "Al Fateh",
@@ -848,7 +848,7 @@
           "name": "Al Ahli",
           "short": "Al Ahli",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8346.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Al Fateh Club Stadium"
