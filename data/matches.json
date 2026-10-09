@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T22:41:48.394237+00:00",
+  "updated_at": "2026-10-09T23:07:05.556379+00:00",
   "count": 100,
   "items": [
     {
@@ -973,20 +973,20 @@
       "league": "Football",
       "name": "Club Atlético La Paz at Tapatío",
       "date": "2026-10-09T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "6'",
       "teams": [
         {
           "name": "Tapatío",
           "short": "Tapatío",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Club Atlético La Paz",
           "short": "CA La Paz",
           "logo": "https://a.espncdn.com/guid/c6a0e36d-c3f5-3f04-93d8-1436cb1f6e9c/logos/default.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Estadio Akron"
@@ -1686,14 +1686,14 @@
       "league": "Football",
       "name": "Atlético Tucumán at Gimnasia La Plata",
       "date": "2026-10-09T21:00Z",
-      "state": "in",
-      "status": "85'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Gimnasia La Plata",
           "short": "Gimnasia LP",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Atlético Tucumán",
@@ -1710,19 +1710,19 @@
       "name": "Boca Juniors at Instituto (Córdoba)",
       "date": "2026-10-09T22:30Z",
       "state": "in",
-      "status": "6'",
+      "status": "32'",
       "teams": [
         {
           "name": "Instituto (Córdoba)",
           "short": "Instituto",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2975.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Boca Juniors",
           "short": "Boca ",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Monumental Presidente Perón"
@@ -1755,8 +1755,8 @@
       "league": "Football",
       "name": "Villa San Carlos at Excursionistas",
       "date": "2026-10-09T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "7'",
       "teams": [
         {
           "name": "Excursionistas",
@@ -1778,8 +1778,8 @@
       "league": "Football",
       "name": "Camioneros at Talleres de Remedios",
       "date": "2026-10-09T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "6'",
       "teams": [
         {
           "name": "Talleres de Remedios",
@@ -1824,8 +1824,8 @@
       "league": "Football",
       "name": "Liverpool at Deportivo Maldonado",
       "date": "2026-10-09T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "7'",
       "teams": [
         {
           "name": "Deportivo Maldonado",
@@ -1847,8 +1847,8 @@
       "league": "Football",
       "name": "Águilas Doradas at Alianza FC",
       "date": "2026-10-09T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "7'",
       "teams": [
         {
           "name": "Alianza FC",
@@ -2032,7 +2032,7 @@
       "name": "Juticalpa FC at Platense",
       "date": "2026-10-09T21:00Z",
       "state": "in",
-      "status": "72'",
+      "status": "90'+7'",
       "teams": [
         {
           "name": "Platense",
@@ -2101,7 +2101,7 @@
       "name": "Elon at Charleston",
       "date": "2026-10-09T22:00Z",
       "state": "in",
-      "status": "35'",
+      "status": "HT",
       "teams": [
         {
           "name": "Charleston",
@@ -2124,13 +2124,13 @@
       "name": "UCF at Coastal Carolina",
       "date": "2026-10-09T22:00Z",
       "state": "in",
-      "status": "31'",
+      "status": "HT",
       "teams": [
         {
           "name": "Coastal Carolina",
           "short": "Coastal",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/324.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "UCF",
@@ -2147,7 +2147,7 @@
       "name": "Boston University at Colgate",
       "date": "2026-10-09T22:00Z",
       "state": "in",
-      "status": "34'",
+      "status": "HT",
       "teams": [
         {
           "name": "Colgate",
@@ -2170,7 +2170,7 @@
       "name": "American University at Lehigh",
       "date": "2026-10-09T22:00Z",
       "state": "in",
-      "status": "35'",
+      "status": "HT",
       "teams": [
         {
           "name": "Lehigh",
@@ -2193,7 +2193,7 @@
       "name": "High Point at South Carolina Upstate",
       "date": "2026-10-09T22:00Z",
       "state": "in",
-      "status": "29'",
+      "status": "HT",
       "teams": [
         {
           "name": "South Carolina Upstate",
@@ -2216,7 +2216,7 @@
       "name": "Winthrop at UNC Asheville",
       "date": "2026-10-09T22:00Z",
       "state": "in",
-      "status": "29'",
+      "status": "HT",
       "teams": [
         {
           "name": "UNC Asheville",
@@ -2239,7 +2239,7 @@
       "name": "California at Virginia",
       "date": "2026-10-09T22:00Z",
       "state": "in",
-      "status": "35'",
+      "status": "HT",
       "teams": [
         {
           "name": "Virginia",
@@ -2261,8 +2261,8 @@
       "league": "Football",
       "name": "Wake Forest at Boston College",
       "date": "2026-10-09T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "2'",
       "teams": [
         {
           "name": "Boston College",
