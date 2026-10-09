@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T17:08:08.150571+00:00",
+  "updated_at": "2026-10-09T17:41:23.598984+00:00",
   "count": 100,
   "items": [
     {
@@ -214,20 +214,20 @@
       "league": "Football",
       "name": "Serbia at Finland",
       "date": "2026-10-09T15:30Z",
-      "state": "in",
-      "status": "81'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Finland",
           "short": "Finland",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fin.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "Serbia",
           "short": "Serbia",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/srb.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Tammelan Stadion"
@@ -238,7 +238,7 @@
       "name": "Wales at Albania",
       "date": "2026-10-09T16:00Z",
       "state": "in",
-      "status": "47'",
+      "status": "80'",
       "teams": [
         {
           "name": "Albania",
@@ -261,7 +261,7 @@
       "name": "Austria at Kosovo",
       "date": "2026-10-09T16:00Z",
       "state": "in",
-      "status": "50'",
+      "status": "84'",
       "teams": [
         {
           "name": "Kosovo",
@@ -273,7 +273,7 @@
           "name": "Austria",
           "short": "Austria",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Stadiumi Fadil Vokrri"
@@ -284,7 +284,7 @@
       "name": "Ukraine at Slovakia ",
       "date": "2026-10-09T16:00Z",
       "state": "in",
-      "status": "50'",
+      "status": "83'",
       "teams": [
         {
           "name": "Slovakia ",
@@ -296,7 +296,7 @@
           "name": "Ukraine",
           "short": "Ukraine",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ukr.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "Futbal Tatran Arena"
@@ -307,19 +307,19 @@
       "name": "Slovenia at Türkiye",
       "date": "2026-10-09T16:00Z",
       "state": "in",
-      "status": "48'",
+      "status": "81'",
       "teams": [
         {
           "name": "Türkiye",
           "short": "Türkiye",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "Slovenia",
           "short": "Slovenia",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/svn.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Siltas Yapi Pendik Stadium"
@@ -330,7 +330,7 @@
       "name": "Sweden at Lithuania",
       "date": "2026-10-09T16:05Z",
       "state": "in",
-      "status": "46'",
+      "status": "80'",
       "teams": [
         {
           "name": "Lithuania",
@@ -342,7 +342,7 @@
           "name": "Sweden",
           "short": "Sweden",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png",
-          "score": "1"
+          "score": "4"
         }
       ],
       "venue": "S. Darius and S. Gireno Stadium"
@@ -353,7 +353,7 @@
       "name": "Italy at Belarus",
       "date": "2026-10-09T16:15Z",
       "state": "in",
-      "status": "45'",
+      "status": "62'",
       "teams": [
         {
           "name": "Belarus",
@@ -376,7 +376,7 @@
       "name": "England at Greece",
       "date": "2026-10-09T16:30Z",
       "state": "in",
-      "status": "38'",
+      "status": "53'",
       "teams": [
         {
           "name": "Greece",
@@ -388,7 +388,7 @@
           "name": "England",
           "short": "England",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Pankritio Stadium"
@@ -399,7 +399,7 @@
       "name": "Iceland at Croatia",
       "date": "2026-10-09T16:45Z",
       "state": "in",
-      "status": "23'",
+      "status": "HT",
       "teams": [
         {
           "name": "Croatia",
@@ -422,7 +422,7 @@
       "name": "Scotland at Czechia",
       "date": "2026-10-09T17:00Z",
       "state": "in",
-      "status": "7'",
+      "status": "40'",
       "teams": [
         {
           "name": "Czechia",
@@ -445,7 +445,7 @@
       "name": "Norway at Romania",
       "date": "2026-10-09T17:00Z",
       "state": "in",
-      "status": "7'",
+      "status": "40'",
       "teams": [
         {
           "name": "Romania",
@@ -457,7 +457,7 @@
           "name": "Norway",
           "short": "Norway",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Stadionul Arcul de Triumf"
@@ -928,7 +928,7 @@
       "name": "Kasimpasa at Galatasaray",
       "date": "2026-10-09T17:00Z",
       "state": "in",
-      "status": "7'",
+      "status": "40'",
       "teams": [
         {
           "name": "Galatasaray",
@@ -1043,13 +1043,13 @@
       "name": "Akron Tolyatti at Rostov",
       "date": "2026-10-09T16:30Z",
       "state": "in",
-      "status": "38'",
+      "status": "51'",
       "teams": [
         {
           "name": "Rostov",
           "short": "Rostov",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3852.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Akron Tolyatti",
@@ -1089,7 +1089,7 @@
       "name": "Kaiserslautern at 1. FC Heidenheim 1846",
       "date": "2026-10-09T16:30Z",
       "state": "in",
-      "status": "38'",
+      "status": "51'",
       "teams": [
         {
           "name": "1. FC Heidenheim 1846",
@@ -1112,7 +1112,7 @@
       "name": "Holstein Kiel at TSV Eintracht Braunschweig",
       "date": "2026-10-09T16:30Z",
       "state": "in",
-      "status": "38'",
+      "status": "50'",
       "teams": [
         {
           "name": "TSV Eintracht Braunschweig",
@@ -1595,13 +1595,13 @@
       "name": "Västerås SK at IFK Göteborg",
       "date": "2026-10-09T17:00Z",
       "state": "in",
-      "status": "8'",
+      "status": "41'",
       "teams": [
         {
           "name": "IFK Göteborg",
           "short": "Göteborg",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2556.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Västerås SK",
@@ -1618,7 +1618,7 @@
       "name": "Odense Boldklub at FC Nordsjælland",
       "date": "2026-10-09T17:00Z",
       "state": "in",
-      "status": "7'",
+      "status": "40'",
       "teams": [
         {
           "name": "FC Nordsjælland",
@@ -1641,7 +1641,7 @@
       "name": "Viking FK at SK Brann",
       "date": "2026-10-09T17:00Z",
       "state": "in",
-      "status": "5'",
+      "status": "38'",
       "teams": [
         {
           "name": "SK Brann",
@@ -1653,7 +1653,7 @@
           "name": "Viking FK",
           "short": "Viking FK",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Brann Stadium"
@@ -1663,8 +1663,8 @@
       "league": "Football",
       "name": "Sarmiento (Junín) at Aldosivi",
       "date": "2026-10-09T17:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "11'",
       "teams": [
         {
           "name": "Aldosivi",
