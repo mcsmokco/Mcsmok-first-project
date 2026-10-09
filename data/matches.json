@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T12:48:02.738365+00:00",
+  "updated_at": "2026-10-09T13:11:56.894917+00:00",
   "count": 100,
   "items": [
     {
@@ -168,8 +168,8 @@
       "league": "Football",
       "name": "Republic of Ireland at Kazakhstan",
       "date": "2026-10-09T11:00Z",
-      "state": "in",
-      "status": "86'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Kazakhstan",
@@ -181,7 +181,7 @@
           "name": "Republic of Ireland",
           "short": "Rep Ireland",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irl.png",
-          "score": "7"
+          "score": "8"
         }
       ],
       "venue": "Astana Arena"
@@ -536,8 +536,8 @@
       "league": "Football",
       "name": "Faroe Islands at Andorra",
       "date": "2026-10-09T10:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Andorra",
@@ -549,7 +549,7 @@
           "name": "Faroe Islands",
           "short": "Faroe Islands",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fro.png",
-          "score": "0"
+          "score": "5"
         }
       ],
       "venue": "Estadi Nacional d'Andorra"
@@ -559,20 +559,20 @@
       "league": "Football",
       "name": "Bosnia-Herzegovina at Montenegro",
       "date": "2026-10-09T11:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Montenegro",
           "short": "Montenegro",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mne.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Bosnia-Herzegovina",
           "short": "Bosnia-Herz",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bih.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "DG Arena"
@@ -1273,7 +1273,7 @@
       "name": "BEIJING GUOAN at Qingdao Hainiu",
       "date": "2026-10-09T11:35Z",
       "state": "in",
-      "status": "52'",
+      "status": "75'",
       "teams": [
         {
           "name": "Qingdao Hainiu",
@@ -1285,7 +1285,7 @@
           "name": "BEIJING GUOAN",
           "short": "BEIJING",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2052.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "Qingdao Youth Football Stadium"
@@ -1296,13 +1296,13 @@
       "name": "Henan at Shenzhen Xinpengcheng",
       "date": "2026-10-09T11:35Z",
       "state": "in",
-      "status": "52'",
+      "status": "75'",
       "teams": [
         {
           "name": "Shenzhen Xinpengcheng",
           "short": "Shenzhen",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22199.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Henan",
@@ -1319,7 +1319,7 @@
       "name": "Shanghai Port at Zhejiang Professional FC",
       "date": "2026-10-09T12:00Z",
       "state": "in",
-      "status": "45'+3'",
+      "status": "49'",
       "teams": [
         {
           "name": "Zhejiang Professional FC",
@@ -1331,7 +1331,7 @@
           "name": "Shanghai Port",
           "short": "Shanghai Port",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15515.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "Yellow Dragon Sports Center Stadium"
