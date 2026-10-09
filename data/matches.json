@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T13:11:56.894917+00:00",
+  "updated_at": "2026-10-09T13:44:12.793800+00:00",
   "count": 100,
   "items": [
     {
@@ -191,8 +191,8 @@
       "league": "Football",
       "name": "Switzerland at Israel",
       "date": "2026-10-09T13:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "14'",
       "teams": [
         {
           "name": "Israel",
@@ -1272,8 +1272,8 @@
       "league": "Football",
       "name": "BEIJING GUOAN at Qingdao Hainiu",
       "date": "2026-10-09T11:35Z",
-      "state": "in",
-      "status": "75'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Qingdao Hainiu",
@@ -1295,8 +1295,8 @@
       "league": "Football",
       "name": "Henan at Shenzhen Xinpengcheng",
       "date": "2026-10-09T11:35Z",
-      "state": "in",
-      "status": "75'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Shenzhen Xinpengcheng",
@@ -1308,7 +1308,7 @@
           "name": "Henan",
           "short": "Henan",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8240.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Shenzhen Stadium"
@@ -1319,19 +1319,19 @@
       "name": "Shanghai Port at Zhejiang Professional FC",
       "date": "2026-10-09T12:00Z",
       "state": "in",
-      "status": "49'",
+      "status": "82'",
       "teams": [
         {
           "name": "Zhejiang Professional FC",
           "short": "Zhejiang",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18203.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Shanghai Port",
           "short": "Shanghai Port",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15515.png",
-          "score": "3"
+          "score": "4"
         }
       ],
       "venue": "Yellow Dragon Sports Center Stadium"
