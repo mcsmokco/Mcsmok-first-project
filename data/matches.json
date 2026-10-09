@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T20:06:41.441344+00:00",
+  "updated_at": "2026-10-09T20:43:03.833401+00:00",
   "count": 100,
   "items": [
     {
@@ -8,7 +8,7 @@
       "name": "Espanyol at Málaga",
       "date": "2026-10-09T19:00Z",
       "state": "in",
-      "status": "49'",
+      "status": "85'",
       "teams": [
         {
           "name": "Málaga",
@@ -30,20 +30,20 @@
       "league": "Football",
       "name": "Werder Bremen at Borussia Dortmund",
       "date": "2026-10-09T18:30Z",
-      "state": "in",
-      "status": "77'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Borussia Dortmund",
           "short": "Dortmund",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Werder Bremen",
           "short": "Bremen",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Signal Iduna Park"
@@ -53,20 +53,20 @@
       "league": "Football",
       "name": "Lyon at Lens",
       "date": "2026-10-09T18:45Z",
-      "state": "in",
-      "status": "62'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Lens",
           "short": "Lens",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Lyon",
           "short": "Lyon",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stade Bollaert-Delelis"
@@ -146,13 +146,13 @@
       "name": "Queens Park Rangers at West Ham United",
       "date": "2026-10-09T19:00Z",
       "state": "in",
-      "status": "46'",
+      "status": "83'",
       "teams": [
         {
           "name": "West Ham United",
           "short": "West Ham",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Queens Park Rangers",
@@ -513,8 +513,8 @@
       "league": "Football",
       "name": "Poland at Belgium",
       "date": "2026-10-09T18:15Z",
-      "state": "in",
-      "status": "90'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Belgium",
@@ -674,20 +674,20 @@
       "league": "Football",
       "name": "Australia at Germany",
       "date": "2026-10-09T18:30Z",
-      "state": "in",
-      "status": "76'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Germany",
           "short": "Germany",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
-          "score": "2"
+          "score": "4"
         },
         {
           "name": "Australia",
           "short": "Australia",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "BBBank Wildpark"
@@ -905,7 +905,7 @@
       "name": "Sporting CP at Braga",
       "date": "2026-10-09T19:15Z",
       "state": "in",
-      "status": "45'+2'",
+      "status": "61'",
       "teams": [
         {
           "name": "Braga",
@@ -1065,8 +1065,8 @@
       "league": "Football",
       "name": "Lommel SK at Waasland-Beveren",
       "date": "2026-10-09T18:45Z",
-      "state": "in",
-      "status": "62'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Waasland-Beveren",
@@ -1134,8 +1134,8 @@
       "league": "Football",
       "name": "Sampdoria at US Avellino",
       "date": "2026-10-09T18:30Z",
-      "state": "in",
-      "status": "77'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "US Avellino",
@@ -1341,8 +1341,8 @@
       "league": "Football",
       "name": "Boreham Wood at Sutton United",
       "date": "2026-10-09T18:45Z",
-      "state": "in",
-      "status": "62'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Sutton United",
@@ -1354,7 +1354,7 @@
           "name": "Boreham Wood",
           "short": "Boreham Wood",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2595.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "VBS Community Stadium"
@@ -1802,7 +1802,7 @@
       "name": "Danubio at Montevideo City Torque",
       "date": "2026-10-09T20:00Z",
       "state": "in",
-      "status": "6'",
+      "status": "43'",
       "teams": [
         {
           "name": "Montevideo City Torque",
@@ -1939,8 +1939,8 @@
       "league": "Football",
       "name": "Mushuc Runa at Delfín",
       "date": "2026-10-09T20:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "12'",
       "teams": [
         {
           "name": "Delfín",
@@ -1963,7 +1963,7 @@
       "name": "Real Tomayapo at San Antonio Bulo Bulo",
       "date": "2026-10-09T19:00Z",
       "state": "in",
-      "status": "46'",
+      "status": "83'",
       "teams": [
         {
           "name": "San Antonio Bulo Bulo",
