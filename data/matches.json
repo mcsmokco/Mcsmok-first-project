@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T03:07:59.316296+00:00",
+  "updated_at": "2026-10-09T03:43:49.251270+00:00",
   "count": 100,
   "items": [
     {
@@ -2096,6 +2096,29 @@
       "venue": "Estadio Anna Mercedes Campos"
     },
     {
+      "id": "401892300",
+      "league": "Football",
+      "name": "Elon at Charleston",
+      "date": "2026-10-09T22:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Charleston",
+          "short": "Charleston",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/232.png",
+          "score": "0"
+        },
+        {
+          "name": "Elon",
+          "short": "Elon",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2210.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Ralph Lundy Field at Patriots Point"
+    },
+    {
       "id": "401899017",
       "league": "Football",
       "name": "UCF at Coastal Carolina",
@@ -2278,29 +2301,6 @@
         }
       ],
       "venue": "U-M Soccer Stadium"
-    },
-    {
-      "id": "401898431",
-      "league": "Football",
-      "name": "Army at Navy",
-      "date": "2026-10-09T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Navy",
-          "short": "Navy",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2426.png",
-          "score": "0"
-        },
-        {
-          "name": "Army",
-          "short": "Army",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/349.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Subaru Park"
     }
   ]
 }
