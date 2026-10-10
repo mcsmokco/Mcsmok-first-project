@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T17:05:56.800642+00:00",
+  "updated_at": "2026-10-10T17:39:37.734713+00:00",
   "count": 100,
   "items": [
     {
@@ -123,7 +123,7 @@
       "name": "Tottenham Hotspur at Manchester United",
       "date": "2026-10-10T16:30Z",
       "state": "in",
-      "status": "36'",
+      "status": "52'",
       "teams": [
         {
           "name": "Manchester United",
@@ -192,7 +192,7 @@
       "name": "Getafe at Barcelona",
       "date": "2026-10-10T16:30Z",
       "state": "in",
-      "status": "32'",
+      "status": "HT",
       "teams": [
         {
           "name": "Barcelona",
@@ -237,8 +237,8 @@
       "league": "Football",
       "name": "CF Montréal at Toronto FC",
       "date": "2026-10-10T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "28'",
       "teams": [
         {
           "name": "Toronto FC",
@@ -583,7 +583,7 @@
       "name": "Parma at Internazionale",
       "date": "2026-10-10T16:00Z",
       "state": "in",
-      "status": "46'",
+      "status": "79'",
       "teams": [
         {
           "name": "Internazionale",
@@ -744,13 +744,13 @@
       "name": "Eintracht Frankfurt at RB Leipzig",
       "date": "2026-10-10T16:30Z",
       "state": "in",
-      "status": "36'",
+      "status": "50'",
       "teams": [
         {
           "name": "RB Leipzig",
           "short": "RB Leipzig",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
-          "score": "2"
+          "score": "4"
         },
         {
           "name": "Eintracht Frankfurt",
@@ -766,8 +766,8 @@
       "league": "Football",
       "name": "Le Havre AC at Lille",
       "date": "2026-10-10T15:15Z",
-      "state": "in",
-      "status": "87'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Lille",
@@ -997,7 +997,7 @@
       "name": "AZ Alkmaar at Feyenoord Rotterdam",
       "date": "2026-10-10T16:45Z",
       "state": "in",
-      "status": "19'",
+      "status": "HT",
       "teams": [
         {
           "name": "Feyenoord Rotterdam",
@@ -1341,8 +1341,8 @@
       "league": "Football",
       "name": "Armenia at Indonesia",
       "date": "2026-10-10T15:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Indonesia",
@@ -1687,13 +1687,13 @@
       "name": "FC Porto at Maritimo",
       "date": "2026-10-10T17:00Z",
       "state": "in",
-      "status": "4'",
+      "status": "37'",
       "teams": [
         {
           "name": "Maritimo",
           "short": "Maritimo",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/552.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "FC Porto",
@@ -1825,7 +1825,7 @@
       "name": "Fenerbahce at Caykur Rizespor",
       "date": "2026-10-10T16:00Z",
       "state": "in",
-      "status": "48'",
+      "status": "81'",
       "teams": [
         {
           "name": "Caykur Rizespor",
@@ -1847,8 +1847,8 @@
       "league": "Football",
       "name": "Birmingham Legion FC at Sporting JAX",
       "date": "2026-10-10T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "32'",
       "teams": [
         {
           "name": "Sporting JAX",
