@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T20:06:05.302258+00:00",
+  "updated_at": "2026-10-10T20:41:27.430157+00:00",
   "count": 100,
   "items": [
     {
@@ -215,13 +215,13 @@
       "name": "Villarreal at Real Madrid",
       "date": "2026-10-10T19:00Z",
       "state": "in",
-      "status": "47'",
+      "status": "82'",
       "teams": [
         {
           "name": "Real Madrid",
           "short": "Real Madrid",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Villarreal",
@@ -260,14 +260,14 @@
       "league": "Football",
       "name": "New York City FC at Chicago Fire FC",
       "date": "2026-10-10T18:30Z",
-      "state": "in",
-      "status": "65'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Chicago Fire FC",
           "short": "Chicago",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/182.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "New York City FC",
@@ -605,14 +605,14 @@
       "league": "Football",
       "name": "Frosinone at Napoli",
       "date": "2026-10-10T18:45Z",
-      "state": "in",
-      "status": "63'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Napoli",
           "short": "Napoli",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "Frosinone",
@@ -790,7 +790,7 @@
       "name": "Toulouse at AS Monaco",
       "date": "2026-10-10T18:45Z",
       "state": "in",
-      "status": "59'",
+      "status": "90'+4'",
       "teams": [
         {
           "name": "AS Monaco",
@@ -802,7 +802,7 @@
           "name": "Toulouse",
           "short": "Toulouse",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Stade Louis II"
@@ -813,7 +813,7 @@
       "name": "Angers at Brest",
       "date": "2026-10-10T18:45Z",
       "state": "in",
-      "status": "61'",
+      "status": "90'+6'",
       "teams": [
         {
           "name": "Brest",
@@ -835,14 +835,14 @@
       "league": "Football",
       "name": "Paris FC at Lorient",
       "date": "2026-10-10T18:45Z",
-      "state": "in",
-      "status": "64'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Lorient",
           "short": "Lorient",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Paris FC",
@@ -859,13 +859,13 @@
       "name": "Le Mans at Paris Saint-Germain",
       "date": "2026-10-10T18:45Z",
       "state": "in",
-      "status": "59'",
+      "status": "90'+4'",
       "teams": [
         {
           "name": "Paris Saint-Germain",
           "short": "PSG",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-          "score": "1"
+          "score": "3"
         },
         {
           "name": "Le Mans",
@@ -1043,7 +1043,7 @@
       "name": "NEC Nijmegen at Ajax Amsterdam",
       "date": "2026-10-10T19:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "79'",
       "teams": [
         {
           "name": "Ajax Amsterdam",
@@ -1364,8 +1364,8 @@
       "league": "Football",
       "name": "Spain at United States",
       "date": "2026-10-10T18:30Z",
-      "state": "in",
-      "status": "69'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "United States",
@@ -1388,13 +1388,13 @@
       "name": "Latvia at France",
       "date": "2026-10-10T19:00Z",
       "state": "in",
-      "status": "48'",
+      "status": "83'",
       "teams": [
         {
           "name": "France",
           "short": "France",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
-          "score": "6"
+          "score": "9"
         },
         {
           "name": "Latvia",
@@ -1411,13 +1411,13 @@
       "name": "Argentina at Brazil",
       "date": "2026-10-10T19:30Z",
       "state": "in",
-      "status": "33'",
+      "status": "49'",
       "teams": [
         {
           "name": "Brazil",
           "short": "Brazil",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
-          "score": "1"
+          "score": "3"
         },
         {
           "name": "Argentina",
@@ -1478,9 +1478,9 @@
       "id": "401878627",
       "league": "Football",
       "name": "Dallas Trinity FC at Brooklyn FC",
-      "date": "2026-10-10T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "date": "2026-10-10T20:22Z",
+      "state": "in",
+      "status": "18'",
       "teams": [
         {
           "name": "Brooklyn FC",
@@ -1710,7 +1710,7 @@
       "name": "Estoril at Académico de Viseu",
       "date": "2026-10-10T19:30Z",
       "state": "in",
-      "status": "31'",
+      "status": "48'",
       "teams": [
         {
           "name": "Académico de Viseu",
@@ -1733,7 +1733,7 @@
       "name": "Santa Clara at Casa Pia",
       "date": "2026-10-10T19:30Z",
       "state": "in",
-      "status": "34'",
+      "status": "52'",
       "teams": [
         {
           "name": "Casa Pia",
