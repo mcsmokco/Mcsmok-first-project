@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T17:39:37.734713+00:00",
+  "updated_at": "2026-10-10T18:07:20.527810+00:00",
   "count": 100,
   "items": [
     {
@@ -123,13 +123,13 @@
       "name": "Tottenham Hotspur at Manchester United",
       "date": "2026-10-10T16:30Z",
       "state": "in",
-      "status": "52'",
+      "status": "80'",
       "teams": [
         {
           "name": "Manchester United",
           "short": "Man United",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Tottenham Hotspur",
@@ -192,7 +192,7 @@
       "name": "Getafe at Barcelona",
       "date": "2026-10-10T16:30Z",
       "state": "in",
-      "status": "HT",
+      "status": "71'",
       "teams": [
         {
           "name": "Barcelona",
@@ -238,7 +238,7 @@
       "name": "CF Montréal at Toronto FC",
       "date": "2026-10-10T17:00Z",
       "state": "in",
-      "status": "28'",
+      "status": "HT",
       "teams": [
         {
           "name": "Toronto FC",
@@ -582,8 +582,8 @@
       "league": "Football",
       "name": "Parma at Internazionale",
       "date": "2026-10-10T16:00Z",
-      "state": "in",
-      "status": "79'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Internazionale",
@@ -744,13 +744,13 @@
       "name": "Eintracht Frankfurt at RB Leipzig",
       "date": "2026-10-10T16:30Z",
       "state": "in",
-      "status": "50'",
+      "status": "78'",
       "teams": [
         {
           "name": "RB Leipzig",
           "short": "RB Leipzig",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
-          "score": "4"
+          "score": "5"
         },
         {
           "name": "Eintracht Frankfurt",
@@ -997,7 +997,7 @@
       "name": "AZ Alkmaar at Feyenoord Rotterdam",
       "date": "2026-10-10T16:45Z",
       "state": "in",
-      "status": "HT",
+      "status": "60'",
       "teams": [
         {
           "name": "Feyenoord Rotterdam",
@@ -1019,8 +1019,8 @@
       "league": "Football",
       "name": "FC Twente at Fortuna Sittard",
       "date": "2026-10-10T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "3'",
       "teams": [
         {
           "name": "Fortuna Sittard",
@@ -1663,8 +1663,8 @@
       "league": "Football",
       "name": "Al Ittihad at Al Hilal",
       "date": "2026-10-10T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "5'",
       "teams": [
         {
           "name": "Al Hilal",
@@ -1687,7 +1687,7 @@
       "name": "FC Porto at Maritimo",
       "date": "2026-10-10T17:00Z",
       "state": "in",
-      "status": "37'",
+      "status": "47'",
       "teams": [
         {
           "name": "Maritimo",
@@ -1699,7 +1699,7 @@
           "name": "FC Porto",
           "short": "FC Porto",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Estádio do Marítimo"
@@ -1824,8 +1824,8 @@
       "league": "Football",
       "name": "Fenerbahce at Caykur Rizespor",
       "date": "2026-10-10T16:00Z",
-      "state": "in",
-      "status": "81'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Caykur Rizespor",
@@ -1837,7 +1837,7 @@
           "name": "Fenerbahce",
           "short": "Fenerbahce",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
-          "score": "1"
+          "score": "3"
         }
       ],
       "venue": "Estadio Caykur Didi"
@@ -1848,7 +1848,7 @@
       "name": "Birmingham Legion FC at Sporting JAX",
       "date": "2026-10-10T17:00Z",
       "state": "in",
-      "status": "32'",
+      "status": "HT",
       "teams": [
         {
           "name": "Sporting JAX",
@@ -1860,7 +1860,7 @@
           "name": "Birmingham Legion FC",
           "short": "Birmingham",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19405.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": ""
