@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T16:05:56.100577+00:00",
+  "updated_at": "2026-10-10T16:41:48.022637+00:00",
   "count": 100,
   "items": [
     {
@@ -122,8 +122,8 @@
       "league": "Football",
       "name": "Tottenham Hotspur at Manchester United",
       "date": "2026-10-10T16:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "11'",
       "teams": [
         {
           "name": "Manchester United",
@@ -168,8 +168,8 @@
       "league": "Football",
       "name": "Atlético Madrid at Alavés",
       "date": "2026-10-10T14:15Z",
-      "state": "in",
-      "status": "89'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Alavés",
@@ -191,14 +191,14 @@
       "league": "Football",
       "name": "Getafe at Barcelona",
       "date": "2026-10-10T16:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "Barcelona",
           "short": "Barcelona",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Getafe",
@@ -583,13 +583,13 @@
       "name": "Parma at Internazionale",
       "date": "2026-10-10T16:00Z",
       "state": "in",
-      "status": "4'",
+      "status": "40'",
       "teams": [
         {
           "name": "Internazionale",
           "short": "Inter Milan",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Parma",
@@ -743,14 +743,14 @@
       "league": "Football",
       "name": "Eintracht Frankfurt at RB Leipzig",
       "date": "2026-10-10T16:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "12'",
       "teams": [
         {
           "name": "RB Leipzig",
           "short": "RB Leipzig",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Eintracht Frankfurt",
@@ -767,7 +767,7 @@
       "name": "Le Havre AC at Lille",
       "date": "2026-10-10T15:15Z",
       "state": "in",
-      "status": "45'+6'",
+      "status": "63'",
       "teams": [
         {
           "name": "Lille",
@@ -973,8 +973,8 @@
       "league": "Football",
       "name": "Sparta Rotterdam at Go Ahead Eagles",
       "date": "2026-10-10T14:30Z",
-      "state": "in",
-      "status": "76'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Go Ahead Eagles",
@@ -986,7 +986,7 @@
           "name": "Sparta Rotterdam",
           "short": "Sparta",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/151.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "De Adelaarshorst"
@@ -1325,7 +1325,7 @@
           "name": "Liechtenstein",
           "short": "Liechtenstein",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lie.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Gibraltar",
@@ -1641,19 +1641,19 @@
       "name": "Al Khaleej at Al Ettifaq",
       "date": "2026-10-10T14:55Z",
       "state": "in",
-      "status": "50'",
+      "status": "85'",
       "teams": [
         {
           "name": "Al Ettifaq",
           "short": "Al Ettifaq",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8363.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Al Khaleej",
           "short": "Al Khaleej",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21829.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Al Ettifaq Club Stadium"
@@ -1825,7 +1825,7 @@
       "name": "Fenerbahce at Caykur Rizespor",
       "date": "2026-10-10T16:00Z",
       "state": "in",
-      "status": "5'",
+      "status": "41'",
       "teams": [
         {
           "name": "Caykur Rizespor",
@@ -1837,7 +1837,7 @@
           "name": "Fenerbahce",
           "short": "Fenerbahce",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Estadio Caykur Didi"
