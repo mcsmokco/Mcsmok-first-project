@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T10:40:35.324588+00:00",
+  "updated_at": "2026-10-10T11:06:29.986925+00:00",
   "count": 100,
   "items": [
     {
@@ -1291,6 +1291,29 @@
       "venue": "Vicarage Road"
     },
     {
+      "id": "401930048",
+      "league": "Football",
+      "name": "PALESTINE at TBD Home",
+      "date": "2026-10-10T11:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "TBD Home",
+          "short": "TBD Home",
+          "logo": "",
+          "score": "0"
+        },
+        {
+          "name": "PALESTINE",
+          "short": "PALESTINE",
+          "logo": "",
+          "score": "0"
+        }
+      ],
+      "venue": "Fouad Shehab Stadium"
+    },
+    {
       "id": "401914253",
       "league": "Football",
       "name": "Gibraltar at Liechtenstein",
@@ -1733,7 +1756,7 @@
       "name": "Amed SFK at Genclerbirligi",
       "date": "2026-10-10T10:30Z",
       "state": "in",
-      "status": "9'",
+      "status": "35'",
       "teams": [
         {
           "name": "Genclerbirligi",
@@ -1745,7 +1768,7 @@
           "name": "Amed SFK",
           "short": "Amed SFK",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132335.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Eryaman Stadium"
@@ -2278,29 +2301,6 @@
         }
       ],
       "venue": "Estadio Carlos Iturralde Rivero"
-    },
-    {
-      "id": "401886344",
-      "league": "Football",
-      "name": "Durango at Club Jaiba Brava",
-      "date": "2026-10-11T01:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Club Jaiba Brava",
-          "short": "Jaiba Brava",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10131.png",
-          "score": "0"
-        },
-        {
-          "name": "Durango",
-          "short": "Durango",
-          "logo": "",
-          "score": "0"
-        }
-      ],
-      "venue": "Estadio Tamaulipas"
     }
   ]
 }
