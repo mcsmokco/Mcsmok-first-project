@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T18:07:20.527810+00:00",
+  "updated_at": "2026-10-10T18:44:37.060385+00:00",
   "count": 100,
   "items": [
     {
@@ -122,8 +122,8 @@
       "league": "Football",
       "name": "Tottenham Hotspur at Manchester United",
       "date": "2026-10-10T16:30Z",
-      "state": "in",
-      "status": "80'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Manchester United",
@@ -135,7 +135,7 @@
           "name": "Tottenham Hotspur",
           "short": "Spurs",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Old Trafford"
@@ -191,14 +191,14 @@
       "league": "Football",
       "name": "Getafe at Barcelona",
       "date": "2026-10-10T16:30Z",
-      "state": "in",
-      "status": "71'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Barcelona",
           "short": "Barcelona",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "Getafe",
@@ -238,7 +238,7 @@
       "name": "CF Montréal at Toronto FC",
       "date": "2026-10-10T17:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "71'",
       "teams": [
         {
           "name": "Toronto FC",
@@ -250,7 +250,7 @@
           "name": "CF Montréal",
           "short": "CF Montréal",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9720.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "BMO Field"
@@ -260,8 +260,8 @@
       "league": "Football",
       "name": "New York City FC at Chicago Fire FC",
       "date": "2026-10-10T18:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "4'",
       "teams": [
         {
           "name": "Chicago Fire FC",
@@ -743,14 +743,14 @@
       "league": "Football",
       "name": "Eintracht Frankfurt at RB Leipzig",
       "date": "2026-10-10T16:30Z",
-      "state": "in",
-      "status": "78'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "RB Leipzig",
           "short": "RB Leipzig",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
-          "score": "5"
+          "score": "6"
         },
         {
           "name": "Eintracht Frankfurt",
@@ -996,14 +996,14 @@
       "league": "Football",
       "name": "AZ Alkmaar at Feyenoord Rotterdam",
       "date": "2026-10-10T16:45Z",
-      "state": "in",
-      "status": "60'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Feyenoord Rotterdam",
           "short": "Feyenoord",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "AZ Alkmaar",
@@ -1020,19 +1020,19 @@
       "name": "FC Twente at Fortuna Sittard",
       "date": "2026-10-10T18:00Z",
       "state": "in",
-      "status": "3'",
+      "status": "40'",
       "teams": [
         {
           "name": "Fortuna Sittard",
           "short": "Fortuna",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/143.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "FC Twente",
           "short": "FC Twente",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Fortuna Sittard Stadion"
@@ -1364,8 +1364,8 @@
       "league": "Football",
       "name": "Spain at United States",
       "date": "2026-10-10T18:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "6'",
       "teams": [
         {
           "name": "United States",
@@ -1377,7 +1377,7 @@
           "name": "Spain",
           "short": "Spain",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Audi Field"
@@ -1664,19 +1664,19 @@
       "name": "Al Ittihad at Al Hilal",
       "date": "2026-10-10T18:00Z",
       "state": "in",
-      "status": "5'",
+      "status": "42'",
       "teams": [
         {
           "name": "Al Hilal",
           "short": "Al Hilal",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/929.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Al Ittihad",
           "short": "Al Ittihad",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2276.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Kingdom Arena"
@@ -1687,7 +1687,7 @@
       "name": "FC Porto at Maritimo",
       "date": "2026-10-10T17:00Z",
       "state": "in",
-      "status": "47'",
+      "status": "84'",
       "teams": [
         {
           "name": "Maritimo",
@@ -1847,8 +1847,8 @@
       "league": "Football",
       "name": "Birmingham Legion FC at Sporting JAX",
       "date": "2026-10-10T17:00Z",
-      "state": "in",
-      "status": "HT",
+      "state": "post",
+      "status": "Susp",
       "teams": [
         {
           "name": "Sporting JAX",
