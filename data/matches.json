@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T12:46:28.862631+00:00",
+  "updated_at": "2026-10-10T13:08:30.227089+00:00",
   "count": 100,
   "items": [
     {
@@ -8,13 +8,13 @@
       "name": "Leeds United at Arsenal",
       "date": "2026-10-10T11:30Z",
       "state": "in",
-      "status": "57'",
+      "status": "79'",
       "teams": [
         {
           "name": "Arsenal",
           "short": "Arsenal",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Leeds United",
@@ -145,8 +145,8 @@
       "league": "Football",
       "name": "Athletic Club at Rayo Vallecano",
       "date": "2026-10-10T12:00Z",
-      "state": "in",
-      "status": "25'",
+      "state": "post",
+      "status": "Susp",
       "teams": [
         {
           "name": "Rayo Vallecano",
@@ -559,8 +559,8 @@
       "league": "Football",
       "name": "Fiorentina at Genoa",
       "date": "2026-10-10T13:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "6'",
       "teams": [
         {
           "name": "Genoa",
@@ -1066,7 +1066,7 @@
       "name": "Bristol City at Charlton Athletic",
       "date": "2026-10-10T11:30Z",
       "state": "in",
-      "status": "56'",
+      "status": "79'",
       "teams": [
         {
           "name": "Charlton Athletic",
@@ -1089,13 +1089,13 @@
       "name": "Norwich City at Swansea City",
       "date": "2026-10-10T11:30Z",
       "state": "in",
-      "status": "58'",
+      "status": "80'",
       "teams": [
         {
           "name": "Swansea City",
           "short": "Swansea",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/318.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Norwich City",
@@ -1112,7 +1112,7 @@
       "name": "Birmingham City at West Bromwich Albion",
       "date": "2026-10-10T11:30Z",
       "state": "in",
-      "status": "58'",
+      "status": "81'",
       "teams": [
         {
           "name": "West Bromwich Albion",
@@ -1778,8 +1778,8 @@
       "league": "Football",
       "name": "Erzurum BB at Alanyaspor",
       "date": "2026-10-10T13:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "Alanyaspor",
@@ -1801,8 +1801,8 @@
       "league": "Football",
       "name": "Trabzonspor at Samsunspor",
       "date": "2026-10-10T13:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "Samsunspor",
