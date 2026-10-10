@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T13:08:30.227089+00:00",
+  "updated_at": "2026-10-10T13:40:22.663245+00:00",
   "count": 100,
   "items": [
     {
@@ -7,8 +7,8 @@
       "league": "Football",
       "name": "Leeds United at Arsenal",
       "date": "2026-10-10T11:30Z",
-      "state": "in",
-      "status": "79'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Arsenal",
@@ -560,13 +560,13 @@
       "name": "Fiorentina at Genoa",
       "date": "2026-10-10T13:00Z",
       "state": "in",
-      "status": "6'",
+      "status": "38'",
       "teams": [
         {
           "name": "Genoa",
           "short": "Genoa",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Fiorentina",
@@ -628,8 +628,8 @@
       "league": "Football",
       "name": "SV Elversberg at 1. FC Union Berlin",
       "date": "2026-10-10T13:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "1. FC Union Berlin",
@@ -651,14 +651,14 @@
       "league": "Football",
       "name": "Bayern Munich at FC Augsburg",
       "date": "2026-10-10T13:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "FC Augsburg",
           "short": "Augsburg",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Bayern Munich",
@@ -674,8 +674,8 @@
       "league": "Football",
       "name": "Bayer Leverkusen at Mainz",
       "date": "2026-10-10T13:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "Mainz",
@@ -687,7 +687,7 @@
           "name": "Bayer Leverkusen",
           "short": "Leverkusen",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "MEWA ARENA"
@@ -697,8 +697,8 @@
       "league": "Football",
       "name": "VfB Stuttgart at SC Paderborn 07",
       "date": "2026-10-10T13:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "SC Paderborn 07",
@@ -720,8 +720,8 @@
       "league": "Football",
       "name": "Hamburg SV at TSG Hoffenheim",
       "date": "2026-10-10T13:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "TSG Hoffenheim",
@@ -1065,8 +1065,8 @@
       "league": "Football",
       "name": "Bristol City at Charlton Athletic",
       "date": "2026-10-10T11:30Z",
-      "state": "in",
-      "status": "79'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Charlton Athletic",
@@ -1088,8 +1088,8 @@
       "league": "Football",
       "name": "Norwich City at Swansea City",
       "date": "2026-10-10T11:30Z",
-      "state": "in",
-      "status": "80'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Swansea City",
@@ -1111,8 +1111,8 @@
       "league": "Football",
       "name": "Birmingham City at West Bromwich Albion",
       "date": "2026-10-10T11:30Z",
-      "state": "in",
-      "status": "81'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "West Bromwich Albion",
@@ -1779,7 +1779,7 @@
       "name": "Erzurum BB at Alanyaspor",
       "date": "2026-10-10T13:00Z",
       "state": "in",
-      "status": "9'",
+      "status": "41'",
       "teams": [
         {
           "name": "Alanyaspor",
@@ -1802,7 +1802,7 @@
       "name": "Trabzonspor at Samsunspor",
       "date": "2026-10-10T13:00Z",
       "state": "in",
-      "status": "8'",
+      "status": "39'",
       "teams": [
         {
           "name": "Samsunspor",
@@ -1814,7 +1814,7 @@
           "name": "Trabzonspor",
           "short": "Trabzonspor",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Samsun 19 Mayis Stadium"
