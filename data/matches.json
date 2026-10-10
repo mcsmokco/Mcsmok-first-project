@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T15:41:06.030258+00:00",
+  "updated_at": "2026-10-10T16:05:56.100577+00:00",
   "count": 100,
   "items": [
     {
@@ -30,8 +30,8 @@
       "league": "Football",
       "name": "Brentford at Aston Villa",
       "date": "2026-10-10T14:00Z",
-      "state": "in",
-      "status": "79'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Aston Villa",
@@ -43,7 +43,7 @@
           "name": "Brentford",
           "short": "Brentford",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Villa Park"
@@ -53,8 +53,8 @@
       "league": "Football",
       "name": "AFC Bournemouth at Chelsea",
       "date": "2026-10-10T14:00Z",
-      "state": "in",
-      "status": "82'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Chelsea",
@@ -76,14 +76,14 @@
       "league": "Football",
       "name": "Fulham at Ipswich Town",
       "date": "2026-10-10T14:00Z",
-      "state": "in",
-      "status": "83'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Ipswich Town",
           "short": "Ipswich",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Fulham",
@@ -99,8 +99,8 @@
       "league": "Football",
       "name": "Brighton & Hove Albion at Sunderland",
       "date": "2026-10-10T14:00Z",
-      "state": "in",
-      "status": "82'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Sunderland",
@@ -112,7 +112,7 @@
           "name": "Brighton & Hove Albion",
           "short": "Brighton",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Stadium of Light"
@@ -169,7 +169,7 @@
       "name": "Atlético Madrid at Alavés",
       "date": "2026-10-10T14:15Z",
       "state": "in",
-      "status": "64'",
+      "status": "89'",
       "teams": [
         {
           "name": "Alavés",
@@ -181,7 +181,7 @@
           "name": "Atlético Madrid",
           "short": "Atlético",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Mendizorrotza"
@@ -582,8 +582,8 @@
       "league": "Football",
       "name": "Parma at Internazionale",
       "date": "2026-10-10T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "4'",
       "teams": [
         {
           "name": "Internazionale",
@@ -767,7 +767,7 @@
       "name": "Le Havre AC at Lille",
       "date": "2026-10-10T15:15Z",
       "state": "in",
-      "status": "26'",
+      "status": "45'+6'",
       "teams": [
         {
           "name": "Lille",
@@ -974,19 +974,19 @@
       "name": "Sparta Rotterdam at Go Ahead Eagles",
       "date": "2026-10-10T14:30Z",
       "state": "in",
-      "status": "51'",
+      "status": "76'",
       "teams": [
         {
           "name": "Go Ahead Eagles",
           "short": "Go Ahead Eagles",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3706.png",
-          "score": "1"
+          "score": "3"
         },
         {
           "name": "Sparta Rotterdam",
           "short": "Sparta",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/151.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "De Adelaarshorst"
@@ -1134,8 +1134,8 @@
       "league": "Football",
       "name": "Cardiff City at Blackburn Rovers",
       "date": "2026-10-10T14:00Z",
-      "state": "in",
-      "status": "85'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Blackburn Rovers",
@@ -1157,14 +1157,14 @@
       "league": "Football",
       "name": "Stoke City at Bolton Wanderers",
       "date": "2026-10-10T14:00Z",
-      "state": "in",
-      "status": "80'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Bolton Wanderers",
           "short": "Bolton",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/358.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Stoke City",
@@ -1180,8 +1180,8 @@
       "league": "Football",
       "name": "Wrexham at Derby County",
       "date": "2026-10-10T14:00Z",
-      "state": "in",
-      "status": "82'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Derby County",
@@ -1193,7 +1193,7 @@
           "name": "Wrexham",
           "short": "Wrexham",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/352.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Pride Park"
@@ -1203,8 +1203,8 @@
       "league": "Football",
       "name": "Wolverhampton Wanderers at Middlesbrough",
       "date": "2026-10-10T14:00Z",
-      "state": "in",
-      "status": "82'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Middlesbrough",
@@ -1226,8 +1226,8 @@
       "league": "Football",
       "name": "Millwall at Preston North End",
       "date": "2026-10-10T14:00Z",
-      "state": "in",
-      "status": "81'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Preston North End",
@@ -1249,8 +1249,8 @@
       "league": "Football",
       "name": "Lincoln City at Sheffield United",
       "date": "2026-10-10T14:00Z",
-      "state": "in",
-      "status": "85'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Sheffield United",
@@ -1272,8 +1272,8 @@
       "league": "Football",
       "name": "Burnley at Watford",
       "date": "2026-10-10T14:00Z",
-      "state": "in",
-      "status": "82'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Watford",
@@ -1285,7 +1285,7 @@
           "name": "Burnley",
           "short": "Burnley",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-          "score": "3"
+          "score": "4"
         }
       ],
       "venue": "Vicarage Road"
@@ -1293,7 +1293,7 @@
     {
       "id": "401930048",
       "league": "Football",
-      "name": "PALESTINE at Lebanon",
+      "name": "Palestine at Lebanon",
       "date": "2026-10-10T11:00Z",
       "state": "post",
       "status": "FT",
@@ -1305,8 +1305,8 @@
           "score": "1"
         },
         {
-          "name": "PALESTINE",
-          "short": "PALESTINE",
+          "name": "Palestine",
+          "short": "Palestine",
           "logo": "",
           "score": "1"
         }
@@ -1318,8 +1318,8 @@
       "league": "Football",
       "name": "Gibraltar at Liechtenstein",
       "date": "2026-10-10T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Liechtenstein",
@@ -1525,8 +1525,8 @@
       "league": "Football",
       "name": "Hibernian at Dundee United",
       "date": "2026-10-10T14:00Z",
-      "state": "in",
-      "status": "81'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Dundee United",
@@ -1548,8 +1548,8 @@
       "league": "Football",
       "name": "Dundee at Falkirk",
       "date": "2026-10-10T14:00Z",
-      "state": "in",
-      "status": "85'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Falkirk",
@@ -1561,7 +1561,7 @@
           "name": "Dundee",
           "short": "Dundee",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/261.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Falkirk Stadium"
@@ -1571,8 +1571,8 @@
       "league": "Football",
       "name": "St Mirren at Heart of Midlothian",
       "date": "2026-10-10T14:00Z",
-      "state": "in",
-      "status": "81'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Heart of Midlothian",
@@ -1594,8 +1594,8 @@
       "league": "Football",
       "name": "Kilmarnock at Rangers",
       "date": "2026-10-10T14:00Z",
-      "state": "in",
-      "status": "82'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Rangers",
@@ -1607,7 +1607,7 @@
           "name": "Kilmarnock",
           "short": "Kilmarnock",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/260.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Ibrox Stadium"
@@ -1617,8 +1617,8 @@
       "league": "Football",
       "name": "Neom SC at Al Hazem",
       "date": "2026-10-10T13:50Z",
-      "state": "in",
-      "status": "87'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Al Hazem",
@@ -1641,7 +1641,7 @@
       "name": "Al Khaleej at Al Ettifaq",
       "date": "2026-10-10T14:55Z",
       "state": "in",
-      "status": "45'+1'",
+      "status": "50'",
       "teams": [
         {
           "name": "Al Ettifaq",
@@ -1824,8 +1824,8 @@
       "league": "Football",
       "name": "Fenerbahce at Caykur Rizespor",
       "date": "2026-10-10T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "5'",
       "teams": [
         {
           "name": "Caykur Rizespor",
