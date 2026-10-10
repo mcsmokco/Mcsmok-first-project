@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T07:08:22.267546+00:00",
+  "updated_at": "2026-10-10T07:40:43.421434+00:00",
   "count": 100,
   "items": [
     {
@@ -1659,29 +1659,6 @@
       "venue": "Kingdom Arena"
     },
     {
-      "id": "401885426",
-      "league": "Football",
-      "name": "Santa Clara at Casa Pia",
-      "date": "2026-10-10T14:30Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Casa Pia",
-          "short": "Casa Pia",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21581.png",
-          "score": "0"
-        },
-        {
-          "name": "Santa Clara",
-          "short": "Santa Clara",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12215.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Estádio Municipal de Rio Maior"
-    },
-    {
       "id": "401885424",
       "league": "Football",
       "name": "FC Porto at Maritimo",
@@ -1726,6 +1703,29 @@
         }
       ],
       "venue": "Estádio do Fontelo"
+    },
+    {
+      "id": "401885426",
+      "league": "Football",
+      "name": "Santa Clara at Casa Pia",
+      "date": "2026-10-10T19:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Casa Pia",
+          "short": "Casa Pia",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21581.png",
+          "score": "0"
+        },
+        {
+          "name": "Santa Clara",
+          "short": "Santa Clara",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12215.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estádio Municipal de Rio Maior"
     },
     {
       "id": "401888379",
