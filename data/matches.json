@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T21:06:15.761092+00:00",
+  "updated_at": "2026-10-10T21:40:48.539885+00:00",
   "count": 100,
   "items": [
     {
@@ -1410,8 +1410,8 @@
       "league": "Football",
       "name": "Argentina at Brazil",
       "date": "2026-10-10T19:30Z",
-      "state": "in",
-      "status": "73'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Brazil",
@@ -1480,7 +1480,7 @@
       "name": "Dallas Trinity FC at Brooklyn FC",
       "date": "2026-10-10T20:22Z",
       "state": "in",
-      "status": "43'",
+      "status": "59'",
       "teams": [
         {
           "name": "Brooklyn FC",
@@ -1709,14 +1709,14 @@
       "league": "Football",
       "name": "Estoril at Académico de Viseu",
       "date": "2026-10-10T19:30Z",
-      "state": "in",
-      "status": "73'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Académico de Viseu",
           "short": "Académico",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21607.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Estoril",
@@ -1732,8 +1732,8 @@
       "league": "Football",
       "name": "Santa Clara at Casa Pia",
       "date": "2026-10-10T19:30Z",
-      "state": "in",
-      "status": "77'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Casa Pia",
@@ -1745,7 +1745,7 @@
           "name": "Santa Clara",
           "short": "Santa Clara",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12215.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Estádio Municipal de Rio Maior"
@@ -2100,8 +2100,8 @@
       "league": "Football",
       "name": "Athletic Club Boise at Portland Hearts of Pine",
       "date": "2026-10-10T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "34'",
       "teams": [
         {
           "name": "Portland Hearts of Pine",
@@ -2123,8 +2123,8 @@
       "league": "Football",
       "name": "Fort Wayne at Union Omaha",
       "date": "2026-10-10T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "27'",
       "teams": [
         {
           "name": "Union Omaha",
@@ -2136,7 +2136,7 @@
           "name": "Fort Wayne",
           "short": "Fort Wayne",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131580.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Morrison Stadium"
