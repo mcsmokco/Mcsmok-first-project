@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T15:06:17.748886+00:00",
+  "updated_at": "2026-10-11T15:41:33.581026+00:00",
   "count": 100,
   "items": [
     {
@@ -53,8 +53,8 @@
       "league": "Football",
       "name": "Manchester City at Liverpool",
       "date": "2026-10-11T15:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "Liverpool",
@@ -100,19 +100,19 @@
       "name": "Deportivo at Real Sociedad",
       "date": "2026-10-11T14:15Z",
       "state": "in",
-      "status": "HT",
+      "status": "66'",
       "teams": [
         {
           "name": "Real Sociedad",
           "short": "Real Sociedad",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "Deportivo",
           "short": "Deportivo",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Reale Arena"
@@ -352,8 +352,8 @@
       "league": "Football",
       "name": "Borussia Mönchengladbach at FC Cologne",
       "date": "2026-10-11T13:30Z",
-      "state": "in",
-      "status": "72'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "FC Cologne",
@@ -375,14 +375,14 @@
       "league": "Football",
       "name": "Schalke 04 at SC Freiburg",
       "date": "2026-10-11T15:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "12'",
       "teams": [
         {
           "name": "SC Freiburg",
           "short": "Freiburg",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Schalke 04",
@@ -421,20 +421,20 @@
       "league": "Football",
       "name": "AJ Auxerre at Stade Rennais",
       "date": "2026-10-11T15:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "26'",
       "teams": [
         {
           "name": "Stade Rennais",
           "short": "Rennes",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "AJ Auxerre",
           "short": "Auxerre",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Roazhon Park"
@@ -606,19 +606,19 @@
       "name": "FC Groningen at Excelsior",
       "date": "2026-10-11T14:45Z",
       "state": "in",
-      "status": "21'",
+      "status": "HT",
       "teams": [
         {
           "name": "Excelsior",
           "short": "Excelsior",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2566.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "FC Groningen",
           "short": "FC Groningen",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/145.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Stadion Woudestein"
@@ -766,8 +766,8 @@
       "league": "Football",
       "name": "Al Riyadh at Al Fayha",
       "date": "2026-10-11T13:40Z",
-      "state": "in",
-      "status": "67'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Al Fayha",
@@ -779,7 +779,7 @@
           "name": "Al Riyadh",
           "short": "Al Riyadh",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21965.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Al Majma'a Sport City Stadium"
@@ -836,19 +836,19 @@
       "name": "C.D. Nacional at Rio Ave",
       "date": "2026-10-11T14:30Z",
       "state": "in",
-      "status": "32'",
+      "status": "47'",
       "teams": [
         {
           "name": "Rio Ave",
           "short": "Rio Ave",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3822.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "C.D. Nacional",
           "short": "Nacional",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3472.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Estádio do Rio Ave"
@@ -1065,14 +1065,14 @@
       "league": "Football",
       "name": "Rodina Moscow at CSKA Moscow",
       "date": "2026-10-11T13:30Z",
-      "state": "in",
-      "status": "75'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "CSKA Moscow",
           "short": "CSKA Moscow",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1963.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "Rodina Moscow",
@@ -1135,13 +1135,13 @@
       "name": "Oud-Heverlee Leuven at Union St.-Gilloise",
       "date": "2026-10-11T14:00Z",
       "state": "in",
-      "status": "49'",
+      "status": "84'",
       "teams": [
         {
           "name": "Union St.-Gilloise",
           "short": "Union SG",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5807.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "OH Leuven",
@@ -1227,13 +1227,13 @@
       "name": "Leganés at Almería",
       "date": "2026-10-11T14:15Z",
       "state": "in",
-      "status": "HT",
+      "status": "69'",
       "teams": [
         {
           "name": "Almería",
           "short": "Almería",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6832.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Leganés",
@@ -1387,8 +1387,8 @@
       "league": "Football",
       "name": "Carrarese at Padova",
       "date": "2026-10-11T15:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "25'",
       "teams": [
         {
           "name": "Padova",
@@ -1400,7 +1400,7 @@
           "name": "Carrarese",
           "short": "Carrarese",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3988.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Euganeo"
@@ -1480,13 +1480,13 @@
       "name": "Rapid Vienna at LASK Linz",
       "date": "2026-10-11T15:00Z",
       "state": "in",
-      "status": "5'",
+      "status": "40'",
       "teams": [
         {
           "name": "LASK Linz",
           "short": "LASK Linz",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Rapid Vienna",
@@ -1503,13 +1503,13 @@
       "name": "Levadiakos at Iraklis",
       "date": "2026-10-11T14:00Z",
       "state": "in",
-      "status": "46'",
+      "status": "81'",
       "teams": [
         {
           "name": "Iraklis",
           "short": "Iraklis",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2575.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Levadiakos",
@@ -1526,7 +1526,7 @@
       "name": "Panetolikos at Kifisia",
       "date": "2026-10-11T14:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "80'",
       "teams": [
         {
           "name": "Kifisia",
@@ -1687,13 +1687,13 @@
       "name": "Örgryte IS at BK Häcken",
       "date": "2026-10-11T14:30Z",
       "state": "in",
-      "status": "35'",
+      "status": "53'",
       "teams": [
         {
           "name": "BK Häcken",
           "short": "BK Häcken",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7834.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Örgryte IS",
@@ -1756,19 +1756,19 @@
       "name": "Lyngby Boldklub at Brøndby IF",
       "date": "2026-10-11T14:00Z",
       "state": "in",
-      "status": "47'",
+      "status": "83'",
       "teams": [
         {
           "name": "Brøndby IF",
           "short": "Brøndby",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/575.png",
-          "score": "3"
+          "score": "5"
         },
         {
           "name": "Lyngby Boldklub",
           "short": "Lyngby",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7860.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Brondby Stadion"
@@ -1825,7 +1825,7 @@
       "name": "Sarpsborg FK at Aalesund",
       "date": "2026-10-11T15:00Z",
       "state": "in",
-      "status": "6'",
+      "status": "41'",
       "teams": [
         {
           "name": "Aalesund",
@@ -1837,7 +1837,7 @@
           "name": "Sarpsborg FK",
           "short": "Sarpsborg FK",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5002.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Color Line Stadium"
@@ -1848,7 +1848,7 @@
       "name": "Hamarkameratene at IK Start",
       "date": "2026-10-11T15:00Z",
       "state": "in",
-      "status": "5'",
+      "status": "40'",
       "teams": [
         {
           "name": "IK Start",
@@ -1860,7 +1860,7 @@
           "name": "Hamarkameratene",
           "short": "Hamarkameratene",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21380.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Sparebanken Sor Arena"
