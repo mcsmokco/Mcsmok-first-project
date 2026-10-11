@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T18:07:47.343562+00:00",
+  "updated_at": "2026-10-11T18:45:10.175396+00:00",
   "count": 100,
   "items": [
     {
@@ -122,14 +122,14 @@
       "league": "Football",
       "name": "Osasuna at Real Betis",
       "date": "2026-10-11T16:30Z",
-      "state": "in",
-      "status": "73'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Real Betis",
           "short": "Betis",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-          "score": "4"
+          "score": "5"
         },
         {
           "name": "Osasuna",
@@ -813,13 +813,13 @@
       "name": "Al Taawoun at Al Shabab",
       "date": "2026-10-11T18:00Z",
       "state": "in",
-      "status": "8'",
+      "status": "45'",
       "teams": [
         {
           "name": "Al Shabab",
           "short": "Al Shabab",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/793.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Al Taawoun",
@@ -859,13 +859,13 @@
       "name": "Vitória de Guimaraes at Benfica",
       "date": "2026-10-11T17:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "83'",
       "teams": [
         {
           "name": "Benfica",
           "short": "Benfica",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Vitória de Guimaraes",
@@ -1088,8 +1088,8 @@
       "league": "Football",
       "name": "Dinamo Moscow at Rubin Kazan",
       "date": "2026-10-11T16:30Z",
-      "state": "in",
-      "status": "77'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Rubin Kazan",
@@ -1157,14 +1157,14 @@
       "league": "Football",
       "name": "Antwerp at KVC Westerlo",
       "date": "2026-10-11T16:30Z",
-      "state": "in",
-      "status": "75'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "KVC Westerlo",
           "short": "Westerlo",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/606.png",
-          "score": "3"
+          "score": "5"
         },
         {
           "name": "Antwerp",
@@ -1181,19 +1181,19 @@
       "name": "Sint-Truidense at KV Mechelen",
       "date": "2026-10-11T17:15Z",
       "state": "in",
-      "status": "HT",
+      "status": "69'",
       "teams": [
         {
           "name": "KV Mechelen",
           "short": "KV Mechelen",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7879.png",
-          "score": "3"
+          "score": "4"
         },
         {
           "name": "Sint-Truidense",
           "short": "Sint-Truidense",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/936.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "AFAS Stadion"
@@ -1249,14 +1249,14 @@
       "league": "Football",
       "name": "Las Palmas at Mallorca",
       "date": "2026-10-11T16:30Z",
-      "state": "in",
-      "status": "76'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Mallorca",
           "short": "Mallorca",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/84.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "Las Palmas",
@@ -1411,7 +1411,7 @@
       "name": "Hellas Verona at Modena",
       "date": "2026-10-11T17:30Z",
       "state": "in",
-      "status": "35'",
+      "status": "54'",
       "teams": [
         {
           "name": "Modena",
@@ -1572,13 +1572,13 @@
       "name": "Panathinaikos at Olympiacos",
       "date": "2026-10-11T18:00Z",
       "state": "in",
-      "status": "7'",
+      "status": "45'",
       "teams": [
         {
           "name": "Olympiacos",
           "short": "Olympiacos",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Panathinaikos",
@@ -1871,7 +1871,7 @@
       "name": "Molde at Lillestrom",
       "date": "2026-10-11T17:15Z",
       "state": "in",
-      "status": "HT",
+      "status": "69'",
       "teams": [
         {
           "name": "Lillestrom",
@@ -1894,7 +1894,7 @@
       "name": "Deportivo Riestra at San Lorenzo",
       "date": "2026-10-11T17:45Z",
       "state": "in",
-      "status": "23'",
+      "status": "HT",
       "teams": [
         {
           "name": "San Lorenzo",
@@ -2009,7 +2009,7 @@
       "name": "San Martín (Tucumán) at Atlanta",
       "date": "2026-10-11T18:00Z",
       "state": "in",
-      "status": "5'",
+      "status": "42'",
       "teams": [
         {
           "name": "Atlanta",
@@ -2032,19 +2032,19 @@
       "name": "Chaco For Ever at Deportivo Madryn",
       "date": "2026-10-11T18:00Z",
       "state": "in",
-      "status": "2'",
+      "status": "40'",
       "teams": [
         {
           "name": "Deportivo Madryn",
           "short": "Dep. Madryn",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18260.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Chaco For Ever",
           "short": "Chaco",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11963.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Coliseo del Golfo"
@@ -2054,8 +2054,8 @@
       "league": "Football",
       "name": "San Miguel at Almirante Brown",
       "date": "2026-10-11T18:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "15'",
       "teams": [
         {
           "name": "Almirante Brown",
@@ -2077,8 +2077,8 @@
       "league": "Football",
       "name": "Acassuso at Defensores de Belgrano",
       "date": "2026-10-11T18:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "15'",
       "teams": [
         {
           "name": "Defensores de Belgrano",
@@ -2100,8 +2100,8 @@
       "league": "Football",
       "name": "Deportivo Morón at Estudiantes (Buenos Aires)",
       "date": "2026-10-11T18:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "12'",
       "teams": [
         {
           "name": "Estudiantes (Buenos Aires)",
@@ -2285,7 +2285,7 @@
       "name": "Sportivo Italiano at Argentino de Merlo",
       "date": "2026-10-11T18:00Z",
       "state": "in",
-      "status": "8'",
+      "status": "45'",
       "teams": [
         {
           "name": "Argentino de Merlo",
