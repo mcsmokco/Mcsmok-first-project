@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T11:40:30.100475+00:00",
+  "updated_at": "2026-10-11T12:09:07.975890+00:00",
   "count": 100,
   "items": [
     {
@@ -76,8 +76,8 @@
       "league": "Football",
       "name": "Celta Vigo at Elche",
       "date": "2026-10-11T12:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "7'",
       "teams": [
         {
           "name": "Elche",
@@ -238,7 +238,7 @@
       "name": "AS Roma at Como",
       "date": "2026-10-11T10:30Z",
       "state": "in",
-      "status": "47'",
+      "status": "75'",
       "teams": [
         {
           "name": "Como",
@@ -537,13 +537,13 @@
       "name": "Willem II at FC Utrecht",
       "date": "2026-10-11T10:15Z",
       "state": "in",
-      "status": "63'",
+      "status": "90'+1'",
       "teams": [
         {
           "name": "FC Utrecht",
           "short": "FC Utrecht",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/153.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Willem II",
@@ -629,7 +629,7 @@
       "name": "Portsmouth at Southampton",
       "date": "2026-10-11T11:00Z",
       "state": "in",
-      "status": "39'",
+      "status": "50'",
       "teams": [
         {
           "name": "Southampton",
@@ -721,7 +721,7 @@
       "name": "Celtic at Motherwell",
       "date": "2026-10-11T11:00Z",
       "state": "in",
-      "status": "39'",
+      "status": "50'",
       "teams": [
         {
           "name": "Motherwell",
@@ -905,7 +905,7 @@
       "name": "Istanbul Basaksehir at Konyaspor",
       "date": "2026-10-11T10:30Z",
       "state": "in",
-      "status": "51'",
+      "status": "80'",
       "teams": [
         {
           "name": "Konyaspor",
@@ -1043,7 +1043,7 @@
       "name": "FC Baltika Kaliningrad at Akhmat Grozny",
       "date": "2026-10-11T11:00Z",
       "state": "in",
-      "status": "39'",
+      "status": "51'",
       "teams": [
         {
           "name": "Akhmat Grozny",
@@ -1112,7 +1112,7 @@
       "name": "Royal Charleroi SC at Standard Liege",
       "date": "2026-10-11T11:30Z",
       "state": "in",
-      "status": "9'",
+      "status": "38'",
       "teams": [
         {
           "name": "Standard Liege",
@@ -1203,8 +1203,8 @@
       "league": "Football",
       "name": "Castellón at FC Andorra",
       "date": "2026-10-11T12:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "FC Andorra",
@@ -1296,7 +1296,7 @@
       "name": "SpVgg Greuther Fürth at Hertha Berlin",
       "date": "2026-10-11T11:30Z",
       "state": "in",
-      "status": "10'",
+      "status": "38'",
       "teams": [
         {
           "name": "Hertha Berlin",
@@ -1319,13 +1319,13 @@
       "name": "Karlsruher SC at St. Pauli",
       "date": "2026-10-11T11:30Z",
       "state": "in",
-      "status": "9'",
+      "status": "37'",
       "teams": [
         {
           "name": "St. Pauli",
           "short": "St. Pauli",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/270.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Karlsruher SC",
@@ -1342,7 +1342,7 @@
       "name": "Arminia Bielefeld at VfL Bochum",
       "date": "2026-10-11T11:30Z",
       "state": "in",
-      "status": "10'",
+      "status": "39'",
       "teams": [
         {
           "name": "VfL Bochum",
@@ -1594,8 +1594,8 @@
       "league": "Football",
       "name": "Dalian Yingbo at Qingdao West Coast",
       "date": "2026-10-11T10:00Z",
-      "state": "in",
-      "status": "77'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Qingdao West Coast",
@@ -1607,7 +1607,7 @@
           "name": "Dalian Yingbo",
           "short": "Yingbo",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22537.png",
-          "score": "3"
+          "score": "4"
         }
       ],
       "venue": "Qingdao West Coast University City Stadium"
@@ -1618,13 +1618,13 @@
       "name": "Shandong Taishan at Chongqing Tonglianglong",
       "date": "2026-10-11T11:35Z",
       "state": "in",
-      "status": "5'",
+      "status": "33'",
       "teams": [
         {
           "name": "Chongqing Tonglianglong",
           "short": "Chongqing",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131704.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Shandong Taishan",
@@ -1641,7 +1641,7 @@
       "name": "Wuhan Three Towns at Liaoning Tieren",
       "date": "2026-10-11T11:35Z",
       "state": "in",
-      "status": "3'",
+      "status": "33'",
       "teams": [
         {
           "name": "Liaoning Tieren",
@@ -1663,8 +1663,8 @@
       "league": "Football",
       "name": "Djurgården at Hammarby IF",
       "date": "2026-10-11T12:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "Hammarby IF",
@@ -1709,8 +1709,8 @@
       "league": "Football",
       "name": "Viborg FF at Randers FC",
       "date": "2026-10-11T12:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "Randers FC",
@@ -1732,8 +1732,8 @@
       "league": "Football",
       "name": "AC Horsens at Silkeborg IF",
       "date": "2026-10-11T12:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "Silkeborg IF",
