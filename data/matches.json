@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T20:06:36.350389+00:00",
+  "updated_at": "2026-10-11T20:41:58.893569+00:00",
   "count": 100,
   "items": [
     {
@@ -146,19 +146,19 @@
       "name": "Valencia at Racing Santander",
       "date": "2026-10-11T19:00Z",
       "state": "in",
-      "status": "46'",
+      "status": "82'",
       "teams": [
         {
           "name": "Racing Santander",
           "short": "Racing",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Valencia",
           "short": "Valencia",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "El Sardineros"
@@ -329,8 +329,8 @@
       "league": "Football",
       "name": "Juventus at Cagliari",
       "date": "2026-10-11T18:45Z",
-      "state": "in",
-      "status": "63'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Cagliari",
@@ -342,7 +342,7 @@
           "name": "Juventus",
           "short": "Juventus",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Unipol Domus"
@@ -444,8 +444,8 @@
       "league": "Football",
       "name": "Marseille at Troyes",
       "date": "2026-10-11T18:45Z",
-      "state": "in",
-      "status": "66'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Troyes",
@@ -457,7 +457,7 @@
           "name": "Marseille",
           "short": "Marseille",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Stade de l'Aube"
@@ -785,29 +785,6 @@
       "venue": "Al Majma'a Sport City Stadium"
     },
     {
-      "id": "401900914",
-      "league": "Football",
-      "name": "Al Faisaly at Abha",
-      "date": "2026-10-11T15:25Z",
-      "state": "post",
-      "status": "Postponed",
-      "teams": [
-        {
-          "name": "Abha",
-          "short": "Abha",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21833.png",
-          "score": "0"
-        },
-        {
-          "name": "Al Faisaly",
-          "short": "Al Faisaly",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21446.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Damac Club Stadium"
-    },
-    {
       "id": "401900906",
       "league": "Football",
       "name": "Al Taawoun at Al Shabab",
@@ -882,7 +859,7 @@
       "name": "Estrela at Arouca",
       "date": "2026-10-11T19:30Z",
       "state": "in",
-      "status": "36'",
+      "status": "HT",
       "teams": [
         {
           "name": "Arouca",
@@ -974,7 +951,7 @@
       "name": "Spokane Velocity FC at One Knoxville",
       "date": "2026-10-11T19:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "75'",
       "teams": [
         {
           "name": "One Knoxville",
@@ -986,7 +963,7 @@
           "name": "Spokane Velocity FC",
           "short": "Spokane",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22130.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Covenant Health Park"
@@ -1273,7 +1250,7 @@
       "name": "Sporting Gijón at Cádiz",
       "date": "2026-10-11T19:00Z",
       "state": "in",
-      "status": "48'",
+      "status": "83'",
       "teams": [
         {
           "name": "Cádiz",
@@ -1917,7 +1894,7 @@
       "name": "Argentinos Juniors at Platense",
       "date": "2026-10-11T20:00Z",
       "state": "in",
-      "status": "6'",
+      "status": "42'",
       "teams": [
         {
           "name": "Platense",
@@ -1929,7 +1906,7 @@
           "name": "Argentinos Juniors",
           "short": "Argentinos ",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Ciudad de Vicente López"
@@ -1940,13 +1917,13 @@
       "name": "Independiente Rivadavia at Rosario Central",
       "date": "2026-10-11T20:00Z",
       "state": "in",
-      "status": "4'",
+      "status": "40'",
       "teams": [
         {
           "name": "Rosario Central",
           "short": "Rosario Central",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Independiente Rivadavia",
@@ -2054,8 +2031,8 @@
       "league": "Football",
       "name": "San Miguel at Almirante Brown",
       "date": "2026-10-11T18:30Z",
-      "state": "in",
-      "status": "74'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Almirante Brown",
@@ -2067,7 +2044,7 @@
           "name": "San Miguel",
           "short": "San Miguel",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10058.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Fragata Presidente Sarmiento"
@@ -2077,8 +2054,8 @@
       "league": "Football",
       "name": "Acassuso at Defensores de Belgrano",
       "date": "2026-10-11T18:30Z",
-      "state": "in",
-      "status": "81'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Defensores de Belgrano",
@@ -2100,14 +2077,14 @@
       "league": "Football",
       "name": "Deportivo Morón at Estudiantes (Buenos Aires)",
       "date": "2026-10-11T18:30Z",
-      "state": "in",
-      "status": "76'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Estudiantes (Buenos Aires)",
           "short": "Estudiantes ",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17352.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Deportivo Morón",
@@ -2124,7 +2101,7 @@
       "name": "Gimnasia y Tiro (Salta) at Gimnasia y Esgrima (Jujuy)",
       "date": "2026-10-11T19:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "61'",
       "teams": [
         {
           "name": "Gimnasia y Esgrima (Jujuy)",
@@ -2147,7 +2124,7 @@
       "name": "Colón (Santa Fe) at Mitre (Santiago del Estero)",
       "date": "2026-10-11T19:00Z",
       "state": "in",
-      "status": "46'",
+      "status": "82'",
       "teams": [
         {
           "name": "Mitre (Santiago del Estero)",
@@ -2170,13 +2147,13 @@
       "name": "Güemes at Patronato",
       "date": "2026-10-11T19:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "76'",
       "teams": [
         {
           "name": "Patronato",
           "short": "Patronato",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10374.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Güemes",
@@ -2193,13 +2170,13 @@
       "name": "Nueva Chicago at Temperley",
       "date": "2026-10-11T19:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "75'",
       "teams": [
         {
           "name": "Temperley",
           "short": "Temperley",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10162.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Nueva Chicago",
@@ -2216,19 +2193,19 @@
       "name": "Ferro Carril Oeste at Central Norte",
       "date": "2026-10-11T20:00Z",
       "state": "in",
-      "status": "5'",
+      "status": "40'",
       "teams": [
         {
           "name": "Central Norte",
           "short": "Central Norte",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11993.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Ferro Carril Oeste",
           "short": "Ferro",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9743.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Padre Ernesto Martearena"
@@ -2239,13 +2216,13 @@
       "name": "San Martín (San Juan) at Deportivo Maipú",
       "date": "2026-10-11T20:00Z",
       "state": "in",
-      "status": "2'",
+      "status": "37'",
       "teams": [
         {
           "name": "Deportivo Maipú",
           "short": "Maipú",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11978.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "San Martín (San Juan)",
@@ -2301,6 +2278,29 @@
         }
       ],
       "venue": "Juan Carlos Brieva"
+    },
+    {
+      "id": "401841258",
+      "league": "Football",
+      "name": "Santos at Atlético-MG",
+      "date": "2026-10-11T19:00Z",
+      "state": "in",
+      "status": "78'",
+      "teams": [
+        {
+          "name": "Atlético-MG",
+          "short": "Atlético-MG",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
+          "score": "0"
+        },
+        {
+          "name": "Santos",
+          "short": "Santos",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Arena MRV"
     }
   ]
 }
