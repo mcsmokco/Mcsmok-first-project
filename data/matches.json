@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T16:42:10.280979+00:00",
+  "updated_at": "2026-10-11T17:06:45.455357+00:00",
   "count": 100,
   "items": [
     {
@@ -54,7 +54,7 @@
       "name": "Manchester City at Liverpool",
       "date": "2026-10-11T15:30Z",
       "state": "in",
-      "status": "54'",
+      "status": "78'",
       "teams": [
         {
           "name": "Liverpool",
@@ -66,7 +66,7 @@
           "name": "Manchester City",
           "short": "Man City",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Anfield"
@@ -123,13 +123,13 @@
       "name": "Osasuna at Real Betis",
       "date": "2026-10-11T16:30Z",
       "state": "in",
-      "status": "8'",
+      "status": "33'",
       "teams": [
         {
           "name": "Real Betis",
           "short": "Betis",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Osasuna",
@@ -307,7 +307,7 @@
       "name": "AC Milan at Sassuolo",
       "date": "2026-10-11T16:00Z",
       "state": "in",
-      "status": "41'",
+      "status": "HT",
       "teams": [
         {
           "name": "Sassuolo",
@@ -376,7 +376,7 @@
       "name": "Schalke 04 at SC Freiburg",
       "date": "2026-10-11T15:30Z",
       "state": "in",
-      "status": "52'",
+      "status": "77'",
       "teams": [
         {
           "name": "SC Freiburg",
@@ -422,13 +422,13 @@
       "name": "AJ Auxerre at Stade Rennais",
       "date": "2026-10-11T15:15Z",
       "state": "in",
-      "status": "69'",
+      "status": "90'+3'",
       "teams": [
         {
           "name": "Stade Rennais",
           "short": "Rennes",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "AJ Auxerre",
@@ -858,8 +858,8 @@
       "league": "Football",
       "name": "Vitória de Guimaraes at Benfica",
       "date": "2026-10-11T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "4'",
       "teams": [
         {
           "name": "Benfica",
@@ -951,7 +951,7 @@
       "name": "Kocaelispor at Besiktas",
       "date": "2026-10-11T16:00Z",
       "state": "in",
-      "status": "42'",
+      "status": "46'",
       "teams": [
         {
           "name": "Besiktas",
@@ -1089,7 +1089,7 @@
       "name": "Dinamo Moscow at Rubin Kazan",
       "date": "2026-10-11T16:30Z",
       "state": "in",
-      "status": "10'",
+      "status": "34'",
       "teams": [
         {
           "name": "Rubin Kazan",
@@ -1101,7 +1101,7 @@
           "name": "Dinamo Moscow",
           "short": "Dinamo Moscow",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/596.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Kazan Arena"
@@ -1158,7 +1158,7 @@
       "name": "Antwerp at KVC Westerlo",
       "date": "2026-10-11T16:30Z",
       "state": "in",
-      "status": "10'",
+      "status": "34'",
       "teams": [
         {
           "name": "KVC Westerlo",
@@ -1170,7 +1170,7 @@
           "name": "Antwerp",
           "short": "Antwerp",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17544.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Het Kuipje"
@@ -1250,13 +1250,13 @@
       "name": "Las Palmas at Mallorca",
       "date": "2026-10-11T16:30Z",
       "state": "in",
-      "status": "11'",
+      "status": "35'",
       "teams": [
         {
           "name": "Mallorca",
           "short": "Mallorca",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/84.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Las Palmas",
@@ -1388,7 +1388,7 @@
       "name": "Carrarese at Padova",
       "date": "2026-10-11T15:15Z",
       "state": "in",
-      "status": "69'",
+      "status": "90'+3'",
       "teams": [
         {
           "name": "Padova",
@@ -1479,8 +1479,8 @@
       "league": "Football",
       "name": "Rapid Vienna at LASK Linz",
       "date": "2026-10-11T15:00Z",
-      "state": "in",
-      "status": "82'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "LASK Linz",
@@ -1549,13 +1549,13 @@
       "name": "Volos NFC at Aris",
       "date": "2026-10-11T16:00Z",
       "state": "in",
-      "status": "38'",
+      "status": "HT",
       "teams": [
         {
           "name": "Aris",
           "short": "Aris",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11553.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "Volos NFC",
@@ -1779,7 +1779,7 @@
       "name": "F.C. København at FC Midtjylland",
       "date": "2026-10-11T16:00Z",
       "state": "in",
-      "status": "39'",
+      "status": "HT",
       "teams": [
         {
           "name": "FC Midtjylland",
@@ -1824,8 +1824,8 @@
       "league": "Football",
       "name": "Sarpsborg FK at Aalesund",
       "date": "2026-10-11T15:00Z",
-      "state": "in",
-      "status": "85'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Aalesund",
@@ -1847,20 +1847,20 @@
       "league": "Football",
       "name": "Hamarkameratene at IK Start",
       "date": "2026-10-11T15:00Z",
-      "state": "in",
-      "status": "78'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "IK Start",
           "short": "IK Start",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6750.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Hamarkameratene",
           "short": "Hamarkameratene",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21380.png",
-          "score": "3"
+          "score": "4"
         }
       ],
       "venue": "Sparebanken Sor Arena"
