@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T05:07:53.417762+00:00",
+  "updated_at": "2026-10-11T05:41:21.559439+00:00",
   "count": 100,
   "items": [
     {
@@ -2142,6 +2142,29 @@
       "venue": "23 de Agosto"
     },
     {
+      "id": "401844194",
+      "league": "Football",
+      "name": "Colón (Santa Fe) at Mitre (Santiago del Estero)",
+      "date": "2026-10-11T19:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Mitre (Santiago del Estero)",
+          "short": "Mitre (SE)",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11990.png",
+          "score": "0"
+        },
+        {
+          "name": "Colón (Santa Fe)",
+          "short": "Colón SF",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio Castiglione"
+    },
+    {
       "id": "401844195",
       "league": "Football",
       "name": "Güemes at Patronato",
@@ -2255,29 +2278,6 @@
         }
       ],
       "venue": "Estadio Municipal Eva Perón"
-    },
-    {
-      "id": "401844194",
-      "league": "Football",
-      "name": "Colón (Santa Fe) at Mitre (Santiago del Estero)",
-      "date": "2026-10-11T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Mitre (Santiago del Estero)",
-          "short": "Mitre (SE)",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11990.png",
-          "score": "0"
-        },
-        {
-          "name": "Colón (Santa Fe)",
-          "short": "Colón SF",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Estadio Castiglione"
     },
     {
       "id": "401845140",
