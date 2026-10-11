@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T18:45:10.175396+00:00",
+  "updated_at": "2026-10-11T19:07:32.611585+00:00",
   "count": 100,
   "items": [
     {
@@ -145,8 +145,8 @@
       "league": "Football",
       "name": "Valencia at Racing Santander",
       "date": "2026-10-11T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "7'",
       "teams": [
         {
           "name": "Racing Santander",
@@ -158,7 +158,7 @@
           "name": "Valencia",
           "short": "Valencia",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "El Sardineros"
@@ -329,8 +329,8 @@
       "league": "Football",
       "name": "Juventus at Cagliari",
       "date": "2026-10-11T18:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "21'",
       "teams": [
         {
           "name": "Cagliari",
@@ -444,8 +444,8 @@
       "league": "Football",
       "name": "Marseille at Troyes",
       "date": "2026-10-11T18:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "22'",
       "teams": [
         {
           "name": "Troyes",
@@ -813,13 +813,13 @@
       "name": "Al Taawoun at Al Shabab",
       "date": "2026-10-11T18:00Z",
       "state": "in",
-      "status": "45'",
+      "status": "HT",
       "teams": [
         {
           "name": "Al Shabab",
           "short": "Al Shabab",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/793.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Al Taawoun",
@@ -858,8 +858,8 @@
       "league": "Football",
       "name": "Vitória de Guimaraes at Benfica",
       "date": "2026-10-11T17:00Z",
-      "state": "in",
-      "status": "83'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Benfica",
@@ -973,8 +973,8 @@
       "league": "Football",
       "name": "Spokane Velocity FC at One Knoxville",
       "date": "2026-10-11T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "1'",
       "teams": [
         {
           "name": "One Knoxville",
@@ -1181,7 +1181,7 @@
       "name": "Sint-Truidense at KV Mechelen",
       "date": "2026-10-11T17:15Z",
       "state": "in",
-      "status": "69'",
+      "status": "90'+2'",
       "teams": [
         {
           "name": "KV Mechelen",
@@ -1193,7 +1193,7 @@
           "name": "Sint-Truidense",
           "short": "Sint-Truidense",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/936.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "AFAS Stadion"
@@ -1272,8 +1272,8 @@
       "league": "Football",
       "name": "Sporting Gijón at Cádiz",
       "date": "2026-10-11T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "6'",
       "teams": [
         {
           "name": "Cádiz",
@@ -1411,7 +1411,7 @@
       "name": "Hellas Verona at Modena",
       "date": "2026-10-11T17:30Z",
       "state": "in",
-      "status": "54'",
+      "status": "76'",
       "teams": [
         {
           "name": "Modena",
@@ -1572,7 +1572,7 @@
       "name": "Panathinaikos at Olympiacos",
       "date": "2026-10-11T18:00Z",
       "state": "in",
-      "status": "45'",
+      "status": "47'",
       "teams": [
         {
           "name": "Olympiacos",
@@ -1871,13 +1871,13 @@
       "name": "Molde at Lillestrom",
       "date": "2026-10-11T17:15Z",
       "state": "in",
-      "status": "69'",
+      "status": "90'+2'",
       "teams": [
         {
           "name": "Lillestrom",
           "short": "Lillestrom",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/987.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Molde",
@@ -1894,7 +1894,7 @@
       "name": "Deportivo Riestra at San Lorenzo",
       "date": "2026-10-11T17:45Z",
       "state": "in",
-      "status": "HT",
+      "status": "62'",
       "teams": [
         {
           "name": "San Lorenzo",
@@ -2009,7 +2009,7 @@
       "name": "San Martín (Tucumán) at Atlanta",
       "date": "2026-10-11T18:00Z",
       "state": "in",
-      "status": "42'",
+      "status": "HT",
       "teams": [
         {
           "name": "Atlanta",
@@ -2032,7 +2032,7 @@
       "name": "Chaco For Ever at Deportivo Madryn",
       "date": "2026-10-11T18:00Z",
       "state": "in",
-      "status": "40'",
+      "status": "HT",
       "teams": [
         {
           "name": "Deportivo Madryn",
@@ -2055,13 +2055,13 @@
       "name": "San Miguel at Almirante Brown",
       "date": "2026-10-11T18:30Z",
       "state": "in",
-      "status": "15'",
+      "status": "37'",
       "teams": [
         {
           "name": "Almirante Brown",
           "short": "Alte Brown",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9740.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "San Miguel",
@@ -2078,7 +2078,7 @@
       "name": "Acassuso at Defensores de Belgrano",
       "date": "2026-10-11T18:30Z",
       "state": "in",
-      "status": "15'",
+      "status": "38'",
       "teams": [
         {
           "name": "Defensores de Belgrano",
@@ -2101,7 +2101,7 @@
       "name": "Deportivo Morón at Estudiantes (Buenos Aires)",
       "date": "2026-10-11T18:30Z",
       "state": "in",
-      "status": "12'",
+      "status": "34'",
       "teams": [
         {
           "name": "Estudiantes (Buenos Aires)",
@@ -2146,8 +2146,8 @@
       "league": "Football",
       "name": "Colón (Santa Fe) at Mitre (Santiago del Estero)",
       "date": "2026-10-11T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "7'",
       "teams": [
         {
           "name": "Mitre (Santiago del Estero)",
@@ -2169,8 +2169,8 @@
       "league": "Football",
       "name": "Güemes at Patronato",
       "date": "2026-10-11T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "1'",
       "teams": [
         {
           "name": "Patronato",
@@ -2192,8 +2192,8 @@
       "league": "Football",
       "name": "Nueva Chicago at Temperley",
       "date": "2026-10-11T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "2'",
       "teams": [
         {
           "name": "Temperley",
@@ -2285,7 +2285,7 @@
       "name": "Sportivo Italiano at Argentino de Merlo",
       "date": "2026-10-11T18:00Z",
       "state": "in",
-      "status": "45'",
+      "status": "46'",
       "teams": [
         {
           "name": "Argentino de Merlo",
