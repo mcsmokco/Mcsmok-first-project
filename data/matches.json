@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T10:07:18.844581+00:00",
+  "updated_at": "2026-10-11T10:41:10.516916+00:00",
   "count": 100,
   "items": [
     {
@@ -237,8 +237,8 @@
       "league": "Football",
       "name": "AS Roma at Como",
       "date": "2026-10-11T10:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "7'",
       "teams": [
         {
           "name": "Como",
@@ -536,8 +536,8 @@
       "league": "Football",
       "name": "Willem II at FC Utrecht",
       "date": "2026-10-11T10:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "24'",
       "teams": [
         {
           "name": "FC Utrecht",
@@ -904,8 +904,8 @@
       "league": "Football",
       "name": "Istanbul Basaksehir at Konyaspor",
       "date": "2026-10-11T10:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "Konyaspor",
@@ -1595,7 +1595,7 @@
       "name": "Dalian Yingbo at Qingdao West Coast",
       "date": "2026-10-11T10:00Z",
       "state": "in",
-      "status": "7'",
+      "status": "41'",
       "teams": [
         {
           "name": "Qingdao West Coast",
@@ -1607,7 +1607,7 @@
           "name": "Dalian Yingbo",
           "short": "Yingbo",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22537.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Qingdao West Coast University City Stadium"
