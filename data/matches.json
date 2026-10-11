@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T17:06:45.455357+00:00",
+  "updated_at": "2026-10-11T17:40:34.084297+00:00",
   "count": 100,
   "items": [
     {
@@ -53,8 +53,8 @@
       "league": "Football",
       "name": "Manchester City at Liverpool",
       "date": "2026-10-11T15:30Z",
-      "state": "in",
-      "status": "78'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Liverpool",
@@ -66,7 +66,7 @@
           "name": "Manchester City",
           "short": "Man City",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "Anfield"
@@ -123,7 +123,7 @@
       "name": "Osasuna at Real Betis",
       "date": "2026-10-11T16:30Z",
       "state": "in",
-      "status": "33'",
+      "status": "46'",
       "teams": [
         {
           "name": "Real Betis",
@@ -307,19 +307,19 @@
       "name": "AC Milan at Sassuolo",
       "date": "2026-10-11T16:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "75'",
       "teams": [
         {
           "name": "Sassuolo",
           "short": "Sassuolo",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "AC Milan",
           "short": "Milan",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Mapei Stadium"
@@ -375,14 +375,14 @@
       "league": "Football",
       "name": "Schalke 04 at SC Freiburg",
       "date": "2026-10-11T15:30Z",
-      "state": "in",
-      "status": "77'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "SC Freiburg",
           "short": "Freiburg",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Schalke 04",
@@ -421,14 +421,14 @@
       "league": "Football",
       "name": "AJ Auxerre at Stade Rennais",
       "date": "2026-10-11T15:15Z",
-      "state": "in",
-      "status": "90'+3'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Stade Rennais",
           "short": "Rennes",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-          "score": "3"
+          "score": "4"
         },
         {
           "name": "AJ Auxerre",
@@ -859,13 +859,13 @@
       "name": "Vitória de Guimaraes at Benfica",
       "date": "2026-10-11T17:00Z",
       "state": "in",
-      "status": "4'",
+      "status": "38'",
       "teams": [
         {
           "name": "Benfica",
           "short": "Benfica",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Vitória de Guimaraes",
@@ -951,7 +951,7 @@
       "name": "Kocaelispor at Besiktas",
       "date": "2026-10-11T16:00Z",
       "state": "in",
-      "status": "46'",
+      "status": "80'",
       "teams": [
         {
           "name": "Besiktas",
@@ -1089,7 +1089,7 @@
       "name": "Dinamo Moscow at Rubin Kazan",
       "date": "2026-10-11T16:30Z",
       "state": "in",
-      "status": "34'",
+      "status": "50'",
       "teams": [
         {
           "name": "Rubin Kazan",
@@ -1158,13 +1158,13 @@
       "name": "Antwerp at KVC Westerlo",
       "date": "2026-10-11T16:30Z",
       "state": "in",
-      "status": "34'",
+      "status": "48'",
       "teams": [
         {
           "name": "KVC Westerlo",
           "short": "Westerlo",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/606.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Antwerp",
@@ -1180,8 +1180,8 @@
       "league": "Football",
       "name": "Sint-Truidense at KV Mechelen",
       "date": "2026-10-11T17:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "24'",
       "teams": [
         {
           "name": "KV Mechelen",
@@ -1250,7 +1250,7 @@
       "name": "Las Palmas at Mallorca",
       "date": "2026-10-11T16:30Z",
       "state": "in",
-      "status": "35'",
+      "status": "48'",
       "teams": [
         {
           "name": "Mallorca",
@@ -1387,8 +1387,8 @@
       "league": "Football",
       "name": "Carrarese at Padova",
       "date": "2026-10-11T15:15Z",
-      "state": "in",
-      "status": "90'+3'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Padova",
@@ -1410,8 +1410,8 @@
       "league": "Football",
       "name": "Hellas Verona at Modena",
       "date": "2026-10-11T17:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "Modena",
@@ -1549,7 +1549,7 @@
       "name": "Volos NFC at Aris",
       "date": "2026-10-11T16:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "76'",
       "teams": [
         {
           "name": "Aris",
@@ -1561,7 +1561,7 @@
           "name": "Volos NFC",
           "short": "Volos",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20043.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Kleánthis Vikelídis Stadium"
@@ -1779,19 +1779,19 @@
       "name": "F.C. København at FC Midtjylland",
       "date": "2026-10-11T16:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "79'",
       "teams": [
         {
           "name": "FC Midtjylland",
           "short": "Midtjylland",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/572.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "F.C. København",
           "short": "København",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/909.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "MCH Arena"
@@ -1870,20 +1870,20 @@
       "league": "Football",
       "name": "Molde at Lillestrom",
       "date": "2026-10-11T17:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "24'",
       "teams": [
         {
           "name": "Lillestrom",
           "short": "Lillestrom",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/987.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Molde",
           "short": "Molde",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2715.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Arasen Stadion"
