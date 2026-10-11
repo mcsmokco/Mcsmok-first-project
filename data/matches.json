@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T13:40:53.032529+00:00",
+  "updated_at": "2026-10-11T14:07:09.136228+00:00",
   "count": 100,
   "items": [
     {
@@ -8,13 +8,13 @@
       "name": "Nottingham Forest at Crystal Palace",
       "date": "2026-10-11T13:00Z",
       "state": "in",
-      "status": "40'",
+      "status": "HT",
       "teams": [
         {
           "name": "Crystal Palace",
           "short": "C Palace",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Nottingham Forest",
@@ -31,7 +31,7 @@
       "name": "Everton at Hull City",
       "date": "2026-10-11T13:00Z",
       "state": "in",
-      "status": "40'",
+      "status": "HT",
       "teams": [
         {
           "name": "Hull City",
@@ -76,8 +76,8 @@
       "league": "Football",
       "name": "Celta Vigo at Elche",
       "date": "2026-10-11T12:00Z",
-      "state": "in",
-      "status": "82'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Elche",
@@ -261,7 +261,7 @@
       "name": "Monza at Lazio",
       "date": "2026-10-11T13:00Z",
       "state": "in",
-      "status": "40'",
+      "status": "48'",
       "teams": [
         {
           "name": "Lazio",
@@ -273,7 +273,7 @@
           "name": "Monza",
           "short": "Monza",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Olimpico"
@@ -284,7 +284,7 @@
       "name": "Bologna at Lecce",
       "date": "2026-10-11T13:00Z",
       "state": "in",
-      "status": "38'",
+      "status": "HT",
       "teams": [
         {
           "name": "Lecce",
@@ -353,13 +353,13 @@
       "name": "Borussia Mönchengladbach at FC Cologne",
       "date": "2026-10-11T13:30Z",
       "state": "in",
-      "status": "9'",
+      "status": "35'",
       "teams": [
         {
           "name": "FC Cologne",
           "short": "Cologne",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Borussia Mönchengladbach",
@@ -399,19 +399,19 @@
       "name": "Strasbourg at Nice",
       "date": "2026-10-11T13:00Z",
       "state": "in",
-      "status": "40'",
+      "status": "47'",
       "teams": [
         {
           "name": "Nice",
           "short": "Nice",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Strasbourg",
           "short": "Strasbourg",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Allianz Riviera"
@@ -560,7 +560,7 @@
       "name": "SC Cambuur at PEC Zwolle",
       "date": "2026-10-11T12:30Z",
       "state": "in",
-      "status": "49'",
+      "status": "75'",
       "teams": [
         {
           "name": "PEC Zwolle",
@@ -583,7 +583,7 @@
       "name": "ADO Den Haag at Telstar",
       "date": "2026-10-11T12:30Z",
       "state": "in",
-      "status": "52'",
+      "status": "78'",
       "teams": [
         {
           "name": "Telstar",
@@ -652,7 +652,7 @@
       "name": "Russia  at India",
       "date": "2026-10-11T12:30Z",
       "state": "in",
-      "status": "HT",
+      "status": "64'",
       "teams": [
         {
           "name": "India",
@@ -664,7 +664,7 @@
           "name": "Russia ",
           "short": "Russia",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rus.png",
-          "score": "5"
+          "score": "7"
         }
       ],
       "venue": "Kishore Bharati Krirangan"
@@ -744,7 +744,7 @@
       "name": "St Johnstone at Aberdeen",
       "date": "2026-10-11T13:00Z",
       "state": "in",
-      "status": "40'",
+      "status": "HT",
       "teams": [
         {
           "name": "Aberdeen",
@@ -767,13 +767,13 @@
       "name": "Al Riyadh at Al Fayha",
       "date": "2026-10-11T13:40Z",
       "state": "in",
-      "status": "1'",
+      "status": "27'",
       "teams": [
         {
           "name": "Al Fayha",
           "short": "Al Fayha",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21827.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Al Riyadh",
@@ -928,7 +928,7 @@
       "name": "Çorum FK at Gaziantep FK",
       "date": "2026-10-11T13:00Z",
       "state": "in",
-      "status": "40'",
+      "status": "48'",
       "teams": [
         {
           "name": "Gaziantep FK",
@@ -1066,13 +1066,13 @@
       "name": "Rodina Moscow at CSKA Moscow",
       "date": "2026-10-11T13:30Z",
       "state": "in",
-      "status": "9'",
+      "status": "35'",
       "teams": [
         {
           "name": "CSKA Moscow",
           "short": "CSKA Moscow",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1963.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Rodina Moscow",
@@ -1134,8 +1134,8 @@
       "league": "Football",
       "name": "Oud-Heverlee Leuven at Union St.-Gilloise",
       "date": "2026-10-11T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "7'",
       "teams": [
         {
           "name": "Union St.-Gilloise",
@@ -1203,8 +1203,8 @@
       "league": "Football",
       "name": "Castellón at FC Andorra",
       "date": "2026-10-11T12:00Z",
-      "state": "in",
-      "status": "83'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "FC Andorra",
@@ -1365,7 +1365,7 @@
       "name": "Mantova at Catanzaro",
       "date": "2026-10-11T13:00Z",
       "state": "in",
-      "status": "39'",
+      "status": "48'",
       "teams": [
         {
           "name": "Catanzaro",
@@ -1434,7 +1434,7 @@
       "name": "Wolfsberger at SC Rheindorf Altach",
       "date": "2026-10-11T12:30Z",
       "state": "in",
-      "status": "53'",
+      "status": "79'",
       "teams": [
         {
           "name": "SC Rheindorf Altach",
@@ -1457,13 +1457,13 @@
       "name": "Austria Lustenau at TSV Hartberg",
       "date": "2026-10-11T12:30Z",
       "state": "in",
-      "status": "54'",
+      "status": "80'",
       "teams": [
         {
           "name": "TSV Hartberg",
           "short": "TSV Hartberg",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6907.png",
-          "score": "1"
+          "score": "3"
         },
         {
           "name": "Austria Lustenau",
@@ -1502,8 +1502,8 @@
       "league": "Football",
       "name": "Levadiakos at Iraklis",
       "date": "2026-10-11T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "6'",
       "teams": [
         {
           "name": "Iraklis",
@@ -1525,8 +1525,8 @@
       "league": "Football",
       "name": "Panetolikos at Kifisia",
       "date": "2026-10-11T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "3'",
       "teams": [
         {
           "name": "Kifisia",
@@ -1663,8 +1663,8 @@
       "league": "Football",
       "name": "Djurgården at Hammarby IF",
       "date": "2026-10-11T12:00Z",
-      "state": "in",
-      "status": "78'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Hammarby IF",
@@ -1709,8 +1709,8 @@
       "league": "Football",
       "name": "Viborg FF at Randers FC",
       "date": "2026-10-11T12:00Z",
-      "state": "in",
-      "status": "82'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Randers FC",
@@ -1722,7 +1722,7 @@
           "name": "Viborg FF",
           "short": "Viborg",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3153.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Cepheus Park Randers"
@@ -1732,8 +1732,8 @@
       "league": "Football",
       "name": "AC Horsens at Silkeborg IF",
       "date": "2026-10-11T12:00Z",
-      "state": "in",
-      "status": "82'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Silkeborg IF",
@@ -1745,7 +1745,7 @@
           "name": "AC Horsens",
           "short": "AC Horsens",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3585.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "JYSK Park"
@@ -1755,8 +1755,8 @@
       "league": "Football",
       "name": "Lyngby Boldklub at Brøndby IF",
       "date": "2026-10-11T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "7'",
       "teams": [
         {
           "name": "Brøndby IF",
@@ -1802,13 +1802,13 @@
       "name": "Tromso at Fredrikstad",
       "date": "2026-10-11T12:30Z",
       "state": "in",
-      "status": "49'",
+      "status": "76'",
       "teams": [
         {
           "name": "Fredrikstad",
           "short": "Fredrikstad",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3039.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Tromso",
