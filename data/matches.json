@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T18:48:05.484196+00:00",
+  "updated_at": "2026-10-12T19:09:37.996596+00:00",
   "count": 51,
   "items": [
     {
@@ -7,14 +7,14 @@
       "league": "Football",
       "name": "Newcastle United at Coventry City",
       "date": "2026-10-12T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "Coventry City",
           "short": "Coventry",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Newcastle United",
@@ -30,8 +30,8 @@
       "league": "Football",
       "name": "Sevilla at Levante",
       "date": "2026-10-12T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "7'",
       "teams": [
         {
           "name": "Levante",
@@ -77,7 +77,7 @@
       "name": "Udinese at Torino",
       "date": "2026-10-12T18:45Z",
       "state": "in",
-      "status": "1'",
+      "status": "23'",
       "teams": [
         {
           "name": "Torino",
@@ -129,13 +129,13 @@
           "name": "Andorra",
           "short": "Andorra",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/and.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Faroe Islands",
           "short": "Faroe Islands",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fro.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Estadi Nacional d'Andorra"
@@ -237,8 +237,8 @@
       "league": "Football",
       "name": "Goztepe at Eyupspor",
       "date": "2026-10-12T17:00Z",
-      "state": "in",
-      "status": "85'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Eyupspor",
@@ -328,9 +328,9 @@
       "id": "401912627",
       "league": "Football",
       "name": "Neftchi Fergana at Al Nassr",
-      "date": "2026-10-12T18:15Z",
-      "state": "in",
-      "status": "Delay",
+      "date": "2026-10-12T19:10Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
           "name": "Al Nassr",
@@ -353,7 +353,7 @@
       "name": "Esteghlal at Al-Gharafa",
       "date": "2026-10-12T18:15Z",
       "state": "in",
-      "status": "31'",
+      "status": "HT",
       "teams": [
         {
           "name": "Al-Gharafa",
@@ -365,7 +365,7 @@
           "name": "Esteghlal",
           "short": "Esteghlal",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Thani bin Jassim Stadium"
@@ -376,7 +376,7 @@
       "name": "Al Ain at Al-Quwa Al-Jawiya",
       "date": "2026-10-12T18:15Z",
       "state": "in",
-      "status": "31'",
+      "status": "HT",
       "teams": [
         {
           "name": "Al-Quwa Al-Jawiya",
@@ -388,7 +388,7 @@
           "name": "Al Ain",
           "short": "Al Ain",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7128.png",
-          "score": "3"
+          "score": "4"
         }
       ],
       "venue": "Basra International Stadium"
@@ -467,8 +467,8 @@
       "league": "Football",
       "name": "Girona at Tenerife",
       "date": "2026-10-12T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "Tenerife",
@@ -480,7 +480,7 @@
           "name": "Girona",
           "short": "Girona",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9812.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Estadio Heliodoro Rodríguez López"
@@ -491,13 +491,13 @@
       "name": "Metz at Dijon FCO",
       "date": "2026-10-12T18:45Z",
       "state": "in",
-      "status": "2'",
+      "status": "23'",
       "teams": [
         {
           "name": "Dijon FCO",
           "short": "Dijon FCO",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3170.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Metz",
@@ -536,8 +536,8 @@
       "league": "Football",
       "name": "Halmstads BK at IF Elfsborg",
       "date": "2026-10-12T17:00Z",
-      "state": "in",
-      "status": "90'+1'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "IF Elfsborg",
@@ -559,8 +559,8 @@
       "league": "Football",
       "name": "Kalmar FF at Malmö FF",
       "date": "2026-10-12T17:00Z",
-      "state": "in",
-      "status": "90'+1'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Malmö FF",
@@ -582,8 +582,8 @@
       "league": "Football",
       "name": "Sønderjyske Fodbold at AGF",
       "date": "2026-10-12T17:00Z",
-      "state": "in",
-      "status": "88'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "AGF",
@@ -605,8 +605,8 @@
       "league": "Football",
       "name": "Valerenga at KFUM Oslo",
       "date": "2026-10-12T17:00Z",
-      "state": "in",
-      "status": "89'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "KFUM Oslo",
@@ -628,8 +628,8 @@
       "league": "Football",
       "name": "Vélez Sarsfield at Lanús",
       "date": "2026-10-12T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "Lanús",
@@ -721,7 +721,7 @@
       "name": "Dock Sud at Brown de Adrogué",
       "date": "2026-10-12T18:00Z",
       "state": "in",
-      "status": "45'+2'",
+      "status": "HT",
       "teams": [
         {
           "name": "Brown de Adrogué",
@@ -744,7 +744,7 @@
       "name": "Real Pilar at UAI Urquiza",
       "date": "2026-10-12T18:00Z",
       "state": "in",
-      "status": "45'+3'",
+      "status": "HT",
       "teams": [
         {
           "name": "UAI Urquiza",
@@ -766,8 +766,8 @@
       "league": "Football",
       "name": "Botafogo at Coritiba",
       "date": "2026-10-12T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "5'",
       "teams": [
         {
           "name": "Coritiba",
@@ -835,8 +835,8 @@
       "league": "Football",
       "name": "CRB at Fortaleza",
       "date": "2026-10-12T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "Fortaleza",
@@ -996,8 +996,8 @@
       "league": "Football",
       "name": "Guabirá at GV San José",
       "date": "2026-10-12T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "GV San José",
@@ -1009,7 +1009,7 @@
           "name": "Guabirá",
           "short": "Guabirá",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9497.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Estadio Jesús Bermúdez"
@@ -1066,7 +1066,7 @@
       "name": "West Virginia at American University",
       "date": "2026-10-12T17:00Z",
       "state": "in",
-      "status": "74'",
+      "status": "90'",
       "teams": [
         {
           "name": "American University",
@@ -1135,7 +1135,7 @@
       "name": "Grambling at Alabama State",
       "date": "2026-10-12T18:00Z",
       "state": "in",
-      "status": "40'",
+      "status": "HT",
       "teams": [
         {
           "name": "Alabama State",
