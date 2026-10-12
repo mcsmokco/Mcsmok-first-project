@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T15:45:52.840947+00:00",
+  "updated_at": "2026-10-12T16:09:58.194094+00:00",
   "count": 51,
   "items": [
     {
@@ -99,8 +99,8 @@
       "league": "Football",
       "name": "Georgia at Moldova",
       "date": "2026-10-12T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Moldova",
@@ -112,7 +112,7 @@
           "name": "Georgia",
           "short": "Georgia",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/geo.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stadionul Zimbru"
@@ -260,8 +260,8 @@
       "league": "Football",
       "name": "Al Qadsiah at Pakhtakor Tashkent",
       "date": "2026-10-12T13:45Z",
-      "state": "in",
-      "status": "90'+9'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Pakhtakor Tashkent",
@@ -283,8 +283,8 @@
       "league": "Football",
       "name": "Al Ahli at Al Wasl",
       "date": "2026-10-12T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "Al Wasl",
@@ -306,8 +306,8 @@
       "league": "Football",
       "name": "Al-Shamal at Traktor Sazi FC",
       "date": "2026-10-12T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "Traktor Sazi FC",
@@ -422,7 +422,7 @@
       "name": "Granada at Burgos",
       "date": "2026-10-12T14:15Z",
       "state": "in",
-      "status": "73'",
+      "status": "90'+7'",
       "teams": [
         {
           "name": "Burgos",
@@ -514,7 +514,7 @@
       "name": "Kalamata at PAOK",
       "date": "2026-10-12T15:00Z",
       "state": "in",
-      "status": "45'",
+      "status": "50'",
       "teams": [
         {
           "name": "PAOK",
@@ -1042,14 +1042,14 @@
       "league": "Football",
       "name": "Mohun Bagan Super Giant at NorthEast United FC",
       "date": "2026-10-12T14:00Z",
-      "state": "in",
-      "status": "85'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "NorthEast United FC",
           "short": "NorthEast",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18004.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Mohun Bagan Super Giant",
