@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T16:43:07.308479+00:00",
+  "updated_at": "2026-10-12T17:08:48.254109+00:00",
   "count": 51,
   "items": [
     {
@@ -54,13 +54,13 @@
       "name": "Venezia at Atalanta",
       "date": "2026-10-12T16:30Z",
       "state": "in",
-      "status": "11'",
+      "status": "37'",
       "teams": [
         {
           "name": "Atalanta",
           "short": "Atalanta",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "Venezia",
@@ -122,8 +122,8 @@
       "league": "Football",
       "name": "Faroe Islands at Andorra",
       "date": "2026-10-12T15:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Andorra",
@@ -237,8 +237,8 @@
       "league": "Football",
       "name": "Goztepe at Eyupspor",
       "date": "2026-10-12T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "7'",
       "teams": [
         {
           "name": "Eyupspor",
@@ -284,13 +284,13 @@
       "name": "Al Ahli at Al Wasl",
       "date": "2026-10-12T16:00Z",
       "state": "in",
-      "status": "41'",
+      "status": "HT",
       "teams": [
         {
           "name": "Al Wasl",
           "short": "Al Wasl",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8365.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Al Ahli",
@@ -307,7 +307,7 @@
       "name": "Al-Shamal at Traktor Sazi FC",
       "date": "2026-10-12T16:00Z",
       "state": "in",
-      "status": "42'",
+      "status": "48'",
       "teams": [
         {
           "name": "Traktor Sazi FC",
@@ -445,7 +445,7 @@
       "name": "Eibar at Real Oviedo",
       "date": "2026-10-12T16:30Z",
       "state": "in",
-      "status": "11'",
+      "status": "36'",
       "teams": [
         {
           "name": "Real Oviedo",
@@ -513,8 +513,8 @@
       "league": "Football",
       "name": "Kalamata at PAOK",
       "date": "2026-10-12T15:00Z",
-      "state": "in",
-      "status": "83'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "PAOK",
@@ -536,14 +536,14 @@
       "league": "Football",
       "name": "Halmstads BK at IF Elfsborg",
       "date": "2026-10-12T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "IF Elfsborg",
           "short": "Elfsborg",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/529.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Halmstads BK",
@@ -559,8 +559,8 @@
       "league": "Football",
       "name": "Kalmar FF at Malmö FF",
       "date": "2026-10-12T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "Malmö FF",
@@ -582,8 +582,8 @@
       "league": "Football",
       "name": "Sønderjyske Fodbold at AGF",
       "date": "2026-10-12T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "AGF",
@@ -605,8 +605,8 @@
       "league": "Football",
       "name": "Valerenga at KFUM Oslo",
       "date": "2026-10-12T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "KFUM Oslo",
@@ -1065,8 +1065,8 @@
       "league": "Football",
       "name": "West Virginia at American University",
       "date": "2026-10-12T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "1'",
       "teams": [
         {
           "name": "American University",
