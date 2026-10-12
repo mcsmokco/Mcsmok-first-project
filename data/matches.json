@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T17:43:19.829588+00:00",
+  "updated_at": "2026-10-12T18:08:38.443100+00:00",
   "count": 51,
   "items": [
     {
@@ -54,7 +54,7 @@
       "name": "Venezia at Atalanta",
       "date": "2026-10-12T16:30Z",
       "state": "in",
-      "status": "55'",
+      "status": "80'",
       "teams": [
         {
           "name": "Atalanta",
@@ -238,7 +238,7 @@
       "name": "Goztepe at Eyupspor",
       "date": "2026-10-12T17:00Z",
       "state": "in",
-      "status": "41'",
+      "status": "46'",
       "teams": [
         {
           "name": "Eyupspor",
@@ -283,8 +283,8 @@
       "league": "Football",
       "name": "Al Ahli at Al Wasl",
       "date": "2026-10-12T16:00Z",
-      "state": "in",
-      "status": "76'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Al Wasl",
@@ -296,7 +296,7 @@
           "name": "Al Ahli",
           "short": "Al Ahli",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8346.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "Zabeel Stadium"
@@ -306,8 +306,8 @@
       "league": "Football",
       "name": "Al-Shamal at Traktor Sazi FC",
       "date": "2026-10-12T16:00Z",
-      "state": "in",
-      "status": "83'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Traktor Sazi FC",
@@ -445,7 +445,7 @@
       "name": "Eibar at Real Oviedo",
       "date": "2026-10-12T16:30Z",
       "state": "in",
-      "status": "50'",
+      "status": "75'",
       "teams": [
         {
           "name": "Real Oviedo",
@@ -457,7 +457,7 @@
           "name": "Eibar",
           "short": "Eibar",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Estadio Carlos Tartiere"
@@ -537,13 +537,13 @@
       "name": "Halmstads BK at IF Elfsborg",
       "date": "2026-10-12T17:00Z",
       "state": "in",
-      "status": "43'",
+      "status": "52'",
       "teams": [
         {
           "name": "IF Elfsborg",
           "short": "Elfsborg",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/529.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Halmstads BK",
@@ -560,7 +560,7 @@
       "name": "Kalmar FF at Malmö FF",
       "date": "2026-10-12T17:00Z",
       "state": "in",
-      "status": "43'",
+      "status": "51'",
       "teams": [
         {
           "name": "Malmö FF",
@@ -583,7 +583,7 @@
       "name": "Sønderjyske Fodbold at AGF",
       "date": "2026-10-12T17:00Z",
       "state": "in",
-      "status": "42'",
+      "status": "49'",
       "teams": [
         {
           "name": "AGF",
@@ -606,7 +606,7 @@
       "name": "Valerenga at KFUM Oslo",
       "date": "2026-10-12T17:00Z",
       "state": "in",
-      "status": "43'",
+      "status": "49'",
       "teams": [
         {
           "name": "KFUM Oslo",
@@ -720,8 +720,8 @@
       "league": "Football",
       "name": "Dock Sud at Brown de Adrogué",
       "date": "2026-10-12T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "Brown de Adrogué",
@@ -743,8 +743,8 @@
       "league": "Football",
       "name": "Real Pilar at UAI Urquiza",
       "date": "2026-10-12T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "UAI Urquiza",
@@ -1066,7 +1066,7 @@
       "name": "West Virginia at American University",
       "date": "2026-10-12T17:00Z",
       "state": "in",
-      "status": "34'",
+      "status": "HT",
       "teams": [
         {
           "name": "American University",
@@ -1134,8 +1134,8 @@
       "league": "Football",
       "name": "Grambling at Alabama State",
       "date": "2026-10-12T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "4'",
       "teams": [
         {
           "name": "Alabama State",
