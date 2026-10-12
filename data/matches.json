@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T16:09:58.194094+00:00",
+  "updated_at": "2026-10-12T16:43:07.308479+00:00",
   "count": 51,
   "items": [
     {
@@ -53,14 +53,14 @@
       "league": "Football",
       "name": "Venezia at Atalanta",
       "date": "2026-10-12T16:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "11'",
       "teams": [
         {
           "name": "Atalanta",
           "short": "Atalanta",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Venezia",
@@ -284,7 +284,7 @@
       "name": "Al Ahli at Al Wasl",
       "date": "2026-10-12T16:00Z",
       "state": "in",
-      "status": "8'",
+      "status": "41'",
       "teams": [
         {
           "name": "Al Wasl",
@@ -296,7 +296,7 @@
           "name": "Al Ahli",
           "short": "Al Ahli",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8346.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Zabeel Stadium"
@@ -307,7 +307,7 @@
       "name": "Al-Shamal at Traktor Sazi FC",
       "date": "2026-10-12T16:00Z",
       "state": "in",
-      "status": "9'",
+      "status": "42'",
       "teams": [
         {
           "name": "Traktor Sazi FC",
@@ -421,8 +421,8 @@
       "league": "Football",
       "name": "Granada at Burgos",
       "date": "2026-10-12T14:15Z",
-      "state": "in",
-      "status": "90'+7'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Burgos",
@@ -444,14 +444,14 @@
       "league": "Football",
       "name": "Eibar at Real Oviedo",
       "date": "2026-10-12T16:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "11'",
       "teams": [
         {
           "name": "Real Oviedo",
           "short": "Real Oviedo",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/92.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Eibar",
@@ -514,7 +514,7 @@
       "name": "Kalamata at PAOK",
       "date": "2026-10-12T15:00Z",
       "state": "in",
-      "status": "50'",
+      "status": "83'",
       "teams": [
         {
           "name": "PAOK",
@@ -526,7 +526,7 @@
           "name": "Kalamata",
           "short": "Kalamata",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132429.png",
-          "score": "1"
+          "score": "3"
         }
       ],
       "venue": "Toumba Stadium"
