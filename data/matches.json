@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T18:08:38.443100+00:00",
+  "updated_at": "2026-10-12T18:48:05.484196+00:00",
   "count": 51,
   "items": [
     {
@@ -53,8 +53,8 @@
       "league": "Football",
       "name": "Venezia at Atalanta",
       "date": "2026-10-12T16:30Z",
-      "state": "in",
-      "status": "80'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Atalanta",
@@ -76,8 +76,8 @@
       "league": "Football",
       "name": "Udinese at Torino",
       "date": "2026-10-12T18:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "1'",
       "teams": [
         {
           "name": "Torino",
@@ -238,7 +238,7 @@
       "name": "Goztepe at Eyupspor",
       "date": "2026-10-12T17:00Z",
       "state": "in",
-      "status": "46'",
+      "status": "85'",
       "teams": [
         {
           "name": "Eyupspor",
@@ -250,7 +250,7 @@
           "name": "Goztepe",
           "short": "Goztepe",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/789.png",
-          "score": "1"
+          "score": "4"
         }
       ],
       "venue": "Esenyurt Necmi Kadioglu Stadi"
@@ -329,8 +329,8 @@
       "league": "Football",
       "name": "Neftchi Fergana at Al Nassr",
       "date": "2026-10-12T18:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "Delay",
       "teams": [
         {
           "name": "Al Nassr",
@@ -352,8 +352,8 @@
       "league": "Football",
       "name": "Esteghlal at Al-Gharafa",
       "date": "2026-10-12T18:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "31'",
       "teams": [
         {
           "name": "Al-Gharafa",
@@ -375,8 +375,8 @@
       "league": "Football",
       "name": "Al Ain at Al-Quwa Al-Jawiya",
       "date": "2026-10-12T18:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "31'",
       "teams": [
         {
           "name": "Al-Quwa Al-Jawiya",
@@ -388,7 +388,7 @@
           "name": "Al Ain",
           "short": "Al Ain",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7128.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Basra International Stadium"
@@ -444,14 +444,14 @@
       "league": "Football",
       "name": "Eibar at Real Oviedo",
       "date": "2026-10-12T16:30Z",
-      "state": "in",
-      "status": "75'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Real Oviedo",
           "short": "Real Oviedo",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/92.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "Eibar",
@@ -490,8 +490,8 @@
       "league": "Football",
       "name": "Metz at Dijon FCO",
       "date": "2026-10-12T18:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "2'",
       "teams": [
         {
           "name": "Dijon FCO",
@@ -537,13 +537,13 @@
       "name": "Halmstads BK at IF Elfsborg",
       "date": "2026-10-12T17:00Z",
       "state": "in",
-      "status": "52'",
+      "status": "90'+1'",
       "teams": [
         {
           "name": "IF Elfsborg",
           "short": "Elfsborg",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/529.png",
-          "score": "2"
+          "score": "4"
         },
         {
           "name": "Halmstads BK",
@@ -560,13 +560,13 @@
       "name": "Kalmar FF at Malmö FF",
       "date": "2026-10-12T17:00Z",
       "state": "in",
-      "status": "51'",
+      "status": "90'+1'",
       "teams": [
         {
           "name": "Malmö FF",
           "short": "Malmö",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2720.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Kalmar FF",
@@ -583,7 +583,7 @@
       "name": "Sønderjyske Fodbold at AGF",
       "date": "2026-10-12T17:00Z",
       "state": "in",
-      "status": "49'",
+      "status": "88'",
       "teams": [
         {
           "name": "AGF",
@@ -606,13 +606,13 @@
       "name": "Valerenga at KFUM Oslo",
       "date": "2026-10-12T17:00Z",
       "state": "in",
-      "status": "49'",
+      "status": "89'",
       "teams": [
         {
           "name": "KFUM Oslo",
           "short": "KFUM",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22165.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Vålerenga",
@@ -721,7 +721,7 @@
       "name": "Dock Sud at Brown de Adrogué",
       "date": "2026-10-12T18:00Z",
       "state": "in",
-      "status": "8'",
+      "status": "45'+2'",
       "teams": [
         {
           "name": "Brown de Adrogué",
@@ -744,7 +744,7 @@
       "name": "Real Pilar at UAI Urquiza",
       "date": "2026-10-12T18:00Z",
       "state": "in",
-      "status": "8'",
+      "status": "45'+3'",
       "teams": [
         {
           "name": "UAI Urquiza",
@@ -1066,7 +1066,7 @@
       "name": "West Virginia at American University",
       "date": "2026-10-12T17:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "74'",
       "teams": [
         {
           "name": "American University",
@@ -1135,7 +1135,7 @@
       "name": "Grambling at Alabama State",
       "date": "2026-10-12T18:00Z",
       "state": "in",
-      "status": "4'",
+      "status": "40'",
       "teams": [
         {
           "name": "Alabama State",
@@ -1147,7 +1147,7 @@
           "name": "Grambling",
           "short": "Grambling",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2755.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "ASU Soccer Complex"
