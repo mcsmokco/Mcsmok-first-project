@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T10:10:29.803522+00:00",
+  "updated_at": "2026-10-13T10:45:46.762969+00:00",
   "count": 100,
   "items": [
     {
@@ -831,29 +831,6 @@
       "venue": "Weserstadion"
     },
     {
-      "id": "401928751",
-      "league": "Football",
-      "name": "Saudi Arabia at Malaysia",
-      "date": "2026-10-13T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Malaysia",
-          "short": "Malaysia",
-          "logo": "",
-          "score": "0"
-        },
-        {
-          "name": "Saudi Arabia",
-          "short": "Saudi Arabia",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ksa.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Aspire Complex"
-    },
-    {
       "id": "401916263",
       "league": "Football",
       "name": "Philippines at Peru",
@@ -875,6 +852,29 @@
         }
       ],
       "venue": "La Videnita"
+    },
+    {
+      "id": "401928751",
+      "league": "Football",
+      "name": "Malaysia at Saudi Arabia",
+      "date": "2026-10-13T16:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Saudi Arabia",
+          "short": "Saudi Arabia",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ksa.png",
+          "score": "0"
+        },
+        {
+          "name": "Malaysia",
+          "short": "Malaysia",
+          "logo": "",
+          "score": "0"
+        }
+      ],
+      "venue": "Aspire Complex"
     },
     {
       "id": "401917871",
@@ -1089,7 +1089,7 @@
       "name": "Ratchaburi FC at Kyoto Sanga",
       "date": "2026-10-13T10:00Z",
       "state": "in",
-      "status": "9'",
+      "status": "44'",
       "teams": [
         {
           "name": "Kyoto Sanga",
@@ -1112,7 +1112,7 @@
       "name": "Johor Darul Ta'zim at Pohang Steelers",
       "date": "2026-10-13T10:00Z",
       "state": "in",
-      "status": "9'",
+      "status": "44'",
       "teams": [
         {
           "name": "Pohang Steelers",
@@ -1135,7 +1135,7 @@
       "name": "Daejeon Hana Citizen at Shanghai Port",
       "date": "2026-10-13T10:00Z",
       "state": "in",
-      "status": "10'",
+      "status": "45'",
       "teams": [
         {
           "name": "Shanghai Port",
