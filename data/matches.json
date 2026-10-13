@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T17:43:48.749461+00:00",
+  "updated_at": "2026-10-13T18:12:51.588310+00:00",
   "count": 100,
   "items": [
     {
@@ -8,7 +8,7 @@
       "name": "Sporting CP at Lens",
       "date": "2026-10-13T16:45Z",
       "state": "in",
-      "status": "HT",
+      "status": "66'",
       "teams": [
         {
           "name": "Lens",
@@ -31,13 +31,13 @@
       "name": "Slavia Prague at Sabah FK",
       "date": "2026-10-13T16:45Z",
       "state": "in",
-      "status": "HT",
+      "status": "67'",
       "teams": [
         {
           "name": "Sabah FK",
           "short": "Sabah",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Slavia Prague",
@@ -467,14 +467,14 @@
       "league": "Football",
       "name": "Kosovo at Austria",
       "date": "2026-10-13T16:00Z",
-      "state": "in",
-      "status": "86'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Austria",
           "short": "Austria",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png",
-          "score": "2"
+          "score": "4"
         },
         {
           "name": "Kosovo",
@@ -490,8 +490,8 @@
       "league": "Football",
       "name": "Romania at Norway",
       "date": "2026-10-13T16:00Z",
-      "state": "in",
-      "status": "88'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Norway",
@@ -514,7 +514,7 @@
       "name": "Belgium at Poland",
       "date": "2026-10-13T16:00Z",
       "state": "in",
-      "status": "84'",
+      "status": "105'+1'",
       "teams": [
         {
           "name": "Poland",
@@ -536,8 +536,8 @@
       "league": "Football",
       "name": "Belarus at Italy",
       "date": "2026-10-13T16:15Z",
-      "state": "in",
-      "status": "72'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Italy",
@@ -549,7 +549,7 @@
           "name": "Belarus",
           "short": "Belarus",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/blr.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stadio Artemio Franchi"
@@ -560,13 +560,13 @@
       "name": "Lithuania at Sweden",
       "date": "2026-10-13T17:00Z",
       "state": "in",
-      "status": "43'",
+      "status": "55'",
       "teams": [
         {
           "name": "Sweden",
           "short": "Sweden",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png",
-          "score": "5"
+          "score": "7"
         },
         {
           "name": "Lithuania",
@@ -583,13 +583,13 @@
       "name": "Croatia at Iceland",
       "date": "2026-10-13T17:30Z",
       "state": "in",
-      "status": "13'",
+      "status": "41'",
       "teams": [
         {
           "name": "Iceland",
           "short": "Iceland",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/isl.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Croatia",
@@ -606,13 +606,13 @@
       "name": "Israel at Switzerland",
       "date": "2026-10-13T17:30Z",
       "state": "in",
-      "status": "13'",
+      "status": "42'",
       "teams": [
         {
           "name": "Switzerland",
           "short": "Switzerland",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Israel",
@@ -835,8 +835,8 @@
       "league": "Football",
       "name": "Philippines at Peru",
       "date": "2026-10-13T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Peru",
@@ -848,7 +848,7 @@
           "name": "Philippines",
           "short": "Philippines",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/phi.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "La Videnita"
@@ -1019,8 +1019,8 @@
       "league": "Football",
       "name": "New Zealand at Panama",
       "date": "2026-10-14T00:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "Canceled",
       "teams": [
         {
           "name": "Panama",
@@ -1203,8 +1203,8 @@
       "league": "Football",
       "name": "Al Hilal at Al Sadd",
       "date": "2026-10-13T16:00Z",
-      "state": "in",
-      "status": "83'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Al Sadd",
@@ -1272,8 +1272,8 @@
       "league": "Football",
       "name": "Al Hussein at Al-Seeb",
       "date": "2026-10-13T16:00Z",
-      "state": "in",
-      "status": "86'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Al-Seeb",
@@ -1318,8 +1318,8 @@
       "league": "Football",
       "name": "Tottenham Hotspur U21 at Cheltenham Town",
       "date": "2026-10-13T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "13'",
       "teams": [
         {
           "name": "Cheltenham Town",
@@ -1341,8 +1341,8 @@
       "league": "Football",
       "name": "Brighton & Hove Albion U21 at Gillingham",
       "date": "2026-10-13T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "13'",
       "teams": [
         {
           "name": "Gillingham",
@@ -1364,14 +1364,14 @@
       "league": "Football",
       "name": "Nottingham Forest U21 at Notts County",
       "date": "2026-10-13T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "13'",
       "teams": [
         {
           "name": "Notts County",
           "short": "Notts County",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/340.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Nottingham Forest U21",
@@ -1387,8 +1387,8 @@
       "league": "Football",
       "name": "Leeds United U21 at Oldham Athletic",
       "date": "2026-10-13T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "13'",
       "teams": [
         {
           "name": "Oldham Athletic",
@@ -1410,8 +1410,8 @@
       "league": "Football",
       "name": "Chelsea U21 at Reading",
       "date": "2026-10-13T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "12'",
       "teams": [
         {
           "name": "Reading",
@@ -1433,8 +1433,8 @@
       "league": "Football",
       "name": "Fulham U21 at Walsall",
       "date": "2026-10-13T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "13'",
       "teams": [
         {
           "name": "Walsall",
@@ -2078,7 +2078,7 @@
       "name": "AmaZulu at Durban City",
       "date": "2026-10-13T17:30Z",
       "state": "in",
-      "status": "11'",
+      "status": "40'",
       "teams": [
         {
           "name": "Durban City",
@@ -2101,7 +2101,7 @@
       "name": "Stellenbosch at Kaizer Chiefs",
       "date": "2026-10-13T17:30Z",
       "state": "in",
-      "status": "12'",
+      "status": "40'",
       "teams": [
         {
           "name": "Kaizer Chiefs",
@@ -2124,13 +2124,13 @@
       "name": "TS Galaxy FC at Orlando Pirates",
       "date": "2026-10-13T17:30Z",
       "state": "in",
-      "status": "10'",
+      "status": "39'",
       "teams": [
         {
           "name": "Orlando Pirates",
           "short": "O Pirates",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7085.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "TS Galaxy FC",
@@ -2147,19 +2147,19 @@
       "name": "Mamelodi Sundowns at Richards Bay FC",
       "date": "2026-10-13T17:30Z",
       "state": "in",
-      "status": "12'",
+      "status": "41'",
       "teams": [
         {
           "name": "Richards Bay FC",
           "short": "Richards Bay",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18825.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Mamelodi Sundowns",
           "short": "M Sundowns",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7084.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Princess Magogo Stadium"
