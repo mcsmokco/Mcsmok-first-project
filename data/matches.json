@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T12:54:06.512041+00:00",
+  "updated_at": "2026-10-13T13:18:27.712979+00:00",
   "count": 100,
   "items": [
     {
@@ -766,20 +766,20 @@
       "league": "Football",
       "name": "Palestine at Lebanon",
       "date": "2026-10-13T11:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Lebanon",
           "short": "Lebanon",
           "logo": "",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Palestine",
           "short": "Palestine",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Fouad Shehab Stadium"
@@ -1158,7 +1158,7 @@
       "name": "Beijing Guoan at Buriram United",
       "date": "2026-10-13T12:15Z",
       "state": "in",
-      "status": "38'",
+      "status": "HT",
       "teams": [
         {
           "name": "Buriram United",
@@ -1181,7 +1181,7 @@
       "name": "Kashima Antlers at Cong An Hanoi",
       "date": "2026-10-13T12:15Z",
       "state": "in",
-      "status": "38'",
+      "status": "47'",
       "teams": [
         {
           "name": "Cong An Hanoi",
