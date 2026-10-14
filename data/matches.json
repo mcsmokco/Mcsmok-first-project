@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T14:00:01.890005+00:00",
+  "updated_at": "2026-10-14T14:30:37.165501+00:00",
   "count": 88,
   "items": [
     {
@@ -766,8 +766,8 @@
       "league": "Football",
       "name": "Viettel at Persib",
       "date": "2026-10-14T12:15Z",
-      "state": "in",
-      "status": "86'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Persib",
@@ -790,7 +790,7 @@
       "name": "Al-Wahda at Nasaf Qarshi",
       "date": "2026-10-14T13:45Z",
       "state": "in",
-      "status": "15'",
+      "status": "45'+1'",
       "teams": [
         {
           "name": "Nasaf Qarshi",
@@ -802,7 +802,7 @@
           "name": "Al-Wahda",
           "short": "Al-Wahda",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Qarshi Stadium"
@@ -1249,20 +1249,20 @@
       "league": "Football",
       "name": "Odisha FC at Punjab FC",
       "date": "2026-10-14T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "29'",
       "teams": [
         {
           "name": "Punjab FC",
           "short": "Punjab FC",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18894.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Odisha FC",
           "short": "Odisha",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17998.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Jawaharlal Nehru Stadium (Delhi)"
