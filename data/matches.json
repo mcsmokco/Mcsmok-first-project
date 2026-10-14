@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-14T22:53:24.453039+00:00",
-  "count": 88,
+  "updated_at": "2026-10-14T23:17:27.974706+00:00",
+  "count": 87,
   "items": [
     {
       "id": "401915416",
@@ -927,8 +927,8 @@
       "league": "Football",
       "name": "Charleston Battery at Hartford Athletic",
       "date": "2026-10-14T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "11'",
       "teams": [
         {
           "name": "Hartford Athletic",
@@ -950,8 +950,8 @@
       "league": "Football",
       "name": "Birmingham Legion FC at Sporting JAX",
       "date": "2026-10-14T23:00Z",
-      "state": "post",
-      "status": "Susp",
+      "state": "in",
+      "status": "50'",
       "teams": [
         {
           "name": "Sporting JAX",
@@ -963,7 +963,7 @@
           "name": "Birmingham Legion FC",
           "short": "Birmingham",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19405.png",
-          "score": "1"
+          "score": "0"
         }
       ],
       "venue": "Hodges Stadium"
@@ -996,14 +996,14 @@
       "league": "Football",
       "name": "Spokane Velocity FC at Greenville Triumph",
       "date": "2026-10-14T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "Greenville Triumph",
           "short": "Greenville",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19964.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Spokane Velocity FC",
@@ -1020,7 +1020,7 @@
       "name": "Montevideo City Torque at Atlético-MG",
       "date": "2026-10-14T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "59'",
       "teams": [
         {
           "name": "Atlético-MG",
@@ -1043,7 +1043,7 @@
       "name": "River Plate at Sarmiento (Junín)",
       "date": "2026-10-14T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "56'",
       "teams": [
         {
           "name": "Sarmiento (Junín)",
@@ -1066,7 +1066,7 @@
       "name": "Deportivo Pereira at Atlético Junior",
       "date": "2026-10-14T21:30Z",
       "state": "in",
-      "status": "63'",
+      "status": "87'",
       "teams": [
         {
           "name": "Atlético Junior",
@@ -1082,29 +1082,6 @@
         }
       ],
       "venue": "Romelio Martínez"
-    },
-    {
-      "id": "401877844",
-      "league": "Football",
-      "name": "Jaguares de Córdoba at Independiente Santa Fe",
-      "date": "2026-10-14T23:30Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Independiente Santa Fe",
-          "short": "Santa Fe",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5488.png",
-          "score": "0"
-        },
-        {
-          "name": "Jaguares de Córdoba",
-          "short": "Jaguares",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10309.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Estadio Nemesio Camacho El Campín"
     },
     {
       "id": "401929277",
@@ -1134,8 +1111,8 @@
       "league": "Football",
       "name": "Escorpiones Belén at Pérez Zeledón",
       "date": "2026-10-14T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "17'",
       "teams": [
         {
           "name": "Pérez Zeledón",
@@ -1147,7 +1124,7 @@
           "name": "Escorpiones Belén",
           "short": "Belén",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132447.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Estadio Municipal de Pérez Zeledón"
@@ -1180,8 +1157,8 @@
       "league": "Football",
       "name": "Aurora FC at Comunicaciones",
       "date": "2026-10-14T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "12'",
       "teams": [
         {
           "name": "Comunicaciones",
@@ -1319,7 +1296,7 @@
       "name": "Radford at Campbell",
       "date": "2026-10-14T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "55'",
       "teams": [
         {
           "name": "Campbell",
@@ -1342,7 +1319,7 @@
       "name": "Marist at Fairfield",
       "date": "2026-10-14T22:00Z",
       "state": "in",
-      "status": "45'",
+      "status": "50'",
       "teams": [
         {
           "name": "Fairfield",
@@ -1365,7 +1342,7 @@
       "name": "Mercer at NC State",
       "date": "2026-10-14T22:00Z",
       "state": "in",
-      "status": "42'",
+      "status": "49'",
       "teams": [
         {
           "name": "NC State",
@@ -1388,7 +1365,7 @@
       "name": "Farmingdale State at Stony Brook",
       "date": "2026-10-14T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "52'",
       "teams": [
         {
           "name": "Stony Brook",
@@ -1411,7 +1388,7 @@
       "name": "Saint Mary's at California",
       "date": "2026-10-14T22:30Z",
       "state": "in",
-      "status": "18'",
+      "status": "40'",
       "teams": [
         {
           "name": "California",
@@ -1433,8 +1410,8 @@
       "league": "Football",
       "name": "Iona at Merrimack",
       "date": "2026-10-14T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "14'",
       "teams": [
         {
           "name": "Merrimack",
@@ -1456,8 +1433,8 @@
       "league": "Football",
       "name": "Mount St. Mary's at Rider",
       "date": "2026-10-14T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "Rider",
@@ -1479,8 +1456,8 @@
       "league": "Football",
       "name": "UC San Diego at Sacramento State",
       "date": "2026-10-14T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "Sacramento State",
@@ -1502,8 +1479,8 @@
       "league": "Football",
       "name": "Quinnipiac at Sacred Heart",
       "date": "2026-10-14T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "12'",
       "teams": [
         {
           "name": "Sacred Heart",
@@ -1525,14 +1502,14 @@
       "league": "Football",
       "name": "Jacksonville at South Florida",
       "date": "2026-10-14T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "11'",
       "teams": [
         {
           "name": "South Florida",
           "short": "South Florida",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/58.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Jacksonville",
@@ -1802,7 +1779,7 @@
       "name": "High Point at Gardner-Webb",
       "date": "2026-10-14T22:00Z",
       "state": "in",
-      "status": "42'",
+      "status": "50'",
       "teams": [
         {
           "name": "Gardner-Webb",
@@ -1825,7 +1802,7 @@
       "name": "Radford at Longwood",
       "date": "2026-10-14T22:00Z",
       "state": "in",
-      "status": "45'",
+      "status": "47'",
       "teams": [
         {
           "name": "Longwood",
@@ -1848,7 +1825,7 @@
       "name": "Presbyterian at Winthrop",
       "date": "2026-10-14T22:00Z",
       "state": "in",
-      "status": "44'",
+      "status": "51'",
       "teams": [
         {
           "name": "Winthrop",
@@ -1870,8 +1847,8 @@
       "league": "Football",
       "name": "Hampton at Virginia State",
       "date": "2026-10-14T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "Virginia State",
