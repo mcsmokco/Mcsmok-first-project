@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T23:17:27.974706+00:00",
+  "updated_at": "2026-10-14T23:48:07.645231+00:00",
   "count": 87,
   "items": [
     {
@@ -214,8 +214,8 @@
       "league": "Football",
       "name": "Atlanta United FC at CF Montréal",
       "date": "2026-10-14T23:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "CF Montréal",
@@ -237,8 +237,8 @@
       "league": "Football",
       "name": "Charlotte FC at Columbus Crew",
       "date": "2026-10-14T23:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "7'",
       "teams": [
         {
           "name": "Columbus Crew",
@@ -260,14 +260,14 @@
       "league": "Football",
       "name": "Red Bull New York at D.C. United",
       "date": "2026-10-14T23:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "7'",
       "teams": [
         {
           "name": "D.C. United",
           "short": "D.C. United",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/193.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Red Bull New York",
@@ -283,8 +283,8 @@
       "league": "Football",
       "name": "New England Revolution at FC Cincinnati",
       "date": "2026-10-14T23:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "FC Cincinnati",
@@ -306,8 +306,8 @@
       "league": "Football",
       "name": "New York City FC at Inter Miami CF",
       "date": "2026-10-14T23:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "Inter Miami CF",
@@ -329,8 +329,8 @@
       "league": "Football",
       "name": "Orlando City SC at Toronto FC",
       "date": "2026-10-14T23:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "Toronto FC",
@@ -928,7 +928,7 @@
       "name": "Charleston Battery at Hartford Athletic",
       "date": "2026-10-14T23:00Z",
       "state": "in",
-      "status": "11'",
+      "status": "41'",
       "teams": [
         {
           "name": "Hartford Athletic",
@@ -951,7 +951,7 @@
       "name": "Birmingham Legion FC at Sporting JAX",
       "date": "2026-10-14T23:00Z",
       "state": "in",
-      "status": "50'",
+      "status": "37'",
       "teams": [
         {
           "name": "Sporting JAX",
@@ -963,7 +963,7 @@
           "name": "Birmingham Legion FC",
           "short": "Birmingham",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19405.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Hodges Stadium"
@@ -973,14 +973,14 @@
       "league": "Football",
       "name": "Loudoun United FC at Rhode Island FC",
       "date": "2026-10-14T23:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "11'",
       "teams": [
         {
           "name": "Rhode Island FC",
           "short": "Rhode Island",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22164.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Loudoun United FC",
@@ -997,19 +997,19 @@
       "name": "Spokane Velocity FC at Greenville Triumph",
       "date": "2026-10-14T23:00Z",
       "state": "in",
-      "status": "8'",
+      "status": "38'",
       "teams": [
         {
           "name": "Greenville Triumph",
           "short": "Greenville",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19964.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Spokane Velocity FC",
           "short": "Spokane",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22130.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "GE Vernova Park"
@@ -1020,13 +1020,13 @@
       "name": "Montevideo City Torque at Atlético-MG",
       "date": "2026-10-14T22:00Z",
       "state": "in",
-      "status": "59'",
+      "status": "89'",
       "teams": [
         {
           "name": "Atlético-MG",
           "short": "Atlético-MG",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "Montevideo City Torque",
@@ -1043,7 +1043,7 @@
       "name": "River Plate at Sarmiento (Junín)",
       "date": "2026-10-14T22:00Z",
       "state": "in",
-      "status": "56'",
+      "status": "87'",
       "teams": [
         {
           "name": "Sarmiento (Junín)",
@@ -1055,7 +1055,7 @@
           "name": "River Plate",
           "short": "River Plate",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/16.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Eva Perón"
@@ -1065,8 +1065,8 @@
       "league": "Football",
       "name": "Deportivo Pereira at Atlético Junior",
       "date": "2026-10-14T21:30Z",
-      "state": "in",
-      "status": "87'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Atlético Junior",
@@ -1112,19 +1112,19 @@
       "name": "Escorpiones Belén at Pérez Zeledón",
       "date": "2026-10-14T23:00Z",
       "state": "in",
-      "status": "17'",
+      "status": "45'+2'",
       "teams": [
         {
           "name": "Pérez Zeledón",
           "short": "Pérez Zeledón",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7234.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Escorpiones Belén",
           "short": "Belén",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132447.png",
-          "score": "1"
+          "score": "3"
         }
       ],
       "venue": "Estadio Municipal de Pérez Zeledón"
@@ -1158,19 +1158,19 @@
       "name": "Aurora FC at Comunicaciones",
       "date": "2026-10-14T23:00Z",
       "state": "in",
-      "status": "12'",
+      "status": "42'",
       "teams": [
         {
           "name": "Comunicaciones",
           "short": "Comunicaciones",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7257.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Aurora FC",
           "short": "Aurora",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131213.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Estadio Cementos Progreso"
@@ -1296,7 +1296,7 @@
       "name": "Radford at Campbell",
       "date": "2026-10-14T22:00Z",
       "state": "in",
-      "status": "55'",
+      "status": "82'",
       "teams": [
         {
           "name": "Campbell",
@@ -1308,7 +1308,7 @@
           "name": "Radford",
           "short": "Radford",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2515.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Eakes Athletics Complex"
@@ -1319,13 +1319,13 @@
       "name": "Marist at Fairfield",
       "date": "2026-10-14T22:00Z",
       "state": "in",
-      "status": "50'",
+      "status": "76'",
       "teams": [
         {
           "name": "Fairfield",
           "short": "Fairfield",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2217.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Marist",
@@ -1342,13 +1342,13 @@
       "name": "Mercer at NC State",
       "date": "2026-10-14T22:00Z",
       "state": "in",
-      "status": "49'",
+      "status": "75'",
       "teams": [
         {
           "name": "NC State",
           "short": "NC State",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "Mercer",
@@ -1365,13 +1365,13 @@
       "name": "Farmingdale State at Stony Brook",
       "date": "2026-10-14T22:00Z",
       "state": "in",
-      "status": "52'",
+      "status": "81'",
       "teams": [
         {
           "name": "Stony Brook",
           "short": "Stony Brook",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2619.png",
-          "score": "3"
+          "score": "5"
         },
         {
           "name": "Farmingdale State",
@@ -1388,13 +1388,13 @@
       "name": "Saint Mary's at California",
       "date": "2026-10-14T22:30Z",
       "state": "in",
-      "status": "40'",
+      "status": "52'",
       "teams": [
         {
           "name": "California",
           "short": "California",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/25.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Saint Mary's",
@@ -1411,7 +1411,7 @@
       "name": "Iona at Merrimack",
       "date": "2026-10-14T23:00Z",
       "state": "in",
-      "status": "14'",
+      "status": "40'",
       "teams": [
         {
           "name": "Merrimack",
@@ -1434,13 +1434,13 @@
       "name": "Mount St. Mary's at Rider",
       "date": "2026-10-14T23:00Z",
       "state": "in",
-      "status": "10'",
+      "status": "37'",
       "teams": [
         {
           "name": "Rider",
           "short": "Rider",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2520.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Mount St. Mary's",
@@ -1457,19 +1457,19 @@
       "name": "UC San Diego at Sacramento State",
       "date": "2026-10-14T23:00Z",
       "state": "in",
-      "status": "8'",
+      "status": "35'",
       "teams": [
         {
           "name": "Sacramento State",
           "short": "Sacramento St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/16.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "UC San Diego",
           "short": "UC San Diego",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/28.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Hornet Field"
@@ -1480,7 +1480,7 @@
       "name": "Quinnipiac at Sacred Heart",
       "date": "2026-10-14T23:00Z",
       "state": "in",
-      "status": "12'",
+      "status": "38'",
       "teams": [
         {
           "name": "Sacred Heart",
@@ -1503,7 +1503,7 @@
       "name": "Jacksonville at South Florida",
       "date": "2026-10-14T23:00Z",
       "state": "in",
-      "status": "11'",
+      "status": "41'",
       "teams": [
         {
           "name": "South Florida",
@@ -1779,7 +1779,7 @@
       "name": "High Point at Gardner-Webb",
       "date": "2026-10-14T22:00Z",
       "state": "in",
-      "status": "50'",
+      "status": "81'",
       "teams": [
         {
           "name": "Gardner-Webb",
@@ -1802,7 +1802,7 @@
       "name": "Radford at Longwood",
       "date": "2026-10-14T22:00Z",
       "state": "in",
-      "status": "47'",
+      "status": "72'",
       "teams": [
         {
           "name": "Longwood",
@@ -1814,7 +1814,7 @@
           "name": "Radford",
           "short": "Radford",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2515.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Longwood Athletics Complex"
@@ -1825,13 +1825,13 @@
       "name": "Presbyterian at Winthrop",
       "date": "2026-10-14T22:00Z",
       "state": "in",
-      "status": "51'",
+      "status": "77'",
       "teams": [
         {
           "name": "Winthrop",
           "short": "Winthrop",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2737.png",
-          "score": "1"
+          "score": "3"
         },
         {
           "name": "Presbyterian",
@@ -1848,7 +1848,7 @@
       "name": "Hampton at Virginia State",
       "date": "2026-10-14T23:00Z",
       "state": "in",
-      "status": "8'",
+      "status": "34'",
       "teams": [
         {
           "name": "Virginia State",
@@ -1860,7 +1860,7 @@
           "name": "Hampton",
           "short": "Hampton",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2261.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Rogers Stadium (VA)"
