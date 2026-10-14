@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T19:07:13.638816+00:00",
+  "updated_at": "2026-10-14T19:58:27.695667+00:00",
   "count": 88,
   "items": [
     {
@@ -54,19 +54,19 @@
       "name": "Real Madrid at AS Roma",
       "date": "2026-10-14T19:00Z",
       "state": "in",
-      "status": "6'",
+      "status": "HT",
       "teams": [
         {
           "name": "AS Roma",
           "short": "AS Roma",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Real Madrid",
           "short": "Real Madrid",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Olimpico"
@@ -77,13 +77,13 @@
       "name": "Fenerbahce at Aston Villa",
       "date": "2026-10-14T19:00Z",
       "state": "in",
-      "status": "6'",
+      "status": "HT",
       "teams": [
         {
           "name": "Aston Villa",
           "short": "Aston Villa",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Fenerbahce",
@@ -100,7 +100,7 @@
       "name": "Borussia Dortmund at Bodo/Glimt",
       "date": "2026-10-14T19:00Z",
       "state": "in",
-      "status": "6'",
+      "status": "HT",
       "teams": [
         {
           "name": "Bodo/Glimt",
@@ -123,7 +123,7 @@
       "name": "Paris Saint-Germain at Manchester City",
       "date": "2026-10-14T19:00Z",
       "state": "in",
-      "status": "4'",
+      "status": "HT",
       "teams": [
         {
           "name": "Manchester City",
@@ -135,7 +135,7 @@
           "name": "Paris Saint-Germain",
           "short": "PSG",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Etihad Stadium"
@@ -146,7 +146,7 @@
       "name": "FC Porto at Real Betis",
       "date": "2026-10-14T19:00Z",
       "state": "in",
-      "status": "6'",
+      "status": "HT",
       "teams": [
         {
           "name": "Real Betis",
@@ -169,19 +169,19 @@
       "name": "AEK Athens at Shakhtar Donetsk",
       "date": "2026-10-14T19:00Z",
       "state": "in",
-      "status": "6'",
+      "status": "HT",
       "teams": [
         {
           "name": "Shakhtar Donetsk",
           "short": "Shakhtar",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "AEK Athens",
           "short": "AEK Athens",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stamford Bridge"
@@ -192,7 +192,7 @@
       "name": "VfB Stuttgart at Slovan Bratislava",
       "date": "2026-10-14T19:00Z",
       "state": "in",
-      "status": "7'",
+      "status": "HT",
       "teams": [
         {
           "name": "Slovan Bratislava",
@@ -204,7 +204,7 @@
           "name": "VfB Stuttgart",
           "short": "Stuttgart",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Národny Futbalovy Stadión"
@@ -560,7 +560,7 @@
       "name": "Southampton at Norwich City",
       "date": "2026-10-14T18:45Z",
       "state": "in",
-      "status": "22'",
+      "status": "53'",
       "teams": [
         {
           "name": "Norwich City",
@@ -583,13 +583,13 @@
       "name": "Sheffield United at Portsmouth",
       "date": "2026-10-14T18:45Z",
       "state": "in",
-      "status": "22'",
+      "status": "54'",
       "teams": [
         {
           "name": "Portsmouth",
           "short": "Portsmouth",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/385.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Sheffield United",
@@ -606,13 +606,13 @@
       "name": "Derby County at Queens Park Rangers",
       "date": "2026-10-14T18:45Z",
       "state": "in",
-      "status": "22'",
+      "status": "48'",
       "teams": [
         {
           "name": "Queens Park Rangers",
           "short": "QPR",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/334.png",
-          "score": "1"
+          "score": "3"
         },
         {
           "name": "Derby County",
@@ -629,7 +629,7 @@
       "name": "West Ham United at Lincoln City",
       "date": "2026-10-14T19:00Z",
       "state": "in",
-      "status": "7'",
+      "status": "HT",
       "teams": [
         {
           "name": "Lincoln City",
@@ -641,7 +641,7 @@
           "name": "West Ham United",
           "short": "West Ham",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "LNER Stadium"
@@ -675,19 +675,19 @@
       "name": "Gil Vicente at União Santarém",
       "date": "2026-10-14T18:00Z",
       "state": "in",
-      "status": "46'",
+      "status": "ET",
       "teams": [
         {
           "name": "União Santarém",
           "short": "Santarém",
           "logo": "",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Gil Vicente",
           "short": "Gil Vicente",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3699.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Campo Chã das Padeiras"
@@ -905,13 +905,13 @@
       "name": "Al-Nahda Muscat Club at Al-Faisaly",
       "date": "2026-10-14T18:15Z",
       "state": "in",
-      "status": "HT",
+      "status": "85'",
       "teams": [
         {
           "name": "Al-Faisaly",
           "short": "Al-Faisaly",
           "logo": "",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Al-Nahda Muscat Club",
@@ -1273,7 +1273,7 @@
       "name": "Manhattan at Saint Peter's",
       "date": "2026-10-14T19:00Z",
       "state": "in",
-      "status": "2'",
+      "status": "42'",
       "teams": [
         {
           "name": "Saint Peter's",
@@ -1296,7 +1296,7 @@
       "name": "Canisius at Siena",
       "date": "2026-10-14T19:00Z",
       "state": "in",
-      "status": "1'",
+      "status": "HT",
       "teams": [
         {
           "name": "Siena",
@@ -1779,13 +1779,13 @@
       "name": "Sacred Heart at Merrimack",
       "date": "2026-10-14T19:00Z",
       "state": "in",
-      "status": "6'",
+      "status": "HT",
       "teams": [
         {
           "name": "Merrimack",
           "short": "Merrimack",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2771.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Sacred Heart",
