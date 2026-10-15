@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T02:57:22.408736+00:00",
+  "updated_at": "2026-10-15T03:22:35.944983+00:00",
   "count": 100,
   "items": [
     {
@@ -1383,6 +1383,29 @@
       "venue": "John MacKenzie Alumni Field"
     },
     {
+      "id": "401898589",
+      "league": "Football",
+      "name": "Lindenwood at SIU Edwardsville",
+      "date": "2026-10-15T20:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "SIU Edwardsville",
+          "short": "SIUE",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2565.png",
+          "score": "0"
+        },
+        {
+          "name": "Lindenwood",
+          "short": "Lindenwood",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2815.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Ralph Korte Stadium"
+    },
+    {
       "id": "401898699",
       "league": "Football",
       "name": "UT Rio Grande Valley at Southern Indiana",
@@ -1427,29 +1450,6 @@
         }
       ],
       "venue": "Corcoran Field"
-    },
-    {
-      "id": "401898589",
-      "league": "Football",
-      "name": "Lindenwood at SIU Edwardsville",
-      "date": "2026-10-15T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "SIU Edwardsville",
-          "short": "SIUE",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2565.png",
-          "score": "0"
-        },
-        {
-          "name": "Lindenwood",
-          "short": "Lindenwood",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2815.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Ralph Korte Stadium"
     },
     {
       "id": "401898745",
