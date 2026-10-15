@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T21:55:32.805765+00:00",
+  "updated_at": "2026-10-15T22:18:52.383022+00:00",
   "count": 100,
   "items": [
     {
@@ -1227,7 +1227,7 @@
       "name": "Municipal at Cobán Imperial",
       "date": "2026-10-15T21:00Z",
       "state": "in",
-      "status": "45'+7'",
+      "status": "50'",
       "teams": [
         {
           "name": "Cobán Imperial",
@@ -1387,8 +1387,8 @@
       "league": "Football",
       "name": "Lindenwood at SIU Edwardsville",
       "date": "2026-10-15T20:00Z",
-      "state": "in",
-      "status": "81'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "SIU Edwardsville",
@@ -1400,7 +1400,7 @@
           "name": "Lindenwood",
           "short": "Lindenwood",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2815.png",
-          "score": "2"
+          "score": "4"
         }
       ],
       "venue": "Ralph Korte Stadium"
@@ -1410,8 +1410,8 @@
       "league": "Football",
       "name": "UT Rio Grande Valley at Southern Indiana",
       "date": "2026-10-15T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "12'",
       "teams": [
         {
           "name": "Southern Indiana",
@@ -1686,8 +1686,8 @@
       "league": "Football",
       "name": "Weber State at Portland State",
       "date": "2026-10-15T20:00Z",
-      "state": "in",
-      "status": "85'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Portland State",
@@ -1709,8 +1709,8 @@
       "league": "Football",
       "name": "South Dakota State at St. Thomas",
       "date": "2026-10-15T20:00Z",
-      "state": "in",
-      "status": "84'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "St. Thomas",
@@ -1733,7 +1733,7 @@
       "name": "Western Michigan at Eastern Michigan",
       "date": "2026-10-15T20:30Z",
       "state": "in",
-      "status": "63'",
+      "status": "84'",
       "teams": [
         {
           "name": "Eastern Michigan",
@@ -1745,7 +1745,7 @@
           "name": "Western Michigan",
           "short": "W Michigan",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2711.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "Scicluna Field"
@@ -1756,7 +1756,7 @@
       "name": "Oakland at IU Indianapolis",
       "date": "2026-10-15T21:00Z",
       "state": "in",
-      "status": "44'",
+      "status": "50'",
       "teams": [
         {
           "name": "IU Indianapolis",
@@ -1779,7 +1779,7 @@
       "name": "Idaho State at Montana",
       "date": "2026-10-15T21:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "53'",
       "teams": [
         {
           "name": "Montana",
@@ -1802,7 +1802,7 @@
       "name": "Cleveland State at Northern Kentucky",
       "date": "2026-10-15T21:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "57'",
       "teams": [
         {
           "name": "Northern Kentucky",
@@ -1825,7 +1825,7 @@
       "name": "Northern Arizona at Southern Utah",
       "date": "2026-10-15T21:00Z",
       "state": "in",
-      "status": "45'",
+      "status": "54'",
       "teams": [
         {
           "name": "Southern Utah",
@@ -1848,7 +1848,7 @@
       "name": "Southern Indiana at Lindenwood",
       "date": "2026-10-15T21:30Z",
       "state": "in",
-      "status": "19'",
+      "status": "42'",
       "teams": [
         {
           "name": "Lindenwood",
@@ -1870,8 +1870,8 @@
       "league": "Football",
       "name": "Massachusetts at Buffalo",
       "date": "2026-10-15T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "14'",
       "teams": [
         {
           "name": "Buffalo",
@@ -1893,20 +1893,20 @@
       "league": "Football",
       "name": "New Haven at Central Connecticut",
       "date": "2026-10-15T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "14'",
       "teams": [
         {
           "name": "Central Connecticut",
           "short": "C Connecticut",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2115.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "New Haven",
           "short": "New Haven",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2441.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "CCSU Soccer Field"
@@ -1916,8 +1916,8 @@
       "league": "Football",
       "name": "Samford at Chattanooga",
       "date": "2026-10-15T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "12'",
       "teams": [
         {
           "name": "Chattanooga",
@@ -1939,8 +1939,8 @@
       "league": "Football",
       "name": "Georgia State at Coastal Carolina",
       "date": "2026-10-15T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "12'",
       "teams": [
         {
           "name": "Coastal Carolina",
@@ -1952,7 +1952,7 @@
           "name": "Georgia State",
           "short": "Georgia St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2247.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "CCU Soccer Stadium"
@@ -1962,8 +1962,8 @@
       "league": "Football",
       "name": "Wagner at Fairleigh Dickinson",
       "date": "2026-10-15T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "Fairleigh Dickinson",
@@ -1985,14 +1985,14 @@
       "league": "Football",
       "name": "UNC Greensboro at Furman",
       "date": "2026-10-15T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "Furman",
           "short": "Furman",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/231.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "UNC Greensboro",
@@ -2008,8 +2008,8 @@
       "league": "Football",
       "name": "Syracuse at NC State",
       "date": "2026-10-15T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "14'",
       "teams": [
         {
           "name": "NC State",
@@ -2031,8 +2031,8 @@
       "league": "Football",
       "name": "Florida State at Wake Forest",
       "date": "2026-10-15T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "12'",
       "teams": [
         {
           "name": "Wake Forest",
@@ -2054,8 +2054,8 @@
       "league": "Football",
       "name": "Mercer at Wofford",
       "date": "2026-10-15T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "11'",
       "teams": [
         {
           "name": "Wofford",
@@ -2078,7 +2078,7 @@
       "name": "Ohio at Miami (OH)",
       "date": "2026-10-15T22:30Z",
       "state": "in",
-      "status": "22'",
+      "status": "45'",
       "teams": [
         {
           "name": "Miami (OH)",
