@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T03:22:35.944983+00:00",
+  "updated_at": "2026-10-15T03:58:39.917443+00:00",
   "count": 100,
   "items": [
     {
@@ -1544,29 +1544,6 @@
       "venue": "Retriever Soccer Park"
     },
     {
-      "id": "401885540",
-      "league": "Football",
-      "name": "Jacksonville at West Florida",
-      "date": "2026-10-15T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "West Florida",
-          "short": "West Florida",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2697.png",
-          "score": "0"
-        },
-        {
-          "name": "Jacksonville",
-          "short": "Jacksonville",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/294.png",
-          "score": "0"
-        }
-      ],
-      "venue": "UWF Soccer Complex"
-    },
-    {
       "id": "401901031",
       "league": "Football",
       "name": "Murray State at Drake",
@@ -1611,6 +1588,29 @@
         }
       ],
       "venue": "NIU Soccer and Track & Field Complex"
+    },
+    {
+      "id": "401885540",
+      "league": "Football",
+      "name": "Jacksonville at West Florida",
+      "date": "2026-10-15T18:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "West Florida",
+          "short": "West Florida",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2697.png",
+          "score": "0"
+        },
+        {
+          "name": "Jacksonville",
+          "short": "Jacksonville",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/294.png",
+          "score": "0"
+        }
+      ],
+      "venue": "UWF Soccer Complex"
     },
     {
       "id": "401900529",
@@ -1846,7 +1846,7 @@
       "id": "401901009",
       "league": "Football",
       "name": "New Mexico at Wyoming",
-      "date": "2026-10-15T21:30Z",
+      "date": "2026-10-15T21:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
@@ -1864,6 +1864,29 @@
         }
       ],
       "venue": "Madrid Sports Complex"
+    },
+    {
+      "id": "401900539",
+      "league": "Football",
+      "name": "Southern Indiana at Lindenwood",
+      "date": "2026-10-15T21:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Lindenwood",
+          "short": "Lindenwood",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2815.png",
+          "score": "0"
+        },
+        {
+          "name": "Southern Indiana",
+          "short": "S Indiana",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/88.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Hunter Stadium"
     },
     {
       "id": "401886724",
@@ -2073,6 +2096,29 @@
       "venue": "Snyder Field"
     },
     {
+      "id": "401886894",
+      "league": "Football",
+      "name": "Ohio at Miami (OH)",
+      "date": "2026-10-15T22:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Miami (OH)",
+          "short": "Miami (OH)",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/193.png",
+          "score": "0"
+        },
+        {
+          "name": "Ohio",
+          "short": "Ohio",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/195.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Bobby Kramig Field"
+    },
+    {
       "id": "401883593",
       "league": "Football",
       "name": "Georgia at Alabama",
@@ -2255,52 +2301,6 @@
         }
       ],
       "venue": "Adelaide Street Field"
-    },
-    {
-      "id": "401891348",
-      "league": "Football",
-      "name": "Louisiana Tech at James Madison",
-      "date": "2026-10-15T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "James Madison",
-          "short": "James Madison",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/256.png",
-          "score": "0"
-        },
-        {
-          "name": "Louisiana Tech",
-          "short": "Louisiana Tech",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Sentara Park"
-    },
-    {
-      "id": "401896611",
-      "league": "Football",
-      "name": "North Dakota at Kansas City",
-      "date": "2026-10-15T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Kansas City",
-          "short": "Kansas City",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/140.png",
-          "score": "0"
-        },
-        {
-          "name": "North Dakota",
-          "short": "North Dakota",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/155.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Stanley H. Durwood Soccer Stadium & Recreational Field"
     }
   ]
 }
