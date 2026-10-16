@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T20:14:52.317692+00:00",
+  "updated_at": "2026-10-16T20:55:55.713126+00:00",
   "count": 99,
   "items": [
     {
@@ -8,19 +8,19 @@
       "name": "Levante at Deportivo",
       "date": "2026-10-16T19:00Z",
       "state": "in",
-      "status": "54'",
+      "status": "90'+5'",
       "teams": [
         {
           "name": "Deportivo",
           "short": "Deportivo",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Levante",
           "short": "Levante",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Riazor"
@@ -53,8 +53,8 @@
       "league": "Football",
       "name": "Sassuolo at Frosinone",
       "date": "2026-10-16T18:45Z",
-      "state": "in",
-      "status": "69'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Frosinone",
@@ -76,8 +76,8 @@
       "league": "Football",
       "name": "FC Cologne at Eintracht Frankfurt",
       "date": "2026-10-16T18:30Z",
-      "state": "in",
-      "status": "84'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Eintracht Frankfurt",
@@ -99,8 +99,8 @@
       "league": "Football",
       "name": "Toulouse at Le Mans",
       "date": "2026-10-16T18:45Z",
-      "state": "in",
-      "status": "73'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Le Mans",
@@ -112,7 +112,7 @@
           "name": "Toulouse",
           "short": "Toulouse",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "Stade Marie-Marvingt"
@@ -215,7 +215,7 @@
       "name": "Wolverhampton Wanderers at Burnley",
       "date": "2026-10-16T19:00Z",
       "state": "in",
-      "status": "53'",
+      "status": "90'+5'",
       "teams": [
         {
           "name": "Burnley",
@@ -227,7 +227,7 @@
           "name": "Wolverhampton Wanderers",
           "short": "Wolves",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Turf Moor"
@@ -330,19 +330,19 @@
       "name": "Os Marialvas at GD Chaves",
       "date": "2026-10-16T19:00Z",
       "state": "in",
-      "status": "51'",
+      "status": "90'+2'",
       "teams": [
         {
           "name": "GD Chaves",
           "short": "GD Chaves",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12705.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Os Marialvas",
           "short": "Marialvas",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Estádio Municipal Manuel Branco Teixeira"
@@ -444,8 +444,8 @@
       "league": "Football",
       "name": "Córdoba at Leganés",
       "date": "2026-10-16T18:30Z",
-      "state": "in",
-      "status": "87'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Leganés",
@@ -513,8 +513,8 @@
       "league": "Football",
       "name": "Catanzaro at Hellas Verona",
       "date": "2026-10-16T18:30Z",
-      "state": "in",
-      "status": "85'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Hellas Verona",
@@ -697,8 +697,8 @@
       "league": "Football",
       "name": "Partick Thistle at Ayr United",
       "date": "2026-10-16T18:30Z",
-      "state": "in",
-      "status": "89'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Ayr United",
@@ -1088,8 +1088,8 @@
       "league": "Football",
       "name": "ADT at Los Chankas",
       "date": "2026-10-16T20:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "23'",
       "teams": [
         {
           "name": "Los Chankas",
@@ -1101,7 +1101,7 @@
           "name": "ADT",
           "short": "ADT",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21314.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Estadio Los Chankas"
@@ -1134,14 +1134,14 @@
       "league": "Football",
       "name": "Técnico Universitario at Deportivo Cuenca",
       "date": "2026-10-16T20:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "26'",
       "teams": [
         {
           "name": "Deportivo Cuenca",
           "short": "Cuenca",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4812.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Técnico Universitario",
@@ -1158,7 +1158,7 @@
       "name": "Real Potosí at ABB",
       "date": "2026-10-16T19:00Z",
       "state": "in",
-      "status": "52'",
+      "status": "90'+3'",
       "teams": [
         {
           "name": "ABB",
@@ -1342,7 +1342,7 @@
       "name": "St. John's at DePaul",
       "date": "2026-10-16T19:00Z",
       "state": "in",
-      "status": "46'",
+      "status": "79'",
       "teams": [
         {
           "name": "DePaul",
@@ -1779,7 +1779,7 @@
       "name": "UCF at West Virginia",
       "date": "2026-10-16T19:40Z",
       "state": "in",
-      "status": "25'",
+      "status": "50'",
       "teams": [
         {
           "name": "West Virginia",
