@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T03:58:53.143222+00:00",
+  "updated_at": "2026-10-16T04:26:15.024162+00:00",
   "count": 100,
   "items": [
     {
@@ -1843,6 +1843,29 @@
       "venue": "A-State Soccer Park"
     },
     {
+      "id": "401883709",
+      "league": "Football",
+      "name": "Iowa at Maryland",
+      "date": "2026-10-16T21:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Maryland",
+          "short": "Maryland",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
+          "score": "0"
+        },
+        {
+          "name": "Iowa",
+          "short": "Iowa",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Ludwig Field"
+    },
+    {
       "id": "401900295",
       "league": "Football",
       "name": "Grambling at Prairie View A&M",
@@ -1916,8 +1939,8 @@
       "league": "Football",
       "name": "South Carolina State at Boston College",
       "date": "2026-10-16T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "Canceled",
       "teams": [
         {
           "name": "Boston College",
@@ -1956,29 +1979,6 @@
         }
       ],
       "venue": "Gettler Stadium"
-    },
-    {
-      "id": "401883709",
-      "league": "Football",
-      "name": "Iowa at Maryland",
-      "date": "2026-10-16T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Maryland",
-          "short": "Maryland",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
-          "score": "0"
-        },
-        {
-          "name": "Iowa",
-          "short": "Iowa",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Ludwig Field"
     },
     {
       "id": "401900184",
