@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T22:53:38.612701+00:00",
+  "updated_at": "2026-10-16T23:14:50.379592+00:00",
   "count": 99,
   "items": [
     {
@@ -812,14 +812,14 @@
       "league": "Football",
       "name": "FC Utrecht at AZ Alkmaar",
       "date": "2026-10-16T17:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "AZ Alkmaar",
           "short": "AZ Alkmaar",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21977.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "FC Utrecht",
@@ -882,7 +882,7 @@
       "name": "Instituto (Córdoba) at Defensa y Justicia",
       "date": "2026-10-16T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "56'",
       "teams": [
         {
           "name": "Defensa y Justicia",
@@ -973,8 +973,8 @@
       "league": "Football",
       "name": "Internacional at Mirassol",
       "date": "2026-10-16T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "14'",
       "teams": [
         {
           "name": "Mirassol",
@@ -997,13 +997,13 @@
       "name": "Atlético Goianiense at Ponte Preta",
       "date": "2026-10-16T22:30Z",
       "state": "in",
-      "status": "24'",
+      "status": "45'",
       "teams": [
         {
           "name": "Ponte Preta",
           "short": "Ponte Preta",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3459.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Atlético Goianiense",
@@ -1043,7 +1043,7 @@
       "name": "Cerro Largo at Cerro",
       "date": "2026-10-16T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "57'",
       "teams": [
         {
           "name": "Cerro",
@@ -1112,7 +1112,7 @@
       "name": "Rubio Ñú at Deportivo Recoleta",
       "date": "2026-10-16T22:20Z",
       "state": "in",
-      "status": "34'",
+      "status": "HT",
       "teams": [
         {
           "name": "Deportivo Recoleta",
@@ -1364,8 +1364,8 @@
       "league": "Football",
       "name": "Seton Hall at Georgetown",
       "date": "2026-10-16T21:00Z",
-      "state": "in",
-      "status": "81'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Georgetown",
@@ -1388,13 +1388,13 @@
       "name": "Virginia Tech at Furman",
       "date": "2026-10-16T22:00Z",
       "state": "in",
-      "status": "34'",
+      "status": "HT",
       "teams": [
         {
           "name": "Furman",
           "short": "Furman",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/231.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Virginia Tech",
@@ -1411,7 +1411,7 @@
       "name": "Stanford at SMU",
       "date": "2026-10-16T22:00Z",
       "state": "in",
-      "status": "44'",
+      "status": "47'",
       "teams": [
         {
           "name": "SMU",
@@ -1434,13 +1434,13 @@
       "name": "Florida Polytechnic at Stetson",
       "date": "2026-10-16T22:00Z",
       "state": "in",
-      "status": "40'",
+      "status": "HT",
       "teams": [
         {
           "name": "Stetson",
           "short": "Stetson",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/56.png",
-          "score": "1"
+          "score": "3"
         },
         {
           "name": "Florida Polytechnic",
@@ -1456,14 +1456,14 @@
       "league": "Football",
       "name": "Villanova at Butler",
       "date": "2026-10-16T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "Butler",
           "short": "Butler",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2086.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Villanova",
@@ -1479,8 +1479,8 @@
       "league": "Football",
       "name": "Virginia at Duke",
       "date": "2026-10-16T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "12'",
       "teams": [
         {
           "name": "Duke",
@@ -1502,8 +1502,8 @@
       "league": "Football",
       "name": "UConn at Marquette",
       "date": "2026-10-16T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "Marquette",
@@ -1525,8 +1525,8 @@
       "league": "Football",
       "name": "Maryland at Michigan",
       "date": "2026-10-16T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "Michigan",
@@ -1548,8 +1548,8 @@
       "league": "Football",
       "name": "Michigan State at Ohio State",
       "date": "2026-10-16T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "Ohio State",
@@ -1561,7 +1561,7 @@
           "name": "Michigan State",
           "short": "Michigan St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Jesse Owens Memorial Stadium"
@@ -1571,8 +1571,8 @@
       "league": "Football",
       "name": "North Carolina at Pittsburgh",
       "date": "2026-10-16T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "Pittsburgh",
@@ -1594,8 +1594,8 @@
       "league": "Football",
       "name": "Akron at Providence",
       "date": "2026-10-16T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "Providence",
@@ -1640,8 +1640,8 @@
       "league": "Football",
       "name": "Kentucky at West Virginia",
       "date": "2026-10-16T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "West Virginia",
@@ -1801,8 +1801,8 @@
       "league": "Football",
       "name": "App State at Arkansas State",
       "date": "2026-10-16T21:00Z",
-      "state": "in",
-      "status": "74'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Arkansas State",
@@ -1814,7 +1814,7 @@
           "name": "App State",
           "short": "App State",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2026.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "A-State Soccer Park"
@@ -1825,7 +1825,7 @@
       "name": "Iowa at Maryland",
       "date": "2026-10-16T21:00Z",
       "state": "in",
-      "status": "80'",
+      "status": "85'",
       "teams": [
         {
           "name": "Maryland",
@@ -1848,7 +1848,7 @@
       "name": "Grambling at Prairie View A&M",
       "date": "2026-10-16T21:00Z",
       "state": "in",
-      "status": "77'",
+      "status": "89'",
       "teams": [
         {
           "name": "Prairie View A&M",
@@ -1871,7 +1871,7 @@
       "name": "Southern at Alcorn State",
       "date": "2026-10-16T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "50'",
       "teams": [
         {
           "name": "Alcorn State",
@@ -1894,7 +1894,7 @@
       "name": "Iowa State at Kansas",
       "date": "2026-10-16T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "51'",
       "teams": [
         {
           "name": "Kansas",
@@ -1939,8 +1939,8 @@
       "league": "Football",
       "name": "Houston at Cincinnati",
       "date": "2026-10-16T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "Cincinnati",
@@ -1952,7 +1952,7 @@
           "name": "Houston",
           "short": "Houston",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Gettler Stadium"
@@ -1963,7 +1963,7 @@
       "name": "Bucknell at Navy",
       "date": "2026-10-16T23:00Z",
       "state": "in",
-      "status": "81'",
+      "status": "48'",
       "teams": [
         {
           "name": "Navy",
@@ -1985,8 +1985,8 @@
       "league": "Football",
       "name": "Southern Miss at South Alabama",
       "date": "2026-10-16T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "7'",
       "teams": [
         {
           "name": "South Alabama",
@@ -2008,8 +2008,8 @@
       "league": "Football",
       "name": "Virginia at Virginia Tech",
       "date": "2026-10-16T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "Virginia Tech",
