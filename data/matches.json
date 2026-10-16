@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T18:18:52.066700+00:00",
+  "updated_at": "2026-10-16T19:01:29.424734+00:00",
   "count": 99,
   "items": [
     {
@@ -53,14 +53,14 @@
       "league": "Football",
       "name": "Sassuolo at Frosinone",
       "date": "2026-10-16T18:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "14'",
       "teams": [
         {
           "name": "Frosinone",
           "short": "Frosinone",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Sassuolo",
@@ -76,8 +76,8 @@
       "league": "Football",
       "name": "FC Cologne at Eintracht Frankfurt",
       "date": "2026-10-16T18:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "31'",
       "teams": [
         {
           "name": "Eintracht Frankfurt",
@@ -99,8 +99,8 @@
       "league": "Football",
       "name": "Toulouse at Le Mans",
       "date": "2026-10-16T18:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "16'",
       "teams": [
         {
           "name": "Le Mans",
@@ -192,7 +192,7 @@
       "name": "Excelsior at Heerenveen",
       "date": "2026-10-16T18:00Z",
       "state": "in",
-      "status": "18'",
+      "status": "HT",
       "teams": [
         {
           "name": "Heerenveen",
@@ -352,14 +352,14 @@
       "league": "Football",
       "name": "Caykur Rizespor at Çorum FK",
       "date": "2026-10-16T17:00Z",
-      "state": "in",
-      "status": "61'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Çorum FK",
           "short": "Çorum FK",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132334.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Caykur Rizespor",
@@ -444,8 +444,8 @@
       "league": "Football",
       "name": "Córdoba at Leganés",
       "date": "2026-10-16T18:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "30'",
       "teams": [
         {
           "name": "Leganés",
@@ -467,8 +467,8 @@
       "league": "Football",
       "name": "1. FC Nürnberg at Energie Cottbus",
       "date": "2026-10-16T16:30Z",
-      "state": "in",
-      "status": "86'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Energie Cottbus",
@@ -490,8 +490,8 @@
       "league": "Football",
       "name": "Hertha Berlin at Holstein Kiel",
       "date": "2026-10-16T16:30Z",
-      "state": "in",
-      "status": "90'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Holstein Kiel",
@@ -513,8 +513,8 @@
       "league": "Football",
       "name": "Catanzaro at Hellas Verona",
       "date": "2026-10-16T18:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "29'",
       "teams": [
         {
           "name": "Hellas Verona",
@@ -526,7 +526,7 @@
           "name": "Catanzaro",
           "short": "Catanzaro",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3257.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stadio Marcantonio Bentegodi"
@@ -537,7 +537,7 @@
       "name": "AS Nancy Lorraine at Annecy",
       "date": "2026-10-16T18:00Z",
       "state": "in",
-      "status": "19'",
+      "status": "HT",
       "teams": [
         {
           "name": "Annecy",
@@ -549,7 +549,7 @@
           "name": "AS Nancy Lorraine",
           "short": "Nancy",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3267.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Parc des Sports"
@@ -560,7 +560,7 @@
       "name": "Boulogne at Grenoble",
       "date": "2026-10-16T18:00Z",
       "state": "in",
-      "status": "18'",
+      "status": "HT",
       "teams": [
         {
           "name": "Grenoble",
@@ -583,7 +583,7 @@
       "name": "Pau at Guingamp",
       "date": "2026-10-16T18:00Z",
       "state": "in",
-      "status": "19'",
+      "status": "HT",
       "teams": [
         {
           "name": "Guingamp",
@@ -595,7 +595,7 @@
           "name": "Pau",
           "short": "Pau",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10678.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Stade Municipal de Roudourou"
@@ -606,13 +606,13 @@
       "name": "Dijon FCO at Stade de Reims",
       "date": "2026-10-16T18:00Z",
       "state": "in",
-      "status": "19'",
+      "status": "HT",
       "teams": [
         {
           "name": "Stade de Reims",
           "short": "Reims",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Dijon FCO",
@@ -629,7 +629,7 @@
       "name": "Clermont Foot at Stade Laval",
       "date": "2026-10-16T18:00Z",
       "state": "in",
-      "status": "19'",
+      "status": "HT",
       "teams": [
         {
           "name": "Stade Laval",
@@ -641,7 +641,7 @@
           "name": "Clermont Foot",
           "short": "Clermont Foot",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3171.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Stade Francis Le Basser"
@@ -652,7 +652,7 @@
       "name": "TSV Hartberg at Rapid Vienna",
       "date": "2026-10-16T17:30Z",
       "state": "in",
-      "status": "45'+3'",
+      "status": "73'",
       "teams": [
         {
           "name": "Rapid Vienna",
@@ -664,7 +664,7 @@
           "name": "TSV Hartberg",
           "short": "TSV Hartberg",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6907.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Allianz Stadion"
@@ -697,8 +697,8 @@
       "league": "Football",
       "name": "Partick Thistle at Ayr United",
       "date": "2026-10-16T18:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "31'",
       "teams": [
         {
           "name": "Ayr United",
@@ -721,7 +721,7 @@
       "name": "TOP Oss at FC Den Bosch",
       "date": "2026-10-16T18:00Z",
       "state": "in",
-      "status": "17'",
+      "status": "HT",
       "teams": [
         {
           "name": "FC Den Bosch",
@@ -744,7 +744,7 @@
       "name": "Vitesse at FC Eindhoven",
       "date": "2026-10-16T18:00Z",
       "state": "in",
-      "status": "17'",
+      "status": "HT",
       "teams": [
         {
           "name": "FC Eindhoven",
@@ -756,7 +756,7 @@
           "name": "Vitesse",
           "short": "Vitesse",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/154.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Jan Louwers Stadion"
@@ -767,7 +767,7 @@
       "name": "NAC Breda at Helmond Sport",
       "date": "2026-10-16T18:00Z",
       "state": "in",
-      "status": "18'",
+      "status": "HT",
       "teams": [
         {
           "name": "Helmond Sport",
@@ -779,7 +779,7 @@
           "name": "NAC Breda",
           "short": "NAC Breda",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/141.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "GS Staalwerken Stadion"
@@ -790,19 +790,19 @@
       "name": "Jong AZ at VVV-Venlo",
       "date": "2026-10-16T18:00Z",
       "state": "in",
-      "status": "15'",
+      "status": "HT",
       "teams": [
         {
           "name": "VVV-Venlo",
           "short": "VVV Venlo",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3731.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Jong AZ",
           "short": "Jong AZ",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18748.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Covebo Stadium - De Koel"
@@ -835,8 +835,8 @@
       "league": "Football",
       "name": "Djurgården at IF Brommapojkarna",
       "date": "2026-10-16T17:00Z",
-      "state": "in",
-      "status": "52'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "IF Brommapojkarna",
@@ -848,7 +848,7 @@
           "name": "Djurgården",
           "short": "Djurgården",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2339.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Grimsta IP"
@@ -858,8 +858,8 @@
       "league": "Football",
       "name": "Randers FC at AC Horsens",
       "date": "2026-10-16T17:00Z",
-      "state": "in",
-      "status": "61'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "AC Horsens",
@@ -1066,7 +1066,7 @@
       "name": "Cusco FC at Sport Huancayo",
       "date": "2026-10-16T18:00Z",
       "state": "in",
-      "status": "17'",
+      "status": "HT",
       "teams": [
         {
           "name": "Sport Huancayo",
@@ -1157,8 +1157,8 @@
       "league": "Football",
       "name": "Real Potosí at ABB",
       "date": "2026-10-16T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "1'",
       "teams": [
         {
           "name": "ABB",
@@ -1755,8 +1755,8 @@
       "league": "Football",
       "name": "West Georgia at Abilene Christian",
       "date": "2026-10-16T17:00Z",
-      "state": "in",
-      "status": "50'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Abilene Christian",
