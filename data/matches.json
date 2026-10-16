@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T02:22:46.294996+00:00",
+  "updated_at": "2026-10-16T02:57:25.417437+00:00",
   "count": 100,
   "items": [
     {
@@ -1383,6 +1383,29 @@
       "venue": "Wish Field"
     },
     {
+      "id": "401887782",
+      "league": "Football",
+      "name": "Seton Hall at Georgetown",
+      "date": "2026-10-16T21:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Georgetown",
+          "short": "Georgetown",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/46.png",
+          "score": "0"
+        },
+        {
+          "name": "Seton Hall",
+          "short": "Seton Hall",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2550.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Shaw Field"
+    },
+    {
       "id": "401898872",
       "league": "Football",
       "name": "Virginia Tech at Furman",
@@ -1496,29 +1519,6 @@
         }
       ],
       "venue": "Freeman Field at Koskinen Stadium"
-    },
-    {
-      "id": "401887782",
-      "league": "Football",
-      "name": "Seton Hall at Georgetown",
-      "date": "2026-10-16T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Georgetown",
-          "short": "Georgetown",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/46.png",
-          "score": "0"
-        },
-        {
-          "name": "Seton Hall",
-          "short": "Seton Hall",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2550.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Shaw Field"
     },
     {
       "id": "401887558",
