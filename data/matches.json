@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T20:55:55.713126+00:00",
+  "updated_at": "2026-10-16T21:19:09.248953+00:00",
   "count": 99,
   "items": [
     {
@@ -7,8 +7,8 @@
       "league": "Football",
       "name": "Levante at Deportivo",
       "date": "2026-10-16T19:00Z",
-      "state": "in",
-      "status": "90'+5'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Deportivo",
@@ -214,8 +214,8 @@
       "league": "Football",
       "name": "Wolverhampton Wanderers at Burnley",
       "date": "2026-10-16T19:00Z",
-      "state": "in",
-      "status": "90'+5'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Burnley",
@@ -329,8 +329,8 @@
       "league": "Football",
       "name": "Os Marialvas at GD Chaves",
       "date": "2026-10-16T19:00Z",
-      "state": "in",
-      "status": "90'+2'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "GD Chaves",
@@ -1089,7 +1089,7 @@
       "name": "ADT at Los Chankas",
       "date": "2026-10-16T20:30Z",
       "state": "in",
-      "status": "23'",
+      "status": "45'+1'",
       "teams": [
         {
           "name": "Los Chankas",
@@ -1135,7 +1135,7 @@
       "name": "Técnico Universitario at Deportivo Cuenca",
       "date": "2026-10-16T20:30Z",
       "state": "in",
-      "status": "26'",
+      "status": "HT",
       "teams": [
         {
           "name": "Deportivo Cuenca",
@@ -1147,7 +1147,7 @@
           "name": "Técnico Universitario",
           "short": "Tecnico U.",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9292.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Banco del Austro Alejandro Serrano Aguil"
@@ -1157,8 +1157,8 @@
       "league": "Football",
       "name": "Real Potosí at ABB",
       "date": "2026-10-16T19:00Z",
-      "state": "in",
-      "status": "90'+3'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "ABB",
@@ -1341,8 +1341,8 @@
       "league": "Football",
       "name": "St. John's at DePaul",
       "date": "2026-10-16T19:00Z",
-      "state": "in",
-      "status": "79'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "DePaul",
@@ -1364,14 +1364,14 @@
       "league": "Football",
       "name": "Seton Hall at Georgetown",
       "date": "2026-10-16T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "13'",
       "teams": [
         {
           "name": "Georgetown",
           "short": "Georgetown",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/46.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Seton Hall",
@@ -1779,7 +1779,7 @@
       "name": "UCF at West Virginia",
       "date": "2026-10-16T19:40Z",
       "state": "in",
-      "status": "50'",
+      "status": "73'",
       "teams": [
         {
           "name": "West Virginia",
@@ -1801,14 +1801,14 @@
       "league": "Football",
       "name": "App State at Arkansas State",
       "date": "2026-10-16T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "Arkansas State",
           "short": "Arkansas St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2032.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "App State",
@@ -1824,8 +1824,8 @@
       "league": "Football",
       "name": "Iowa at Maryland",
       "date": "2026-10-16T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "16'",
       "teams": [
         {
           "name": "Maryland",
@@ -1847,8 +1847,8 @@
       "league": "Football",
       "name": "Grambling at Prairie View A&M",
       "date": "2026-10-16T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "7'",
       "teams": [
         {
           "name": "Prairie View A&M",
