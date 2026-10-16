@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T22:18:52.171896+00:00",
+  "updated_at": "2026-10-16T22:53:38.612701+00:00",
   "count": 99,
   "items": [
     {
@@ -882,7 +882,7 @@
       "name": "Instituto (Córdoba) at Defensa y Justicia",
       "date": "2026-10-16T22:00Z",
       "state": "in",
-      "status": "19'",
+      "status": "HT",
       "teams": [
         {
           "name": "Defensa y Justicia",
@@ -894,7 +894,7 @@
           "name": "Instituto (Córdoba)",
           "short": "Instituto",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2975.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Norberto Tomaghello"
@@ -996,8 +996,8 @@
       "league": "Football",
       "name": "Atlético Goianiense at Ponte Preta",
       "date": "2026-10-16T22:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "24'",
       "teams": [
         {
           "name": "Ponte Preta",
@@ -1043,13 +1043,13 @@
       "name": "Cerro Largo at Cerro",
       "date": "2026-10-16T22:00Z",
       "state": "in",
-      "status": "19'",
+      "status": "HT",
       "teams": [
         {
           "name": "Cerro",
           "short": "Cerro",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5490.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Cerro Largo",
@@ -1088,8 +1088,8 @@
       "league": "Football",
       "name": "ADT at Los Chankas",
       "date": "2026-10-16T20:30Z",
-      "state": "in",
-      "status": "84'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Los Chankas",
@@ -1111,8 +1111,8 @@
       "league": "Football",
       "name": "Rubio Ñú at Deportivo Recoleta",
       "date": "2026-10-16T22:20Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "34'",
       "teams": [
         {
           "name": "Deportivo Recoleta",
@@ -1134,14 +1134,14 @@
       "league": "Football",
       "name": "Técnico Universitario at Deportivo Cuenca",
       "date": "2026-10-16T20:30Z",
-      "state": "in",
-      "status": "89'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Deportivo Cuenca",
           "short": "Cuenca",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4812.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Técnico Universitario",
@@ -1365,7 +1365,7 @@
       "name": "Seton Hall at Georgetown",
       "date": "2026-10-16T21:00Z",
       "state": "in",
-      "status": "48'",
+      "status": "81'",
       "teams": [
         {
           "name": "Georgetown",
@@ -1388,7 +1388,7 @@
       "name": "Virginia Tech at Furman",
       "date": "2026-10-16T22:00Z",
       "state": "in",
-      "status": "5'",
+      "status": "34'",
       "teams": [
         {
           "name": "Furman",
@@ -1411,7 +1411,7 @@
       "name": "Stanford at SMU",
       "date": "2026-10-16T22:00Z",
       "state": "in",
-      "status": "11'",
+      "status": "44'",
       "teams": [
         {
           "name": "SMU",
@@ -1434,13 +1434,13 @@
       "name": "Florida Polytechnic at Stetson",
       "date": "2026-10-16T22:00Z",
       "state": "in",
-      "status": "12'",
+      "status": "40'",
       "teams": [
         {
           "name": "Stetson",
           "short": "Stetson",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/56.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Florida Polytechnic",
@@ -1802,7 +1802,7 @@
       "name": "App State at Arkansas State",
       "date": "2026-10-16T21:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "74'",
       "teams": [
         {
           "name": "Arkansas State",
@@ -1825,19 +1825,19 @@
       "name": "Iowa at Maryland",
       "date": "2026-10-16T21:00Z",
       "state": "in",
-      "status": "51'",
+      "status": "80'",
       "teams": [
         {
           "name": "Maryland",
           "short": "Maryland",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Iowa",
           "short": "Iowa",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "Ludwig Field"
@@ -1848,7 +1848,7 @@
       "name": "Grambling at Prairie View A&M",
       "date": "2026-10-16T21:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "77'",
       "teams": [
         {
           "name": "Prairie View A&M",
@@ -1860,7 +1860,7 @@
           "name": "Grambling",
           "short": "Grambling",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2755.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "PVAMU Soccer Complex"
@@ -1871,13 +1871,13 @@
       "name": "Southern at Alcorn State",
       "date": "2026-10-16T22:00Z",
       "state": "in",
-      "status": "17'",
+      "status": "HT",
       "teams": [
         {
           "name": "Alcorn State",
           "short": "Alcorn St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2016.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Southern",
@@ -1894,7 +1894,7 @@
       "name": "Iowa State at Kansas",
       "date": "2026-10-16T22:00Z",
       "state": "in",
-      "status": "13'",
+      "status": "HT",
       "teams": [
         {
           "name": "Kansas",
@@ -1962,8 +1962,8 @@
       "league": "Football",
       "name": "Bucknell at Navy",
       "date": "2026-10-16T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "81'",
       "teams": [
         {
           "name": "Navy",
