@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T23:09:52.227853+00:00",
+  "updated_at": "2026-10-17T23:43:59.936979+00:00",
   "count": 100,
   "items": [
     {
@@ -283,8 +283,8 @@
       "league": "Football",
       "name": "Chicago Fire FC at New England Revolution",
       "date": "2026-10-17T23:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "3'",
       "teams": [
         {
           "name": "New England Revolution",
@@ -306,8 +306,8 @@
       "league": "Football",
       "name": "LAFC at New York City FC",
       "date": "2026-10-17T23:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "3'",
       "teams": [
         {
           "name": "New York City FC",
@@ -329,8 +329,8 @@
       "league": "Football",
       "name": "D.C. United at Orlando City SC",
       "date": "2026-10-17T23:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "3'",
       "teams": [
         {
           "name": "Orlando City SC",
@@ -352,8 +352,8 @@
       "league": "Football",
       "name": "Toronto FC at Red Bull New York",
       "date": "2026-10-17T23:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "3'",
       "teams": [
         {
           "name": "Red Bull New York",
@@ -560,7 +560,7 @@
       "name": "Kansas City Current at Utah Royals",
       "date": "2026-10-17T22:30Z",
       "state": "in",
-      "status": "39'",
+      "status": "54'",
       "teams": [
         {
           "name": "Utah Royals",
@@ -583,7 +583,7 @@
       "name": "San Diego Wave FC at North Carolina Courage",
       "date": "2026-10-17T23:00Z",
       "state": "in",
-      "status": "1'",
+      "status": "35'",
       "teams": [
         {
           "name": "North Carolina Courage",
@@ -595,7 +595,7 @@
           "name": "San Diego Wave FC",
           "short": "San Diego",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21423.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "WakeMed Soccer Park"
@@ -905,13 +905,13 @@
       "name": "Querétaro at Santos",
       "date": "2026-10-17T23:00Z",
       "state": "in",
-      "status": "8'",
+      "status": "42'",
       "teams": [
         {
           "name": "Santos",
           "short": "Santos",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/225.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Querétaro",
@@ -927,8 +927,8 @@
       "league": "Football",
       "name": "Tigres UANL at Guadalajara",
       "date": "2026-10-17T23:07Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "32'",
       "teams": [
         {
           "name": "Guadalajara",
@@ -1365,7 +1365,7 @@
       "name": "Tampa Bay Sun FC at Lexington SC",
       "date": "2026-10-17T23:00Z",
       "state": "in",
-      "status": "2'",
+      "status": "36'",
       "teams": [
         {
           "name": "Lexington SC",
@@ -1377,7 +1377,7 @@
           "name": "Tampa Bay Sun FC",
           "short": "Tampa Bay",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131455.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Lexington Stadium"
@@ -1893,8 +1893,8 @@
       "league": "Football",
       "name": "Melbourne City at Wellington Phoenix",
       "date": "2026-10-17T23:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "26'",
       "teams": [
         {
           "name": "Wellington Phoenix",
