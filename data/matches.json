@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T15:50:45.905709+00:00",
+  "updated_at": "2026-10-17T16:14:22.451267+00:00",
   "count": 100,
   "items": [
     {
@@ -30,8 +30,8 @@
       "league": "Football",
       "name": "Liverpool at Brentford",
       "date": "2026-10-17T14:00Z",
-      "state": "in",
-      "status": "83'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Brentford",
@@ -53,8 +53,8 @@
       "league": "Football",
       "name": "Hull City at Fulham",
       "date": "2026-10-17T14:00Z",
-      "state": "in",
-      "status": "90'+4'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Fulham",
@@ -76,8 +76,8 @@
       "league": "Football",
       "name": "Ipswich Town at Manchester City",
       "date": "2026-10-17T14:00Z",
-      "state": "in",
-      "status": "90'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Manchester City",
@@ -89,7 +89,7 @@
           "name": "Ipswich Town",
           "short": "Ipswich",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Etihad Stadium"
@@ -145,8 +145,8 @@
       "league": "Football",
       "name": "Elche at Villarreal",
       "date": "2026-10-17T14:15Z",
-      "state": "in",
-      "status": "77'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Villarreal",
@@ -651,14 +651,14 @@
       "league": "Football",
       "name": "Internazionale at Bologna",
       "date": "2026-10-17T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "13'",
       "teams": [
         {
           "name": "Bologna",
           "short": "Bologna",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Internazionale",
@@ -836,7 +836,7 @@
       "name": "Paris Saint-Germain at Strasbourg",
       "date": "2026-10-17T15:15Z",
       "state": "in",
-      "status": "35'",
+      "status": "HT",
       "teams": [
         {
           "name": "Strasbourg",
@@ -1020,7 +1020,7 @@
       "name": "PSV Eindhoven at ADO Den Haag",
       "date": "2026-10-17T14:30Z",
       "state": "in",
-      "status": "60'",
+      "status": "83'",
       "teams": [
         {
           "name": "ADO Den Haag",
@@ -1180,8 +1180,8 @@
       "league": "Football",
       "name": "Queens Park Rangers at Birmingham City",
       "date": "2026-10-17T14:00Z",
-      "state": "in",
-      "status": "90'+3'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Birmingham City",
@@ -1203,8 +1203,8 @@
       "league": "Football",
       "name": "Sheffield United at Bristol City",
       "date": "2026-10-17T14:00Z",
-      "state": "in",
-      "status": "90'+1'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Bristol City",
@@ -1226,8 +1226,8 @@
       "league": "Football",
       "name": "Stoke City at Derby County",
       "date": "2026-10-17T14:00Z",
-      "state": "in",
-      "status": "90'+1'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Derby County",
@@ -1249,8 +1249,8 @@
       "league": "Football",
       "name": "Portsmouth at Norwich City",
       "date": "2026-10-17T14:00Z",
-      "state": "in",
-      "status": "90'+2'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Norwich City",
@@ -1272,8 +1272,8 @@
       "league": "Football",
       "name": "Bolton Wanderers at Southampton",
       "date": "2026-10-17T14:00Z",
-      "state": "in",
-      "status": "90'+4'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Southampton",
@@ -1295,8 +1295,8 @@
       "league": "Football",
       "name": "West Ham United at Swansea City",
       "date": "2026-10-17T14:00Z",
-      "state": "in",
-      "status": "90'+3'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Swansea City",
@@ -1318,14 +1318,14 @@
       "league": "Football",
       "name": "Blackburn Rovers at West Bromwich Albion",
       "date": "2026-10-17T14:00Z",
-      "state": "in",
-      "status": "88'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "West Bromwich Albion",
           "short": "West Brom",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "Blackburn Rovers",
@@ -1341,8 +1341,8 @@
       "league": "Football",
       "name": "Preston North End at Wrexham",
       "date": "2026-10-17T14:00Z",
-      "state": "in",
-      "status": "90'+2'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Wrexham",
@@ -1387,8 +1387,8 @@
       "league": "Football",
       "name": "Leicester City at Watford",
       "date": "2026-10-17T14:00Z",
-      "state": "in",
-      "status": "90'+4'",
+      "state": "post",
+      "status": "FT-Pens",
       "teams": [
         {
           "name": "Watford",
@@ -1457,13 +1457,13 @@
       "name": "Valencia at Athletic Club",
       "date": "2026-10-17T14:30Z",
       "state": "in",
-      "status": "63'",
+      "status": "86'",
       "teams": [
         {
           "name": "Athletic Club",
           "short": "Athletic ",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21372.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Valencia",
@@ -1502,8 +1502,8 @@
       "league": "Football",
       "name": "Strasbourg at Lens",
       "date": "2026-10-17T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "12'",
       "teams": [
         {
           "name": "Lens",
@@ -1525,8 +1525,8 @@
       "league": "Football",
       "name": "Le Havre AC at Montpellier",
       "date": "2026-10-17T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "14'",
       "teams": [
         {
           "name": "Montpellier",
@@ -1548,8 +1548,8 @@
       "league": "Football",
       "name": "Nantes at Saint-Malo",
       "date": "2026-10-17T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "13'",
       "teams": [
         {
           "name": "Saint-Malo",
@@ -1561,7 +1561,7 @@
           "name": "Nantes",
           "short": "Nantes",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Stade de Marville"
@@ -1571,8 +1571,8 @@
       "league": "Football",
       "name": "Paris FC at Toulouse",
       "date": "2026-10-17T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "13'",
       "teams": [
         {
           "name": "Toulouse",
@@ -1617,8 +1617,8 @@
       "league": "Football",
       "name": "St Mirren at Aberdeen",
       "date": "2026-10-17T14:00Z",
-      "state": "in",
-      "status": "90'+3'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Aberdeen",
@@ -1640,8 +1640,8 @@
       "league": "Football",
       "name": "Falkirk at Hibernian",
       "date": "2026-10-17T14:00Z",
-      "state": "in",
-      "status": "90'+2'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Hibernian",
@@ -1663,8 +1663,8 @@
       "league": "Football",
       "name": "Motherwell at Kilmarnock",
       "date": "2026-10-17T14:00Z",
-      "state": "in",
-      "status": "90'+2'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Kilmarnock",
@@ -1686,8 +1686,8 @@
       "league": "Football",
       "name": "Dundee United at St Johnstone",
       "date": "2026-10-17T14:00Z",
-      "state": "in",
-      "status": "90'+1'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "St Johnstone",
@@ -1917,7 +1917,7 @@
       "name": "Al Ettifaq at Neom SC",
       "date": "2026-10-17T15:40Z",
       "state": "in",
-      "status": "10'",
+      "status": "34'",
       "teams": [
         {
           "name": "Neom SC",
@@ -1985,8 +1985,8 @@
       "league": "Football",
       "name": "Vizela at Atlético CP",
       "date": "2026-10-17T14:00Z",
-      "state": "in",
-      "status": "85'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Atlético CP",
@@ -2008,8 +2008,8 @@
       "league": "Football",
       "name": "Portimonense at Florgrade",
       "date": "2026-10-17T14:00Z",
-      "state": "in",
-      "status": "90'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Florgrade",
@@ -2021,7 +2021,7 @@
           "name": "Portimonense",
           "short": "Portimonense",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3719.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Parque Desportivo do Buçaquinho"
@@ -2031,8 +2031,8 @@
       "league": "Football",
       "name": "C.D. Nacional at Sanjoanense",
       "date": "2026-10-17T14:00Z",
-      "state": "in",
-      "status": "89'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Sanjoanense",
@@ -2054,8 +2054,8 @@
       "league": "Football",
       "name": "AD Marco 09 at SC Farense",
       "date": "2026-10-17T14:00Z",
-      "state": "in",
-      "status": "84'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "SC Farense",
@@ -2077,8 +2077,8 @@
       "league": "Football",
       "name": "Leixoes at Vianense",
       "date": "2026-10-17T14:00Z",
-      "state": "in",
-      "status": "88'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Vianense",
@@ -2101,19 +2101,19 @@
       "name": "Estrela at AD Fazendense",
       "date": "2026-10-17T14:30Z",
       "state": "in",
-      "status": "56'",
+      "status": "80'",
       "teams": [
         {
           "name": "AD Fazendense",
           "short": "Fazendense",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Estrela",
           "short": "Estrela",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21610.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "José Sousa Gomes campo 2"
@@ -2124,7 +2124,7 @@
       "name": "Moreirense at AVS",
       "date": "2026-10-17T15:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "52'",
       "teams": [
         {
           "name": "AVS",
@@ -2147,13 +2147,13 @@
       "name": "Bragança at Uniao Leiria",
       "date": "2026-10-17T15:00Z",
       "state": "in",
-      "status": "45'+2'",
+      "status": "51'",
       "teams": [
         {
           "name": "Uniao Leiria",
           "short": "Uniao Leiria",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Bragança",
@@ -2169,8 +2169,8 @@
       "league": "Football",
       "name": "Rio Ave at Louletano",
       "date": "2026-10-17T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "11'",
       "teams": [
         {
           "name": "Louletano",
