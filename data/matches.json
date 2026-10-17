@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T13:53:55.049838+00:00",
+  "updated_at": "2026-10-17T14:14:49.087660+00:00",
   "count": 100,
   "items": [
     {
@@ -30,8 +30,8 @@
       "league": "Football",
       "name": "Liverpool at Brentford",
       "date": "2026-10-17T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "14'",
       "teams": [
         {
           "name": "Brentford",
@@ -53,8 +53,8 @@
       "league": "Football",
       "name": "Hull City at Fulham",
       "date": "2026-10-17T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "14'",
       "teams": [
         {
           "name": "Fulham",
@@ -76,8 +76,8 @@
       "league": "Football",
       "name": "Ipswich Town at Manchester City",
       "date": "2026-10-17T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "12'",
       "teams": [
         {
           "name": "Manchester City",
@@ -122,8 +122,8 @@
       "league": "Football",
       "name": "Atlético Madrid at Espanyol",
       "date": "2026-10-17T12:00Z",
-      "state": "in",
-      "status": "90'+4'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Espanyol",
@@ -629,13 +629,13 @@
       "name": "Napoli at Venezia",
       "date": "2026-10-17T13:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "56'",
       "teams": [
         {
           "name": "Venezia",
           "short": "Venezia",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Napoli",
@@ -698,7 +698,7 @@
       "name": "Borussia Dortmund at 1. FC Union Berlin",
       "date": "2026-10-17T13:30Z",
       "state": "in",
-      "status": "24'",
+      "status": "45'",
       "teams": [
         {
           "name": "1. FC Union Berlin",
@@ -721,7 +721,7 @@
       "name": "VfB Stuttgart at Hamburg SV",
       "date": "2026-10-17T13:30Z",
       "state": "in",
-      "status": "24'",
+      "status": "44'",
       "teams": [
         {
           "name": "Hamburg SV",
@@ -744,7 +744,7 @@
       "name": "Mainz at Schalke 04",
       "date": "2026-10-17T13:30Z",
       "state": "in",
-      "status": "24'",
+      "status": "45'",
       "teams": [
         {
           "name": "Schalke 04",
@@ -756,7 +756,7 @@
           "name": "Mainz",
           "short": "Mainz",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Veltins Arena"
@@ -767,13 +767,13 @@
       "name": "FC Augsburg at SV Elversberg",
       "date": "2026-10-17T13:30Z",
       "state": "in",
-      "status": "24'",
+      "status": "44'",
       "teams": [
         {
           "name": "SV Elversberg",
           "short": "Elversberg",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "FC Augsburg",
@@ -790,7 +790,7 @@
       "name": "SC Paderborn 07 at Werder Bremen",
       "date": "2026-10-17T13:30Z",
       "state": "in",
-      "status": "23'",
+      "status": "44'",
       "teams": [
         {
           "name": "Werder Bremen",
@@ -802,7 +802,7 @@
           "name": "SC Paderborn 07",
           "short": "Paderborn",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3307.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Weserstadion"
@@ -1180,8 +1180,8 @@
       "league": "Football",
       "name": "Queens Park Rangers at Birmingham City",
       "date": "2026-10-17T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "15'",
       "teams": [
         {
           "name": "Birmingham City",
@@ -1203,8 +1203,8 @@
       "league": "Football",
       "name": "Sheffield United at Bristol City",
       "date": "2026-10-17T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "15'",
       "teams": [
         {
           "name": "Bristol City",
@@ -1216,7 +1216,7 @@
           "name": "Sheffield United",
           "short": "Sheffield Utd",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Ashton Gate"
@@ -1226,8 +1226,8 @@
       "league": "Football",
       "name": "Stoke City at Derby County",
       "date": "2026-10-17T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "15'",
       "teams": [
         {
           "name": "Derby County",
@@ -1249,8 +1249,8 @@
       "league": "Football",
       "name": "Portsmouth at Norwich City",
       "date": "2026-10-17T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "14'",
       "teams": [
         {
           "name": "Norwich City",
@@ -1272,8 +1272,8 @@
       "league": "Football",
       "name": "Bolton Wanderers at Southampton",
       "date": "2026-10-17T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "15'",
       "teams": [
         {
           "name": "Southampton",
@@ -1295,8 +1295,8 @@
       "league": "Football",
       "name": "West Ham United at Swansea City",
       "date": "2026-10-17T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "14'",
       "teams": [
         {
           "name": "Swansea City",
@@ -1318,8 +1318,8 @@
       "league": "Football",
       "name": "Blackburn Rovers at West Bromwich Albion",
       "date": "2026-10-17T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "13'",
       "teams": [
         {
           "name": "West Bromwich Albion",
@@ -1331,7 +1331,7 @@
           "name": "Blackburn Rovers",
           "short": "Blackburn",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/365.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "The Hawthorns"
@@ -1341,8 +1341,8 @@
       "league": "Football",
       "name": "Preston North End at Wrexham",
       "date": "2026-10-17T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "13'",
       "teams": [
         {
           "name": "Wrexham",
@@ -1387,8 +1387,8 @@
       "league": "Football",
       "name": "Leicester City at Watford",
       "date": "2026-10-17T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "15'",
       "teams": [
         {
           "name": "Watford",
@@ -1400,7 +1400,7 @@
           "name": "Leicester City",
           "short": "Leicester",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21036.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "The Hive Stadium"
@@ -1617,14 +1617,14 @@
       "league": "Football",
       "name": "St Mirren at Aberdeen",
       "date": "2026-10-17T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "14'",
       "teams": [
         {
           "name": "Aberdeen",
           "short": "Aberdeen",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/263.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "St Mirren",
@@ -1640,8 +1640,8 @@
       "league": "Football",
       "name": "Falkirk at Hibernian",
       "date": "2026-10-17T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "14'",
       "teams": [
         {
           "name": "Hibernian",
@@ -1663,14 +1663,14 @@
       "league": "Football",
       "name": "Motherwell at Kilmarnock",
       "date": "2026-10-17T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "14'",
       "teams": [
         {
           "name": "Kilmarnock",
           "short": "Kilmarnock",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/260.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Motherwell",
@@ -1686,8 +1686,8 @@
       "league": "Football",
       "name": "Dundee United at St Johnstone",
       "date": "2026-10-17T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "13'",
       "teams": [
         {
           "name": "St Johnstone",
@@ -1963,7 +1963,7 @@
       "name": "Vitória de Guimaraes at ACDR Lamelas",
       "date": "2026-10-17T13:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "54'",
       "teams": [
         {
           "name": "ACDR Lamelas",
@@ -1985,8 +1985,8 @@
       "league": "Football",
       "name": "Vizela at Atlético CP",
       "date": "2026-10-17T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "11'",
       "teams": [
         {
           "name": "Atlético CP",
@@ -2008,14 +2008,14 @@
       "league": "Football",
       "name": "Portimonense at Florgrade",
       "date": "2026-10-17T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "14'",
       "teams": [
         {
           "name": "Florgrade",
           "short": "Florgrade",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Portimonense",
@@ -2031,8 +2031,8 @@
       "league": "Football",
       "name": "C.D. Nacional at Sanjoanense",
       "date": "2026-10-17T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "13'",
       "teams": [
         {
           "name": "Sanjoanense",
@@ -2054,14 +2054,14 @@
       "league": "Football",
       "name": "AD Marco 09 at SC Farense",
       "date": "2026-10-17T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "SC Farense",
           "short": "SC Farense",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20740.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "AD Marco 09",
@@ -2077,8 +2077,8 @@
       "league": "Football",
       "name": "Leixoes at Vianense",
       "date": "2026-10-17T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "12'",
       "teams": [
         {
           "name": "Vianense",
@@ -2262,7 +2262,7 @@
       "name": "Konyaspor at Amed SFK",
       "date": "2026-10-17T13:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "55'",
       "teams": [
         {
           "name": "Amed SFK",
@@ -2285,7 +2285,7 @@
       "name": "Galatasaray at Genclerbirligi",
       "date": "2026-10-17T13:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "54'",
       "teams": [
         {
           "name": "Genclerbirligi",
