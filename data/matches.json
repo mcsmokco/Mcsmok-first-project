@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T11:49:04.466067+00:00",
+  "updated_at": "2026-10-17T12:14:54.676680+00:00",
   "count": 100,
   "items": [
     {
@@ -8,7 +8,7 @@
       "name": "Chelsea at Everton",
       "date": "2026-10-17T11:30Z",
       "state": "in",
-      "status": "17'",
+      "status": "43'",
       "teams": [
         {
           "name": "Everton",
@@ -122,8 +122,8 @@
       "league": "Football",
       "name": "Atlético Madrid at Espanyol",
       "date": "2026-10-17T12:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "13'",
       "teams": [
         {
           "name": "Espanyol",
@@ -1089,7 +1089,7 @@
       "name": "Birmingham City at Arsenal",
       "date": "2026-10-17T11:45Z",
       "state": "in",
-      "status": "4'",
+      "status": "30'",
       "teams": [
         {
           "name": "Arsenal",
@@ -1112,7 +1112,7 @@
       "name": "Cardiff City at Middlesbrough",
       "date": "2026-10-17T11:30Z",
       "state": "in",
-      "status": "19'",
+      "status": "45'",
       "teams": [
         {
           "name": "Middlesbrough",
@@ -1124,7 +1124,7 @@
           "name": "Cardiff City",
           "short": "Cardiff",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/347.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Riverside Stadium"
@@ -1135,7 +1135,7 @@
       "name": "Lincoln City at Millwall",
       "date": "2026-10-17T11:30Z",
       "state": "in",
-      "status": "19'",
+      "status": "45'",
       "teams": [
         {
           "name": "Millwall",
@@ -1147,7 +1147,7 @@
           "name": "Lincoln City",
           "short": "Lincoln City",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/314.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "The Den"
@@ -1158,7 +1158,7 @@
       "name": "Charlton Athletic at Watford",
       "date": "2026-10-17T11:30Z",
       "state": "in",
-      "status": "19'",
+      "status": "45'",
       "teams": [
         {
           "name": "Watford",
@@ -1410,8 +1410,8 @@
       "league": "Football",
       "name": "Granada at Dux Logroño",
       "date": "2026-10-17T10:00Z",
-      "state": "in",
-      "status": "90'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Dux Logroño",
@@ -1433,8 +1433,8 @@
       "league": "Football",
       "name": "CD Tenerife at FC Badalona",
       "date": "2026-10-17T10:00Z",
-      "state": "in",
-      "status": "88'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "FC Badalona",
@@ -2239,7 +2239,7 @@
       "name": "Eyupspor at Erzurum BB",
       "date": "2026-10-17T10:30Z",
       "state": "in",
-      "status": "57'",
+      "status": "83'",
       "teams": [
         {
           "name": "Erzurum BB",
