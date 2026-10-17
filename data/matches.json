@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T16:14:22.451267+00:00",
+  "updated_at": "2026-10-17T16:51:09.166567+00:00",
   "count": 100,
   "items": [
     {
@@ -99,8 +99,8 @@
       "league": "Football",
       "name": "Aston Villa at Newcastle United",
       "date": "2026-10-17T16:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "21'",
       "teams": [
         {
           "name": "Newcastle United",
@@ -168,8 +168,8 @@
       "league": "Football",
       "name": "Barcelona at Real Betis",
       "date": "2026-10-17T16:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "19'",
       "teams": [
         {
           "name": "Real Betis",
@@ -181,7 +181,7 @@
           "name": "Barcelona",
           "short": "Barcelona",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Estadio La Cartuja"
@@ -536,8 +536,8 @@
       "league": "Football",
       "name": "Gotham FC at Washington Spirit",
       "date": "2026-10-17T16:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "13'",
       "teams": [
         {
           "name": "Washington Spirit",
@@ -652,7 +652,7 @@
       "name": "Internazionale at Bologna",
       "date": "2026-10-17T16:00Z",
       "state": "in",
-      "status": "13'",
+      "status": "HT",
       "teams": [
         {
           "name": "Bologna",
@@ -664,7 +664,7 @@
           "name": "Internazionale",
           "short": "Inter Milan",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Renato Dall'Ara"
@@ -812,14 +812,14 @@
       "league": "Football",
       "name": "RB Leipzig at Bayern Munich",
       "date": "2026-10-17T16:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "19'",
       "teams": [
         {
           "name": "Bayern Munich",
           "short": "Bayern",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "RB Leipzig",
@@ -836,7 +836,7 @@
       "name": "Paris Saint-Germain at Strasbourg",
       "date": "2026-10-17T15:15Z",
       "state": "in",
-      "status": "HT",
+      "status": "78'",
       "teams": [
         {
           "name": "Strasbourg",
@@ -848,7 +848,7 @@
           "name": "Paris Saint-Germain",
           "short": "PSG",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stade de la Meinau"
@@ -1019,14 +1019,14 @@
       "league": "Football",
       "name": "PSV Eindhoven at ADO Den Haag",
       "date": "2026-10-17T14:30Z",
-      "state": "in",
-      "status": "83'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "ADO Den Haag",
           "short": "ADO Den Haag",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2726.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "PSV Eindhoven",
@@ -1456,8 +1456,8 @@
       "league": "Football",
       "name": "Valencia at Athletic Club",
       "date": "2026-10-17T14:30Z",
-      "state": "in",
-      "status": "86'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Athletic Club",
@@ -1503,13 +1503,13 @@
       "name": "Strasbourg at Lens",
       "date": "2026-10-17T16:00Z",
       "state": "in",
-      "status": "12'",
+      "status": "45'+3'",
       "teams": [
         {
           "name": "Lens",
           "short": "Lens",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Strasbourg",
@@ -1526,13 +1526,13 @@
       "name": "Le Havre AC at Montpellier",
       "date": "2026-10-17T16:00Z",
       "state": "in",
-      "status": "14'",
+      "status": "HT",
       "teams": [
         {
           "name": "Montpellier",
           "short": "Montpellier",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21638.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Le Havre AC",
@@ -1549,7 +1549,7 @@
       "name": "Nantes at Saint-Malo",
       "date": "2026-10-17T16:00Z",
       "state": "in",
-      "status": "13'",
+      "status": "HT",
       "teams": [
         {
           "name": "Saint-Malo",
@@ -1572,7 +1572,7 @@
       "name": "Paris FC at Toulouse",
       "date": "2026-10-17T16:00Z",
       "state": "in",
-      "status": "13'",
+      "status": "45'+5'",
       "teams": [
         {
           "name": "Toulouse",
@@ -1584,7 +1584,7 @@
           "name": "Paris FC",
           "short": "Paris FC",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21640.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Stade de la Ramée"
@@ -1917,7 +1917,7 @@
       "name": "Al Ettifaq at Neom SC",
       "date": "2026-10-17T15:40Z",
       "state": "in",
-      "status": "34'",
+      "status": "53'",
       "teams": [
         {
           "name": "Neom SC",
@@ -2100,8 +2100,8 @@
       "league": "Football",
       "name": "Estrela at AD Fazendense",
       "date": "2026-10-17T14:30Z",
-      "state": "in",
-      "status": "80'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "AD Fazendense",
@@ -2113,7 +2113,7 @@
           "name": "Estrela",
           "short": "Estrela",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21610.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "José Sousa Gomes campo 2"
@@ -2124,7 +2124,7 @@
       "name": "Moreirense at AVS",
       "date": "2026-10-17T15:00Z",
       "state": "in",
-      "status": "52'",
+      "status": "89'",
       "teams": [
         {
           "name": "AVS",
@@ -2147,13 +2147,13 @@
       "name": "Bragança at Uniao Leiria",
       "date": "2026-10-17T15:00Z",
       "state": "in",
-      "status": "51'",
+      "status": "87'",
       "teams": [
         {
           "name": "Uniao Leiria",
           "short": "Uniao Leiria",
           "logo": "",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Bragança",
@@ -2170,7 +2170,7 @@
       "name": "Rio Ave at Louletano",
       "date": "2026-10-17T16:00Z",
       "state": "in",
-      "status": "11'",
+      "status": "HT",
       "teams": [
         {
           "name": "Louletano",
