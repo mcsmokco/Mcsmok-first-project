@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T10:15:01.368103+00:00",
+  "updated_at": "2026-10-17T10:50:21.611852+00:00",
   "count": 100,
   "items": [
     {
@@ -1411,19 +1411,19 @@
       "name": "Granada at Dux Logroño",
       "date": "2026-10-17T10:00Z",
       "state": "in",
-      "status": "14'",
+      "status": "HT",
       "teams": [
         {
           "name": "Dux Logroño",
           "short": " Dux Logroño",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21175.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Granada",
           "short": "Granada",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21140.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Las Gaunas"
@@ -1434,7 +1434,7 @@
       "name": "CD Tenerife at FC Badalona",
       "date": "2026-10-17T10:00Z",
       "state": "in",
-      "status": "14'",
+      "status": "45'+5'",
       "teams": [
         {
           "name": "FC Badalona",
@@ -1446,7 +1446,7 @@
           "name": "CD Tenerife",
           "short": "Tenerife",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131393.png",
-          "score": "1"
+          "score": "3"
         }
       ],
       "venue": "Nou Municipal de Palamós"
@@ -1778,8 +1778,8 @@
       "league": "Football",
       "name": "Newcastle Jets at Central Coast Mariners",
       "date": "2026-10-17T08:40Z",
-      "state": "in",
-      "status": "74'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Central Coast Mariners",
@@ -1791,7 +1791,7 @@
           "name": "Newcastle Jets",
           "short": "Newcastle Jets",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5323.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Central Coast Stadium"
@@ -2238,14 +2238,14 @@
       "league": "Football",
       "name": "Eyupspor at Erzurum BB",
       "date": "2026-10-17T10:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "20'",
       "teams": [
         {
           "name": "Erzurum BB",
           "short": "Erzurum",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19267.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Eyupspor",
