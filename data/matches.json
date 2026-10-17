@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T05:52:37.132743+00:00",
+  "updated_at": "2026-10-17T06:17:54.890416+00:00",
   "count": 100,
   "items": [
     {
@@ -1732,8 +1732,8 @@
       "league": "Football",
       "name": "Melbourne City FC at Auckland FC",
       "date": "2026-10-17T04:00Z",
-      "state": "in",
-      "status": "90'+1'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Auckland FC",
@@ -1755,8 +1755,8 @@
       "league": "Football",
       "name": "Perth Glory at Macarthur FC",
       "date": "2026-10-17T06:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "17'",
       "teams": [
         {
           "name": "Macarthur FC",
@@ -1824,8 +1824,8 @@
       "league": "Football",
       "name": "Perth Glory at Newcastle Jets ",
       "date": "2026-10-17T04:00Z",
-      "state": "in",
-      "status": "90'+4'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Newcastle Jets ",
@@ -1847,8 +1847,8 @@
       "league": "Football",
       "name": "Melbourne Victory  at Western Sydney ",
       "date": "2026-10-17T04:00Z",
-      "state": "in",
-      "status": "90'+1'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Western Sydney ",
@@ -1870,8 +1870,8 @@
       "league": "Football",
       "name": "Central Coast Mariners at Brisbane Roar",
       "date": "2026-10-17T06:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "18'",
       "teams": [
         {
           "name": "Brisbane Roar",
@@ -1883,7 +1883,7 @@
           "name": "Central Coast Mariners",
           "short": "Central Coast",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Spencer Park"
