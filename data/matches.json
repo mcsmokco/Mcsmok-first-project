@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T20:10:42.776658+00:00",
+  "updated_at": "2026-10-17T20:51:09.451785+00:00",
   "count": 100,
   "items": [
     {
@@ -192,7 +192,7 @@
       "name": "Athletic Club at Valencia",
       "date": "2026-10-17T19:00Z",
       "state": "in",
-      "status": "51'",
+      "status": "90'+2'",
       "teams": [
         {
           "name": "Valencia",
@@ -214,14 +214,14 @@
       "league": "Football",
       "name": "Charlotte FC at Philadelphia Union",
       "date": "2026-10-17T18:30Z",
-      "state": "in",
-      "status": "71'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Philadelphia Union",
           "short": "Philadelphia",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Charlotte FC",
@@ -237,8 +237,8 @@
       "league": "Football",
       "name": "St. Louis CITY SC at Minnesota United FC",
       "date": "2026-10-17T20:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "11'",
       "teams": [
         {
           "name": "Minnesota United FC",
@@ -250,7 +250,7 @@
           "name": "St. Louis CITY SC",
           "short": "St. Louis",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21812.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Allianz Field"
@@ -674,14 +674,14 @@
       "league": "Football",
       "name": "Genoa at AS Roma",
       "date": "2026-10-17T18:45Z",
-      "state": "in",
-      "status": "67'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "AS Roma",
           "short": "AS Roma",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Genoa",
@@ -858,8 +858,8 @@
       "league": "Football",
       "name": "Brest at Lille",
       "date": "2026-10-17T18:45Z",
-      "state": "in",
-      "status": "69'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Lille",
@@ -881,8 +881,8 @@
       "league": "Football",
       "name": "Lens at Troyes",
       "date": "2026-10-17T18:45Z",
-      "state": "in",
-      "status": "63'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Troyes",
@@ -1066,19 +1066,19 @@
       "name": "Willem II at Sparta Rotterdam",
       "date": "2026-10-17T19:00Z",
       "state": "in",
-      "status": "52'",
+      "status": "90'+2'",
       "teams": [
         {
           "name": "Sparta Rotterdam",
           "short": "Sparta",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/151.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "Willem II",
           "short": "Willem II",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/156.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Sparta-Stadion Het Kasteel"
@@ -1479,20 +1479,20 @@
       "league": "Football",
       "name": "Espanyol at Real Madrid",
       "date": "2026-10-17T18:30Z",
-      "state": "in",
-      "status": "79'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Real Madrid",
           "short": "Real Madrid",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21128.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "Espanyol",
           "short": "Espanyol",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21154.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Alfredo Di Stéfano Stadium"
@@ -1595,7 +1595,7 @@
       "name": "OL Lyonnes at Paris Saint-Germain",
       "date": "2026-10-17T19:05Z",
       "state": "in",
-      "status": "HT",
+      "status": "83'",
       "teams": [
         {
           "name": "Paris Saint-Germain",
@@ -1607,7 +1607,7 @@
           "name": "OL Lyonnes",
           "short": "Lyonnes",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19256.png",
-          "score": "2"
+          "score": "4"
         }
       ],
       "venue": "Parc des Princes"
@@ -1710,19 +1710,19 @@
       "name": "Rangers at Dundee",
       "date": "2026-10-17T19:00Z",
       "state": "in",
-      "status": "53'",
+      "status": "90'+4'",
       "teams": [
         {
           "name": "Dundee",
           "short": "Dundee",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/261.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Rangers",
           "short": "Rangers",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/257.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "The Scot Foam Stadium at Dens Park"
@@ -2193,7 +2193,7 @@
       "name": "Leca at FC Penafiel",
       "date": "2026-10-17T19:00Z",
       "state": "in",
-      "status": "52'",
+      "status": "90'+2'",
       "teams": [
         {
           "name": "FC Penafiel",
@@ -2216,19 +2216,19 @@
       "name": "Amarante at Académica de Coimbra",
       "date": "2026-10-17T19:15Z",
       "state": "in",
-      "status": "HT",
+      "status": "77'",
       "teams": [
         {
           "name": "Académica de Coimbra",
           "short": "Académica",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3698.png",
-          "score": "1"
+          "score": "3"
         },
         {
           "name": "Amarante",
           "short": "Amarante",
           "logo": "",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Estádio Cidade de Coimbra"
