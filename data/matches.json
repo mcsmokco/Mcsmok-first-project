@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T17:15:22.815263+00:00",
+  "updated_at": "2026-10-18T17:47:38.072762+00:00",
   "count": 100,
   "items": [
     {
@@ -76,8 +76,8 @@
       "league": "Football",
       "name": "Arsenal at Nottingham Forest",
       "date": "2026-10-18T15:30Z",
-      "state": "in",
-      "status": "85'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Nottingham Forest",
@@ -146,13 +146,13 @@
       "name": "Real Sociedad at Málaga",
       "date": "2026-10-18T16:30Z",
       "state": "in",
-      "status": "45'",
+      "status": "60'",
       "teams": [
         {
           "name": "Málaga",
           "short": "Málaga",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Real Sociedad",
@@ -215,7 +215,7 @@
       "name": "Orlando Pride at Houston Dash",
       "date": "2026-10-18T17:00Z",
       "state": "in",
-      "status": "7'",
+      "status": "39'",
       "teams": [
         {
           "name": "Houston Dash",
@@ -227,7 +227,7 @@
           "name": "Orlando Pride",
           "short": "Orlando",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18206.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Shell Energy Stadium"
@@ -330,19 +330,19 @@
       "name": "Atalanta at AC Milan",
       "date": "2026-10-18T16:00Z",
       "state": "in",
-      "status": "54'",
+      "status": "87'",
       "teams": [
         {
           "name": "AC Milan",
           "short": "Milan",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "Atalanta",
           "short": "Atalanta",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "San Siro"
@@ -398,8 +398,8 @@
       "league": "Football",
       "name": "TSG Hoffenheim at Borussia Mönchengladbach",
       "date": "2026-10-18T15:30Z",
-      "state": "in",
-      "status": "85'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Borussia Mönchengladbach",
@@ -490,14 +490,14 @@
       "league": "Football",
       "name": "Stade Rennais at Paris FC",
       "date": "2026-10-18T15:15Z",
-      "state": "in",
-      "status": "90'+3'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Paris FC",
           "short": "Paris FC",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
-          "score": "3"
+          "score": "4"
         },
         {
           "name": "Stade Rennais",
@@ -997,7 +997,7 @@
       "name": "Madrid CFF at Atlético Madrid",
       "date": "2026-10-18T16:00Z",
       "state": "in",
-      "status": "51'",
+      "status": "84'",
       "teams": [
         {
           "name": "Atlético Madrid",
@@ -1457,19 +1457,19 @@
       "name": "Gaziantep FK at Istanbul Basaksehir",
       "date": "2026-10-18T16:00Z",
       "state": "in",
-      "status": "57'",
+      "status": "89'",
       "teams": [
         {
           "name": "Istanbul Basaksehir",
           "short": "Istanbul BB",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7914.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Gaziantep FK",
           "short": "Gaziantep",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20070.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Basaksehir Fatih Terim Stadium"
@@ -1618,7 +1618,7 @@
       "name": "Calgary Wild FC at AFC Toronto",
       "date": "2026-10-18T17:00Z",
       "state": "in",
-      "status": "5'",
+      "status": "37'",
       "teams": [
         {
           "name": "AFC Toronto",
@@ -1630,7 +1630,7 @@
           "name": "Calgary Wild FC",
           "short": "Calgary",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131257.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "BMO Field"
@@ -1709,14 +1709,14 @@
       "league": "Football",
       "name": "Rubin Kazan at Spartak Moscow",
       "date": "2026-10-18T15:45Z",
-      "state": "in",
-      "status": "65'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Spartak Moscow",
           "short": "Spartak",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1941.png",
-          "score": "2"
+          "score": "4"
         },
         {
           "name": "Rubin Kazan",
@@ -1802,7 +1802,7 @@
       "name": "FC Andorra at Girona",
       "date": "2026-10-18T16:30Z",
       "state": "in",
-      "status": "44'",
+      "status": "57'",
       "teams": [
         {
           "name": "Girona",
@@ -1825,7 +1825,7 @@
       "name": "Eldense at Real Valladolid",
       "date": "2026-10-18T16:30Z",
       "state": "in",
-      "status": "45'",
+      "status": "55'",
       "teams": [
         {
           "name": "Real Valladolid",
@@ -1837,7 +1837,7 @@
           "name": "Eldense",
           "short": "Eldense",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7320.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Estadio José Zorrilla"
@@ -1985,14 +1985,14 @@
       "league": "Football",
       "name": "Arezzo at Sampdoria",
       "date": "2026-10-18T17:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "15'",
       "teams": [
         {
           "name": "Sampdoria",
           "short": "Sampdoria",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Arezzo",
@@ -2147,7 +2147,7 @@
       "name": "Aris at Kifisia",
       "date": "2026-10-18T17:00Z",
       "state": "in",
-      "status": "11'",
+      "status": "44'",
       "teams": [
         {
           "name": "Kifisia",
@@ -2159,7 +2159,7 @@
           "name": "Aris",
           "short": "Aris",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11553.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Apostolos Nikolaidis"
