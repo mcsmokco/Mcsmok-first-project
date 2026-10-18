@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T23:11:21.418615+00:00",
+  "updated_at": "2026-10-18T23:45:17.780932+00:00",
   "count": 100,
   "items": [
     {
@@ -191,8 +191,8 @@
       "league": "Football",
       "name": "Columbus Crew at FC Cincinnati",
       "date": "2026-10-18T21:00Z",
-      "state": "in",
-      "status": "90'+3'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "FC Cincinnati",
@@ -261,7 +261,7 @@
       "name": "Seattle Reign FC at Chicago Stars FC",
       "date": "2026-10-18T23:00Z",
       "state": "in",
-      "status": "2'",
+      "status": "36'",
       "teams": [
         {
           "name": "Chicago Stars FC",
@@ -1549,7 +1549,7 @@
       "name": "FC Juárez at Atlético de San Luis",
       "date": "2026-10-18T23:00Z",
       "state": "in",
-      "status": "10'",
+      "status": "44'",
       "teams": [
         {
           "name": "Atlético de San Luis",
@@ -1561,7 +1561,7 @@
           "name": "FC Juárez",
           "short": "Juárez",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/133984.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Estadio Libertad Financiera"
