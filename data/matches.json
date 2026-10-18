@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T12:14:53.696453+00:00",
+  "updated_at": "2026-10-18T13:00:03.797817+00:00",
   "count": 100,
   "items": [
     {
@@ -100,7 +100,7 @@
       "name": "Racing Santander at Osasuna",
       "date": "2026-10-18T12:00Z",
       "state": "in",
-      "status": "15'",
+      "status": "HT",
       "teams": [
         {
           "name": "Osasuna",
@@ -283,8 +283,8 @@
       "league": "Football",
       "name": "Lecce at Udinese",
       "date": "2026-10-18T10:30Z",
-      "state": "in",
-      "status": "84'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Udinese",
@@ -296,7 +296,7 @@
           "name": "Lecce",
           "short": "Lecce",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "Stadio Friuli"
@@ -582,20 +582,20 @@
       "league": "Football",
       "name": "AZ Alkmaar at SC Cambuur",
       "date": "2026-10-18T12:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "28'",
       "teams": [
         {
           "name": "SC Cambuur",
           "short": "Cambuur",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3736.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "AZ Alkmaar",
           "short": "AZ Alkmaar",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Kooi Stadium"
@@ -674,20 +674,20 @@
       "league": "Football",
       "name": "Tottenham Hotspur at Chelsea",
       "date": "2026-10-18T11:00Z",
-      "state": "in",
-      "status": "58'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Chelsea",
           "short": "Chelsea ",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19970.png",
-          "score": "2"
+          "score": "6"
         },
         {
           "name": "Tottenham Hotspur",
           "short": "Spurs",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20062.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Stamford Bridge"
@@ -697,8 +697,8 @@
       "league": "Football",
       "name": "West Ham United at Crystal Palace",
       "date": "2026-10-18T11:00Z",
-      "state": "in",
-      "status": "56'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Crystal Palace",
@@ -1019,20 +1019,20 @@
       "league": "Football",
       "name": "FC Fleury 91 at Marseille",
       "date": "2026-10-18T11:00Z",
-      "state": "in",
-      "status": "55'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Marseille",
           "short": "Marseille",
           "logo": "",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "FC Fleury 91",
           "short": "Fleury",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21637.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Stade Francis-Turcan"
@@ -1410,8 +1410,8 @@
       "league": "Football",
       "name": "Samsunspor at Kasimpasa",
       "date": "2026-10-18T10:30Z",
-      "state": "in",
-      "status": "83'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Kasimpasa",
@@ -1664,19 +1664,19 @@
       "name": "Akhmat Grozny at Zenit St Petersburg",
       "date": "2026-10-18T11:00Z",
       "state": "in",
-      "status": "53'",
+      "status": "90'+7'",
       "teams": [
         {
           "name": "Zenit St Petersburg",
           "short": "Zenit",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2533.png",
-          "score": "1"
+          "score": "3"
         },
         {
           "name": "Akhmat Grozny",
           "short": "Akhmat Grozny",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2991.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Saint Petersburg Stadium"
@@ -1756,7 +1756,7 @@
       "name": "Real Oviedo at Ceuta",
       "date": "2026-10-18T12:00Z",
       "state": "in",
-      "status": "12'",
+      "status": "HT",
       "teams": [
         {
           "name": "Ceuta",
@@ -1768,7 +1768,7 @@
           "name": "Real Oviedo",
           "short": "Real Oviedo",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/92.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Estadio Alfonso Murube"
@@ -1871,7 +1871,7 @@
       "name": "VfL Osnabruck at Arminia Bielefeld",
       "date": "2026-10-18T11:30Z",
       "state": "in",
-      "status": "44'",
+      "status": "71'",
       "teams": [
         {
           "name": "Arminia Bielefeld",
@@ -1894,13 +1894,13 @@
       "name": "1. FC Magdeburg at Dynamo Dresden",
       "date": "2026-10-18T11:30Z",
       "state": "in",
-      "status": "45'",
+      "status": "71'",
       "teams": [
         {
           "name": "Dynamo Dresden",
           "short": "D Dresden",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7017.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "1. FC Magdeburg",
@@ -1917,13 +1917,13 @@
       "name": "SV Darmstadt 98 at Karlsruher SC",
       "date": "2026-10-18T11:30Z",
       "state": "in",
-      "status": "44'",
+      "status": "70'",
       "teams": [
         {
           "name": "Karlsruher SC",
           "short": "Karlsruher",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4471.png",
-          "score": "2"
+          "score": "4"
         },
         {
           "name": "SV Darmstadt 98",
@@ -2008,14 +2008,14 @@
       "league": "Football",
       "name": "SC Rheindorf Altach at RB Salzburg",
       "date": "2026-10-18T12:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "29'",
       "teams": [
         {
           "name": "RB Salzburg",
           "short": "RB Salzburg",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2790.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "SC Rheindorf Altach",
@@ -2031,8 +2031,8 @@
       "league": "Football",
       "name": "WSG Swarovski Tirol at Wolfsberger",
       "date": "2026-10-18T12:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "29'",
       "teams": [
         {
           "name": "Wolfsberger",
@@ -2215,14 +2215,14 @@
       "league": "Football",
       "name": "Qingdao West Coast at Beijing Guoan",
       "date": "2026-10-18T11:00Z",
-      "state": "in",
-      "status": "56'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Beijing Guoan",
           "short": "Beijing",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2052.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Qingdao West Coast",
@@ -2239,7 +2239,7 @@
       "name": "Chengdu Rongcheng at Shanghai Port",
       "date": "2026-10-18T12:00Z",
       "state": "in",
-      "status": "15'",
+      "status": "HT",
       "teams": [
         {
           "name": "Shanghai Port",
