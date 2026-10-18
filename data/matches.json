@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T19:45:56.200660+00:00",
+  "updated_at": "2026-10-18T20:10:21.393860+00:00",
   "count": 100,
   "items": [
     {
@@ -169,7 +169,7 @@
       "name": "Sevilla at Real Madrid",
       "date": "2026-10-18T19:00Z",
       "state": "in",
-      "status": "42'",
+      "status": "HT",
       "teams": [
         {
           "name": "Real Madrid",
@@ -353,7 +353,7 @@
       "name": "Lazio at Juventus",
       "date": "2026-10-18T18:45Z",
       "state": "in",
-      "status": "HT",
+      "status": "66'",
       "teams": [
         {
           "name": "Juventus",
@@ -514,7 +514,7 @@
       "name": "Nice at Lyon",
       "date": "2026-10-18T18:45Z",
       "state": "in",
-      "status": "HT",
+      "status": "65'",
       "teams": [
         {
           "name": "Lyon",
@@ -628,8 +628,8 @@
       "league": "Football",
       "name": "FC Utrecht at FC Twente",
       "date": "2026-10-18T18:00Z",
-      "state": "in",
-      "status": "85'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "FC Twente",
@@ -651,14 +651,14 @@
       "league": "Football",
       "name": "Fortuna Sittard at NEC Nijmegen",
       "date": "2026-10-18T18:00Z",
-      "state": "in",
-      "status": "86'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "NEC Nijmegen",
           "short": "NEC",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Fortuna Sittard",
@@ -1088,8 +1088,8 @@
       "league": "Football",
       "name": "Al Khaleej at Al Fateh",
       "date": "2026-10-18T18:00Z",
-      "state": "in",
-      "status": "88'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Al Fateh",
@@ -1101,7 +1101,7 @@
           "name": "Al Khaleej",
           "short": "Al Khaleej",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21829.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "Al Fateh Club Stadium"
@@ -1365,7 +1365,7 @@
       "name": "FC Famalicao at Paredes",
       "date": "2026-10-18T18:30Z",
       "state": "in",
-      "status": "56'",
+      "status": "81'",
       "teams": [
         {
           "name": "Paredes",
@@ -1388,13 +1388,13 @@
       "name": "Arouca at Os Belenenses",
       "date": "2026-10-18T18:45Z",
       "state": "in",
-      "status": "HT",
+      "status": "61'",
       "teams": [
         {
           "name": "Os Belenenses",
           "short": "Os Belenenses",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Arouca",
@@ -1502,8 +1502,8 @@
       "league": "Football",
       "name": "Alebrijes de Oaxaca at Leones Negros",
       "date": "2026-10-18T18:00Z",
-      "state": "in",
-      "status": "83'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Leones Negros",
@@ -1525,8 +1525,8 @@
       "league": "Football",
       "name": "Atlas at Pumas UNAM",
       "date": "2026-10-18T18:00Z",
-      "state": "in",
-      "status": "85'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Pumas UNAM",
@@ -1732,8 +1732,8 @@
       "league": "Football",
       "name": "Rostov at FC Baltika Kaliningrad",
       "date": "2026-10-18T18:00Z",
-      "state": "in",
-      "status": "83'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "FC Baltika Kaliningrad",
@@ -1848,7 +1848,7 @@
       "name": "CD Sabadell at Burgos",
       "date": "2026-10-18T19:00Z",
       "state": "in",
-      "status": "45'",
+      "status": "50'",
       "teams": [
         {
           "name": "Burgos",
@@ -2169,20 +2169,20 @@
       "league": "Football",
       "name": "Iraklis at PAOK",
       "date": "2026-10-18T18:00Z",
-      "state": "in",
-      "status": "86'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "PAOK",
           "short": "PAOK",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/605.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Iraklis",
           "short": "Iraklis",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2575.png",
-          "score": "2"
+          "score": "1"
         }
       ],
       "venue": "Toumba Stadium"
