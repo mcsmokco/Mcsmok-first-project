@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T22:48:29.836798+00:00",
+  "updated_at": "2026-10-18T23:11:21.418615+00:00",
   "count": 100,
   "items": [
     {
@@ -192,7 +192,7 @@
       "name": "Columbus Crew at FC Cincinnati",
       "date": "2026-10-18T21:00Z",
       "state": "in",
-      "status": "70'",
+      "status": "90'+3'",
       "teams": [
         {
           "name": "FC Cincinnati",
@@ -237,8 +237,8 @@
       "league": "Football",
       "name": "Portland Thorns FC at Bay FC",
       "date": "2026-10-18T21:00Z",
-      "state": "in",
-      "status": "81'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Bay FC",
@@ -250,7 +250,7 @@
           "name": "Portland Thorns FC",
           "short": "Portland",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15362.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "PayPal Park"
@@ -260,8 +260,8 @@
       "league": "Football",
       "name": "Seattle Reign FC at Chicago Stars FC",
       "date": "2026-10-18T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "2'",
       "teams": [
         {
           "name": "Chicago Stars FC",
@@ -1479,8 +1479,8 @@
       "league": "Football",
       "name": "Loudoun United FC at Birmingham Legion FC",
       "date": "2026-10-18T21:00Z",
-      "state": "in",
-      "status": "85'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Birmingham Legion FC",
@@ -1548,8 +1548,8 @@
       "league": "Football",
       "name": "FC Juárez at Atlético de San Luis",
       "date": "2026-10-18T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "Atlético de San Luis",
@@ -1561,7 +1561,7 @@
           "name": "FC Juárez",
           "short": "Juárez",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/133984.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Estadio Libertad Financiera"
