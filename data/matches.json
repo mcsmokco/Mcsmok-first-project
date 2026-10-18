@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T11:48:39.444405+00:00",
+  "updated_at": "2026-10-18T12:14:53.696453+00:00",
   "count": 100,
   "items": [
     {
@@ -99,14 +99,14 @@
       "league": "Football",
       "name": "Racing Santander at Osasuna",
       "date": "2026-10-18T12:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "15'",
       "teams": [
         {
           "name": "Osasuna",
           "short": "Osasuna",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Racing Santander",
@@ -284,7 +284,7 @@
       "name": "Lecce at Udinese",
       "date": "2026-10-18T10:30Z",
       "state": "in",
-      "status": "58'",
+      "status": "84'",
       "teams": [
         {
           "name": "Udinese",
@@ -559,14 +559,14 @@
       "league": "Football",
       "name": "Go Ahead Eagles at PEC Zwolle",
       "date": "2026-10-18T10:15Z",
-      "state": "in",
-      "status": "71'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "PEC Zwolle",
           "short": "PEC Zwolle",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2565.png",
-          "score": "3"
+          "score": "4"
         },
         {
           "name": "Go Ahead Eagles",
@@ -675,13 +675,13 @@
       "name": "Tottenham Hotspur at Chelsea",
       "date": "2026-10-18T11:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "58'",
       "teams": [
         {
           "name": "Chelsea",
           "short": "Chelsea ",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19970.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Tottenham Hotspur",
@@ -698,7 +698,7 @@
       "name": "West Ham United at Crystal Palace",
       "date": "2026-10-18T11:00Z",
       "state": "in",
-      "status": "45'+4'",
+      "status": "56'",
       "teams": [
         {
           "name": "Crystal Palace",
@@ -927,8 +927,8 @@
       "league": "Football",
       "name": "Sevilla at Alavés",
       "date": "2026-10-18T10:00Z",
-      "state": "in",
-      "status": "88'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Alavés",
@@ -950,8 +950,8 @@
       "league": "Football",
       "name": "Barcelona at Real Sociedad",
       "date": "2026-10-18T10:00Z",
-      "state": "in",
-      "status": "90'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Real Sociedad",
@@ -1020,7 +1020,7 @@
       "name": "FC Fleury 91 at Marseille",
       "date": "2026-10-18T11:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "55'",
       "teams": [
         {
           "name": "Marseille",
@@ -1032,7 +1032,7 @@
           "name": "FC Fleury 91",
           "short": "Fleury",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21637.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stade Francis-Turcan"
@@ -1411,13 +1411,13 @@
       "name": "Samsunspor at Kasimpasa",
       "date": "2026-10-18T10:30Z",
       "state": "in",
-      "status": "57'",
+      "status": "83'",
       "teams": [
         {
           "name": "Kasimpasa",
           "short": "Kasimpasa",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6870.png",
-          "score": "2"
+          "score": "4"
         },
         {
           "name": "Samsunspor",
@@ -1664,13 +1664,13 @@
       "name": "Akhmat Grozny at Zenit St Petersburg",
       "date": "2026-10-18T11:00Z",
       "state": "in",
-      "status": "44'",
+      "status": "53'",
       "teams": [
         {
           "name": "Zenit St Petersburg",
           "short": "Zenit",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2533.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Akhmat Grozny",
@@ -1755,8 +1755,8 @@
       "league": "Football",
       "name": "Real Oviedo at Ceuta",
       "date": "2026-10-18T12:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "12'",
       "teams": [
         {
           "name": "Ceuta",
@@ -1871,13 +1871,13 @@
       "name": "VfL Osnabruck at Arminia Bielefeld",
       "date": "2026-10-18T11:30Z",
       "state": "in",
-      "status": "18'",
+      "status": "44'",
       "teams": [
         {
           "name": "Arminia Bielefeld",
           "short": "Bielefeld",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2506.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "VfL Osnabruck",
@@ -1894,7 +1894,7 @@
       "name": "1. FC Magdeburg at Dynamo Dresden",
       "date": "2026-10-18T11:30Z",
       "state": "in",
-      "status": "18'",
+      "status": "45'",
       "teams": [
         {
           "name": "Dynamo Dresden",
@@ -1917,7 +1917,7 @@
       "name": "SV Darmstadt 98 at Karlsruher SC",
       "date": "2026-10-18T11:30Z",
       "state": "in",
-      "status": "18'",
+      "status": "44'",
       "teams": [
         {
           "name": "Karlsruher SC",
@@ -2192,8 +2192,8 @@
       "league": "Football",
       "name": "Shanghai Shenhua at Wuhan Three Towns",
       "date": "2026-10-18T10:00Z",
-      "state": "in",
-      "status": "89'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Wuhan Three Towns",
@@ -2205,7 +2205,7 @@
           "name": "Shanghai Shenhua",
           "short": "Shanghai Sh.",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/977.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "Wuhan Sports Center Stadium"
@@ -2216,7 +2216,7 @@
       "name": "Qingdao West Coast at Beijing Guoan",
       "date": "2026-10-18T11:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "56'",
       "teams": [
         {
           "name": "Beijing Guoan",
@@ -2238,8 +2238,8 @@
       "league": "Football",
       "name": "Chengdu Rongcheng at Shanghai Port",
       "date": "2026-10-18T12:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "15'",
       "teams": [
         {
           "name": "Shanghai Port",
