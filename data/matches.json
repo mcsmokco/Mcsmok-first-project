@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T18:12:47.532101+00:00",
+  "updated_at": "2026-10-18T18:54:26.068579+00:00",
   "count": 100,
   "items": [
     {
@@ -145,8 +145,8 @@
       "league": "Football",
       "name": "Real Sociedad at Málaga",
       "date": "2026-10-18T16:30Z",
-      "state": "in",
-      "status": "85'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Málaga",
@@ -215,13 +215,13 @@
       "name": "Orlando Pride at Houston Dash",
       "date": "2026-10-18T17:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "82'",
       "teams": [
         {
           "name": "Houston Dash",
           "short": "Houston",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17346.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Orlando Pride",
@@ -352,8 +352,8 @@
       "league": "Football",
       "name": "Lazio at Juventus",
       "date": "2026-10-18T18:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "Juventus",
@@ -513,8 +513,8 @@
       "league": "Football",
       "name": "Nice at Lyon",
       "date": "2026-10-18T18:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "Lyon",
@@ -629,13 +629,13 @@
       "name": "FC Utrecht at FC Twente",
       "date": "2026-10-18T18:00Z",
       "state": "in",
-      "status": "11'",
+      "status": "HT",
       "teams": [
         {
           "name": "FC Twente",
           "short": "FC Twente",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "FC Utrecht",
@@ -652,19 +652,19 @@
       "name": "Fortuna Sittard at NEC Nijmegen",
       "date": "2026-10-18T18:00Z",
       "state": "in",
-      "status": "12'",
+      "status": "HT",
       "teams": [
         {
           "name": "NEC Nijmegen",
           "short": "NEC",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Fortuna Sittard",
           "short": "Fortuna",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/143.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Goffertstadion"
@@ -1089,13 +1089,13 @@
       "name": "Al Khaleej at Al Fateh",
       "date": "2026-10-18T18:00Z",
       "state": "in",
-      "status": "13'",
+      "status": "HT",
       "teams": [
         {
           "name": "Al Fateh",
           "short": "Al Fateh",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/13033.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Al Khaleej",
@@ -1364,8 +1364,8 @@
       "league": "Football",
       "name": "FC Famalicao at Paredes",
       "date": "2026-10-18T18:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "23'",
       "teams": [
         {
           "name": "Paredes",
@@ -1387,8 +1387,8 @@
       "league": "Football",
       "name": "Arouca at Os Belenenses",
       "date": "2026-10-18T18:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "Os Belenenses",
@@ -1503,19 +1503,19 @@
       "name": "Alebrijes de Oaxaca at Leones Negros",
       "date": "2026-10-18T18:00Z",
       "state": "in",
-      "status": "12'",
+      "status": "HT",
       "teams": [
         {
           "name": "Leones Negros",
           "short": "U de G",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10129.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Alebrijes de Oaxaca",
           "short": "Oaxaca",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17233.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Estadio Jalisco"
@@ -1526,13 +1526,13 @@
       "name": "Atlas at Pumas UNAM",
       "date": "2026-10-18T18:00Z",
       "state": "in",
-      "status": "11'",
+      "status": "HT",
       "teams": [
         {
           "name": "Pumas UNAM",
           "short": "UNAM",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/133981.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Atlas",
@@ -1618,7 +1618,7 @@
       "name": "Calgary Wild FC at AFC Toronto",
       "date": "2026-10-18T17:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "87'",
       "teams": [
         {
           "name": "AFC Toronto",
@@ -1733,7 +1733,7 @@
       "name": "Rostov at FC Baltika Kaliningrad",
       "date": "2026-10-18T18:00Z",
       "state": "in",
-      "status": "8'",
+      "status": "HT",
       "teams": [
         {
           "name": "FC Baltika Kaliningrad",
@@ -1801,8 +1801,8 @@
       "league": "Football",
       "name": "FC Andorra at Girona",
       "date": "2026-10-18T16:30Z",
-      "state": "in",
-      "status": "82'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Girona",
@@ -1824,20 +1824,20 @@
       "league": "Football",
       "name": "Eldense at Real Valladolid",
       "date": "2026-10-18T16:30Z",
-      "state": "in",
-      "status": "80'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Real Valladolid",
           "short": "Valladolid",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Eldense",
           "short": "Eldense",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7320.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "Estadio José Zorrilla"
@@ -1986,7 +1986,7 @@
       "name": "Arezzo at Sampdoria",
       "date": "2026-10-18T17:30Z",
       "state": "in",
-      "status": "40'",
+      "status": "64'",
       "teams": [
         {
           "name": "Sampdoria",
@@ -1998,7 +1998,7 @@
           "name": "Arezzo",
           "short": "Arezzo",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3345.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Stadio Luigi Ferraris"
@@ -2147,19 +2147,19 @@
       "name": "Aris at Kifisia",
       "date": "2026-10-18T17:00Z",
       "state": "in",
-      "status": "50'",
+      "status": "90'+2'",
       "teams": [
         {
           "name": "Kifisia",
           "short": "Kifisia",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21969.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Aris",
           "short": "Aris",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11553.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Apostolos Nikolaidis"
@@ -2170,7 +2170,7 @@
       "name": "Iraklis at PAOK",
       "date": "2026-10-18T18:00Z",
       "state": "in",
-      "status": "11'",
+      "status": "HT",
       "teams": [
         {
           "name": "PAOK",
