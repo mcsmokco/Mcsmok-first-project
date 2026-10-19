@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T18:21:18.590567+00:00",
+  "updated_at": "2026-10-19T19:08:19.706493+00:00",
   "count": 38,
   "items": [
     {
@@ -7,8 +7,8 @@
       "league": "Football",
       "name": "Coventry City at Tottenham Hotspur",
       "date": "2026-10-19T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "7'",
       "teams": [
         {
           "name": "Tottenham Hotspur",
@@ -30,8 +30,8 @@
       "league": "Football",
       "name": "Rayo Vallecano at Getafe",
       "date": "2026-10-19T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "Getafe",
@@ -53,8 +53,8 @@
       "league": "Football",
       "name": "Cagliari at Monza",
       "date": "2026-10-19T16:30Z",
-      "state": "in",
-      "status": "90'+2'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Monza",
@@ -76,8 +76,8 @@
       "league": "Football",
       "name": "Torino at Parma",
       "date": "2026-10-19T18:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "23'",
       "teams": [
         {
           "name": "Parma",
@@ -89,7 +89,7 @@
           "name": "Torino",
           "short": "Torino",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Ennio Tardini"
@@ -123,7 +123,7 @@
       "name": "Al Hazem at Al Hilal",
       "date": "2026-10-19T18:00Z",
       "state": "in",
-      "status": "20'",
+      "status": "47'",
       "teams": [
         {
           "name": "Al Hilal",
@@ -146,19 +146,19 @@
       "name": "Al Faisaly at Al Shabab",
       "date": "2026-10-19T18:00Z",
       "state": "in",
-      "status": "21'",
+      "status": "48'",
       "teams": [
         {
           "name": "Al Shabab",
           "short": "Al Shabab",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/793.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Al Faisaly",
           "short": "Al Faisaly",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21446.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Al-Shabab Club Stadium"
@@ -191,14 +191,14 @@
       "league": "Football",
       "name": "Besiktas at Trabzonspor",
       "date": "2026-10-19T17:00Z",
-      "state": "in",
-      "status": "61'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Trabzonspor",
           "short": "Trabzonspor",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Besiktas",
@@ -260,14 +260,14 @@
       "league": "Football",
       "name": "Gazovik Orenburg at Rodina Moscow",
       "date": "2026-10-19T16:30Z",
-      "state": "in",
-      "status": "90'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Rodina Moscow",
           "short": "Rodina",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21927.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Gazovik Orenburg",
@@ -283,14 +283,14 @@
       "league": "Football",
       "name": "Tenerife at RC Celta Fortuna",
       "date": "2026-10-19T18:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "37'",
       "teams": [
         {
           "name": "RC Celta Fortuna",
           "short": "Celta Fortuna",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131858.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Tenerife",
@@ -306,8 +306,8 @@
       "league": "Football",
       "name": "Montpellier at Rodez Aveyron",
       "date": "2026-10-19T18:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "20'",
       "teams": [
         {
           "name": "Rodez Aveyron",
@@ -376,7 +376,7 @@
       "name": "Chile U17 at Australia U17",
       "date": "2026-10-19T18:00Z",
       "state": "in",
-      "status": "21'",
+      "status": "50'",
       "teams": [
         {
           "name": "Australia U17",
@@ -388,7 +388,7 @@
           "name": "Chile U17",
           "short": "Chile",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21558.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Mohammed VI Football Academy Pitch 4"
@@ -399,13 +399,13 @@
       "name": "Samoa U17 at United States U17",
       "date": "2026-10-19T18:00Z",
       "state": "in",
-      "status": "21'",
+      "status": "47'",
       "teams": [
         {
           "name": "United States U17",
           "short": "United States",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
-          "score": "4"
+          "score": "9"
         },
         {
           "name": "Samoa U17",
@@ -422,19 +422,19 @@
       "name": "De Graafschap at Jong Ajax",
       "date": "2026-10-19T18:00Z",
       "state": "in",
-      "status": "19'",
+      "status": "48'",
       "teams": [
         {
           "name": "Jong Ajax",
           "short": "Jong Ajax",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10597.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "De Graafschap",
           "short": "De Graafschap",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/144.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Sportpark De Toekomst"
@@ -445,13 +445,13 @@
       "name": "Roda JC Kerkrade at Jong FC Utrecht",
       "date": "2026-10-19T18:00Z",
       "state": "in",
-      "status": "18'",
+      "status": "48'",
       "teams": [
         {
           "name": "Jong FC Utrecht",
           "short": "Jong Utrecht",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18278.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Roda JC Kerkrade",
@@ -468,7 +468,7 @@
       "name": "FC Dordrecht at Jong PSV",
       "date": "2026-10-19T18:00Z",
       "state": "in",
-      "status": "21'",
+      "status": "51'",
       "teams": [
         {
           "name": "Jong PSV",
@@ -490,8 +490,8 @@
       "league": "Football",
       "name": "Kalmar FF at Degerfors IF",
       "date": "2026-10-19T17:00Z",
-      "state": "in",
-      "status": "64'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Degerfors IF",
@@ -513,8 +513,8 @@
       "league": "Football",
       "name": "FC Midtjylland at Viborg FF",
       "date": "2026-10-19T17:00Z",
-      "state": "in",
-      "status": "62'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Viborg FF",
@@ -526,7 +526,7 @@
           "name": "FC Midtjylland",
           "short": "Midtjylland",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/572.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Viborg Stadion"
@@ -605,8 +605,8 @@
       "league": "Football",
       "name": "Defensores de Belgrano at San Telmo",
       "date": "2026-10-19T18:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "37'",
       "teams": [
         {
           "name": "San Telmo",
