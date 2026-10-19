@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T19:59:09.297919+00:00",
+  "updated_at": "2026-10-19T20:27:40.419523+00:00",
   "count": 38,
   "items": [
     {
@@ -8,19 +8,19 @@
       "name": "Coventry City at Tottenham Hotspur",
       "date": "2026-10-19T19:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "68'",
       "teams": [
         {
           "name": "Tottenham Hotspur",
           "short": "Spurs",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Coventry City",
           "short": "Coventry",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Tottenham Hotspur Stadium"
@@ -31,13 +31,13 @@
       "name": "Rayo Vallecano at Getafe",
       "date": "2026-10-19T19:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "67'",
       "teams": [
         {
           "name": "Getafe",
           "short": "Getafe",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Rayo Vallecano",
@@ -77,7 +77,7 @@
       "name": "Torino at Parma",
       "date": "2026-10-19T18:45Z",
       "state": "in",
-      "status": "56'",
+      "status": "84'",
       "teams": [
         {
           "name": "Parma",
@@ -89,7 +89,7 @@
           "name": "Torino",
           "short": "Torino",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "Ennio Tardini"
@@ -122,8 +122,8 @@
       "league": "Football",
       "name": "Al Hazem at Al Hilal",
       "date": "2026-10-19T18:00Z",
-      "state": "in",
-      "status": "90'+8'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Al Hilal",
@@ -169,7 +169,7 @@
       "name": "Gil Vicente at Braga",
       "date": "2026-10-19T19:15Z",
       "state": "in",
-      "status": "43'",
+      "status": "48'",
       "teams": [
         {
           "name": "Braga",
@@ -283,8 +283,8 @@
       "league": "Football",
       "name": "Tenerife at RC Celta Fortuna",
       "date": "2026-10-19T18:30Z",
-      "state": "in",
-      "status": "69'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "RC Celta Fortuna",
@@ -307,7 +307,7 @@
       "name": "Montpellier at Rodez Aveyron",
       "date": "2026-10-19T18:45Z",
       "state": "in",
-      "status": "54'",
+      "status": "83'",
       "teams": [
         {
           "name": "Rodez Aveyron",
@@ -319,7 +319,7 @@
           "name": "Montpellier",
           "short": "Montpellier",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Stade Paul-Lignon"
@@ -605,8 +605,8 @@
       "league": "Football",
       "name": "Defensores de Belgrano at San Telmo",
       "date": "2026-10-19T18:30Z",
-      "state": "in",
-      "status": "71'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "San Telmo",
