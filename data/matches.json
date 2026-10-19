@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T17:02:21.196622+00:00",
+  "updated_at": "2026-10-19T17:54:48.753798+00:00",
   "count": 38,
   "items": [
     {
@@ -54,13 +54,13 @@
       "name": "Cagliari at Monza",
       "date": "2026-10-19T16:30Z",
       "state": "in",
-      "status": "30'",
+      "status": "65'",
       "teams": [
         {
           "name": "Monza",
           "short": "Monza",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Cagliari",
@@ -99,8 +99,8 @@
       "league": "Football",
       "name": "Al Ahli at Al Fayha",
       "date": "2026-10-19T15:05Z",
-      "state": "in",
-      "status": "90'+3'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Al Fayha",
@@ -192,13 +192,13 @@
       "name": "Besiktas at Trabzonspor",
       "date": "2026-10-19T17:00Z",
       "state": "in",
-      "status": "1'",
+      "status": "HT",
       "teams": [
         {
           "name": "Trabzonspor",
           "short": "Trabzonspor",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Besiktas",
@@ -261,7 +261,7 @@
       "name": "Gazovik Orenburg at Rodina Moscow",
       "date": "2026-10-19T16:30Z",
       "state": "in",
-      "status": "31'",
+      "status": "64'",
       "teams": [
         {
           "name": "Rodina Moscow",
@@ -491,19 +491,19 @@
       "name": "Kalmar FF at Degerfors IF",
       "date": "2026-10-19T17:00Z",
       "state": "in",
-      "status": "2'",
+      "status": "HT",
       "teams": [
         {
           "name": "Degerfors IF",
           "short": "Degerfors",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20856.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Kalmar FF",
           "short": "Kalmar FF",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3052.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Stora Valla"
@@ -514,7 +514,7 @@
       "name": "FC Midtjylland at Viborg FF",
       "date": "2026-10-19T17:00Z",
       "state": "in",
-      "status": "1'",
+      "status": "HT",
       "teams": [
         {
           "name": "Viborg FF",
