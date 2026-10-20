@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T21:23:43.624898+00:00",
+  "updated_at": "2026-10-20T21:56:54.016542+00:00",
   "count": 94,
   "items": [
     {
@@ -1111,20 +1111,20 @@
       "league": "Football",
       "name": "Bedford Town at Cray Wanderers",
       "date": "2026-10-20T18:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT-Pens",
       "teams": [
         {
           "name": "Cray Wanderers",
           "short": "Cray Wanderers",
           "logo": "",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Bedford Town",
           "short": "Bedford Town",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Flamingo Park"
@@ -1410,8 +1410,8 @@
       "league": "Football",
       "name": "Coquimbo Unido at Unión La Calera",
       "date": "2026-10-20T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "Postponed",
       "teams": [
         {
           "name": "Unión La Calera",
@@ -1433,8 +1433,8 @@
       "league": "Football",
       "name": "Boyacá Chicó FC at Deportivo Pereira",
       "date": "2026-10-20T21:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "27'",
       "teams": [
         {
           "name": "Deportivo Pereira",
@@ -1641,13 +1641,13 @@
       "name": "Western Michigan at DePaul",
       "date": "2026-10-20T20:00Z",
       "state": "in",
-      "status": "48'",
+      "status": "67'",
       "teams": [
         {
           "name": "DePaul",
           "short": "DePaul",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/305.png",
-          "score": "3"
+          "score": "4"
         },
         {
           "name": "Western Michigan",
@@ -1664,19 +1664,19 @@
       "name": "Mercer at Jacksonville",
       "date": "2026-10-20T21:00Z",
       "state": "in",
-      "status": "20'",
+      "status": "45'",
       "teams": [
         {
           "name": "Jacksonville",
           "short": "Jacksonville",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/294.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Mercer",
           "short": "Mercer",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2382.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Southern Oak Stadium"
