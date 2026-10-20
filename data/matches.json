@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T16:31:15.835816+00:00",
+  "updated_at": "2026-10-20T17:25:16.055297+00:00",
   "count": 94,
   "items": [
     {
@@ -7,20 +7,20 @@
       "league": "Football",
       "name": "Slavia Prague at Fenerbahce",
       "date": "2026-10-20T16:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "40'",
       "teams": [
         {
           "name": "Fenerbahce",
           "short": "Fenerbahce",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Slavia Prague",
           "short": "Slavia Prague",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/494.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Şükrü Saracoğlu Stadium"
@@ -30,8 +30,8 @@
       "league": "Football",
       "name": "Borussia Dortmund at Sabah FK",
       "date": "2026-10-20T16:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "40'",
       "teams": [
         {
           "name": "Sabah FK",
@@ -43,7 +43,7 @@
           "name": "Borussia Dortmund",
           "short": "Dortmund",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Baku Olympic Stadium"
@@ -329,8 +329,8 @@
       "league": "Football",
       "name": "Al Riyadh at Al Diriyah",
       "date": "2026-10-20T15:00Z",
-      "state": "in",
-      "status": "69'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Al Diriyah",
@@ -352,8 +352,8 @@
       "league": "Football",
       "name": "Al Qadsiah at Al Taawoun",
       "date": "2026-10-20T15:10Z",
-      "state": "in",
-      "status": "60'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Al Taawoun",
@@ -365,7 +365,7 @@
           "name": "Al Qadsiah",
           "short": "Al Qadsiah",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22022.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Al Taawon Club Stadium"
@@ -444,14 +444,14 @@
       "league": "Football",
       "name": "New Zealand U17 at Argentina U17",
       "date": "2026-10-20T15:00Z",
-      "state": "in",
-      "status": "69'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Argentina U17",
           "short": "Argentina",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "New Zealand U17",
@@ -467,8 +467,8 @@
       "league": "Football",
       "name": "Poland U17 at North Korea U17",
       "date": "2026-10-20T15:00Z",
-      "state": "in",
-      "status": "70'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "North Korea U17",
