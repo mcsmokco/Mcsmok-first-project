@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T04:00:07.032191+00:00",
+  "updated_at": "2026-10-20T04:29:15.220191+00:00",
   "count": 94,
   "items": [
     {
@@ -1751,6 +1751,29 @@
       "venue": "Rhodes Field"
     },
     {
+      "id": "401898832",
+      "league": "Football",
+      "name": "Evansville at Wisconsin",
+      "date": "2026-10-20T22:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Wisconsin",
+          "short": "Wisconsin",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
+          "score": "0"
+        },
+        {
+          "name": "Evansville",
+          "short": "Evansville",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/339.png",
+          "score": "0"
+        }
+      ],
+      "venue": "McClimon Track/Soccer Complex"
+    },
+    {
       "id": "401898133",
       "league": "Football",
       "name": "Fairfield at Yale",
@@ -2140,29 +2163,6 @@
         }
       ],
       "venue": "Robert R. Hermann Stadium"
-    },
-    {
-      "id": "401898832",
-      "league": "Football",
-      "name": "Evansville at Wisconsin",
-      "date": "2026-10-20T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Wisconsin",
-          "short": "Wisconsin",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
-          "score": "0"
-        },
-        {
-          "name": "Evansville",
-          "short": "Evansville",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/339.png",
-          "score": "0"
-        }
-      ],
-      "venue": "McClimon Track/Soccer Complex"
     }
   ]
 }
