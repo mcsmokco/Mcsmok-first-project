@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T22:55:33.526201+00:00",
+  "updated_at": "2026-10-21T23:17:10.353241+00:00",
   "count": 100,
   "items": [
     {
@@ -237,8 +237,8 @@
       "league": "Football",
       "name": "D.C. United at FC Cincinnati",
       "date": "2026-10-21T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "2'",
       "teams": [
         {
           "name": "FC Cincinnati",
@@ -583,7 +583,7 @@
       "name": "Birmingham Legion FC at Brooklyn FC",
       "date": "2026-10-21T22:30Z",
       "state": "in",
-      "status": "19'",
+      "status": "41'",
       "teams": [
         {
           "name": "Brooklyn FC",
@@ -629,13 +629,13 @@
       "name": "FC Naples at Sarasota Paradise",
       "date": "2026-10-21T22:30Z",
       "state": "in",
-      "status": "18'",
+      "status": "39'",
       "teams": [
         {
           "name": "Sarasota Paradise",
           "short": "Sarasota",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22542.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "FC Naples",
@@ -836,7 +836,7 @@
       "name": "Atlético-MG at Montevideo City Torque",
       "date": "2026-10-21T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "58'",
       "teams": [
         {
           "name": "Montevideo City Torque",
@@ -881,8 +881,8 @@
       "league": "Football",
       "name": "Deportivo Cali at Llaneros FC",
       "date": "2026-10-21T23:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "2'",
       "teams": [
         {
           "name": "Llaneros FC",
@@ -951,7 +951,7 @@
       "name": "Bolívar at Real Potosí",
       "date": "2026-10-21T22:30Z",
       "state": "in",
-      "status": "27'",
+      "status": "45'+3'",
       "teams": [
         {
           "name": "Real Potosí",
@@ -1434,7 +1434,7 @@
       "name": "Spalding at Louisville",
       "date": "2026-10-21T22:00Z",
       "state": "in",
-      "status": "43'",
+      "status": "47'",
       "teams": [
         {
           "name": "Louisville",
@@ -1457,7 +1457,7 @@
       "name": "Georgia State at Old Dominion",
       "date": "2026-10-21T22:00Z",
       "state": "in",
-      "status": "40'",
+      "status": "HT",
       "teams": [
         {
           "name": "Old Dominion",
@@ -1469,7 +1469,7 @@
           "name": "Georgia State",
           "short": "Georgia St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2247.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "ODU Soccer Stadium"
@@ -1480,7 +1480,7 @@
       "name": "Denver at Saint Mary's",
       "date": "2026-10-21T22:00Z",
       "state": "in",
-      "status": "42'",
+      "status": "46'",
       "teams": [
         {
           "name": "Saint Mary's",
@@ -1492,7 +1492,7 @@
           "name": "Denver",
           "short": "Denver",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2172.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "Saint Mary's Stadium"
@@ -1503,7 +1503,7 @@
       "name": "Duquesne at St. Bonaventure",
       "date": "2026-10-21T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "48'",
       "teams": [
         {
           "name": "St. Bonaventure",
@@ -1515,7 +1515,7 @@
           "name": "Duquesne",
           "short": "Duquesne",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2184.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Marra Athletics Fields Complex"
@@ -1526,7 +1526,7 @@
       "name": "Winthrop at Virginia Tech",
       "date": "2026-10-21T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "48'",
       "teams": [
         {
           "name": "Virginia Tech",
@@ -1538,7 +1538,7 @@
           "name": "Winthrop",
           "short": "Winthrop",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2737.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Thompson Field"
@@ -1548,8 +1548,8 @@
       "league": "Football",
       "name": "Fordham at Davidson",
       "date": "2026-10-21T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "Davidson",
@@ -1571,8 +1571,8 @@
       "league": "Football",
       "name": "Stonehill at Harvard",
       "date": "2026-10-21T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "Harvard",
@@ -1594,8 +1594,8 @@
       "league": "Football",
       "name": "Coastal Carolina at Kentucky",
       "date": "2026-10-21T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "Kentucky",
@@ -1617,8 +1617,8 @@
       "league": "Football",
       "name": "George Mason at La Salle",
       "date": "2026-10-21T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "7'",
       "teams": [
         {
           "name": "La Salle",
@@ -1640,8 +1640,8 @@
       "league": "Football",
       "name": "Dayton at Rhode Island",
       "date": "2026-10-21T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "11'",
       "teams": [
         {
           "name": "Rhode Island",
@@ -1663,8 +1663,8 @@
       "league": "Football",
       "name": "Saint Peter's at Sacred Heart",
       "date": "2026-10-21T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "Sacred Heart",
@@ -1686,8 +1686,8 @@
       "league": "Football",
       "name": "Georgia Southern at South Carolina",
       "date": "2026-10-21T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "South Carolina",
@@ -1709,8 +1709,8 @@
       "league": "Football",
       "name": "UCF at West Virginia",
       "date": "2026-10-21T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "West Virginia",
@@ -2055,7 +2055,7 @@
       "name": "Southern Miss at App State",
       "date": "2026-10-21T22:00Z",
       "state": "in",
-      "status": "45'",
+      "status": "50'",
       "teams": [
         {
           "name": "App State",
@@ -2078,7 +2078,7 @@
       "name": "Niagara at Canisius",
       "date": "2026-10-21T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "50'",
       "teams": [
         {
           "name": "Canisius",
@@ -2090,7 +2090,7 @@
           "name": "Niagara",
           "short": "Niagara",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/315.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Demske Sports Complex"
@@ -2101,7 +2101,7 @@
       "name": "St. John's at Providence",
       "date": "2026-10-21T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "51'",
       "teams": [
         {
           "name": "Providence",
@@ -2124,7 +2124,7 @@
       "name": "Villanova at Seton Hall",
       "date": "2026-10-21T22:00Z",
       "state": "in",
-      "status": "44'",
+      "status": "47'",
       "teams": [
         {
           "name": "Seton Hall",
@@ -2136,7 +2136,7 @@
           "name": "Villanova",
           "short": "Villanova",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/222.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Mike Sheppard, Sr. Stadium at Owen T. Carroll Field"
@@ -2146,8 +2146,8 @@
       "league": "Football",
       "name": "UConn at Creighton",
       "date": "2026-10-21T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "12'",
       "teams": [
         {
           "name": "Creighton",
@@ -2169,8 +2169,8 @@
       "league": "Football",
       "name": "Quinnipiac at Fairfield",
       "date": "2026-10-21T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "Fairfield",
@@ -2192,8 +2192,8 @@
       "league": "Football",
       "name": "Xavier at Marquette",
       "date": "2026-10-21T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "11'",
       "teams": [
         {
           "name": "Marquette",
@@ -2205,7 +2205,7 @@
           "name": "Xavier",
           "short": "Xavier",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2752.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Valley Fields"
@@ -2215,8 +2215,8 @@
       "league": "Football",
       "name": "Siena at Merrimack",
       "date": "2026-10-21T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "16'",
       "teams": [
         {
           "name": "Merrimack",
@@ -2238,8 +2238,8 @@
       "league": "Football",
       "name": "High Point at Presbyterian",
       "date": "2026-10-21T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "Presbyterian",
@@ -2251,7 +2251,7 @@
           "name": "High Point",
           "short": "High Point",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2272.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Edens Field at Martin Stadium"
@@ -2261,8 +2261,8 @@
       "league": "Football",
       "name": "Sacred Heart at Rider",
       "date": "2026-10-21T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "5'",
       "teams": [
         {
           "name": "Rider",
@@ -2284,14 +2284,14 @@
       "league": "Football",
       "name": "South Carolina State at South Carolina Upstate",
       "date": "2026-10-21T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "6'",
       "teams": [
         {
           "name": "South Carolina Upstate",
           "short": "SC Upstate",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2908.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "South Carolina State",
