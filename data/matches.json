@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T20:21:26.852400+00:00",
+  "updated_at": "2026-10-21T20:57:51.246577+00:00",
   "count": 100,
   "items": [
     {
@@ -53,20 +53,20 @@
       "league": "Football",
       "name": "Viking FK at Aston Villa",
       "date": "2026-10-21T19:00Z",
-      "state": "in",
-      "status": "60'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Aston Villa",
           "short": "Aston Villa",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "Viking FK",
           "short": "Viking FK",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Villa Park"
@@ -76,8 +76,8 @@
       "league": "Football",
       "name": "Arsenal at Bayern Munich",
       "date": "2026-10-21T19:00Z",
-      "state": "in",
-      "status": "62'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Bayern Munich",
@@ -89,7 +89,7 @@
           "name": "Arsenal",
           "short": "Arsenal",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Allianz Arena"
@@ -99,14 +99,14 @@
       "league": "Football",
       "name": "Lens at Club Brugge",
       "date": "2026-10-21T19:00Z",
-      "state": "in",
-      "status": "61'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Club Brugge",
           "short": "Club Brugge",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/570.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "Lens",
@@ -122,14 +122,14 @@
       "league": "Football",
       "name": "Shakhtar Donetsk at Internazionale",
       "date": "2026-10-21T19:00Z",
-      "state": "in",
-      "status": "61'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Internazionale",
           "short": "Inter Milan",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Shakhtar Donetsk",
@@ -145,8 +145,8 @@
       "league": "Football",
       "name": "Feyenoord Rotterdam at Real Betis",
       "date": "2026-10-21T19:00Z",
-      "state": "in",
-      "status": "63'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Real Betis",
@@ -168,20 +168,20 @@
       "league": "Football",
       "name": "RB Leipzig at Real Madrid",
       "date": "2026-10-21T19:00Z",
-      "state": "in",
-      "status": "61'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Real Madrid",
           "short": "Real Madrid",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-          "score": "2"
+          "score": "4"
         },
         {
           "name": "RB Leipzig",
           "short": "RB Leipzig",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Santiago Bernabéu"
@@ -192,19 +192,19 @@
       "name": "LASK Linz at Sporting CP",
       "date": "2026-10-21T19:00Z",
       "state": "in",
-      "status": "61'",
+      "status": "90'+7'",
       "teams": [
         {
           "name": "Sporting CP",
           "short": "Sporting",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "LASK Linz",
           "short": "LASK Linz",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png",
-          "score": "1"
+          "score": "3"
         }
       ],
       "venue": "Estádio José Alvalade"
@@ -559,8 +559,8 @@
       "league": "Football",
       "name": "Bristol City at Charlton Athletic",
       "date": "2026-10-21T18:30Z",
-      "state": "in",
-      "status": "90'+2'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Charlton Athletic",
@@ -789,8 +789,8 @@
       "league": "Football",
       "name": "Leyton Orient at Reading",
       "date": "2026-10-21T19:00Z",
-      "state": "in",
-      "status": "64'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Reading",
@@ -2009,7 +2009,7 @@
       "name": "Manhattan at Saint Peter's",
       "date": "2026-10-21T19:00Z",
       "state": "in",
-      "status": "51'",
+      "status": "84'",
       "teams": [
         {
           "name": "Saint Peter's",
@@ -2021,7 +2021,7 @@
           "name": "Manhattan",
           "short": "Manhattan",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2363.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Joseph J. Jaroschak Field"
@@ -2032,13 +2032,13 @@
       "name": "Georgetown at DePaul",
       "date": "2026-10-21T20:00Z",
       "state": "in",
-      "status": "15'",
+      "status": "HT",
       "teams": [
         {
           "name": "DePaul",
           "short": "DePaul",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/305.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Georgetown",
