@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T16:22:46.660846+00:00",
+  "updated_at": "2026-10-21T17:00:28.628867+00:00",
   "count": 100,
   "items": [
     {
@@ -7,14 +7,14 @@
       "league": "Football",
       "name": "Manchester United at Como",
       "date": "2026-10-21T16:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "13'",
       "teams": [
         {
           "name": "Como",
           "short": "Como",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Manchester United",
@@ -30,20 +30,20 @@
       "league": "Football",
       "name": "Galatasaray at Lille",
       "date": "2026-10-21T16:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "15'",
       "teams": [
         {
           "name": "Lille",
           "short": "Lille",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Galatasaray",
           "short": "Galatasaray",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Decathlon Arena - Stade Pierre-Mauroy"
@@ -697,20 +697,20 @@
       "league": "Football",
       "name": "Norway U17 at Canada U17",
       "date": "2026-10-21T15:00Z",
-      "state": "in",
-      "status": "58'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Canada U17",
           "short": "Canada",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21566.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "Norway U17",
           "short": "Norway",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Mohammed VI Football Academy"
@@ -720,14 +720,14 @@
       "league": "Football",
       "name": "France U17 at Japan U17",
       "date": "2026-10-21T15:00Z",
-      "state": "in",
-      "status": "65'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Japan U17",
           "short": "Japan",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "France U17",
@@ -1751,6 +1751,29 @@
       "venue": "Hoops Family Field"
     },
     {
+      "id": "401898558",
+      "league": "Football",
+      "name": "Houston Christian at UT Rio Grande Valley",
+      "date": "2026-10-21T23:30Z",
+      "state": "post",
+      "status": "Susp",
+      "teams": [
+        {
+          "name": "UT Rio Grande Valley",
+          "short": "Rio Grande",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/292.png",
+          "score": "1"
+        },
+        {
+          "name": "Houston Christian",
+          "short": "Hou Christian",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2277.png",
+          "score": "0"
+        }
+      ],
+      "venue": "UTRGV Soccer and Track & Field Complex"
+    },
+    {
       "id": "401891067",
       "league": "Football",
       "name": "Cal State Fullerton at Gonzaga",
@@ -2278,29 +2301,6 @@
         }
       ],
       "venue": "County University Soccer Stadium"
-    },
-    {
-      "id": "401897505",
-      "league": "Football",
-      "name": "Sacramento State at Utah Valley",
-      "date": "2026-10-22T00:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Utah Valley",
-          "short": "Utah Valley",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/3084.png",
-          "score": "0"
-        },
-        {
-          "name": "Sacramento State",
-          "short": "Sacramento St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/16.png",
-          "score": "0"
-        }
-      ],
-      "venue": "UCCU Stadium"
     }
   ]
 }
