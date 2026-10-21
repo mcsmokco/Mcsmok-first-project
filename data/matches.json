@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T04:00:17.559238+00:00",
+  "updated_at": "2026-10-21T04:58:57.346054+00:00",
   "count": 100,
   "items": [
     {
@@ -1751,29 +1751,6 @@
       "venue": "Hoops Family Field"
     },
     {
-      "id": "401931035",
-      "league": "Football",
-      "name": "Houston Christian at UT Rio Grande Valley",
-      "date": "2026-10-21T23:30Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "UT Rio Grande Valley",
-          "short": "Rio Grande",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/292.png",
-          "score": "0"
-        },
-        {
-          "name": "Houston Christian",
-          "short": "Hou Christian",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2277.png",
-          "score": "0"
-        }
-      ],
-      "venue": "UTRGV Soccer and Track & Field Complex"
-    },
-    {
       "id": "401891067",
       "league": "Football",
       "name": "Cal State Fullerton at Gonzaga",
@@ -2301,6 +2278,29 @@
         }
       ],
       "venue": "County University Soccer Stadium"
+    },
+    {
+      "id": "401897505",
+      "league": "Football",
+      "name": "Sacramento State at Utah Valley",
+      "date": "2026-10-22T00:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Utah Valley",
+          "short": "Utah Valley",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/3084.png",
+          "score": "0"
+        },
+        {
+          "name": "Sacramento State",
+          "short": "Sacramento St",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/16.png",
+          "score": "0"
+        }
+      ],
+      "venue": "UCCU Stadium"
     }
   ]
 }
