@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T20:57:51.246577+00:00",
+  "updated_at": "2026-10-21T21:24:07.607553+00:00",
   "count": 100,
   "items": [
     {
@@ -191,8 +191,8 @@
       "league": "Football",
       "name": "LASK Linz at Sporting CP",
       "date": "2026-10-21T19:00Z",
-      "state": "in",
-      "status": "90'+7'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Sporting CP",
@@ -858,8 +858,8 @@
       "league": "Football",
       "name": "Antofagasta at Universidad de Chile",
       "date": "2026-10-21T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "Postponed",
       "teams": [
         {
           "name": "Universidad de Chile",
@@ -1295,8 +1295,8 @@
       "league": "Football",
       "name": "Municipal at Deportivo Mixco",
       "date": "2026-10-21T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "20'",
       "teams": [
         {
           "name": "Deportivo Mixco",
@@ -2008,8 +2008,8 @@
       "league": "Football",
       "name": "Manhattan at Saint Peter's",
       "date": "2026-10-21T19:00Z",
-      "state": "in",
-      "status": "84'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Saint Peter's",
@@ -2032,7 +2032,7 @@
       "name": "Georgetown at DePaul",
       "date": "2026-10-21T20:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "55'",
       "teams": [
         {
           "name": "DePaul",
