@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T03:03:09.003741+00:00",
+  "updated_at": "2026-10-21T04:00:17.559238+00:00",
   "count": 100,
   "items": [
     {
@@ -2004,6 +2004,29 @@
       "venue": "Mazzella Field"
     },
     {
+      "id": "401899990",
+      "league": "Football",
+      "name": "Manhattan at Saint Peter's",
+      "date": "2026-10-21T19:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Saint Peter's",
+          "short": "St Peter's",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2612.png",
+          "score": "0"
+        },
+        {
+          "name": "Manhattan",
+          "short": "Manhattan",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2363.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Joseph J. Jaroschak Field"
+    },
+    {
       "id": "401886800",
       "league": "Football",
       "name": "Georgetown at DePaul",
@@ -2025,29 +2048,6 @@
         }
       ],
       "venue": "Wish Field"
-    },
-    {
-      "id": "401899990",
-      "league": "Football",
-      "name": "Manhattan at Saint Peter's",
-      "date": "2026-10-21T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Saint Peter's",
-          "short": "St Peter's",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2612.png",
-          "score": "0"
-        },
-        {
-          "name": "Manhattan",
-          "short": "Manhattan",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2363.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Joseph J. Jaroschak Field"
     },
     {
       "id": "401890299",
