@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T13:32:35.789752+00:00",
+  "updated_at": "2026-10-21T14:30:25.889176+00:00",
   "count": 100,
   "items": [
     {
@@ -1268,6 +1268,29 @@
       "venue": "Estadio José Rafael \"Fello\" Meza Ivankovich"
     },
     {
+      "id": "401879586",
+      "league": "Football",
+      "name": "Comunicaciones at CD Malacateco",
+      "date": "2026-10-21T16:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "CD Malacateco",
+          "short": "Malacateco",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7870.png",
+          "score": "0"
+        },
+        {
+          "name": "Comunicaciones",
+          "short": "Comunicaciones",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7257.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio Municipal Santa Lucía"
+    },
+    {
       "id": "401879570",
       "league": "Football",
       "name": "Municipal at Deportivo Mixco",
@@ -1318,20 +1341,20 @@
       "league": "Football",
       "name": "Simba SC at 15 de Agosto",
       "date": "2026-10-21T12:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "15 de Agosto",
           "short": "Agosto",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Simba SC",
           "short": "Simba",
           "logo": "",
-          "score": "0"
+          "score": "6"
         }
       ],
       "venue": "Uhuru Stadium"
@@ -2278,29 +2301,6 @@
         }
       ],
       "venue": "UCCU Stadium"
-    },
-    {
-      "id": "401897439",
-      "league": "Football",
-      "name": "UC Santa Barbara at Cal Poly",
-      "date": "2026-10-22T01:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Cal Poly",
-          "short": "Cal Poly",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
-          "score": "0"
-        },
-        {
-          "name": "UC Santa Barbara",
-          "short": "Santa Barbara",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2540.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Mustang Memorial Field at Spanos Stadium"
     }
   ]
 }
