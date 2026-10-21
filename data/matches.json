@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T07:34:43.014737+00:00",
+  "updated_at": "2026-10-21T08:25:25.263803+00:00",
   "count": 100,
   "items": [
     {
@@ -944,29 +944,6 @@
         }
       ],
       "venue": "Romelio Martínez"
-    },
-    {
-      "id": "401929987",
-      "league": "Football",
-      "name": "The Strongest at Always Ready",
-      "date": "2026-10-21T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Always Ready",
-          "short": "Always Ready",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19425.png",
-          "score": "0"
-        },
-        {
-          "name": "The Strongest",
-          "short": "Strongest",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2687.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Municipal Villa Ingenio"
     },
     {
       "id": "401929801",
@@ -2301,6 +2278,29 @@
         }
       ],
       "venue": "UCCU Stadium"
+    },
+    {
+      "id": "401897439",
+      "league": "Football",
+      "name": "UC Santa Barbara at Cal Poly",
+      "date": "2026-10-22T01:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Cal Poly",
+          "short": "Cal Poly",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
+          "score": "0"
+        },
+        {
+          "name": "UC Santa Barbara",
+          "short": "Santa Barbara",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2540.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Mustang Memorial Field at Spanos Stadium"
     }
   ]
 }
