@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T20:58:53.100214+00:00",
+  "updated_at": "2026-10-22T21:26:53.807535+00:00",
   "count": 100,
   "items": [
     {
@@ -881,14 +881,14 @@
       "league": "Football",
       "name": "Coton Green at Lye Town",
       "date": "2026-10-22T18:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Lye Town",
           "short": "Lye Town",
           "logo": "",
-          "score": "0"
+          "score": "5"
         },
         {
           "name": "Coton Green",
@@ -1318,8 +1318,8 @@
       "league": "Football",
       "name": "SMU at California",
       "date": "2026-10-22T19:00Z",
-      "state": "in",
-      "status": "74'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "California",
@@ -1331,7 +1331,7 @@
           "name": "SMU",
           "short": "SMU",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
-          "score": "1"
+          "score": "3"
         }
       ],
       "venue": "Edwards Stadium"
@@ -1341,8 +1341,8 @@
       "league": "Football",
       "name": "Loyola Chicago at George Washington",
       "date": "2026-10-22T19:00Z",
-      "state": "in",
-      "status": "90'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "George Washington",
@@ -1364,8 +1364,8 @@
       "league": "Football",
       "name": "IU Indianapolis at Robert Morris",
       "date": "2026-10-22T19:00Z",
-      "state": "in",
-      "status": "80'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Robert Morris",
@@ -1388,7 +1388,7 @@
       "name": "Prairie View A&M at Alabama A&M",
       "date": "2026-10-22T20:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "63'",
       "teams": [
         {
           "name": "Alabama A&M",
@@ -1411,7 +1411,7 @@
       "name": "NJIT at Binghamton",
       "date": "2026-10-22T20:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "60'",
       "teams": [
         {
           "name": "Binghamton",
@@ -1434,7 +1434,7 @@
       "name": "Alcorn State at Jackson State",
       "date": "2026-10-22T20:00Z",
       "state": "in",
-      "status": "44'",
+      "status": "53'",
       "teams": [
         {
           "name": "Jackson State",
@@ -1457,13 +1457,13 @@
       "name": "VCU at Richmond",
       "date": "2026-10-22T20:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "60'",
       "teams": [
         {
           "name": "Richmond",
           "short": "Richmond",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/257.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "VCU",
@@ -1479,14 +1479,14 @@
       "league": "Football",
       "name": "South Alabama at Arkansas State",
       "date": "2026-10-22T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "20'",
       "teams": [
         {
           "name": "Arkansas State",
           "short": "Arkansas St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2032.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "South Alabama",
@@ -1502,8 +1502,8 @@
       "league": "Football",
       "name": "Troy at Georgia Southern",
       "date": "2026-10-22T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "11'",
       "teams": [
         {
           "name": "Georgia Southern",
@@ -1525,14 +1525,14 @@
       "league": "Football",
       "name": "Texas Southern at Grambling",
       "date": "2026-10-22T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "17'",
       "teams": [
         {
           "name": "Grambling",
           "short": "Grambling",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2755.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Texas Southern",
@@ -1548,8 +1548,8 @@
       "league": "Football",
       "name": "Florida Gulf Coast at Jacksonville",
       "date": "2026-10-22T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "15'",
       "teams": [
         {
           "name": "Jacksonville",
@@ -1571,14 +1571,14 @@
       "league": "Football",
       "name": "Delaware at Liberty",
       "date": "2026-10-22T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "19'",
       "teams": [
         {
           "name": "Liberty",
           "short": "Liberty",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2335.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Delaware",
@@ -1594,20 +1594,20 @@
       "league": "Football",
       "name": "Kennesaw State at Missouri State",
       "date": "2026-10-22T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "19'",
       "teams": [
         {
           "name": "Missouri State",
           "short": "Missouri St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Kennesaw State",
           "short": "Kennesaw St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/338.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Betty and Bobby Allison South Stadium"
