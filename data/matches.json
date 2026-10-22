@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T03:03:47.728554+00:00",
+  "updated_at": "2026-10-22T04:01:58.788837+00:00",
   "count": 100,
   "items": [
     {
@@ -877,6 +877,29 @@
       "venue": "Beyond Bancard Field"
     },
     {
+      "id": "401926253",
+      "league": "Football",
+      "name": "COTON GREEN WOMEN at Lye Town",
+      "date": "2026-10-22T18:45Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Lye Town",
+          "short": "Lye Town",
+          "logo": "",
+          "score": "0"
+        },
+        {
+          "name": "COTON GREEN WOMEN",
+          "short": "COTONGREEN",
+          "logo": "",
+          "score": "0"
+        }
+      ],
+      "venue": "The Sports Ground"
+    },
+    {
       "id": "401900891",
       "league": "Football",
       "name": "Al Fayha at Al Hazem",
@@ -1455,7 +1478,7 @@
       "id": "401889967",
       "league": "Football",
       "name": "VCU at Richmond",
-      "date": "2026-10-22T20:30Z",
+      "date": "2026-10-22T20:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
@@ -2278,29 +2301,6 @@
         }
       ],
       "venue": "Sean Sweeney Field"
-    },
-    {
-      "id": "401900168",
-      "league": "Football",
-      "name": "South Dakota at South Dakota State",
-      "date": "2026-10-22T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "South Dakota State",
-          "short": "S Dakota St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2571.png",
-          "score": "0"
-        },
-        {
-          "name": "South Dakota",
-          "short": "South Dakota",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/233.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Fishback Soccer Park"
     }
   ]
 }
