@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T23:20:36.068137+00:00",
+  "updated_at": "2026-10-22T23:52:07.748508+00:00",
   "count": 100,
   "items": [
     {
@@ -858,8 +858,8 @@
       "league": "Football",
       "name": "Carolina Ascent FC at Fort Lauderdale United FC",
       "date": "2026-10-22T23:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "14'",
       "teams": [
         {
           "name": "Fort Lauderdale United FC",
@@ -1502,8 +1502,8 @@
       "league": "Football",
       "name": "Troy at Georgia Southern",
       "date": "2026-10-22T21:00Z",
-      "state": "in",
-      "status": "87'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Georgia Southern",
@@ -1618,7 +1618,7 @@
       "name": "Green Bay at Cleveland State",
       "date": "2026-10-22T22:00Z",
       "state": "in",
-      "status": "53'",
+      "status": "81'",
       "teams": [
         {
           "name": "Cleveland State",
@@ -1641,7 +1641,7 @@
       "name": "James Madison at Coastal Carolina",
       "date": "2026-10-22T22:00Z",
       "state": "in",
-      "status": "54'",
+      "status": "79'",
       "teams": [
         {
           "name": "Coastal Carolina",
@@ -1653,7 +1653,7 @@
           "name": "James Madison",
           "short": "James Madison",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/256.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "CCU Soccer Stadium"
@@ -1664,13 +1664,13 @@
       "name": "Southern Utah at Eastern Washington",
       "date": "2026-10-22T22:00Z",
       "state": "in",
-      "status": "55'",
+      "status": "78'",
       "teams": [
         {
           "name": "Eastern Washington",
           "short": "E Washington",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Southern Utah",
@@ -1687,7 +1687,7 @@
       "name": "Rhode Island at George Mason",
       "date": "2026-10-22T22:00Z",
       "state": "in",
-      "status": "57'",
+      "status": "82'",
       "teams": [
         {
           "name": "George Mason",
@@ -1710,13 +1710,13 @@
       "name": "Penn State at Michigan State",
       "date": "2026-10-22T22:00Z",
       "state": "in",
-      "status": "52'",
+      "status": "79'",
       "teams": [
         {
           "name": "Michigan State",
           "short": "Michigan St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Penn State",
@@ -1733,7 +1733,7 @@
       "name": "New Hampshire at UMass Lowell",
       "date": "2026-10-22T22:00Z",
       "state": "in",
-      "status": "53'",
+      "status": "79'",
       "teams": [
         {
           "name": "UMass Lowell",
@@ -1745,7 +1745,7 @@
           "name": "New Hampshire",
           "short": "New Hampshire",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/160.png",
-          "score": "1"
+          "score": "3"
         }
       ],
       "venue": "Cushing Field Complex"
@@ -1756,7 +1756,7 @@
       "name": "UAlbany at Vermont",
       "date": "2026-10-22T22:00Z",
       "state": "in",
-      "status": "48'",
+      "status": "77'",
       "teams": [
         {
           "name": "Vermont",
@@ -1768,7 +1768,7 @@
           "name": "UAlbany",
           "short": "UAlbany",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/399.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Virtue Field"
@@ -1779,7 +1779,7 @@
       "name": "Northern Illinois at Youngstown State",
       "date": "2026-10-22T22:00Z",
       "state": "in",
-      "status": "58'",
+      "status": "83'",
       "teams": [
         {
           "name": "Youngstown State",
@@ -1791,7 +1791,7 @@
           "name": "Northern Illinois",
           "short": "N Illinois",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Farmers National Bank Field"
@@ -1802,13 +1802,13 @@
       "name": "Arkansas-Pine Bluff at Alabama State",
       "date": "2026-10-22T23:00Z",
       "state": "in",
-      "status": "17'",
+      "status": "44'",
       "teams": [
         {
           "name": "Alabama State",
           "short": "Alabama St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2011.png",
-          "score": "2"
+          "score": "4"
         },
         {
           "name": "Arkansas-Pine Bluff",
@@ -1825,7 +1825,7 @@
       "name": "West Florida at Bellarmine",
       "date": "2026-10-22T23:00Z",
       "state": "in",
-      "status": "14'",
+      "status": "HT",
       "teams": [
         {
           "name": "Bellarmine",
@@ -1848,7 +1848,7 @@
       "name": "Maine at Bryant",
       "date": "2026-10-22T23:00Z",
       "state": "in",
-      "status": "12'",
+      "status": "43'",
       "teams": [
         {
           "name": "Bryant",
@@ -1871,13 +1871,13 @@
       "name": "Fordham at Dayton",
       "date": "2026-10-22T23:00Z",
       "state": "in",
-      "status": "13'",
+      "status": "42'",
       "teams": [
         {
           "name": "Dayton",
           "short": "Dayton",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2168.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Fordham",
@@ -1894,19 +1894,19 @@
       "name": "Davidson at Duquesne",
       "date": "2026-10-22T23:00Z",
       "state": "in",
-      "status": "17'",
+      "status": "HT",
       "teams": [
         {
           "name": "Duquesne",
           "short": "Duquesne",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2184.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Davidson",
           "short": "Davidson",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2166.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Rooney Field"
@@ -1917,13 +1917,13 @@
       "name": "North Texas at East Carolina",
       "date": "2026-10-22T23:00Z",
       "state": "in",
-      "status": "13'",
+      "status": "39'",
       "teams": [
         {
           "name": "East Carolina",
           "short": "East Carolina",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/151.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "North Texas",
@@ -1940,19 +1940,19 @@
       "name": "Auburn at Florida",
       "date": "2026-10-22T23:00Z",
       "state": "in",
-      "status": "13'",
+      "status": "42'",
       "teams": [
         {
           "name": "Florida",
           "short": "Florida",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Auburn",
           "short": "Auburn",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Donald R. Dizney Stadium"
@@ -1963,7 +1963,7 @@
       "name": "Marshall at Georgia State",
       "date": "2026-10-22T23:00Z",
       "state": "in",
-      "status": "13'",
+      "status": "38'",
       "teams": [
         {
           "name": "Georgia State",
@@ -1986,7 +1986,7 @@
       "name": "Fairleigh Dickinson at Howard",
       "date": "2026-10-22T23:00Z",
       "state": "in",
-      "status": "13'",
+      "status": "40'",
       "teams": [
         {
           "name": "Howard",
@@ -2009,7 +2009,7 @@
       "name": "Northwestern at Illinois",
       "date": "2026-10-22T23:00Z",
       "state": "in",
-      "status": "15'",
+      "status": "42'",
       "teams": [
         {
           "name": "Illinois",
@@ -2021,7 +2021,7 @@
           "name": "Northwestern",
           "short": "Northwestern",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Demirjian Park"
@@ -2032,7 +2032,7 @@
       "name": "Purdue at Indiana",
       "date": "2026-10-22T23:00Z",
       "state": "in",
-      "status": "12'",
+      "status": "37'",
       "teams": [
         {
           "name": "Indiana",
@@ -2044,7 +2044,7 @@
           "name": "Purdue",
           "short": "Purdue",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Bill Armstrong Stadium"
@@ -2055,7 +2055,7 @@
       "name": "Kansas State at Iowa State",
       "date": "2026-10-22T23:00Z",
       "state": "in",
-      "status": "11'",
+      "status": "39'",
       "teams": [
         {
           "name": "Iowa State",
@@ -2067,7 +2067,7 @@
           "name": "Kansas State",
           "short": "Kansas St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Cyclone Sports Complex"
@@ -2078,7 +2078,7 @@
       "name": "BYU at Kansas",
       "date": "2026-10-22T23:00Z",
       "state": "in",
-      "status": "14'",
+      "status": "44'",
       "teams": [
         {
           "name": "Kansas",
@@ -2090,7 +2090,7 @@
           "name": "BYU",
           "short": "BYU",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Rock Chalk Park"
@@ -2101,13 +2101,13 @@
       "name": "Saint Louis at La Salle",
       "date": "2026-10-22T23:00Z",
       "state": "in",
-      "status": "16'",
+      "status": "43'",
       "teams": [
         {
           "name": "La Salle",
           "short": "La Salle",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2325.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Saint Louis",
@@ -2124,13 +2124,13 @@
       "name": "Queens University at Lipscomb",
       "date": "2026-10-22T23:00Z",
       "state": "in",
-      "status": "16'",
+      "status": "44'",
       "teams": [
         {
           "name": "Lipscomb",
           "short": "Lipscomb",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/288.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Queens University",
@@ -2147,7 +2147,7 @@
       "name": "Incarnate Word at McNeese",
       "date": "2026-10-22T23:00Z",
       "state": "in",
-      "status": "13'",
+      "status": "38'",
       "teams": [
         {
           "name": "McNeese",
@@ -2159,7 +2159,7 @@
           "name": "Incarnate Word",
           "short": "Incarnate Word",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2916.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Cowgirl Field"
@@ -2170,7 +2170,7 @@
       "name": "Maryland at Michigan",
       "date": "2026-10-22T23:00Z",
       "state": "in",
-      "status": "16'",
+      "status": "HT",
       "teams": [
         {
           "name": "Michigan",
@@ -2193,13 +2193,13 @@
       "name": "Stetson at North Florida",
       "date": "2026-10-22T23:00Z",
       "state": "in",
-      "status": "13'",
+      "status": "42'",
       "teams": [
         {
           "name": "North Florida",
           "short": "North Florida",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2454.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Stetson",
@@ -2216,7 +2216,7 @@
       "name": "Wright State at Oakland",
       "date": "2026-10-22T23:00Z",
       "state": "in",
-      "status": "14'",
+      "status": "45'",
       "teams": [
         {
           "name": "Oakland",
@@ -2239,13 +2239,13 @@
       "name": "Rutgers at Ohio State",
       "date": "2026-10-22T23:00Z",
       "state": "in",
-      "status": "13'",
+      "status": "40'",
       "teams": [
         {
           "name": "Ohio State",
           "short": "Ohio State",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Rutgers",
@@ -2262,7 +2262,7 @@
       "name": "St Bonaventure at Saint Joseph's",
       "date": "2026-10-22T23:00Z",
       "state": "in",
-      "status": "13'",
+      "status": "38'",
       "teams": [
         {
           "name": "Saint Joseph's",
@@ -2274,7 +2274,7 @@
           "name": "St Bonaventure",
           "short": "St Bonaventure",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/179.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Sean Sweeney Field"
@@ -2285,13 +2285,13 @@
       "name": "South Dakota at South Dakota State",
       "date": "2026-10-22T23:00Z",
       "state": "in",
-      "status": "18'",
+      "status": "HT",
       "teams": [
         {
           "name": "South Dakota State",
           "short": "S Dakota St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2571.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "South Dakota",
