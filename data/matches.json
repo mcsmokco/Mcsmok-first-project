@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T14:04:27.826822+00:00",
+  "updated_at": "2026-10-22T15:07:31.587847+00:00",
   "count": 100,
   "items": [
     {
@@ -421,8 +421,8 @@
       "league": "Football",
       "name": "Panathinaikos at Kairat Almaty",
       "date": "2026-10-22T14:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "37'",
       "teams": [
         {
           "name": "Kairat Almaty",
@@ -434,7 +434,7 @@
           "name": "Panathinaikos",
           "short": "Panathinaikos",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/443.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Almaty Ortalyk Stadium"
@@ -905,7 +905,7 @@
       "name": "Al Fayha at Al Hazem",
       "date": "2026-10-22T13:40Z",
       "state": "in",
-      "status": "25'",
+      "status": "64'",
       "teams": [
         {
           "name": "Al Hazem",
@@ -917,7 +917,7 @@
           "name": "Al Fayha",
           "short": "Al Fayha",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21827.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Al-Hazm Club Stadium"
@@ -927,8 +927,8 @@
       "league": "Football",
       "name": "Al Shabab at Al Fateh",
       "date": "2026-10-22T14:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "22'",
       "teams": [
         {
           "name": "Al Fateh",
@@ -940,33 +940,10 @@
           "name": "Al Shabab",
           "short": "Al Shabab",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/793.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Al Fateh Club Stadium"
-    },
-    {
-      "id": "401900892",
-      "league": "Football",
-      "name": "Al Khaleej at Al Ahli",
-      "date": "2026-10-22T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Al Ahli",
-          "short": "Al Ahli",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8346.png",
-          "score": "0"
-        },
-        {
-          "name": "Al Khaleej",
-          "short": "Al Khaleej",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21829.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Prince Abdullah Al-Faisal Stadium"
     },
     {
       "id": "401886335",
@@ -1042,14 +1019,14 @@
       "league": "Football",
       "name": "Samoa U17 at China PR U17",
       "date": "2026-10-22T15:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "7'",
       "teams": [
         {
           "name": "China PR U17",
           "short": "China PR",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21569.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Samoa U17",
@@ -1065,8 +1042,8 @@
       "league": "Football",
       "name": "Australia U17 at Spain U17",
       "date": "2026-10-22T15:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "7'",
       "teams": [
         {
           "name": "Spain U17",
@@ -2301,6 +2278,29 @@
         }
       ],
       "venue": "Sean Sweeney Field"
+    },
+    {
+      "id": "401900168",
+      "league": "Football",
+      "name": "South Dakota at South Dakota State",
+      "date": "2026-10-22T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "South Dakota State",
+          "short": "S Dakota St",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2571.png",
+          "score": "0"
+        },
+        {
+          "name": "South Dakota",
+          "short": "South Dakota",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/233.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Fishback Soccer Park"
     }
   ]
 }
