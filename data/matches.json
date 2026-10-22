@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T18:20:30.668685+00:00",
+  "updated_at": "2026-10-22T19:41:09.090104+00:00",
   "count": 100,
   "items": [
     {
@@ -7,8 +7,8 @@
       "league": "Football",
       "name": "AZ Alkmaar at Ararat-Armenia",
       "date": "2026-10-22T16:45Z",
-      "state": "in",
-      "status": "77'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Ararat-Armenia",
@@ -20,7 +20,7 @@
           "name": "AZ Alkmaar",
           "short": "AZ Alkmaar",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
-          "score": "3"
+          "score": "4"
         }
       ],
       "venue": "Vazgen Sargsyan Republican Stadium"
@@ -30,8 +30,8 @@
       "league": "Football",
       "name": "NEC Nijmegen at Dinamo Zagreb",
       "date": "2026-10-22T16:45Z",
-      "state": "in",
-      "status": "76'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Dinamo Zagreb",
@@ -43,7 +43,7 @@
           "name": "NEC Nijmegen",
           "short": "NEC",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png",
-          "score": "3"
+          "score": "4"
         }
       ],
       "venue": "Maksimir Stadium"
@@ -53,14 +53,14 @@
       "league": "Football",
       "name": "Torreense at Ferencvaros",
       "date": "2026-10-22T16:45Z",
-      "state": "in",
-      "status": "79'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Ferencvaros",
           "short": "Ferencvaros",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/622.png",
-          "score": "2"
+          "score": "4"
         },
         {
           "name": "Torreense",
@@ -76,8 +76,8 @@
       "league": "Football",
       "name": "Stade Rennais at Juventus",
       "date": "2026-10-22T16:45Z",
-      "state": "in",
-      "status": "75'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Juventus",
@@ -99,8 +99,8 @@
       "league": "Football",
       "name": "Sunderland at Lech Poznan",
       "date": "2026-10-22T16:45Z",
-      "state": "in",
-      "status": "79'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Lech Poznan",
@@ -122,8 +122,8 @@
       "league": "Football",
       "name": "Bayer Leverkusen at OFI Crete",
       "date": "2026-10-22T16:45Z",
-      "state": "in",
-      "status": "77'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "OFI Crete",
@@ -145,8 +145,8 @@
       "league": "Football",
       "name": "Marseille at SK Sturm Graz",
       "date": "2026-10-22T16:45Z",
-      "state": "in",
-      "status": "77'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "SK Sturm Graz",
@@ -168,14 +168,14 @@
       "league": "Football",
       "name": "Hapoel Be'er at Union St.-Gilloise",
       "date": "2026-10-22T16:45Z",
-      "state": "in",
-      "status": "71'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Union St.-Gilloise",
           "short": "Union SG",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5807.png",
-          "score": "2"
+          "score": "4"
         },
         {
           "name": "Hapoel Be'er",
@@ -191,14 +191,14 @@
       "league": "Football",
       "name": "AC Milan at AFC Bournemouth",
       "date": "2026-10-22T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "41'",
       "teams": [
         {
           "name": "AFC Bournemouth",
           "short": "Bournemouth",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "AC Milan",
@@ -214,8 +214,8 @@
       "league": "Football",
       "name": "Crystal Palace at Besiktas",
       "date": "2026-10-22T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "39'",
       "teams": [
         {
           "name": "Besiktas",
@@ -237,8 +237,8 @@
       "league": "Football",
       "name": "Celta Vigo at Celtic",
       "date": "2026-10-22T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "40'",
       "teams": [
         {
           "name": "Celtic",
@@ -260,8 +260,8 @@
       "league": "Football",
       "name": "Anderlecht at Jagiellonia Bialystok",
       "date": "2026-10-22T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "41'",
       "teams": [
         {
           "name": "Jagiellonia Bialystok",
@@ -273,7 +273,7 @@
           "name": "Anderlecht",
           "short": "Anderlecht",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/441.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stadion Miejski Bialystok"
@@ -283,8 +283,8 @@
       "league": "Football",
       "name": "Real Sociedad at Lillestrom",
       "date": "2026-10-22T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "41'",
       "teams": [
         {
           "name": "Lillestrom",
@@ -296,7 +296,7 @@
           "name": "Real Sociedad",
           "short": "Real Sociedad",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Arasen Stadion"
@@ -306,8 +306,8 @@
       "league": "Football",
       "name": "RB Salzburg at NK Celje",
       "date": "2026-10-22T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "40'",
       "teams": [
         {
           "name": "NK Celje",
@@ -319,7 +319,7 @@
           "name": "RB Salzburg",
           "short": "RB Salzburg",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2790.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stadion Z'dezele"
@@ -329,8 +329,8 @@
       "league": "Football",
       "name": "Sparta Prague at Olympiacos",
       "date": "2026-10-22T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "41'",
       "teams": [
         {
           "name": "Olympiacos",
@@ -352,8 +352,8 @@
       "league": "Football",
       "name": "Benfica at Omonia Nicosia",
       "date": "2026-10-22T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "40'",
       "teams": [
         {
           "name": "Omonia Nicosia",
@@ -365,7 +365,7 @@
           "name": "Benfica",
           "short": "Benfica",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "GSP Stadium"
@@ -375,8 +375,8 @@
       "league": "Football",
       "name": "Lyon at TSG Hoffenheim",
       "date": "2026-10-22T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "40'",
       "teams": [
         {
           "name": "TSG Hoffenheim",
@@ -398,8 +398,8 @@
       "league": "Football",
       "name": "Levski Sofia at Viktoria Plzen",
       "date": "2026-10-22T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "41'",
       "teams": [
         {
           "name": "Viktoria Plzen",
@@ -444,8 +444,8 @@
       "league": "Football",
       "name": "CSKA Sofia at FC Nordsjælland",
       "date": "2026-10-22T16:45Z",
-      "state": "in",
-      "status": "76'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "FC Nordsjælland",
@@ -457,7 +457,7 @@
           "name": "CSKA Sofia",
           "short": "CSKA Sofia",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10834.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Right to Dream Park"
@@ -467,8 +467,8 @@
       "league": "Football",
       "name": "FC Lugano at Getafe",
       "date": "2026-10-22T16:45Z",
-      "state": "in",
-      "status": "75'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Getafe",
@@ -480,7 +480,7 @@
           "name": "FC Lugano",
           "short": "FC Lugano",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7672.png",
-          "score": "4"
+          "score": "5"
         }
       ],
       "venue": "Estadio Coliseum"
@@ -490,8 +490,8 @@
       "league": "Football",
       "name": "Mjällby AIF at Iberia 1999",
       "date": "2026-10-22T16:45Z",
-      "state": "in",
-      "status": "76'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Iberia 1999",
@@ -503,7 +503,7 @@
           "name": "Mjällby AIF",
           "short": "Mjällby",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20301.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Mikheil Meskhi Stadioni"
@@ -513,8 +513,8 @@
       "league": "Football",
       "name": "CSU Craiova at Inter D'Escaldes",
       "date": "2026-10-22T16:45Z",
-      "state": "in",
-      "status": "79'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Inter D'Escaldes",
@@ -526,7 +526,7 @@
           "name": "CSU Craiova",
           "short": "CSU Craiova",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8089.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "Estadi de la FAF d'Encamp"
@@ -536,8 +536,8 @@
       "league": "Football",
       "name": "Brighton & Hove Albion at Jablonec",
       "date": "2026-10-22T16:45Z",
-      "state": "in",
-      "status": "80'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Jablonec",
@@ -559,8 +559,8 @@
       "league": "Football",
       "name": "SK Brann at Kauno Zalgiris",
       "date": "2026-10-22T16:45Z",
-      "state": "in",
-      "status": "77'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Kauno Zalgiris",
@@ -572,7 +572,7 @@
           "name": "SK Brann",
           "short": "SK Brann",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/620.png",
-          "score": "3"
+          "score": "4"
         }
       ],
       "venue": "S. Darius and S. Gireno Stadium"
@@ -582,14 +582,14 @@
       "league": "Football",
       "name": "Riga FC at Pafos",
       "date": "2026-10-22T16:45Z",
-      "state": "in",
-      "status": "74'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Pafos",
           "short": "Pafos",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22281.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Riga FC",
@@ -605,8 +605,8 @@
       "league": "Football",
       "name": "F.C. København at Red Star Belgrade",
       "date": "2026-10-22T16:45Z",
-      "state": "in",
-      "status": "75'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Red Star Belgrade",
@@ -628,8 +628,8 @@
       "league": "Football",
       "name": "Heart of Midlothian at Trabzonspor",
       "date": "2026-10-22T16:45Z",
-      "state": "in",
-      "status": "74'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Trabzonspor",
@@ -651,8 +651,8 @@
       "league": "Football",
       "name": "Egnatia at AGF",
       "date": "2026-10-22T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "40'",
       "teams": [
         {
           "name": "AGF",
@@ -664,7 +664,7 @@
           "name": "Egnatia",
           "short": "Egnatia",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21943.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Cepheus Park Randers"
@@ -674,8 +674,8 @@
       "league": "Football",
       "name": "Atalanta at Ajax Amsterdam",
       "date": "2026-10-22T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "40'",
       "teams": [
         {
           "name": "Ajax Amsterdam",
@@ -697,8 +697,8 @@
       "league": "Football",
       "name": "SC Freiburg at AS Monaco",
       "date": "2026-10-22T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "40'",
       "teams": [
         {
           "name": "AS Monaco",
@@ -720,14 +720,14 @@
       "league": "Football",
       "name": "KuPS Kuopio at Borac Banja Luka",
       "date": "2026-10-22T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "41'",
       "teams": [
         {
           "name": "Borac Banja Luka",
           "short": "Borac",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20710.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "KuPS Kuopio",
@@ -743,14 +743,14 @@
       "league": "Football",
       "name": "KAA Gent at Braga",
       "date": "2026-10-22T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "41'",
       "teams": [
         {
           "name": "Braga",
           "short": "Braga",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2994.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "KAA Gent",
@@ -766,8 +766,8 @@
       "league": "Football",
       "name": "Sint-Truidense at FC Midtjylland",
       "date": "2026-10-22T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "39'",
       "teams": [
         {
           "name": "FC Midtjylland",
@@ -789,8 +789,8 @@
       "league": "Football",
       "name": "Hajduk Split at FC Thun",
       "date": "2026-10-22T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "41'",
       "teams": [
         {
           "name": "FC Thun",
@@ -802,7 +802,7 @@
           "name": "Hajduk Split",
           "short": "Hajduk Split",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/489.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stockhorn Arena"
@@ -812,20 +812,20 @@
       "league": "Football",
       "name": "FC Twente at Lincoln Red Imps",
       "date": "2026-10-22T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "40'",
       "teams": [
         {
           "name": "Lincoln Red Imps",
           "short": "Red Imps",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17856.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "FC Twente",
           "short": "FC Twente",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Europa Point Stadium"
@@ -1066,7 +1066,7 @@
       "name": "Mexico U17 at Chile U17",
       "date": "2026-10-22T18:00Z",
       "state": "in",
-      "status": "20'",
+      "status": "81'",
       "teams": [
         {
           "name": "Chile U17",
@@ -1078,7 +1078,7 @@
           "name": "Mexico U17",
           "short": "Mexico",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Mohammed VI Football Academy Pitch 4"
@@ -1089,13 +1089,13 @@
       "name": "Kenya U17 at United States U17",
       "date": "2026-10-22T18:00Z",
       "state": "in",
-      "status": "19'",
+      "status": "81'",
       "teams": [
         {
           "name": "United States U17",
           "short": "United States",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
-          "score": "1"
+          "score": "5"
         },
         {
           "name": "Kenya U17",
@@ -1181,13 +1181,13 @@
       "name": "Fairleigh Dickinson at Long Island University",
       "date": "2026-10-22T17:00Z",
       "state": "in",
-      "status": "43'",
+      "status": "90'",
       "teams": [
         {
           "name": "Long Island University",
           "short": "Long Island",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2341.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Fairleigh Dickinson",
@@ -1249,14 +1249,14 @@
       "league": "Football",
       "name": "Northern Kentucky at Detroit Mercy",
       "date": "2026-10-22T17:00Z",
-      "state": "in",
-      "status": "56'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Detroit Mercy",
           "short": "Detroit Mercy",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2174.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Northern Kentucky",
@@ -1272,8 +1272,8 @@
       "league": "Football",
       "name": "Milwaukee at Purdue Fort Wayne",
       "date": "2026-10-22T17:00Z",
-      "state": "in",
-      "status": "56'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Purdue Fort Wayne",
@@ -1285,7 +1285,7 @@
           "name": "Milwaukee",
           "short": "Milwaukee",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/270.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Hefner Soccer Complex"
@@ -1296,19 +1296,19 @@
       "name": "Portland State at Northern Colorado",
       "date": "2026-10-22T18:00Z",
       "state": "in",
-      "status": "13'",
+      "status": "60'",
       "teams": [
         {
           "name": "Northern Colorado",
           "short": "N Colorado",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Portland State",
           "short": "Portland St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Jackson Stadium"
@@ -1318,14 +1318,14 @@
       "league": "Football",
       "name": "SMU at California",
       "date": "2026-10-22T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "27'",
       "teams": [
         {
           "name": "California",
           "short": "California",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/25.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "SMU",
@@ -1341,14 +1341,14 @@
       "league": "Football",
       "name": "Loyola Chicago at George Washington",
       "date": "2026-10-22T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "38'",
       "teams": [
         {
           "name": "George Washington",
           "short": "G Washington",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/45.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Loyola Chicago",
@@ -1364,8 +1364,8 @@
       "league": "Football",
       "name": "IU Indianapolis at Robert Morris",
       "date": "2026-10-22T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "29'",
       "teams": [
         {
           "name": "Robert Morris",
@@ -1377,7 +1377,7 @@
           "name": "IU Indianapolis",
           "short": "IU Indy",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/85.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "North Athletic Complex"
