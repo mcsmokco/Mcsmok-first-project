@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T23:16:52.692992+00:00",
+  "updated_at": "2026-10-23T23:50:51.716772+00:00",
   "count": 100,
   "items": [
     {
@@ -283,14 +283,14 @@
       "league": "Football",
       "name": "Sporting Jax at Lexington SC",
       "date": "2026-10-23T23:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "12'",
       "teams": [
         {
           "name": "Lexington SC",
           "short": "Lexington",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131451.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Sporting Jax",
@@ -583,7 +583,7 @@
       "name": "Ottawa Rapid FC at Montreal Roses FC",
       "date": "2026-10-23T23:00Z",
       "state": "in",
-      "status": "6'",
+      "status": "40'",
       "teams": [
         {
           "name": "Montreal Roses FC",
@@ -1272,8 +1272,8 @@
       "league": "Football",
       "name": "Platense at Gimnasia (Mendoza)",
       "date": "2026-10-23T21:30Z",
-      "state": "in",
-      "status": "88'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Gimnasia (Mendoza)",
@@ -1285,7 +1285,7 @@
           "name": "Platense",
           "short": "Platense",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7764.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Estadio Víctor Antonio Legrotaglie"
@@ -1319,7 +1319,7 @@
       "name": "Remo at Cruzeiro",
       "date": "2026-10-23T23:00Z",
       "state": "in",
-      "status": "16'",
+      "status": "45'+4'",
       "teams": [
         {
           "name": "Cruzeiro",
@@ -1342,7 +1342,7 @@
       "name": "Athletic at Operário PR",
       "date": "2026-10-23T22:30Z",
       "state": "in",
-      "status": "45'",
+      "status": "60'",
       "teams": [
         {
           "name": "Operário PR",
@@ -1388,19 +1388,19 @@
       "name": "Huachipato at Audax Italiano",
       "date": "2026-10-23T23:00Z",
       "state": "in",
-      "status": "17'",
+      "status": "HT",
       "teams": [
         {
           "name": "Audax Italiano",
           "short": "Audax Italiano",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4138.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Huachipato",
           "short": "Huachipato",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4134.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Estadio Municipal de La Florida"
@@ -1411,7 +1411,7 @@
       "name": "Peñarol at Juventud",
       "date": "2026-10-23T23:00Z",
       "state": "in",
-      "status": "17'",
+      "status": "HT",
       "teams": [
         {
           "name": "Juventud",
@@ -1434,7 +1434,7 @@
       "name": "Atlético Bucaramanga at Boyacá Chicó FC",
       "date": "2026-10-23T23:00Z",
       "state": "in",
-      "status": "17'",
+      "status": "HT",
       "teams": [
         {
           "name": "Boyacá Chicó FC",
@@ -1549,7 +1549,7 @@
       "name": "Sportivo Luqueño at Libertad",
       "date": "2026-10-23T22:30Z",
       "state": "in",
-      "status": "45'+1'",
+      "status": "63'",
       "teams": [
         {
           "name": "Libertad",
@@ -1848,7 +1848,7 @@
       "name": "Pittsburgh at Boston College",
       "date": "2026-10-23T23:00Z",
       "state": "in",
-      "status": "14'",
+      "status": "HT",
       "teams": [
         {
           "name": "Boston College",
@@ -1871,13 +1871,13 @@
       "name": "Florida Atlantic at Florida International",
       "date": "2026-10-23T23:00Z",
       "state": "in",
-      "status": "11'",
+      "status": "37'",
       "teams": [
         {
           "name": "Florida International",
           "short": "FIU",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2229.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Florida Atlantic",
@@ -1894,7 +1894,7 @@
       "name": "Northwestern at Indiana",
       "date": "2026-10-23T23:00Z",
       "state": "in",
-      "status": "10'",
+      "status": "43'",
       "teams": [
         {
           "name": "Indiana",
@@ -1917,13 +1917,13 @@
       "name": "Washington at Michigan State",
       "date": "2026-10-23T23:00Z",
       "state": "in",
-      "status": "11'",
+      "status": "42'",
       "teams": [
         {
           "name": "Michigan State",
           "short": "Michigan St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Washington",
@@ -1940,19 +1940,19 @@
       "name": "Longwood at Presbyterian",
       "date": "2026-10-23T23:00Z",
       "state": "in",
-      "status": "7'",
+      "status": "39'",
       "teams": [
         {
           "name": "Presbyterian",
           "short": "Presbyterian",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2506.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Longwood",
           "short": "Longwood",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2344.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Edens Field at Martin Stadium"
@@ -1963,13 +1963,13 @@
       "name": "Michigan at Rutgers",
       "date": "2026-10-23T23:00Z",
       "state": "in",
-      "status": "8'",
+      "status": "32'",
       "teams": [
         {
           "name": "Rutgers",
           "short": "Rutgers",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/164.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Michigan",
@@ -1986,7 +1986,7 @@
       "name": "Memphis at South Florida",
       "date": "2026-10-23T23:00Z",
       "state": "in",
-      "status": "9'",
+      "status": "42'",
       "teams": [
         {
           "name": "South Florida",
@@ -2193,7 +2193,7 @@
       "name": "Furman at East Tennessee State",
       "date": "2026-10-23T22:00Z",
       "state": "in",
-      "status": "46'",
+      "status": "77'",
       "teams": [
         {
           "name": "East Tennessee State",
@@ -2216,13 +2216,13 @@
       "name": "Stanford at North Carolina",
       "date": "2026-10-23T22:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "72'",
       "teams": [
         {
           "name": "North Carolina",
           "short": "North Carolina",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Stanford",
@@ -2239,13 +2239,13 @@
       "name": "Syracuse at Louisville",
       "date": "2026-10-23T23:00Z",
       "state": "in",
-      "status": "9'",
+      "status": "37'",
       "teams": [
         {
           "name": "Louisville",
           "short": "Louisville",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
-          "score": "1"
+          "score": "4"
         },
         {
           "name": "Syracuse",
@@ -2262,13 +2262,13 @@
       "name": "American University at Navy",
       "date": "2026-10-23T23:00Z",
       "state": "in",
-      "status": "10'",
+      "status": "41'",
       "teams": [
         {
           "name": "Navy",
           "short": "Navy",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2426.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "American University",
@@ -2285,19 +2285,19 @@
       "name": "Georgia at South Carolina",
       "date": "2026-10-23T23:00Z",
       "state": "in",
-      "status": "9'",
+      "status": "35'",
       "teams": [
         {
           "name": "South Carolina",
           "short": "South Carolina",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Georgia",
           "short": "Georgia",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Eugene E. Stone III Stadium"
