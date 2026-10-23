@@ -1,2038 +1,1969 @@
 {
-  "updated_at": "2026-10-22T23:52:07.748508+00:00",
+  "updated_at": "2026-10-23T00:20:15.122187+00:00",
   "count": 100,
   "items": [
     {
-      "id": "401915548",
+      "id": "401879253",
       "league": "Football",
-      "name": "AZ Alkmaar at Ararat-Armenia",
-      "date": "2026-10-22T16:45Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Ararat-Armenia",
-          "short": "Ararat-Armenia",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20024.png",
-          "score": "0"
-        },
-        {
-          "name": "AZ Alkmaar",
-          "short": "AZ Alkmaar",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
-          "score": "4"
-        }
-      ],
-      "venue": "Vazgen Sargsyan Republican Stadium"
-    },
-    {
-      "id": "401915556",
-      "league": "Football",
-      "name": "NEC Nijmegen at Dinamo Zagreb",
-      "date": "2026-10-22T16:45Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Dinamo Zagreb",
-          "short": "Dinamo Zagreb",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/597.png",
-          "score": "2"
-        },
-        {
-          "name": "NEC Nijmegen",
-          "short": "NEC",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png",
-          "score": "4"
-        }
-      ],
-      "venue": "Maksimir Stadium"
-    },
-    {
-      "id": "401915558",
-      "league": "Football",
-      "name": "Torreense at Ferencvaros",
-      "date": "2026-10-22T16:45Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Ferencvaros",
-          "short": "Ferencvaros",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/622.png",
-          "score": "4"
-        },
-        {
-          "name": "Torreense",
-          "short": "Torreense",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21615.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Groupama Arena"
-    },
-    {
-      "id": "401915547",
-      "league": "Football",
-      "name": "Stade Rennais at Juventus",
-      "date": "2026-10-22T16:45Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Juventus",
-          "short": "Juventus",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-          "score": "2"
-        },
-        {
-          "name": "Stade Rennais",
-          "short": "Rennes",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-          "score": "2"
-        }
-      ],
-      "venue": "Allianz Stadium"
-    },
-    {
-      "id": "401915546",
-      "league": "Football",
-      "name": "Sunderland at Lech Poznan",
-      "date": "2026-10-22T16:45Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Lech Poznan",
-          "short": "Lech Poznan",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2990.png",
-          "score": "1"
-        },
-        {
-          "name": "Sunderland",
-          "short": "Sunderland",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Municipal Stadium-Poznan"
-    },
-    {
-      "id": "401915559",
-      "league": "Football",
-      "name": "Bayer Leverkusen at OFI Crete",
-      "date": "2026-10-22T16:45Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "OFI Crete",
-          "short": "OFI Crete",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1010.png",
-          "score": "0"
-        },
-        {
-          "name": "Bayer Leverkusen",
-          "short": "Leverkusen",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
-          "score": "2"
-        }
-      ],
-      "venue": "Pankritio Stadium"
-    },
-    {
-      "id": "401915557",
-      "league": "Football",
-      "name": "Marseille at SK Sturm Graz",
-      "date": "2026-10-22T16:45Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "SK Sturm Graz",
-          "short": "Sturm Graz",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3746.png",
-          "score": "1"
-        },
-        {
-          "name": "Marseille",
-          "short": "Marseille",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Merkur Arena"
-    },
-    {
-      "id": "401915545",
-      "league": "Football",
-      "name": "Hapoel Be'er at Union St.-Gilloise",
-      "date": "2026-10-22T16:45Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Union St.-Gilloise",
-          "short": "Union SG",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5807.png",
-          "score": "4"
-        },
-        {
-          "name": "Hapoel Be'er",
-          "short": "Hapoel Be'er",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Merkur Spiel-Arena"
-    },
-    {
-      "id": "401915552",
-      "league": "Football",
-      "name": "AC Milan at AFC Bournemouth",
-      "date": "2026-10-22T19:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "AFC Bournemouth",
-          "short": "Bournemouth",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
-          "score": "3"
-        },
-        {
-          "name": "AC Milan",
-          "short": "Milan",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Vitality Stadium"
-    },
-    {
-      "id": "401915553",
-      "league": "Football",
-      "name": "Crystal Palace at Besiktas",
-      "date": "2026-10-22T19:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Besiktas",
-          "short": "Besiktas",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1895.png",
-          "score": "2"
-        },
-        {
-          "name": "Crystal Palace",
-          "short": "C Palace",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-          "score": "2"
-        }
-      ],
-      "venue": "Vodafone Park"
-    },
-    {
-      "id": "401915555",
-      "league": "Football",
-      "name": "Celta Vigo at Celtic",
-      "date": "2026-10-22T19:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Celtic",
-          "short": "Celtic",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png",
-          "score": "1"
-        },
-        {
-          "name": "Celta Vigo",
-          "short": "Celta Vigo",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-          "score": "2"
-        }
-      ],
-      "venue": "Celtic Park"
-    },
-    {
-      "id": "401915542",
-      "league": "Football",
-      "name": "Anderlecht at Jagiellonia Bialystok",
-      "date": "2026-10-22T19:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Jagiellonia Bialystok",
-          "short": "Jagiellonia ",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11505.png",
-          "score": "0"
-        },
-        {
-          "name": "Anderlecht",
-          "short": "Anderlecht",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/441.png",
-          "score": "3"
-        }
-      ],
-      "venue": "Stadion Miejski Bialystok"
-    },
-    {
-      "id": "401915540",
-      "league": "Football",
-      "name": "Real Sociedad at Lillestrom",
-      "date": "2026-10-22T19:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Lillestrom",
-          "short": "Lillestrom",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/987.png",
-          "score": "0"
-        },
-        {
-          "name": "Real Sociedad",
-          "short": "Real Sociedad",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-          "score": "6"
-        }
-      ],
-      "venue": "Arasen Stadion"
-    },
-    {
-      "id": "401915541",
-      "league": "Football",
-      "name": "RB Salzburg at NK Celje",
-      "date": "2026-10-22T19:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "NK Celje",
-          "short": "NK Celje",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3362.png",
-          "score": "2"
-        },
-        {
-          "name": "RB Salzburg",
-          "short": "RB Salzburg",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2790.png",
-          "score": "2"
-        }
-      ],
-      "venue": "Stadion Z'dezele"
-    },
-    {
-      "id": "401915554",
-      "league": "Football",
-      "name": "Sparta Prague at Olympiacos",
-      "date": "2026-10-22T19:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Olympiacos",
-          "short": "Olympiacos",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png",
-          "score": "1"
-        },
-        {
-          "name": "Sparta Prague",
-          "short": "Sparta",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/433.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Georgios Karaiskakis Stadium"
-    },
-    {
-      "id": "401915544",
-      "league": "Football",
-      "name": "Benfica at Omonia Nicosia",
-      "date": "2026-10-22T19:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Omonia Nicosia",
-          "short": "Omonia",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/617.png",
-          "score": "1"
-        },
-        {
-          "name": "Benfica",
-          "short": "Benfica",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png",
-          "score": "4"
-        }
-      ],
-      "venue": "GSP Stadium"
-    },
-    {
-      "id": "401915543",
-      "league": "Football",
-      "name": "Lyon at TSG Hoffenheim",
-      "date": "2026-10-22T19:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "TSG Hoffenheim",
-          "short": "Hoffenheim",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-          "score": "3"
-        },
-        {
-          "name": "Lyon",
-          "short": "Lyon",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-          "score": "0"
-        }
-      ],
-      "venue": "PreZero Arena"
-    },
-    {
-      "id": "401915539",
-      "league": "Football",
-      "name": "Levski Sofia at Viktoria Plzen",
-      "date": "2026-10-22T19:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Viktoria Plzen",
-          "short": "Viktoria Plzen",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11706.png",
-          "score": "1"
-        },
-        {
-          "name": "Levski Sofia",
-          "short": "Levski Sofia",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png",
-          "score": "2"
-        }
-      ],
-      "venue": "Doosan Arena"
-    },
-    {
-      "id": "401915846",
-      "league": "Football",
-      "name": "Panathinaikos at Kairat Almaty",
-      "date": "2026-10-22T14:30Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Kairat Almaty",
-          "short": "Kairat Almaty",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2528.png",
-          "score": "1"
-        },
-        {
-          "name": "Panathinaikos",
-          "short": "Panathinaikos",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/443.png",
-          "score": "5"
-        }
-      ],
-      "venue": "Almaty Ortalyk Stadium"
-    },
-    {
-      "id": "401915844",
-      "league": "Football",
-      "name": "CSKA Sofia at FC Nordsjælland",
-      "date": "2026-10-22T16:45Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "FC Nordsjælland",
-          "short": "Nordsjælland",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3101.png",
-          "score": "2"
-        },
-        {
-          "name": "CSKA Sofia",
-          "short": "CSKA Sofia",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10834.png",
-          "score": "2"
-        }
-      ],
-      "venue": "Right to Dream Park"
-    },
-    {
-      "id": "401915840",
-      "league": "Football",
-      "name": "FC Lugano at Getafe",
-      "date": "2026-10-22T16:45Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Getafe",
-          "short": "Getafe",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-          "score": "2"
-        },
-        {
-          "name": "FC Lugano",
-          "short": "FC Lugano",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7672.png",
-          "score": "5"
-        }
-      ],
-      "venue": "Estadio Coliseum"
-    },
-    {
-      "id": "401915845",
-      "league": "Football",
-      "name": "Mjällby AIF at Iberia 1999",
-      "date": "2026-10-22T16:45Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Iberia 1999",
-          "short": "Iberia 1999",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20025.png",
-          "score": "1"
-        },
-        {
-          "name": "Mjällby AIF",
-          "short": "Mjällby",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20301.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Mikheil Meskhi Stadioni"
-    },
-    {
-      "id": "401915839",
-      "league": "Football",
-      "name": "CSU Craiova at Inter D'Escaldes",
-      "date": "2026-10-22T16:45Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Inter D'Escaldes",
-          "short": "Inter D'Escaldes",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20703.png",
-          "score": "1"
-        },
-        {
-          "name": "CSU Craiova",
-          "short": "CSU Craiova",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8089.png",
-          "score": "3"
-        }
-      ],
-      "venue": "Estadi de la FAF d'Encamp"
-    },
-    {
-      "id": "401915842",
-      "league": "Football",
-      "name": "Brighton & Hove Albion at Jablonec",
-      "date": "2026-10-22T16:45Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Jablonec",
-          "short": "Jablonec",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7922.png",
-          "score": "0"
-        },
-        {
-          "name": "Brighton & Hove Albion",
-          "short": "Brighton",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Stadion Strelnice"
-    },
-    {
-      "id": "401915841",
-      "league": "Football",
-      "name": "SK Brann at Kauno Zalgiris",
-      "date": "2026-10-22T16:45Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Kauno Zalgiris",
-          "short": "Kauno Zalgiris",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20028.png",
-          "score": "1"
-        },
-        {
-          "name": "SK Brann",
-          "short": "SK Brann",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/620.png",
-          "score": "4"
-        }
-      ],
-      "venue": "S. Darius and S. Gireno Stadium"
-    },
-    {
-      "id": "401915838",
-      "league": "Football",
-      "name": "Riga FC at Pafos",
-      "date": "2026-10-22T16:45Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Pafos",
-          "short": "Pafos",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22281.png",
-          "score": "1"
-        },
-        {
-          "name": "Riga FC",
-          "short": "Riga FC",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19246.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Alphamega Stadium"
-    },
-    {
-      "id": "401915843",
-      "league": "Football",
-      "name": "F.C. København at Red Star Belgrade",
-      "date": "2026-10-22T16:45Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Red Star Belgrade",
-          "short": "Red Star",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2290.png",
-          "score": "2"
-        },
-        {
-          "name": "F.C. København",
-          "short": "København",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/909.png",
-          "score": "2"
-        }
-      ],
-      "venue": "Rajko Mitic Stadium"
-    },
-    {
-      "id": "401915745",
-      "league": "Football",
-      "name": "Heart of Midlothian at Trabzonspor",
-      "date": "2026-10-22T16:45Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Trabzonspor",
-          "short": "Trabzonspor",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png",
-          "score": "2"
-        },
-        {
-          "name": "Heart of Midlothian",
-          "short": "Hearts",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/262.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Papara Park"
-    },
-    {
-      "id": "401915744",
-      "league": "Football",
-      "name": "Egnatia at AGF",
-      "date": "2026-10-22T19:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "AGF",
-          "short": "AGF",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7853.png",
-          "score": "1"
-        },
-        {
-          "name": "Egnatia",
-          "short": "Egnatia",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21943.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Cepheus Park Randers"
-    },
-    {
-      "id": "401915837",
-      "league": "Football",
-      "name": "Atalanta at Ajax Amsterdam",
-      "date": "2026-10-22T19:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Ajax Amsterdam",
-          "short": "Ajax",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png",
-          "score": "2"
-        },
-        {
-          "name": "Atalanta",
-          "short": "Atalanta",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Johan Cruijff Arena"
-    },
-    {
-      "id": "401915836",
-      "league": "Football",
-      "name": "SC Freiburg at AS Monaco",
-      "date": "2026-10-22T19:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "AS Monaco",
-          "short": "Monaco",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-          "score": "3"
-        },
-        {
-          "name": "SC Freiburg",
-          "short": "Freiburg",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Stade Louis II"
-    },
-    {
-      "id": "401915743",
-      "league": "Football",
-      "name": "KuPS Kuopio at Borac Banja Luka",
-      "date": "2026-10-22T19:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Borac Banja Luka",
-          "short": "Borac",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20710.png",
-          "score": "2"
-        },
-        {
-          "name": "KuPS Kuopio",
-          "short": "KuPS Kuopio",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8169.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Gradski Stadion Banja Luka"
-    },
-    {
-      "id": "401915832",
-      "league": "Football",
-      "name": "KAA Gent at Braga",
-      "date": "2026-10-22T19:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Braga",
-          "short": "Braga",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2994.png",
-          "score": "2"
-        },
-        {
-          "name": "KAA Gent",
-          "short": "KAA Gent",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3611.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Estádio Municipal de Braga"
-    },
-    {
-      "id": "401915835",
-      "league": "Football",
-      "name": "Sint-Truidense at FC Midtjylland",
-      "date": "2026-10-22T19:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "FC Midtjylland",
-          "short": "Midtjylland",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/572.png",
-          "score": "0"
-        },
-        {
-          "name": "Sint-Truidense",
-          "short": "Sint-Truidense",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/936.png",
-          "score": "1"
-        }
-      ],
-      "venue": "MCH Arena"
-    },
-    {
-      "id": "401915834",
-      "league": "Football",
-      "name": "Hajduk Split at FC Thun",
-      "date": "2026-10-22T19:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "FC Thun",
-          "short": "FC Thun",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3024.png",
-          "score": "0"
-        },
-        {
-          "name": "Hajduk Split",
-          "short": "Hajduk Split",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/489.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Stockhorn Arena"
-    },
-    {
-      "id": "401915833",
-      "league": "Football",
-      "name": "FC Twente at Lincoln Red Imps",
-      "date": "2026-10-22T19:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Lincoln Red Imps",
-          "short": "Red Imps",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17856.png",
-          "score": "1"
-        },
-        {
-          "name": "FC Twente",
-          "short": "FC Twente",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png",
-          "score": "4"
-        }
-      ],
-      "venue": "Europa Point Stadium"
-    },
-    {
-      "id": "401912521",
-      "league": "Football",
-      "name": "Estudiantes de La Plata at Flamengo",
-      "date": "2026-10-23T00:30Z",
+      "name": "Nottingham Forest at Ipswich Town",
+      "date": "2026-10-23T19:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Flamengo",
-          "short": "Flamengo",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
+          "name": "Ipswich Town",
+          "short": "Ipswich",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
           "score": "0"
         },
         {
-          "name": "Estudiantes de La Plata",
-          "short": "Estudiantes",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8.png",
+          "name": "Nottingham Forest",
+          "short": "Nottm Forest",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
           "score": "0"
         }
       ],
-      "venue": "Estadio do Maracana"
+      "venue": "Portman Road"
     },
     {
-      "id": "401878621",
+      "id": "401882836",
       "league": "Football",
-      "name": "Carolina Ascent FC at Fort Lauderdale United FC",
-      "date": "2026-10-22T23:30Z",
-      "state": "in",
-      "status": "14'",
-      "teams": [
-        {
-          "name": "Fort Lauderdale United FC",
-          "short": "Fort Lauderdale",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131449.png",
-          "score": "0"
-        },
-        {
-          "name": "Carolina Ascent FC",
-          "short": "Carolina",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131454.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Beyond Bancard Field"
-    },
-    {
-      "id": "401926253",
-      "league": "Football",
-      "name": "Coton Green at Lye Town",
-      "date": "2026-10-22T18:45Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Lye Town",
-          "short": "Lye Town",
-          "logo": "",
-          "score": "5"
-        },
-        {
-          "name": "Coton Green",
-          "short": "Coton Green",
-          "logo": "",
-          "score": "0"
-        }
-      ],
-      "venue": "The Sports Ground"
-    },
-    {
-      "id": "401900891",
-      "league": "Football",
-      "name": "Al Fayha at Al Hazem",
-      "date": "2026-10-22T13:40Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Al Hazem",
-          "short": "Al Hazem",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21964.png",
-          "score": "2"
-        },
-        {
-          "name": "Al Fayha",
-          "short": "Al Fayha",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21827.png",
-          "score": "2"
-        }
-      ],
-      "venue": "Al-Hazm Club Stadium"
-    },
-    {
-      "id": "401900445",
-      "league": "Football",
-      "name": "Al Shabab at Al Fateh",
-      "date": "2026-10-22T14:45Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Al Fateh",
-          "short": "Al Fateh",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/13033.png",
-          "score": "1"
-        },
-        {
-          "name": "Al Shabab",
-          "short": "Al Shabab",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/793.png",
-          "score": "3"
-        }
-      ],
-      "venue": "Al Fateh Club Stadium"
-    },
-    {
-      "id": "401886335",
-      "league": "Football",
-      "name": "Cruz Azul Hidalgo at Alebrijes de Oaxaca",
-      "date": "2026-10-23T01:00Z",
+      "name": "Málaga at Alavés",
+      "date": "2026-10-23T19:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Alebrijes de Oaxaca",
-          "short": "Oaxaca",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17233.png",
+          "name": "Alavés",
+          "short": "Alavés",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
           "score": "0"
         },
         {
-          "name": "Cruz Azul Hidalgo",
-          "short": "CA Hidalgo",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9371.png",
+          "name": "Málaga",
+          "short": "Málaga",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png",
           "score": "0"
         }
       ],
-      "venue": "Estadio Tecnólogico de Oaxaca"
+      "venue": "Mendizorrotza"
     },
     {
-      "id": "401924346",
+      "id": "401854027",
       "league": "Football",
-      "name": "León at Atlas",
-      "date": "2026-10-23T01:06Z",
+      "name": "Houston Dash at Chicago Stars FC",
+      "date": "2026-10-24T00:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Atlas",
-          "short": "Atlas",
-          "logo": "https://a.espncdn.com/guid/ab74d4f3-29af-3edf-a0ac-d1cb6d4499e1/logos/default.png",
+          "name": "Chicago Stars FC",
+          "short": "Chicago",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15360.png",
           "score": "0"
         },
         {
-          "name": "León",
-          "short": "León",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/133986.png",
+          "name": "Houston Dash",
+          "short": "Houston",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17346.png",
           "score": "0"
         }
       ],
-      "venue": "Estadio Jalisco"
+      "venue": "Northwestern Medicine Field at Martin Stadium"
     },
     {
-      "id": "401930976",
+      "id": "401854028",
       "league": "Football",
-      "name": "Rajasthan United FC at Delhi FC",
-      "date": "2026-10-22T09:30Z",
+      "name": "Seattle Reign FC at Utah Royals",
+      "date": "2026-10-24T01:30Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Delhi FC",
-          "short": "Delhi FC",
+          "name": "Utah Royals",
+          "short": "Utah",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19141.png",
+          "score": "0"
+        },
+        {
+          "name": "Seattle Reign FC",
+          "short": "Seattle",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15363.png",
+          "score": "0"
+        }
+      ],
+      "venue": "America First Field"
+    },
+    {
+      "id": "401854029",
+      "league": "Football",
+      "name": "North Carolina Courage at Portland Thorns FC",
+      "date": "2026-10-24T02:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Portland Thorns FC",
+          "short": "Portland",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15362.png",
+          "score": "0"
+        },
+        {
+          "name": "North Carolina Courage",
+          "short": "North Carolina",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15366.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Providence Park"
+    },
+    {
+      "id": "401874957",
+      "league": "Football",
+      "name": "Monza at Torino",
+      "date": "2026-10-23T18:45Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Torino",
+          "short": "Torino",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+          "score": "0"
+        },
+        {
+          "name": "Monza",
+          "short": "Monza",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Stadio Olimpico Grande Torino"
+    },
+    {
+      "id": "401884761",
+      "league": "Football",
+      "name": "Borussia Mönchengladbach at VfB Stuttgart",
+      "date": "2026-10-23T18:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "VfB Stuttgart",
+          "short": "Stuttgart",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+          "score": "0"
+        },
+        {
+          "name": "Borussia Mönchengladbach",
+          "short": "Gladbach",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+          "score": "0"
+        }
+      ],
+      "venue": "MHPArena"
+    },
+    {
+      "id": "401876428",
+      "league": "Football",
+      "name": "Nice at Brest",
+      "date": "2026-10-23T18:45Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Brest",
+          "short": "Brest",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
+          "score": "0"
+        },
+        {
+          "name": "Nice",
+          "short": "Nice",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Stade Francis-Le Blé"
+    },
+    {
+      "id": "401876928",
+      "league": "Football",
+      "name": "FC Juárez at Necaxa",
+      "date": "2026-10-24T01:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Necaxa",
+          "short": "Necaxa",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/229.png",
+          "score": "0"
+        },
+        {
+          "name": "FC Juárez",
+          "short": "Juárez",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17851.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio Victoria"
+    },
+    {
+      "id": "401876927",
+      "league": "Football",
+      "name": "Atlético de San Luis at Atlante",
+      "date": "2026-10-24T03:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Atlante",
+          "short": "Atlante",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/226.png",
+          "score": "0"
+        },
+        {
+          "name": "Atlético de San Luis",
+          "short": "Atl. San Luis",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15720.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio Banorte"
+    },
+    {
+      "id": "401875574",
+      "league": "Football",
+      "name": "Telstar at Go Ahead Eagles",
+      "date": "2026-10-23T18:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Go Ahead Eagles",
+          "short": "Go Ahead Eagles",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3706.png",
+          "score": "0"
+        },
+        {
+          "name": "Telstar",
+          "short": "Telstar",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3735.png",
+          "score": "0"
+        }
+      ],
+      "venue": "De Adelaarshorst"
+    },
+    {
+      "id": "401880207",
+      "league": "Football",
+      "name": "Middlesbrough at Bolton Wanderers",
+      "date": "2026-10-23T19:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Bolton Wanderers",
+          "short": "Bolton",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/358.png",
+          "score": "0"
+        },
+        {
+          "name": "Middlesbrough",
+          "short": "Boro",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/369.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Toughsheet Community Stadium"
+    },
+    {
+      "id": "401878620",
+      "league": "Football",
+      "name": "Sporting Jax at Lexington SC",
+      "date": "2026-10-23T23:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Lexington SC",
+          "short": "Lexington",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131451.png",
+          "score": "0"
+        },
+        {
+          "name": "Sporting Jax",
+          "short": "Sporting Jax",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131453.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Lexington Stadium"
+    },
+    {
+      "id": "401882483",
+      "league": "Football",
+      "name": "Valencia at Atlético Madrid",
+      "date": "2026-10-23T17:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Atlético Madrid",
+          "short": "Atlético Madrid",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20093.png",
+          "score": "0"
+        },
+        {
+          "name": "Valencia",
+          "short": "Valencia",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21374.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Centro Deportivo Alcalá de Henares"
+    },
+    {
+      "id": "401885655",
+      "league": "Football",
+      "name": "Montpellier at Paris Saint-Germain",
+      "date": "2026-10-23T19:05Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Paris Saint-Germain",
+          "short": "PSG",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19258.png",
+          "score": "0"
+        },
+        {
+          "name": "Montpellier",
+          "short": "Montpellier",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21638.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Training Center Paris Saint Germain Terrain 5"
+    },
+    {
+      "id": "401928436",
+      "league": "Football",
+      "name": "Clyde at Penicuik",
+      "date": "2026-10-23T18:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Penicuik",
+          "short": "Penicuik",
           "logo": "",
           "score": "0"
         },
         {
-          "name": "Rajasthan United FC",
-          "short": "Rajasthan Utd",
+          "name": "Clyde",
+          "short": "Clyde",
           "logo": "",
           "score": "0"
         }
       ],
-      "venue": "Mahamaya Northern United Arena"
+      "venue": "Montgomery Park"
     },
     {
-      "id": "401874121",
+      "id": "401892156",
       "league": "Football",
-      "name": "Samoa U17 at China PR U17",
-      "date": "2026-10-22T15:00Z",
-      "state": "post",
-      "status": "FT",
+      "name": "Perth Glory at Brisbane Roar",
+      "date": "2026-10-23T09:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "China PR U17",
-          "short": "China PR",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21569.png",
-          "score": "7"
+          "name": "Brisbane Roar",
+          "short": "Brisbane",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5326.png",
+          "score": "0"
         },
         {
-          "name": "Samoa U17",
-          "short": "Samoa",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sam.png",
+          "name": "Perth Glory",
+          "short": "Perth Glory",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5322.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Suncorp Stadium"
+    },
+    {
+      "id": "401913249",
+      "league": "Football",
+      "name": "Brisbane Roar at Western Sydney ",
+      "date": "2026-10-24T03:15Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Western Sydney ",
+          "short": "Western Sydney",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20283.png",
+          "score": "0"
+        },
+        {
+          "name": "Brisbane Roar",
+          "short": "Brisbane",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20281.png",
+          "score": "0"
+        }
+      ],
+      "venue": "CommBank Stadium"
+    },
+    {
+      "id": "401900444",
+      "league": "Football",
+      "name": "Al Nassr at Al Faisaly",
+      "date": "2026-10-23T13:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Al Faisaly",
+          "short": "Al Faisaly",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21446.png",
+          "score": "0"
+        },
+        {
+          "name": "Al Nassr",
+          "short": "Al Nassr",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/817.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Al Majma'a Sport City Stadium"
+    },
+    {
+      "id": "401900890",
+      "league": "Football",
+      "name": "Al Diriyah at Al Ittihad",
+      "date": "2026-10-23T15:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Al Ittihad",
+          "short": "Al Ittihad",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2276.png",
+          "score": "0"
+        },
+        {
+          "name": "Al Diriyah",
+          "short": "Al Diriyah",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131746.png",
+          "score": "0"
+        }
+      ],
+      "venue": "King Abdullah Sports City"
+    },
+    {
+      "id": "401900892",
+      "league": "Football",
+      "name": "Al Khaleej at Al Ahli",
+      "date": "2026-10-23T18:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Al Ahli",
+          "short": "Al Ahli",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8346.png",
+          "score": "0"
+        },
+        {
+          "name": "Al Khaleej",
+          "short": "Al Khaleej",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21829.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Prince Abdullah Al-Faisal Stadium"
+    },
+    {
+      "id": "401900888",
+      "league": "Football",
+      "name": "Al Hilal at Al Qadsiah",
+      "date": "2026-10-23T18:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Al Qadsiah",
+          "short": "Al Qadsiah",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22022.png",
+          "score": "0"
+        },
+        {
+          "name": "Al Hilal",
+          "short": "Al Hilal",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/929.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Prince Mohammed Bin Fahd Stadium"
+    },
+    {
+      "id": "401885412",
+      "league": "Football",
+      "name": "Maritimo at Vitória de Guimaraes",
+      "date": "2026-10-23T19:45Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Vitória de Guimaraes",
+          "short": "Vitória ",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5309.png",
+          "score": "0"
+        },
+        {
+          "name": "Maritimo",
+          "short": "Maritimo",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/552.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estádio D. Afonso Henriques"
+    },
+    {
+      "id": "401888268",
+      "league": "Football",
+      "name": "Kocaelispor at Alanyaspor",
+      "date": "2026-10-23T17:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Alanyaspor",
+          "short": "Alanyaspor",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9078.png",
+          "score": "0"
+        },
+        {
+          "name": "Kocaelispor",
+          "short": "Kocaelispor",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/995.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Kirbiyik Holding Stadyumu"
+    },
+    {
+      "id": "401886334",
+      "league": "Football",
+      "name": "Cancún FC at Tepatitlán FC",
+      "date": "2026-10-24T01:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Tepatitlán FC",
+          "short": "Tepatitlán",
+          "logo": "https://a.espncdn.com/guid/763ce445-4f2c-3dc4-bb2a-a682c33f108c/logos/default.png",
+          "score": "0"
+        },
+        {
+          "name": "Cancún FC",
+          "short": "Cancún",
+          "logo": "",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio Gregorio Tepa Gómez"
+    },
+    {
+      "id": "401924366",
+      "league": "Football",
+      "name": "Pumas UNAM at Tijuana",
+      "date": "2026-10-24T03:10Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Tijuana",
+          "short": "Tijuana",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22417.png",
+          "score": "0"
+        },
+        {
+          "name": "Pumas UNAM",
+          "short": "UNAM",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/133981.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio Caliente"
+    },
+    {
+      "id": "401859958",
+      "league": "Football",
+      "name": "Ottawa Rapid FC at Montreal Roses FC",
+      "date": "2026-10-23T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Montreal Roses FC",
+          "short": "Montreal",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131259.png",
+          "score": "0"
+        },
+        {
+          "name": "Ottawa Rapid FC",
+          "short": "Ottawa",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131261.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Stade Boréale"
+    },
+    {
+      "id": "401879829",
+      "league": "Football",
+      "name": "Gazovik Orenburg at Akhmat Grozny",
+      "date": "2026-10-23T16:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Akhmat Grozny",
+          "short": "Akhmat Grozny",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2991.png",
+          "score": "0"
+        },
+        {
+          "name": "Gazovik Orenburg",
+          "short": "Orenburg",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18285.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Akhmat-Arena"
+    },
+    {
+      "id": "401878967",
+      "league": "Football",
+      "name": "KV Mechelen at KV Kortrijk",
+      "date": "2026-10-23T18:45Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "KV Kortrijk",
+          "short": "KV Kortrijk",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5786.png",
+          "score": "0"
+        },
+        {
+          "name": "KV Mechelen",
+          "short": "KV Mechelen",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7879.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Guldensporenstadion"
+    },
+    {
+      "id": "401883152",
+      "league": "Football",
+      "name": "Real Valladolid at Granada",
+      "date": "2026-10-23T18:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Granada",
+          "short": "Granada",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
+          "score": "0"
+        },
+        {
+          "name": "Real Valladolid",
+          "short": "Valladolid",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Nuevo Estadio de Los Cármenes"
+    },
+    {
+      "id": "401885082",
+      "league": "Football",
+      "name": "St. Pauli at SV Darmstadt 98",
+      "date": "2026-10-23T16:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "SV Darmstadt 98",
+          "short": "Darmstadt",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3812.png",
+          "score": "0"
+        },
+        {
+          "name": "St. Pauli",
+          "short": "St. Pauli",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/270.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Merck-Stadion am Böllenfalltor"
+    },
+    {
+      "id": "401885079",
+      "league": "Football",
+      "name": "VfL Wolfsburg at VfL Bochum",
+      "date": "2026-10-23T16:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "VfL Bochum",
+          "short": "Bochum",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/121.png",
+          "score": "0"
+        },
+        {
+          "name": "VfL Wolfsburg",
+          "short": "Wolfsburg",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Vonovia Ruhrstadion"
+    },
+    {
+      "id": "401899585",
+      "league": "Football",
+      "name": "Vicenza at Empoli",
+      "date": "2026-10-23T18:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Empoli",
+          "short": "Empoli",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2574.png",
+          "score": "0"
+        },
+        {
+          "name": "Vicenza",
+          "short": "Vicenza",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/120.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Stadio Carlo Castellani - Computer Gross Arena"
+    },
+    {
+      "id": "401876713",
+      "league": "Football",
+      "name": "Stade Laval at AS Nancy Lorraine",
+      "date": "2026-10-23T18:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "AS Nancy Lorraine",
+          "short": "Nancy",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3267.png",
+          "score": "0"
+        },
+        {
+          "name": "Stade Laval",
+          "short": "Stade Laval",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3266.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Stade Marcel-Picot"
+    },
+    {
+      "id": "401876717",
+      "league": "Football",
+      "name": "Guingamp at Clermont Foot",
+      "date": "2026-10-23T18:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Clermont Foot",
+          "short": "Clermont Foot",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3171.png",
+          "score": "0"
+        },
+        {
+          "name": "Guingamp",
+          "short": "Guingamp",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/171.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Stade Gabriel-Montpied"
+    },
+    {
+      "id": "401876715",
+      "league": "Football",
+      "name": "Metz at Dunkerque",
+      "date": "2026-10-23T18:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Dunkerque",
+          "short": "Dunkerque",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7732.png",
+          "score": "0"
+        },
+        {
+          "name": "Metz",
+          "short": "Metz",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Stade Marcel-Tribut"
+    },
+    {
+      "id": "401876712",
+      "league": "Football",
+      "name": "Grenoble at Pau",
+      "date": "2026-10-23T18:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Pau",
+          "short": "Pau",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10678.png",
+          "score": "0"
+        },
+        {
+          "name": "Grenoble",
+          "short": "Grenoble",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6994.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Nouste Camp"
+    },
+    {
+      "id": "401876710",
+      "league": "Football",
+      "name": "Annecy at Sochaux",
+      "date": "2026-10-23T18:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Sochaux",
+          "short": "Sochaux",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/272.png",
+          "score": "0"
+        },
+        {
+          "name": "Annecy",
+          "short": "Annecy",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18066.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Stade Bonal"
+    },
+    {
+      "id": "401881763",
+      "league": "Football",
+      "name": "Austria Vienna at SC Rheindorf Altach",
+      "date": "2026-10-23T17:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "SC Rheindorf Altach",
+          "short": "SC Rheindorf",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4405.png",
+          "score": "0"
+        },
+        {
+          "name": "Austria Vienna",
+          "short": "Vienna",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1382.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Cashpoint-Arena"
+    },
+    {
+      "id": "401890163",
+      "league": "Football",
+      "name": "North Korea U17 at Nigeria U17",
+      "date": "2026-10-23T15:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Nigeria U17",
+          "short": "Nigeria",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nga.png",
+          "score": "0"
+        },
+        {
+          "name": "North Korea U17",
+          "short": "North Korea",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/korn.png",
           "score": "0"
         }
       ],
       "venue": "Mohammed VI Football Academy"
     },
     {
-      "id": "401874054",
+      "id": "401874128",
       "league": "Football",
-      "name": "Australia U17 at Spain U17",
-      "date": "2026-10-22T15:00Z",
-      "state": "post",
-      "status": "FT",
+      "name": "Poland U17 at Puerto Rico U17",
+      "date": "2026-10-23T15:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "Spain U17",
-          "short": "Spain",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
-          "score": "3"
+          "name": "Puerto Rico U17",
+          "short": "Puerto Rico",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pur.png",
+          "score": "0"
         },
         {
-          "name": "Australia U17",
-          "short": "Australia",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
-          "score": "1"
+          "name": "Poland U17",
+          "short": "Poland",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pol.png",
+          "score": "0"
         }
       ],
       "venue": "Mohammed VI Football Academy"
     },
     {
-      "id": "401874125",
+      "id": "401874053",
       "league": "Football",
-      "name": "Mexico U17 at Chile U17",
-      "date": "2026-10-22T18:00Z",
-      "state": "post",
-      "status": "FT",
+      "name": "Morocco U17 at Argentina U17",
+      "date": "2026-10-23T18:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "Chile U17",
-          "short": "Chile",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21558.png",
-          "score": "1"
+          "name": "Argentina U17",
+          "short": "Argentina",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+          "score": "0"
         },
         {
-          "name": "Mexico U17",
-          "short": "Mexico",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png",
-          "score": "3"
+          "name": "Morocco U17",
+          "short": "Morocco",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21560.png",
+          "score": "0"
         }
       ],
       "venue": "Mohammed VI Football Academy Pitch 4"
     },
     {
-      "id": "401890782",
+      "id": "401874120",
       "league": "Football",
-      "name": "Kenya U17 at United States U17",
-      "date": "2026-10-22T18:00Z",
-      "state": "post",
-      "status": "FT",
+      "name": "Germany U17 at New Zealand U17",
+      "date": "2026-10-23T18:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "United States U17",
-          "short": "United States",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
-          "score": "6"
+          "name": "New Zealand U17",
+          "short": "New Zealand",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nzl.png",
+          "score": "0"
         },
         {
-          "name": "Kenya U17",
-          "short": "Kenya",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ken.png",
-          "score": "1"
+          "name": "Germany U17",
+          "short": "Germany",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21562.png",
+          "score": "0"
         }
       ],
       "venue": "Mohammed VI Football Academy"
     },
     {
-      "id": "401877877",
+      "id": "401889245",
       "league": "Football",
-      "name": "Deportivo Pasto at Atlético Nacional",
-      "date": "2026-10-23T01:00Z",
+      "name": "Tamworth at Gateshead",
+      "date": "2026-10-23T18:45Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Atlético Nacional",
-          "short": "Atl. Nacional",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5264.png",
+          "name": "Gateshead",
+          "short": "Gateshead",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3138.png",
           "score": "0"
         },
         {
-          "name": "Deportivo Pasto",
-          "short": "Pasto",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5485.png",
+          "name": "Tamworth",
+          "short": "Tamworth",
+          "logo": "",
           "score": "0"
         }
       ],
-      "venue": "Atanasio Girardot"
+      "venue": "Gateshead International Stadium"
     },
     {
-      "id": "401929987",
+      "id": "401875884",
       "league": "Football",
-      "name": "The Strongest at Always Ready",
-      "date": "2026-10-23T00:00Z",
+      "name": "Roda JC Kerkrade at Almere City",
+      "date": "2026-10-23T18:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Always Ready",
-          "short": "Always Ready",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19425.png",
+          "name": "Almere City",
+          "short": "Almere City",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5291.png",
           "score": "0"
         },
         {
-          "name": "The Strongest",
-          "short": "Strongest",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2687.png",
+          "name": "Roda JC Kerkrade",
+          "short": "Roda JC",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/149.png",
           "score": "0"
         }
       ],
-      "venue": "Municipal Villa Ingenio"
+      "venue": "Yanmar Stadion"
     },
     {
-      "id": "401922485",
+      "id": "401875883",
       "league": "Football",
-      "name": "Alajuelense at FC Motagua",
-      "date": "2026-10-23T01:00Z",
+      "name": "RKC Waalwijk at De Graafschap",
+      "date": "2026-10-23T18:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "FC Motagua",
-          "short": "Motagua",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7242.png",
+          "name": "De Graafschap",
+          "short": "De Graafschap",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/144.png",
           "score": "0"
         },
         {
-          "name": "Alajuelense",
-          "short": "Alajuelense",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2057.png",
+          "name": "RKC Waalwijk",
+          "short": "RKC Waalwijk",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/155.png",
           "score": "0"
         }
       ],
-      "venue": "Estadio José de la Paz Herrera Uclés"
+      "venue": "De Vijverberg"
     },
     {
-      "id": "401898758",
+      "id": "401875882",
       "league": "Football",
-      "name": "Fairleigh Dickinson at Long Island University",
-      "date": "2026-10-22T17:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Long Island University",
-          "short": "Long Island",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2341.png",
-          "score": "3"
-        },
-        {
-          "name": "Fairleigh Dickinson",
-          "short": "FDU",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/161.png",
-          "score": "0"
-        }
-      ],
-      "venue": "LIU Soccer Park"
-    },
-    {
-      "id": "401900654",
-      "league": "Football",
-      "name": "Charlotte at Tulsa",
-      "date": "2026-10-23T00:00Z",
+      "name": "MVV Maastricht at FC Den Bosch",
+      "date": "2026-10-23T18:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Tulsa",
-          "short": "Tulsa",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/202.png",
+          "name": "FC Den Bosch",
+          "short": "FC Den Bosch",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/271.png",
           "score": "0"
         },
         {
-          "name": "Charlotte",
-          "short": "Charlotte",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2429.png",
+          "name": "MVV Maastricht",
+          "short": "Maastricht",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3730.png",
           "score": "0"
         }
       ],
-      "venue": "Hurricane Soccer & Track Stadium"
+      "venue": "Stadion De Vliert"
     },
     {
-      "id": "401898925",
+      "id": "401875881",
       "league": "Football",
-      "name": "Bradley at Missouri State",
-      "date": "2026-10-23T00:30Z",
+      "name": "Jong PSV at FC Eindhoven",
+      "date": "2026-10-23T18:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Missouri State",
-          "short": "Missouri St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
+          "name": "FC Eindhoven",
+          "short": "FC Eindhoven",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3732.png",
           "score": "0"
         },
         {
-          "name": "Bradley",
-          "short": "Bradley",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/71.png",
+          "name": "Jong PSV",
+          "short": "Jong PSV",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9983.png",
           "score": "0"
         }
       ],
-      "venue": "Betty and Bobby Allison South Stadium"
+      "venue": "Jan Louwers Stadion"
     },
     {
-      "id": "401897682",
+      "id": "401875880",
       "league": "Football",
-      "name": "Northern Kentucky at Detroit Mercy",
-      "date": "2026-10-22T17:00Z",
-      "state": "post",
-      "status": "FT",
+      "name": "Jong FC Utrecht at FC Volendam",
+      "date": "2026-10-23T18:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "Detroit Mercy",
-          "short": "Detroit Mercy",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2174.png",
-          "score": "1"
-        },
-        {
-          "name": "Northern Kentucky",
-          "short": "N Kentucky",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/94.png",
-          "score": "2"
-        }
-      ],
-      "venue": "Titan Field"
-    },
-    {
-      "id": "401901111",
-      "league": "Football",
-      "name": "Milwaukee at Purdue Fort Wayne",
-      "date": "2026-10-22T17:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Purdue Fort Wayne",
-          "short": "Purdue FW",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2870.png",
+          "name": "FC Volendam",
+          "short": "FC Volendam",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2727.png",
           "score": "0"
         },
         {
-          "name": "Milwaukee",
-          "short": "Milwaukee",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/270.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Hefner Soccer Complex"
-    },
-    {
-      "id": "401897204",
-      "league": "Football",
-      "name": "Portland State at Northern Colorado",
-      "date": "2026-10-22T18:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Northern Colorado",
-          "short": "N Colorado",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
-          "score": "2"
-        },
-        {
-          "name": "Portland State",
-          "short": "Portland St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Jackson Stadium"
-    },
-    {
-      "id": "401889742",
-      "league": "Football",
-      "name": "SMU at California",
-      "date": "2026-10-22T19:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "California",
-          "short": "California",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/25.png",
-          "score": "1"
-        },
-        {
-          "name": "SMU",
-          "short": "SMU",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
-          "score": "3"
-        }
-      ],
-      "venue": "Edwards Stadium"
-    },
-    {
-      "id": "401889940",
-      "league": "Football",
-      "name": "Loyola Chicago at George Washington",
-      "date": "2026-10-22T19:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "George Washington",
-          "short": "G Washington",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/45.png",
-          "score": "2"
-        },
-        {
-          "name": "Loyola Chicago",
-          "short": "Loyola Chicago",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2350.png",
-          "score": "1"
-        }
-      ],
-      "venue": "GW Soccer Field"
-    },
-    {
-      "id": "401901100",
-      "league": "Football",
-      "name": "IU Indianapolis at Robert Morris",
-      "date": "2026-10-22T19:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Robert Morris",
-          "short": "Robert Morris",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2523.png",
-          "score": "0"
-        },
-        {
-          "name": "IU Indianapolis",
-          "short": "IU Indy",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/85.png",
-          "score": "4"
-        }
-      ],
-      "venue": "North Athletic Complex"
-    },
-    {
-      "id": "401900257",
-      "league": "Football",
-      "name": "Prairie View A&M at Alabama A&M",
-      "date": "2026-10-22T20:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Alabama A&M",
-          "short": "Alabama A&M",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2010.png",
-          "score": "3"
-        },
-        {
-          "name": "Prairie View A&M",
-          "short": "Prairie View",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2504.png",
-          "score": "1"
-        }
-      ],
-      "venue": "AAMU Soccer Field"
-    },
-    {
-      "id": "401887247",
-      "league": "Football",
-      "name": "NJIT at Binghamton",
-      "date": "2026-10-22T20:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Binghamton",
-          "short": "Binghamton",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2066.png",
-          "score": "1"
-        },
-        {
-          "name": "NJIT",
-          "short": "NJIT",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2885.png",
+          "name": "Jong FC Utrecht",
+          "short": "Jong Utrecht",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18278.png",
           "score": "0"
         }
       ],
-      "venue": "Bearcats Sports Complex"
+      "venue": "Kras Stadion"
     },
     {
-      "id": "401900277",
+      "id": "401875879",
       "league": "Football",
-      "name": "Alcorn State at Jackson State",
-      "date": "2026-10-22T20:00Z",
-      "state": "post",
-      "status": "FT",
+      "name": "Helmond Sport at Jong AZ",
+      "date": "2026-10-23T18:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "Jackson State",
-          "short": "Jackson St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2296.png",
-          "score": "2"
-        },
-        {
-          "name": "Alcorn State",
-          "short": "Alcorn St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2016.png",
-          "score": "2"
-        }
-      ],
-      "venue": "JSU Soccer Field"
-    },
-    {
-      "id": "401889967",
-      "league": "Football",
-      "name": "VCU at Richmond",
-      "date": "2026-10-22T20:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Richmond",
-          "short": "Richmond",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/257.png",
-          "score": "2"
-        },
-        {
-          "name": "VCU",
-          "short": "VCU",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2670.png",
-          "score": "0"
-        }
-      ],
-      "venue": "President's Field at River Road"
-    },
-    {
-      "id": "401890334",
-      "league": "Football",
-      "name": "South Alabama at Arkansas State",
-      "date": "2026-10-22T21:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Arkansas State",
-          "short": "Arkansas St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2032.png",
-          "score": "1"
-        },
-        {
-          "name": "South Alabama",
-          "short": "South Alabama",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/6.png",
-          "score": "1"
-        }
-      ],
-      "venue": "A-State Soccer Park"
-    },
-    {
-      "id": "401890366",
-      "league": "Football",
-      "name": "Troy at Georgia Southern",
-      "date": "2026-10-22T21:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Georgia Southern",
-          "short": "GA Southern",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/290.png",
-          "score": "2"
-        },
-        {
-          "name": "Troy",
-          "short": "Troy",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2653.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Bo Pitts Field at Erk Russell Athletic Park"
-    },
-    {
-      "id": "401900308",
-      "league": "Football",
-      "name": "Texas Southern at Grambling",
-      "date": "2026-10-22T21:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Grambling",
-          "short": "Grambling",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2755.png",
-          "score": "3"
-        },
-        {
-          "name": "Texas Southern",
-          "short": "Texas Southern",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2640.png",
-          "score": "0"
-        }
-      ],
-      "venue": "GSU Soccer Complex"
-    },
-    {
-      "id": "401885544",
-      "league": "Football",
-      "name": "Florida Gulf Coast at Jacksonville",
-      "date": "2026-10-22T21:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Jacksonville",
-          "short": "Jacksonville",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/294.png",
+          "name": "Jong AZ",
+          "short": "Jong AZ",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18748.png",
           "score": "0"
         },
         {
-          "name": "Florida Gulf Coast",
-          "short": "FGCU",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/526.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Southern Oak Stadium"
-    },
-    {
-      "id": "401897580",
-      "league": "Football",
-      "name": "Delaware at Liberty",
-      "date": "2026-10-22T21:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Liberty",
-          "short": "Liberty",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2335.png",
-          "score": "2"
-        },
-        {
-          "name": "Delaware",
-          "short": "Delaware",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/48.png",
+          "name": "Helmond Sport",
+          "short": "Helmond Spor",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3775.png",
           "score": "0"
         }
       ],
-      "venue": "Osborne Stadium"
+      "venue": "AFAS Trainingscomplex"
     },
     {
-      "id": "401897605",
+      "id": "401875878",
       "league": "Football",
-      "name": "Kennesaw State at Missouri State",
-      "date": "2026-10-22T21:00Z",
-      "state": "post",
-      "status": "FT",
+      "name": "Heracles Almelo at NAC Breda",
+      "date": "2026-10-23T18:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "Missouri State",
-          "short": "Missouri St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
-          "score": "2"
-        },
-        {
-          "name": "Kennesaw State",
-          "short": "Kennesaw St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/338.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Betty and Bobby Allison South Stadium"
-    },
-    {
-      "id": "401897670",
-      "league": "Football",
-      "name": "Green Bay at Cleveland State",
-      "date": "2026-10-22T22:00Z",
-      "state": "in",
-      "status": "81'",
-      "teams": [
-        {
-          "name": "Cleveland State",
-          "short": "Cleveland St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/325.png",
+          "name": "NAC Breda",
+          "short": "NAC Breda",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/141.png",
           "score": "0"
         },
         {
-          "name": "Green Bay",
-          "short": "Green Bay",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2739.png",
+          "name": "Heracles Almelo",
+          "short": "Heracles",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3708.png",
           "score": "0"
         }
       ],
-      "venue": "Krenzler Field"
+      "venue": "Rat Verlegh Stadion"
     },
     {
-      "id": "401890344",
+      "id": "401875877",
       "league": "Football",
-      "name": "James Madison at Coastal Carolina",
-      "date": "2026-10-22T22:00Z",
-      "state": "in",
-      "status": "79'",
+      "name": "Jong Ajax at TOP Oss",
+      "date": "2026-10-23T18:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "Coastal Carolina",
-          "short": "Coastal",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/324.png",
-          "score": "1"
-        },
-        {
-          "name": "James Madison",
-          "short": "James Madison",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/256.png",
-          "score": "2"
-        }
-      ],
-      "venue": "CCU Soccer Stadium"
-    },
-    {
-      "id": "401890076",
-      "league": "Football",
-      "name": "Southern Utah at Eastern Washington",
-      "date": "2026-10-22T22:00Z",
-      "state": "in",
-      "status": "78'",
-      "teams": [
-        {
-          "name": "Eastern Washington",
-          "short": "E Washington",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
-          "score": "1"
-        },
-        {
-          "name": "Southern Utah",
-          "short": "Southern Utah",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/253.png",
-          "score": "2"
-        }
-      ],
-      "venue": "EWU Soccer Field"
-    },
-    {
-      "id": "401889929",
-      "league": "Football",
-      "name": "Rhode Island at George Mason",
-      "date": "2026-10-22T22:00Z",
-      "state": "in",
-      "status": "82'",
-      "teams": [
-        {
-          "name": "George Mason",
-          "short": "George Mason",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2244.png",
+          "name": "TOP Oss",
+          "short": "TOP Oss",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3728.png",
           "score": "0"
         },
         {
-          "name": "Rhode Island",
-          "short": "Rhode Island",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/227.png",
+          "name": "Jong Ajax",
+          "short": "Jong Ajax",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10597.png",
           "score": "0"
         }
       ],
-      "venue": "George Mason Stadium"
+      "venue": "Frans Heesen Stadion"
     },
     {
-      "id": "401883773",
+      "id": "401875876",
       "league": "Football",
-      "name": "Penn State at Michigan State",
-      "date": "2026-10-22T22:00Z",
-      "state": "in",
-      "status": "79'",
+      "name": "FC Emmen at Vitesse",
+      "date": "2026-10-23T18:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "Michigan State",
-          "short": "Michigan St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
-          "score": "1"
-        },
-        {
-          "name": "Penn State",
-          "short": "Penn State",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
-          "score": "2"
-        }
-      ],
-      "venue": "DeMartin Stadium"
-    },
-    {
-      "id": "401887349",
-      "league": "Football",
-      "name": "New Hampshire at UMass Lowell",
-      "date": "2026-10-22T22:00Z",
-      "state": "in",
-      "status": "79'",
-      "teams": [
-        {
-          "name": "UMass Lowell",
-          "short": "UMass Lowell",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2349.png",
-          "score": "1"
-        },
-        {
-          "name": "New Hampshire",
-          "short": "New Hampshire",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/160.png",
-          "score": "3"
-        }
-      ],
-      "venue": "Cushing Field Complex"
-    },
-    {
-      "id": "401887307",
-      "league": "Football",
-      "name": "UAlbany at Vermont",
-      "date": "2026-10-22T22:00Z",
-      "state": "in",
-      "status": "77'",
-      "teams": [
-        {
-          "name": "Vermont",
-          "short": "Vermont",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/261.png",
-          "score": "2"
-        },
-        {
-          "name": "UAlbany",
-          "short": "UAlbany",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/399.png",
-          "score": "2"
-        }
-      ],
-      "venue": "Virtue Field"
-    },
-    {
-      "id": "401901117",
-      "league": "Football",
-      "name": "Northern Illinois at Youngstown State",
-      "date": "2026-10-22T22:00Z",
-      "state": "in",
-      "status": "83'",
-      "teams": [
-        {
-          "name": "Youngstown State",
-          "short": "Youngstown St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2754.png",
-          "score": "1"
-        },
-        {
-          "name": "Northern Illinois",
-          "short": "N Illinois",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Farmers National Bank Field"
-    },
-    {
-      "id": "401900268",
-      "league": "Football",
-      "name": "Arkansas-Pine Bluff at Alabama State",
-      "date": "2026-10-22T23:00Z",
-      "state": "in",
-      "status": "44'",
-      "teams": [
-        {
-          "name": "Alabama State",
-          "short": "Alabama St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2011.png",
-          "score": "4"
-        },
-        {
-          "name": "Arkansas-Pine Bluff",
-          "short": "AR-Pine Bluff",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2029.png",
-          "score": "0"
-        }
-      ],
-      "venue": "ASU Soccer Complex"
-    },
-    {
-      "id": "401885535",
-      "league": "Football",
-      "name": "West Florida at Bellarmine",
-      "date": "2026-10-22T23:00Z",
-      "state": "in",
-      "status": "HT",
-      "teams": [
-        {
-          "name": "Bellarmine",
-          "short": "Bellarmine",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/91.png",
+          "name": "Vitesse",
+          "short": "Vitesse",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/154.png",
           "score": "0"
         },
         {
-          "name": "West Florida",
-          "short": "West Florida",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2697.png",
+          "name": "FC Emmen",
+          "short": "Emmen",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3707.png",
           "score": "0"
         }
       ],
-      "venue": "Owsley B. Frazier Stadium"
+      "venue": "GelreDome"
     },
     {
-      "id": "401887261",
+      "id": "401842851",
       "league": "Football",
-      "name": "Maine at Bryant",
-      "date": "2026-10-22T23:00Z",
-      "state": "in",
-      "status": "43'",
+      "name": "Malmö FF at IF Elfsborg",
+      "date": "2026-10-23T17:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "Bryant",
-          "short": "Bryant",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2803.png",
+          "name": "IF Elfsborg",
+          "short": "Elfsborg",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/529.png",
           "score": "0"
         },
         {
-          "name": "Maine",
-          "short": "Maine",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/311.png",
+          "name": "Malmö FF",
+          "short": "Malmö",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2720.png",
           "score": "0"
         }
       ],
-      "venue": "Beirne Stadium"
+      "venue": "Boras Arena"
     },
     {
-      "id": "401889891",
+      "id": "401842852",
       "league": "Football",
-      "name": "Fordham at Dayton",
-      "date": "2026-10-22T23:00Z",
-      "state": "in",
-      "status": "42'",
+      "name": "Halmstads BK at Västerås SK",
+      "date": "2026-10-23T17:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "Dayton",
-          "short": "Dayton",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2168.png",
-          "score": "2"
-        },
-        {
-          "name": "Fordham",
-          "short": "Fordham",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2230.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Baujan Field"
-    },
-    {
-      "id": "401889881",
-      "league": "Football",
-      "name": "Davidson at Duquesne",
-      "date": "2026-10-22T23:00Z",
-      "state": "in",
-      "status": "HT",
-      "teams": [
-        {
-          "name": "Duquesne",
-          "short": "Duquesne",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2184.png",
-          "score": "1"
-        },
-        {
-          "name": "Davidson",
-          "short": "Davidson",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2166.png",
-          "score": "2"
-        }
-      ],
-      "venue": "Rooney Field"
-    },
-    {
-      "id": "401887999",
-      "league": "Football",
-      "name": "North Texas at East Carolina",
-      "date": "2026-10-22T23:00Z",
-      "state": "in",
-      "status": "39'",
-      "teams": [
-        {
-          "name": "East Carolina",
-          "short": "East Carolina",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/151.png",
-          "score": "1"
-        },
-        {
-          "name": "North Texas",
-          "short": "North Texas",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/249.png",
-          "score": "2"
-        }
-      ],
-      "venue": "Bill Clark Homes Field at Johnson Stadium"
-    },
-    {
-      "id": "401885793",
-      "league": "Football",
-      "name": "Auburn at Florida",
-      "date": "2026-10-22T23:00Z",
-      "state": "in",
-      "status": "42'",
-      "teams": [
-        {
-          "name": "Florida",
-          "short": "Florida",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
-          "score": "1"
-        },
-        {
-          "name": "Auburn",
-          "short": "Auburn",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Donald R. Dizney Stadium"
-    },
-    {
-      "id": "401891373",
-      "league": "Football",
-      "name": "Marshall at Georgia State",
-      "date": "2026-10-22T23:00Z",
-      "state": "in",
-      "status": "38'",
-      "teams": [
-        {
-          "name": "Georgia State",
-          "short": "Georgia St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2247.png",
+          "name": "Västerås SK",
+          "short": "Västerås",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22163.png",
           "score": "0"
         },
         {
-          "name": "Marshall",
-          "short": "Marshall",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/276.png",
+          "name": "Halmstads BK",
+          "short": "Halmstads",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3017.png",
           "score": "0"
         }
       ],
-      "venue": "GSU Soccer Complex"
+      "venue": "Hitachi Energy Arena"
     },
     {
-      "id": "401900096",
+      "id": "401874550",
       "league": "Football",
-      "name": "Fairleigh Dickinson at Howard",
-      "date": "2026-10-22T23:00Z",
-      "state": "in",
-      "status": "40'",
+      "name": "Brøndby IF at Randers FC",
+      "date": "2026-10-23T17:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "Howard",
-          "short": "Howard",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/47.png",
+          "name": "Randers FC",
+          "short": "Randers",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3132.png",
           "score": "0"
         },
         {
-          "name": "Fairleigh Dickinson",
-          "short": "FDU",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/161.png",
+          "name": "Brøndby IF",
+          "short": "Brøndby",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/575.png",
           "score": "0"
         }
       ],
-      "venue": "Greene Stadium"
+      "venue": "Cepheus Park Randers"
     },
     {
-      "id": "401883654",
+      "id": "401841638",
       "league": "Football",
-      "name": "Northwestern at Illinois",
-      "date": "2026-10-22T23:00Z",
-      "state": "in",
-      "status": "42'",
+      "name": "Sarmiento (Junín) at Gimnasia La Plata",
+      "date": "2026-10-23T21:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "Illinois",
-          "short": "Illinois",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
+          "name": "Gimnasia La Plata",
+          "short": "Gimnasia LP",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9.png",
           "score": "0"
         },
         {
-          "name": "Northwestern",
-          "short": "Northwestern",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
-          "score": "1"
+          "name": "Sarmiento (Junín)",
+          "short": "Sarmiento (J)",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10158.png",
+          "score": "0"
         }
       ],
-      "venue": "Demirjian Park"
+      "venue": "Juan Carmelo Zerillo (El Bosque)"
     },
     {
-      "id": "401883691",
+      "id": "401841637",
       "league": "Football",
-      "name": "Purdue at Indiana",
-      "date": "2026-10-22T23:00Z",
-      "state": "in",
-      "status": "37'",
+      "name": "Platense at Gimnasia (Mendoza)",
+      "date": "2026-10-23T21:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Gimnasia (Mendoza)",
+          "short": "Gimnasia (M)",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11972.png",
+          "score": "0"
+        },
+        {
+          "name": "Platense",
+          "short": "Platense",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7764.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio Víctor Antonio Legrotaglie"
+    },
+    {
+      "id": "401841643",
+      "league": "Football",
+      "name": "Atlético Tucumán at Tigre",
+      "date": "2026-10-24T00:15Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Tigre",
+          "short": "Tigre",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7767.png",
+          "score": "0"
+        },
+        {
+          "name": "Atlético Tucumán",
+          "short": "Atl Tucumán",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9785.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Monumental de Victoria (José Dellagiovanna)"
+    },
+    {
+      "id": "401841287",
+      "league": "Football",
+      "name": "Remo at Cruzeiro",
+      "date": "2026-10-23T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Cruzeiro",
+          "short": "Cruzeiro",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
+          "score": "0"
+        },
+        {
+          "name": "Remo",
+          "short": "Remo",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4936.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio Mineirão"
+    },
+    {
+      "id": "401860410",
+      "league": "Football",
+      "name": "Athletic at Operário PR",
+      "date": "2026-10-23T22:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Operário PR",
+          "short": "Operário PR",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18187.png",
+          "score": "0"
+        },
+        {
+          "name": "Athletic",
+          "short": "Athletic",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20851.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Germano Krüger"
+    },
+    {
+      "id": "401860408",
+      "league": "Football",
+      "name": "Criciúma at Sport",
+      "date": "2026-10-24T00:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Sport",
+          "short": "Sport",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7635.png",
+          "score": "0"
+        },
+        {
+          "name": "Criciúma",
+          "short": "Criciúma",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9971.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Ilha do Retiro"
+    },
+    {
+      "id": "401850668",
+      "league": "Football",
+      "name": "Huachipato at Audax Italiano",
+      "date": "2026-10-23T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Audax Italiano",
+          "short": "Audax Italiano",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4138.png",
+          "score": "0"
+        },
+        {
+          "name": "Huachipato",
+          "short": "Huachipato",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4134.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio Municipal de La Florida"
+    },
+    {
+      "id": "401930317",
+      "league": "Football",
+      "name": "Peñarol at Juventud",
+      "date": "2026-10-23T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Juventud",
+          "short": "Juventud",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8416.png",
+          "score": "0"
+        },
+        {
+          "name": "Peñarol",
+          "short": "Peñarol",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2683.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio Centenario"
+    },
+    {
+      "id": "401877907",
+      "league": "Football",
+      "name": "Atlético Bucaramanga at Boyacá Chicó FC",
+      "date": "2026-10-23T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Boyacá Chicó FC",
+          "short": "Chicó FC",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5480.png",
+          "score": "0"
+        },
+        {
+          "name": "Atlético Bucaramanga",
+          "short": "Bucaramanga",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6137.png",
+          "score": "0"
+        }
+      ],
+      "venue": "La Independencia"
+    },
+    {
+      "id": "401877773",
+      "league": "Football",
+      "name": "Águilas Doradas at Atlético Junior",
+      "date": "2026-10-24T01:10Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Atlético Junior",
+          "short": "Atl. Junior",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4815.png",
+          "score": "0"
+        },
+        {
+          "name": "Águilas Doradas",
+          "short": "Águilas Doradas",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9762.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Romelio Martínez"
+    },
+    {
+      "id": "401886160",
+      "league": "Football",
+      "name": "Melgar at UTC",
+      "date": "2026-10-23T18:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "UTC",
+          "short": "UTC",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10122.png",
+          "score": "0"
+        },
+        {
+          "name": "Melgar",
+          "short": "Melgar",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7312.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio Héroes de San Ramón"
+    },
+    {
+      "id": "401886161",
+      "league": "Football",
+      "name": "ADT at Atlético Grau",
+      "date": "2026-10-23T20:15Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Atlético Grau",
+          "short": "Atlético Grau",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20293.png",
+          "score": "0"
+        },
+        {
+          "name": "ADT",
+          "short": "ADT",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21314.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio Municipal Ambrosio Maco Arroyo"
+    },
+    {
+      "id": "401888575",
+      "league": "Football",
+      "name": "Guaraní at Rubio Ñú",
+      "date": "2026-10-23T20:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Rubio Ñú",
+          "short": "Rubio Ñú",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10080.png",
+          "score": "0"
+        },
+        {
+          "name": "Guaraní",
+          "short": "Guaraní",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7385.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio La Arboleda"
+    },
+    {
+      "id": "401888577",
+      "league": "Football",
+      "name": "Sportivo Luqueño at Libertad",
+      "date": "2026-10-23T22:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Libertad",
+          "short": "Libertad",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2670.png",
+          "score": "0"
+        },
+        {
+          "name": "Sportivo Luqueño",
+          "short": "Luqueño",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5583.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio Tigo La Huerta"
+    },
+    {
+      "id": "401921330",
+      "league": "Football",
+      "name": "Universidad Católica (Quito) at Independiente del Valle",
+      "date": "2026-10-23T20:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Independiente del Valle",
+          "short": "Ind. del Valle",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17086.png",
+          "score": "0"
+        },
+        {
+          "name": "Universidad Católica (Quito)",
+          "short": "U. Católica",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9283.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio Gonzalo Pozo Ripalda"
+    },
+    {
+      "id": "401926749",
+      "league": "Football",
+      "name": "CD Estrella Roja at Olancho FC",
+      "date": "2026-10-24T01:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Olancho FC",
+          "short": "Olancho FC",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21583.png",
+          "score": "0"
+        },
+        {
+          "name": "CD Estrella Roja",
+          "short": "Estrella Roja",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132449.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio Juan Ramón Brevé Vargas"
+    },
+    {
+      "id": "401876832",
+      "league": "Football",
+      "name": "Sporting San José at Escorpiones Belén",
+      "date": "2026-10-24T02:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Escorpiones Belén",
+          "short": "Belén",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132447.png",
+          "score": "0"
+        },
+        {
+          "name": "Sporting San José",
+          "short": "Spr. San José",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20705.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio Ricardo Saprissa"
+    },
+    {
+      "id": "401899776",
+      "league": "Football",
+      "name": "Internacional Santa Tecla at Inca Aruba",
+      "date": "2026-10-24T00:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Inca Aruba",
+          "short": "Inca Aruba",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132480.png",
+          "score": "0"
+        },
+        {
+          "name": "Internacional Santa Tecla",
+          "short": "Inter ST",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131295.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio Anna Mercedes Campos"
+    },
+    {
+      "id": "401925428",
+      "league": "Football",
+      "name": "East Bengal FC at Inter Kashi",
+      "date": "2026-10-23T11:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Inter Kashi",
+          "short": "Inter Kashi",
+          "logo": "",
+          "score": "0"
+        },
+        {
+          "name": "East Bengal FC",
+          "short": "East Bengal",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8897.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Shree Shiv Chhatrapati Sports Complex"
+    },
+    {
+      "id": "401914219",
+      "league": "Football",
+      "name": "Scottland Mabvuku at Petro de Luanda",
+      "date": "2026-10-23T14:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Petro de Luanda",
+          "short": "Petro de Luanda",
+          "logo": "",
+          "score": "0"
+        },
+        {
+          "name": "Scottland Mabvuku",
+          "short": "Scottland",
+          "logo": "",
+          "score": "0"
+        }
+      ],
+      "venue": "Estádio 11 de Novembro"
+    },
+    {
+      "id": "401914243",
+      "league": "Football",
+      "name": "Wiliete SC at Mamelodi Sundowns",
+      "date": "2026-10-23T18:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Mamelodi Sundowns",
+          "short": "M Sundowns",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7084.png",
+          "score": "0"
+        },
+        {
+          "name": "Wiliete SC",
+          "short": "Wiliete",
+          "logo": "",
+          "score": "0"
+        }
+      ],
+      "venue": "Loftus Versfeld Stadium"
+    },
+    {
+      "id": "401914240",
+      "league": "Football",
+      "name": "African Stars at Orlando Pirates",
+      "date": "2026-10-23T18:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Orlando Pirates",
+          "short": "O Pirates",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7085.png",
+          "score": "0"
+        },
+        {
+          "name": "African Stars",
+          "short": "African Stars",
+          "logo": "",
+          "score": "0"
+        }
+      ],
+      "venue": "Orlando Stadium"
+    },
+    {
+      "id": "401914244",
+      "league": "Football",
+      "name": "Rangers International at MC Alger",
+      "date": "2026-10-23T19:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "MC Alger",
+          "short": "MC Alger",
+          "logo": "",
+          "score": "0"
+        },
+        {
+          "name": "Rangers International",
+          "short": "Rangers",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17797.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Ali La Pointe Stadium"
+    },
+    {
+      "id": "401912465",
+      "league": "Football",
+      "name": "Red Arrows at Kaizer Chiefs",
+      "date": "2026-10-23T16:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Kaizer Chiefs",
+          "short": "Kaizer Chiefs",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7081.png",
+          "score": "0"
+        },
+        {
+          "name": "Red Arrows",
+          "short": "Red Arrows",
+          "logo": "",
+          "score": "0"
+        }
+      ],
+      "venue": "Moses Mabhida Stadium"
+    },
+    {
+      "id": "401912482",
+      "league": "Football",
+      "name": "DC Virunga at CD Primeiro de Agosto",
+      "date": "2026-10-23T19:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "CD Primeiro de Agosto",
+          "short": "CD Primeiro",
+          "logo": "",
+          "score": "0"
+        },
+        {
+          "name": "DC Virunga",
+          "short": "Virunga",
+          "logo": "",
+          "score": "0"
+        }
+      ],
+      "venue": "Estádio 11 de Novembro"
+    },
+    {
+      "id": "401912476",
+      "league": "Football",
+      "name": "El Kanemi Warriors at Raja Casablanca",
+      "date": "2026-10-23T20:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Raja Casablanca",
+          "short": "Raja",
+          "logo": "",
+          "score": "0"
+        },
+        {
+          "name": "El Kanemi Warriors",
+          "short": "El Kanemi",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17796.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Mohamed V Stadium"
+    },
+    {
+      "id": "401884079",
+      "league": "Football",
+      "name": "Pittsburgh at Boston College",
+      "date": "2026-10-23T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Boston College",
+          "short": "Boston College",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/103.png",
+          "score": "0"
+        },
+        {
+          "name": "Pittsburgh",
+          "short": "Pittsburgh",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/221.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Newton Campus Lacrosse & Soccer Field"
+    },
+    {
+      "id": "401900703",
+      "league": "Football",
+      "name": "Florida Atlantic at Florida International",
+      "date": "2026-10-23T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Florida International",
+          "short": "FIU",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2229.png",
+          "score": "0"
+        },
+        {
+          "name": "Florida Atlantic",
+          "short": "FAU",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2226.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Leyva Family Field at FIU Soccer Stadium"
+    },
+    {
+      "id": "401898563",
+      "league": "Football",
+      "name": "Houston Christian at Incarnate Word",
+      "date": "2026-10-23T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Incarnate Word",
+          "short": "Incarnate Word",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2916.png",
+          "score": "0"
+        },
+        {
+          "name": "Houston Christian",
+          "short": "Hou Christian",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2277.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Gayle and Tom Benson Stadium"
+    },
+    {
+      "id": "401891002",
+      "league": "Football",
+      "name": "Northwestern at Indiana",
+      "date": "2026-10-23T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
           "name": "Indiana",
@@ -2041,266 +1972,335 @@
           "score": "0"
         },
         {
-          "name": "Purdue",
-          "short": "Purdue",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
-          "score": "3"
+          "name": "Northwestern",
+          "short": "Northwestern",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
+          "score": "0"
         }
       ],
       "venue": "Bill Armstrong Stadium"
     },
     {
-      "id": "401887043",
+      "id": "401898793",
       "league": "Football",
-      "name": "Kansas State at Iowa State",
-      "date": "2026-10-22T23:00Z",
-      "state": "in",
-      "status": "39'",
+      "name": "Washington at Michigan State",
+      "date": "2026-10-23T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "Iowa State",
-          "short": "Iowa State",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
+          "name": "Michigan State",
+          "short": "Michigan St",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
           "score": "0"
         },
         {
-          "name": "Kansas State",
-          "short": "Kansas St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Cyclone Sports Complex"
-    },
-    {
-      "id": "401887055",
-      "league": "Football",
-      "name": "BYU at Kansas",
-      "date": "2026-10-22T23:00Z",
-      "state": "in",
-      "status": "44'",
-      "teams": [
-        {
-          "name": "Kansas",
-          "short": "Kansas",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
-          "score": "0"
-        },
-        {
-          "name": "BYU",
-          "short": "BYU",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Rock Chalk Park"
-    },
-    {
-      "id": "401889982",
-      "league": "Football",
-      "name": "Saint Louis at La Salle",
-      "date": "2026-10-22T23:00Z",
-      "state": "in",
-      "status": "43'",
-      "teams": [
-        {
-          "name": "La Salle",
-          "short": "La Salle",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2325.png",
-          "score": "1"
-        },
-        {
-          "name": "Saint Louis",
-          "short": "Saint Louis",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/139.png",
-          "score": "1"
-        }
-      ],
-      "venue": "McCarthy Stadium (Philadelphia)"
-    },
-    {
-      "id": "401885559",
-      "league": "Football",
-      "name": "Queens University at Lipscomb",
-      "date": "2026-10-22T23:00Z",
-      "state": "in",
-      "status": "44'",
-      "teams": [
-        {
-          "name": "Lipscomb",
-          "short": "Lipscomb",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/288.png",
-          "score": "1"
-        },
-        {
-          "name": "Queens University",
-          "short": "Queens",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2511.png",
+          "name": "Washington",
+          "short": "Washington",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
           "score": "0"
         }
       ],
-      "venue": "Lipscomb Soccer Complex"
+      "venue": "DeMartin Stadium"
     },
     {
-      "id": "401889684",
+      "id": "401901831",
       "league": "Football",
-      "name": "Incarnate Word at McNeese",
-      "date": "2026-10-22T23:00Z",
-      "state": "in",
-      "status": "38'",
+      "name": "Longwood at Presbyterian",
+      "date": "2026-10-23T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "McNeese",
-          "short": "McNeese",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2377.png",
+          "name": "Presbyterian",
+          "short": "Presbyterian",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2506.png",
           "score": "0"
         },
         {
-          "name": "Incarnate Word",
-          "short": "Incarnate Word",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2916.png",
-          "score": "2"
-        }
-      ],
-      "venue": "Cowgirl Field"
-    },
-    {
-      "id": "401883743",
-      "league": "Football",
-      "name": "Maryland at Michigan",
-      "date": "2026-10-22T23:00Z",
-      "state": "in",
-      "status": "HT",
-      "teams": [
-        {
-          "name": "Michigan",
-          "short": "Michigan",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
-          "score": "0"
-        },
-        {
-          "name": "Maryland",
-          "short": "Maryland",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
+          "name": "Longwood",
+          "short": "Longwood",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2344.png",
           "score": "0"
         }
       ],
-      "venue": "U-M Soccer Stadium"
+      "venue": "Edens Field at Martin Stadium"
     },
     {
-      "id": "401886256",
+      "id": "401891028",
       "league": "Football",
-      "name": "Stetson at North Florida",
-      "date": "2026-10-22T23:00Z",
-      "state": "in",
-      "status": "42'",
+      "name": "Michigan at Rutgers",
+      "date": "2026-10-23T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
-        {
-          "name": "North Florida",
-          "short": "North Florida",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2454.png",
-          "score": "1"
-        },
-        {
-          "name": "Stetson",
-          "short": "Stetson",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/56.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Hodges Stadium"
-    },
-    {
-      "id": "401901133",
-      "league": "Football",
-      "name": "Wright State at Oakland",
-      "date": "2026-10-22T23:00Z",
-      "state": "in",
-      "status": "45'",
-      "teams": [
-        {
-          "name": "Oakland",
-          "short": "Oakland",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2473.png",
-          "score": "0"
-        },
-        {
-          "name": "Wright State",
-          "short": "Wright St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2750.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Oakland Soccer Field"
-    },
-    {
-      "id": "401883991",
-      "league": "Football",
-      "name": "Rutgers at Ohio State",
-      "date": "2026-10-22T23:00Z",
-      "state": "in",
-      "status": "40'",
-      "teams": [
-        {
-          "name": "Ohio State",
-          "short": "Ohio State",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
-          "score": "2"
-        },
         {
           "name": "Rutgers",
           "short": "Rutgers",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/164.png",
           "score": "0"
-        }
-      ],
-      "venue": "Jesse Owens Memorial Stadium"
-    },
-    {
-      "id": "401889976",
-      "league": "Football",
-      "name": "St Bonaventure at Saint Joseph's",
-      "date": "2026-10-22T23:00Z",
-      "state": "in",
-      "status": "38'",
-      "teams": [
-        {
-          "name": "Saint Joseph's",
-          "short": "Saint Joseph's",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2603.png",
-          "score": "0"
         },
         {
-          "name": "St Bonaventure",
-          "short": "St Bonaventure",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/179.png",
-          "score": "2"
-        }
-      ],
-      "venue": "Sean Sweeney Field"
-    },
-    {
-      "id": "401900168",
-      "league": "Football",
-      "name": "South Dakota at South Dakota State",
-      "date": "2026-10-22T23:00Z",
-      "state": "in",
-      "status": "HT",
-      "teams": [
-        {
-          "name": "South Dakota State",
-          "short": "S Dakota St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2571.png",
-          "score": "2"
-        },
-        {
-          "name": "South Dakota",
-          "short": "South Dakota",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/233.png",
+          "name": "Michigan",
+          "short": "Michigan",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
           "score": "0"
         }
       ],
-      "venue": "Fishback Soccer Park"
+      "venue": "RWJBarnabas Health Stadium at Yurcak Field"
+    },
+    {
+      "id": "401900937",
+      "league": "Football",
+      "name": "Memphis at South Florida",
+      "date": "2026-10-23T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "South Florida",
+          "short": "South Florida",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/58.png",
+          "score": "0"
+        },
+        {
+          "name": "Memphis",
+          "short": "Memphis",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/235.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Corbett Stadium"
+    },
+    {
+      "id": "401891739",
+      "league": "Football",
+      "name": "North Carolina at Duke",
+      "date": "2026-10-24T00:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Duke",
+          "short": "Duke",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "score": "0"
+        },
+        {
+          "name": "North Carolina",
+          "short": "North Carolina",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Freeman Field at Koskinen Stadium"
+    },
+    {
+      "id": "401898530",
+      "league": "Football",
+      "name": "Eastern Illinois at Lindenwood",
+      "date": "2026-10-24T00:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Lindenwood",
+          "short": "Lindenwood",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2815.png",
+          "score": "0"
+        },
+        {
+          "name": "Eastern Illinois",
+          "short": "E Illinois",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2197.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Hunter Stadium"
+    },
+    {
+      "id": "401902157",
+      "league": "Football",
+      "name": "Temple at UAB",
+      "date": "2026-10-24T00:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "UAB",
+          "short": "UAB",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/5.png",
+          "score": "0"
+        },
+        {
+          "name": "Temple",
+          "short": "Temple",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/218.png",
+          "score": "0"
+        }
+      ],
+      "venue": "PNC Field"
+    },
+    {
+      "id": "401898990",
+      "league": "Football",
+      "name": "Utah Tech at UC Davis",
+      "date": "2026-10-24T01:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "UC Davis",
+          "short": "UC Davis",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/302.png",
+          "score": "0"
+        },
+        {
+          "name": "Utah Tech",
+          "short": "Utah Tech",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/3101.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Aggie Soccer Field"
+    },
+    {
+      "id": "401898979",
+      "league": "Football",
+      "name": "Grand Canyon at UNLV",
+      "date": "2026-10-24T02:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "UNLV",
+          "short": "UNLV",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
+          "score": "0"
+        },
+        {
+          "name": "Grand Canyon",
+          "short": "Grand Canyon",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2253.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Peter Johann Memorial Field"
+    },
+    {
+      "id": "401900212",
+      "league": "Football",
+      "name": "Boston University at Holy Cross",
+      "date": "2026-10-23T20:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Holy Cross",
+          "short": "Holy Cross",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/107.png",
+          "score": "0"
+        },
+        {
+          "name": "Boston University",
+          "short": "Boston U",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/104.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Linda Johnson Smith Soccer Stadium"
+    },
+    {
+      "id": "401889554",
+      "league": "Football",
+      "name": "Samford at The Citadel",
+      "date": "2026-10-23T20:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "The Citadel",
+          "short": "The Citadel",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2643.png",
+          "score": "0"
+        },
+        {
+          "name": "Samford",
+          "short": "Samford",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2535.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Washington Light Infantry Field"
+    },
+    {
+      "id": "401889495",
+      "league": "Football",
+      "name": "UNC Greensboro at Chattanooga",
+      "date": "2026-10-23T21:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Chattanooga",
+          "short": "Chattanooga",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/236.png",
+          "score": "0"
+        },
+        {
+          "name": "UNC Greensboro",
+          "short": "UNC Greensboro",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2430.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Finley Stadium"
+    },
+    {
+      "id": "401889526",
+      "league": "Football",
+      "name": "Furman at East Tennessee State",
+      "date": "2026-10-23T22:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "East Tennessee State",
+          "short": "ETSU",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2193.png",
+          "score": "0"
+        },
+        {
+          "name": "Furman",
+          "short": "Furman",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/231.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Summers-Taylor Stadium"
+    },
+    {
+      "id": "401901445",
+      "league": "Football",
+      "name": "Stanford at North Carolina",
+      "date": "2026-10-23T22:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "North Carolina",
+          "short": "North Carolina",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+          "score": "0"
+        },
+        {
+          "name": "Stanford",
+          "short": "Stanford",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Dorrance Field"
     }
   ]
 }
