@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T18:19:49.556996+00:00",
+  "updated_at": "2026-10-23T19:06:27.871292+00:00",
   "count": 100,
   "items": [
     {
@@ -7,8 +7,8 @@
       "league": "Football",
       "name": "Nottingham Forest at Ipswich Town",
       "date": "2026-10-23T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "5'",
       "teams": [
         {
           "name": "Ipswich Town",
@@ -30,8 +30,8 @@
       "league": "Football",
       "name": "Málaga at Alavés",
       "date": "2026-10-23T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "6'",
       "teams": [
         {
           "name": "Alavés",
@@ -122,8 +122,8 @@
       "league": "Football",
       "name": "Monza at Torino",
       "date": "2026-10-23T18:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "20'",
       "teams": [
         {
           "name": "Torino",
@@ -145,14 +145,14 @@
       "league": "Football",
       "name": "Borussia Mönchengladbach at VfB Stuttgart",
       "date": "2026-10-23T18:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "37'",
       "teams": [
         {
           "name": "VfB Stuttgart",
           "short": "Stuttgart",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Borussia Mönchengladbach",
@@ -168,14 +168,14 @@
       "league": "Football",
       "name": "Nice at Brest",
       "date": "2026-10-23T18:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "21'",
       "teams": [
         {
           "name": "Brest",
           "short": "Brest",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Nice",
@@ -238,19 +238,19 @@
       "name": "Telstar at Go Ahead Eagles",
       "date": "2026-10-23T18:00Z",
       "state": "in",
-      "status": "19'",
+      "status": "49'",
       "teams": [
         {
           "name": "Go Ahead Eagles",
           "short": "Go Ahead Eagles",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3706.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Telstar",
           "short": "Telstar",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3735.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "De Adelaarshorst"
@@ -260,8 +260,8 @@
       "league": "Football",
       "name": "Middlesbrough at Bolton Wanderers",
       "date": "2026-10-23T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "6'",
       "teams": [
         {
           "name": "Bolton Wanderers",
@@ -307,13 +307,13 @@
       "name": "Valencia at Atlético Madrid",
       "date": "2026-10-23T17:30Z",
       "state": "in",
-      "status": "HT",
+      "status": "77'",
       "teams": [
         {
           "name": "Atlético Madrid",
           "short": "Atlético Madrid",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20093.png",
-          "score": "1"
+          "score": "4"
         },
         {
           "name": "Valencia",
@@ -468,7 +468,7 @@
       "name": "Al Khaleej at Al Ahli",
       "date": "2026-10-23T18:00Z",
       "state": "in",
-      "status": "18'",
+      "status": "HT",
       "teams": [
         {
           "name": "Al Ahli",
@@ -491,19 +491,19 @@
       "name": "Al Hilal at Al Qadsiah",
       "date": "2026-10-23T18:00Z",
       "state": "in",
-      "status": "19'",
+      "status": "46'",
       "teams": [
         {
           "name": "Al Qadsiah",
           "short": "Al Qadsiah",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22022.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Al Hilal",
           "short": "Al Hilal",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/929.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Prince Mohammed Bin Fahd Stadium"
@@ -536,8 +536,8 @@
       "league": "Football",
       "name": "Kocaelispor at Alanyaspor",
       "date": "2026-10-23T17:00Z",
-      "state": "in",
-      "status": "60'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Alanyaspor",
@@ -628,8 +628,8 @@
       "league": "Football",
       "name": "Gazovik Orenburg at Akhmat Grozny",
       "date": "2026-10-23T16:30Z",
-      "state": "in",
-      "status": "90'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Akhmat Grozny",
@@ -651,14 +651,14 @@
       "league": "Football",
       "name": "Real Valladolid at Granada",
       "date": "2026-10-23T18:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "34'",
       "teams": [
         {
           "name": "Granada",
           "short": "Granada",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Real Valladolid",
@@ -674,8 +674,8 @@
       "league": "Football",
       "name": "St. Pauli at SV Darmstadt 98",
       "date": "2026-10-23T16:30Z",
-      "state": "in",
-      "status": "88'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "SV Darmstadt 98",
@@ -697,8 +697,8 @@
       "league": "Football",
       "name": "VfL Wolfsburg at VfL Bochum",
       "date": "2026-10-23T16:30Z",
-      "state": "in",
-      "status": "90'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "VfL Bochum",
@@ -720,8 +720,8 @@
       "league": "Football",
       "name": "Vicenza at Empoli",
       "date": "2026-10-23T18:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "35'",
       "teams": [
         {
           "name": "Empoli",
@@ -733,7 +733,7 @@
           "name": "Vicenza",
           "short": "Vicenza",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/120.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stadio Carlo Castellani - Computer Gross Arena"
@@ -744,7 +744,7 @@
       "name": "Stade Laval at AS Nancy Lorraine",
       "date": "2026-10-23T18:00Z",
       "state": "in",
-      "status": "20'",
+      "status": "49'",
       "teams": [
         {
           "name": "AS Nancy Lorraine",
@@ -767,7 +767,7 @@
       "name": "Guingamp at Clermont Foot",
       "date": "2026-10-23T18:00Z",
       "state": "in",
-      "status": "20'",
+      "status": "48'",
       "teams": [
         {
           "name": "Clermont Foot",
@@ -779,7 +779,7 @@
           "name": "Guingamp",
           "short": "Guingamp",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/171.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Stade Gabriel-Montpied"
@@ -790,7 +790,7 @@
       "name": "Metz at Dunkerque",
       "date": "2026-10-23T18:00Z",
       "state": "in",
-      "status": "20'",
+      "status": "48'",
       "teams": [
         {
           "name": "Dunkerque",
@@ -813,7 +813,7 @@
       "name": "Grenoble at Pau",
       "date": "2026-10-23T18:00Z",
       "state": "in",
-      "status": "19'",
+      "status": "48'",
       "teams": [
         {
           "name": "Pau",
@@ -825,7 +825,7 @@
           "name": "Grenoble",
           "short": "Grenoble",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6994.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Nouste Camp"
@@ -836,7 +836,7 @@
       "name": "Annecy at Sochaux",
       "date": "2026-10-23T18:00Z",
       "state": "in",
-      "status": "19'",
+      "status": "HT",
       "teams": [
         {
           "name": "Sochaux",
@@ -859,13 +859,13 @@
       "name": "Austria Vienna at SC Rheindorf Altach",
       "date": "2026-10-23T17:30Z",
       "state": "in",
-      "status": "HT",
+      "status": "80'",
       "teams": [
         {
           "name": "SC Rheindorf Altach",
           "short": "SC Rheindorf",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4405.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Austria Vienna",
@@ -928,13 +928,13 @@
       "name": "Morocco U17 at Argentina U17",
       "date": "2026-10-23T18:00Z",
       "state": "in",
-      "status": "19'",
+      "status": "47'",
       "teams": [
         {
           "name": "Argentina U17",
           "short": "Argentina",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
-          "score": "1"
+          "score": "4"
         },
         {
           "name": "Morocco U17",
@@ -951,7 +951,7 @@
       "name": "Germany U17 at New Zealand U17",
       "date": "2026-10-23T18:00Z",
       "state": "in",
-      "status": "19'",
+      "status": "47'",
       "teams": [
         {
           "name": "New Zealand U17",
@@ -963,7 +963,7 @@
           "name": "Germany U17",
           "short": "Germany",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21562.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Mohammed VI Football Academy"
@@ -997,7 +997,7 @@
       "name": "Roda JC Kerkrade at Almere City",
       "date": "2026-10-23T18:00Z",
       "state": "in",
-      "status": "20'",
+      "status": "49'",
       "teams": [
         {
           "name": "Almere City",
@@ -1020,13 +1020,13 @@
       "name": "RKC Waalwijk at De Graafschap",
       "date": "2026-10-23T18:00Z",
       "state": "in",
-      "status": "18'",
+      "status": "47'",
       "teams": [
         {
           "name": "De Graafschap",
           "short": "De Graafschap",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/144.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "RKC Waalwijk",
@@ -1043,7 +1043,7 @@
       "name": "MVV Maastricht at FC Den Bosch",
       "date": "2026-10-23T18:00Z",
       "state": "in",
-      "status": "20'",
+      "status": "50'",
       "teams": [
         {
           "name": "FC Den Bosch",
@@ -1066,13 +1066,13 @@
       "name": "Jong PSV at FC Eindhoven",
       "date": "2026-10-23T18:00Z",
       "state": "in",
-      "status": "17'",
+      "status": "HT",
       "teams": [
         {
           "name": "FC Eindhoven",
           "short": "FC Eindhoven",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3732.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Jong PSV",
@@ -1089,19 +1089,19 @@
       "name": "Jong FC Utrecht at FC Volendam",
       "date": "2026-10-23T18:00Z",
       "state": "in",
-      "status": "19'",
+      "status": "49'",
       "teams": [
         {
           "name": "FC Volendam",
           "short": "FC Volendam",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2727.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Jong FC Utrecht",
           "short": "Jong Utrecht",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18278.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Kras Stadion"
@@ -1112,19 +1112,19 @@
       "name": "Helmond Sport at Jong AZ",
       "date": "2026-10-23T18:00Z",
       "state": "in",
-      "status": "20'",
+      "status": "50'",
       "teams": [
         {
           "name": "Jong AZ",
           "short": "Jong AZ",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18748.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Helmond Sport",
           "short": "Helmond Spor",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3775.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "AFAS Trainingscomplex"
@@ -1135,7 +1135,7 @@
       "name": "Heracles Almelo at NAC Breda",
       "date": "2026-10-23T18:00Z",
       "state": "in",
-      "status": "17'",
+      "status": "HT",
       "teams": [
         {
           "name": "NAC Breda",
@@ -1147,7 +1147,7 @@
           "name": "Heracles Almelo",
           "short": "Heracles",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3708.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Rat Verlegh Stadion"
@@ -1158,7 +1158,7 @@
       "name": "Jong Ajax at TOP Oss",
       "date": "2026-10-23T18:00Z",
       "state": "in",
-      "status": "17'",
+      "status": "46'",
       "teams": [
         {
           "name": "TOP Oss",
@@ -1170,7 +1170,7 @@
           "name": "Jong Ajax",
           "short": "Jong Ajax",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10597.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Frans Heesen Stadion"
@@ -1181,7 +1181,7 @@
       "name": "FC Emmen at Vitesse",
       "date": "2026-10-23T18:00Z",
       "state": "in",
-      "status": "19'",
+      "status": "48'",
       "teams": [
         {
           "name": "Vitesse",
@@ -1203,8 +1203,8 @@
       "league": "Football",
       "name": "Malmö FF at IF Elfsborg",
       "date": "2026-10-23T17:00Z",
-      "state": "in",
-      "status": "62'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "IF Elfsborg",
@@ -1226,8 +1226,8 @@
       "league": "Football",
       "name": "Halmstads BK at Västerås SK",
       "date": "2026-10-23T17:00Z",
-      "state": "in",
-      "status": "62'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Västerås SK",
@@ -1239,7 +1239,7 @@
           "name": "Halmstads BK",
           "short": "Halmstads",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3017.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Hitachi Energy Arena"
@@ -1249,8 +1249,8 @@
       "league": "Football",
       "name": "Brøndby IF at Randers FC",
       "date": "2026-10-23T17:00Z",
-      "state": "in",
-      "status": "59'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Randers FC",
@@ -1262,7 +1262,7 @@
           "name": "Brøndby IF",
           "short": "Brøndby",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/575.png",
-          "score": "1"
+          "score": "3"
         }
       ],
       "venue": "Cepheus Park Randers"
@@ -1503,7 +1503,7 @@
       "name": "Melgar at UTC",
       "date": "2026-10-23T18:00Z",
       "state": "in",
-      "status": "19'",
+      "status": "HT",
       "teams": [
         {
           "name": "UTC",
@@ -1801,14 +1801,14 @@
       "league": "Football",
       "name": "Red Arrows at Kaizer Chiefs",
       "date": "2026-10-23T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT-Pens",
       "teams": [
         {
           "name": "Kaizer Chiefs",
           "short": "Kaizer Chiefs",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7081.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Red Arrows",
