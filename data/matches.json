@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T02:00:42.456248+00:00",
+  "updated_at": "2026-10-23T03:00:15.235744+00:00",
   "count": 100,
   "items": [
     {
@@ -1935,29 +1935,6 @@
       "venue": "Leyva Family Field at FIU Soccer Stadium"
     },
     {
-      "id": "401898563",
-      "league": "Football",
-      "name": "Houston Christian at Incarnate Word",
-      "date": "2026-10-23T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Incarnate Word",
-          "short": "Incarnate Word",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2916.png",
-          "score": "0"
-        },
-        {
-          "name": "Houston Christian",
-          "short": "Hou Christian",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2277.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Gayle and Tom Benson Stadium"
-    },
-    {
       "id": "401891002",
       "league": "Football",
       "name": "Northwestern at Indiana",
@@ -2188,6 +2165,29 @@
       "venue": "Peter Johann Memorial Field"
     },
     {
+      "id": "401889554",
+      "league": "Football",
+      "name": "Samford at The Citadel",
+      "date": "2026-10-23T19:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "The Citadel",
+          "short": "The Citadel",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2643.png",
+          "score": "0"
+        },
+        {
+          "name": "Samford",
+          "short": "Samford",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2535.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Washington Light Infantry Field"
+    },
+    {
       "id": "401900212",
       "league": "Football",
       "name": "Boston University at Holy Cross",
@@ -2209,29 +2209,6 @@
         }
       ],
       "venue": "Linda Johnson Smith Soccer Stadium"
-    },
-    {
-      "id": "401889554",
-      "league": "Football",
-      "name": "Samford at The Citadel",
-      "date": "2026-10-23T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "The Citadel",
-          "short": "The Citadel",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2643.png",
-          "score": "0"
-        },
-        {
-          "name": "Samford",
-          "short": "Samford",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2535.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Washington Light Infantry Field"
     },
     {
       "id": "401889495",
@@ -2301,6 +2278,29 @@
         }
       ],
       "venue": "Dorrance Field"
+    },
+    {
+      "id": "401889786",
+      "league": "Football",
+      "name": "Syracuse at Louisville",
+      "date": "2026-10-23T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Louisville",
+          "short": "Louisville",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
+          "score": "0"
+        },
+        {
+          "name": "Syracuse",
+          "short": "Syracuse",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/183.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Dr. Mark and Cindy Lynn Stadium"
     }
   ]
 }
