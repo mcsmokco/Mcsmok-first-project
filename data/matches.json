@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T20:10:54.351893+00:00",
+  "updated_at": "2026-10-24T20:50:37.661043+00:00",
   "count": 100,
   "items": [
     {
@@ -169,7 +169,7 @@
       "name": "Deportivo at Atlético Madrid",
       "date": "2026-10-24T19:00Z",
       "state": "in",
-      "status": "50'",
+      "status": "90'",
       "teams": [
         {
           "name": "Atlético Madrid",
@@ -215,13 +215,13 @@
       "name": "Toronto FC at Columbus Crew",
       "date": "2026-10-24T19:30Z",
       "state": "in",
-      "status": "30'",
+      "status": "50'",
       "teams": [
         {
           "name": "Columbus Crew",
           "short": "Columbus",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "Toronto FC",
@@ -628,8 +628,8 @@
       "league": "Football",
       "name": "Parma at Lazio",
       "date": "2026-10-24T18:45Z",
-      "state": "in",
-      "status": "67'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Lazio",
@@ -641,7 +641,7 @@
           "name": "Parma",
           "short": "Parma",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Olimpico"
@@ -789,14 +789,14 @@
       "league": "Football",
       "name": "Paris FC at Lens",
       "date": "2026-10-24T18:45Z",
-      "state": "in",
-      "status": "63'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Lens",
           "short": "Lens",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Paris FC",
@@ -928,19 +928,19 @@
       "name": "Heerenveen at ADO Den Haag",
       "date": "2026-10-24T19:00Z",
       "state": "in",
-      "status": "52'",
+      "status": "90'+2'",
       "teams": [
         {
           "name": "ADO Den Haag",
           "short": "ADO Den Haag",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2726.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Heerenveen",
           "short": "Heerenveen",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/146.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "ADO Den Haag Stadium"
@@ -1250,7 +1250,7 @@
       "name": "Tampa Bay Sun FC at Brooklyn FC",
       "date": "2026-10-24T20:00Z",
       "state": "in",
-      "status": "4'",
+      "status": "43'",
       "teams": [
         {
           "name": "Brooklyn FC",
@@ -1387,14 +1387,14 @@
       "league": "Football",
       "name": "Granada at Barcelona",
       "date": "2026-10-24T18:30Z",
-      "state": "in",
-      "status": "83'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Barcelona",
           "short": "Barcelona",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20091.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "Granada",
@@ -1503,13 +1503,13 @@
       "name": "Marseille at OL Lyonnes",
       "date": "2026-10-24T19:00Z",
       "state": "in",
-      "status": "49'",
+      "status": "88'",
       "teams": [
         {
           "name": "OL Lyonnes",
           "short": "Lyonnes",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19256.png",
-          "score": "4"
+          "score": "5"
         },
         {
           "name": "Marseille",
@@ -2262,7 +2262,7 @@
       "name": "FC Porto at Gil Vicente",
       "date": "2026-10-24T19:30Z",
       "state": "in",
-      "status": "38'",
+      "status": "60'",
       "teams": [
         {
           "name": "Gil Vicente",
