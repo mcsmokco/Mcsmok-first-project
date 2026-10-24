@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T21:14:59.948229+00:00",
+  "updated_at": "2026-10-24T21:51:43.761354+00:00",
   "count": 100,
   "items": [
     {
@@ -214,8 +214,8 @@
       "league": "Football",
       "name": "Toronto FC at Columbus Crew",
       "date": "2026-10-24T19:30Z",
-      "state": "in",
-      "status": "74'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Columbus Crew",
@@ -227,7 +227,7 @@
           "name": "Toronto FC",
           "short": "Toronto",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "ScottsMiracle-Gro Field"
@@ -237,14 +237,14 @@
       "league": "Football",
       "name": "Inter Miami CF at Red Bull New York",
       "date": "2026-10-24T21:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "11'",
       "teams": [
         {
           "name": "Red Bull New York",
           "short": "Red Bull NY",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Inter Miami CF",
@@ -1250,7 +1250,7 @@
       "name": "Tampa Bay Sun FC at Brooklyn FC",
       "date": "2026-10-24T20:00Z",
       "state": "in",
-      "status": "50'",
+      "status": "87'",
       "teams": [
         {
           "name": "Brooklyn FC",
@@ -2261,8 +2261,8 @@
       "league": "Football",
       "name": "FC Porto at Gil Vicente",
       "date": "2026-10-24T19:30Z",
-      "state": "in",
-      "status": "85'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Gil Vicente",
