@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T16:54:54.678377+00:00",
+  "updated_at": "2026-10-24T17:16:23.406899+00:00",
   "count": 100,
   "items": [
     {
@@ -77,7 +77,7 @@
       "name": "Tottenham Hotspur at Chelsea",
       "date": "2026-10-24T16:30Z",
       "state": "in",
-      "status": "24'",
+      "status": "45'",
       "teams": [
         {
           "name": "Chelsea",
@@ -146,13 +146,13 @@
       "name": "Villarreal at Valencia",
       "date": "2026-10-24T16:30Z",
       "state": "in",
-      "status": "23'",
+      "status": "44'",
       "teams": [
         {
           "name": "Valencia",
           "short": "Valencia",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Villarreal",
@@ -606,13 +606,13 @@
       "name": "AS Roma at Napoli",
       "date": "2026-10-24T16:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "57'",
       "teams": [
         {
           "name": "Napoli",
           "short": "Napoli",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "AS Roma",
@@ -767,7 +767,7 @@
       "name": "Eintracht Frankfurt at Borussia Dortmund",
       "date": "2026-10-24T16:30Z",
       "state": "in",
-      "status": "25'",
+      "status": "45'+1'",
       "teams": [
         {
           "name": "Borussia Dortmund",
@@ -905,7 +905,7 @@
       "name": "SC Cambuur at Willem II",
       "date": "2026-10-24T16:45Z",
       "state": "in",
-      "status": "9'",
+      "status": "31'",
       "teams": [
         {
           "name": "Willem II",
@@ -917,7 +917,7 @@
           "name": "SC Cambuur",
           "short": "Cambuur",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3736.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Koning Willem II Stadion"
@@ -974,7 +974,7 @@
       "name": "West Ham United at Brighton & Hove Albion",
       "date": "2026-10-24T16:15Z",
       "state": "in",
-      "status": "40'",
+      "status": "HT",
       "teams": [
         {
           "name": "Brighton & Hove Albion",
@@ -1365,7 +1365,7 @@
       "name": "FC Badalona at Dux Logroño",
       "date": "2026-10-24T16:15Z",
       "state": "in",
-      "status": "38'",
+      "status": "HT",
       "teams": [
         {
           "name": "Dux Logroño",
@@ -1457,7 +1457,7 @@
       "name": "Lens at Le Havre AC",
       "date": "2026-10-24T16:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "58'",
       "teams": [
         {
           "name": "Le Havre AC",
@@ -1480,7 +1480,7 @@
       "name": "Strasbourg at Nantes",
       "date": "2026-10-24T16:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "58'",
       "teams": [
         {
           "name": "Nantes",
@@ -2238,8 +2238,8 @@
       "league": "Football",
       "name": "Al Ettifaq at Al Kholood",
       "date": "2026-10-24T15:05Z",
-      "state": "in",
-      "status": "90'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Al Kholood",
