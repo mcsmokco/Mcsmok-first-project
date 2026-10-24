@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T18:14:04.978418+00:00",
+  "updated_at": "2026-10-24T18:56:39.189892+00:00",
   "count": 100,
   "items": [
     {
@@ -76,8 +76,8 @@
       "league": "Football",
       "name": "Tottenham Hotspur at Chelsea",
       "date": "2026-10-24T16:30Z",
-      "state": "in",
-      "status": "87'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Chelsea",
@@ -89,7 +89,7 @@
           "name": "Tottenham Hotspur",
           "short": "Spurs",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Stamford Bridge"
@@ -145,8 +145,8 @@
       "league": "Football",
       "name": "Villarreal at Valencia",
       "date": "2026-10-24T16:30Z",
-      "state": "in",
-      "status": "82'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Valencia",
@@ -158,7 +158,7 @@
           "name": "Villarreal",
           "short": "Villarreal",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Mestalla Stadium"
@@ -192,7 +192,7 @@
       "name": "Nashville SC at CF Montréal",
       "date": "2026-10-24T17:30Z",
       "state": "in",
-      "status": "34'",
+      "status": "60'",
       "teams": [
         {
           "name": "CF Montréal",
@@ -204,7 +204,7 @@
           "name": "Nashville SC",
           "short": "Nashville",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stade Saputo"
@@ -628,8 +628,8 @@
       "league": "Football",
       "name": "Parma at Lazio",
       "date": "2026-10-24T18:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "11'",
       "teams": [
         {
           "name": "Lazio",
@@ -766,8 +766,8 @@
       "league": "Football",
       "name": "Eintracht Frankfurt at Borussia Dortmund",
       "date": "2026-10-24T16:30Z",
-      "state": "in",
-      "status": "86'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Borussia Dortmund",
@@ -789,8 +789,8 @@
       "league": "Football",
       "name": "Paris FC at Lens",
       "date": "2026-10-24T18:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "12'",
       "teams": [
         {
           "name": "Lens",
@@ -904,20 +904,20 @@
       "league": "Football",
       "name": "SC Cambuur at Willem II",
       "date": "2026-10-24T16:45Z",
-      "state": "in",
-      "status": "71'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Willem II",
           "short": "Willem II",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/156.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "SC Cambuur",
           "short": "Cambuur",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3736.png",
-          "score": "5"
+          "score": "6"
         }
       ],
       "venue": "Koning Willem II Stadion"
@@ -1272,20 +1272,20 @@
       "league": "Football",
       "name": "Bolton at Harrogate Town",
       "date": "2026-10-24T16:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Harrogate Town",
           "short": "Harrogate Town",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Bolton",
           "short": "Bolton",
           "logo": "",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "EnviroVent Stadium"
@@ -1387,8 +1387,8 @@
       "league": "Football",
       "name": "Granada at Barcelona",
       "date": "2026-10-24T18:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "26'",
       "teams": [
         {
           "name": "Barcelona",
@@ -1653,7 +1653,7 @@
           "name": "Clachnacuddin",
           "short": "Clachnacuddin",
           "logo": "",
-          "score": "3"
+          "score": "0"
         }
       ],
       "venue": "Chilton Flooring Arena"
@@ -1843,29 +1843,6 @@
       "venue": "Raydale Park"
     },
     {
-      "id": "401928434",
-      "league": "Football",
-      "name": "Musselburgh Athletic at Hill of Beath Hawthorn",
-      "date": "2026-10-24T14:00Z",
-      "state": "post",
-      "status": "Postponed",
-      "teams": [
-        {
-          "name": "Hill of Beath Hawthorn",
-          "short": "Hill of Beath",
-          "logo": "",
-          "score": "0"
-        },
-        {
-          "name": "Musselburgh Athletic",
-          "short": "Musselburgh",
-          "logo": "",
-          "score": "0"
-        }
-      ],
-      "venue": "Keirs Park"
-    },
-    {
       "id": "401928410",
       "league": "Football",
       "name": "Annan Athletic at Huntly",
@@ -1887,29 +1864,6 @@
         }
       ],
       "venue": "Christie Park"
-    },
-    {
-      "id": "401928427",
-      "league": "Football",
-      "name": "Formartine United at Johnstone Burgh FC",
-      "date": "2026-10-24T14:00Z",
-      "state": "post",
-      "status": "Postponed",
-      "teams": [
-        {
-          "name": "Johnstone Burgh FC",
-          "short": "Johnstone Burgh",
-          "logo": "",
-          "score": "0"
-        },
-        {
-          "name": "Formartine United",
-          "short": "Formartine",
-          "logo": "",
-          "score": "0"
-        }
-      ],
-      "venue": "James Y. Keanie Park"
     },
     {
       "id": "401928413",
@@ -2002,29 +1956,6 @@
         }
       ],
       "venue": "Stair Park"
-    },
-    {
-      "id": "401928408",
-      "league": "Football",
-      "name": "Pollok at Threave Rovers",
-      "date": "2026-10-24T14:00Z",
-      "state": "post",
-      "status": "Postponed",
-      "teams": [
-        {
-          "name": "Threave Rovers",
-          "short": "Threave Rovers",
-          "logo": "",
-          "score": "0"
-        },
-        {
-          "name": "Pollok",
-          "short": "Pollok",
-          "logo": "",
-          "score": "0"
-        }
-      ],
-      "venue": "Meadow Park, Castle Douglas"
     },
     {
       "id": "401928433",
@@ -2262,13 +2193,13 @@
       "name": "Al Taawoun at Al Riyadh",
       "date": "2026-10-24T18:00Z",
       "state": "in",
-      "status": "14'",
+      "status": "HT",
       "teams": [
         {
           "name": "Al Riyadh",
           "short": "Al Riyadh",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21965.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Al Taawoun",
@@ -2301,6 +2232,75 @@
         }
       ],
       "venue": "Estádio José Gomes"
+    },
+    {
+      "id": "401885420",
+      "league": "Football",
+      "name": "Arouca at Alverca",
+      "date": "2026-10-24T17:00Z",
+      "state": "post",
+      "status": "FT",
+      "teams": [
+        {
+          "name": "Alverca",
+          "short": "Alverca",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21613.png",
+          "score": "0"
+        },
+        {
+          "name": "Arouca",
+          "short": "Arouca",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15784.png",
+          "score": "1"
+        }
+      ],
+      "venue": "Complexo Desportivo FC Alverca"
+    },
+    {
+      "id": "401885417",
+      "league": "Football",
+      "name": "FC Porto at Gil Vicente",
+      "date": "2026-10-24T19:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Gil Vicente",
+          "short": "Gil Vicente",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3699.png",
+          "score": "0"
+        },
+        {
+          "name": "FC Porto",
+          "short": "FC Porto",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estádio Cidade de Barcelos"
+    },
+    {
+      "id": "401888269",
+      "league": "Football",
+      "name": "Kasimpasa at Eyupspor",
+      "date": "2026-10-24T10:30Z",
+      "state": "post",
+      "status": "FT",
+      "teams": [
+        {
+          "name": "Eyupspor",
+          "short": "Eyupspor",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20729.png",
+          "score": "0"
+        },
+        {
+          "name": "Kasimpasa",
+          "short": "Kasimpasa",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6870.png",
+          "score": "1"
+        }
+      ],
+      "venue": "Esenyurt Necmi Kadioglu Stadi"
     }
   ]
 }
