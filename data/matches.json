@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T11:53:57.798503+00:00",
+  "updated_at": "2026-10-24T12:18:26.549664+00:00",
   "count": 100,
   "items": [
     {
@@ -8,7 +8,7 @@
       "name": "Manchester City at Aston Villa",
       "date": "2026-10-24T11:30Z",
       "state": "in",
-      "status": "22'",
+      "status": "HT",
       "teams": [
         {
           "name": "Aston Villa",
@@ -99,8 +99,8 @@
       "league": "Football",
       "name": "Elche at Rayo Vallecano",
       "date": "2026-10-24T12:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "16'",
       "teams": [
         {
           "name": "Rayo Vallecano",
@@ -951,19 +951,19 @@
       "name": "Arsenal at Tottenham Hotspur",
       "date": "2026-10-24T11:45Z",
       "state": "in",
-      "status": "9'",
+      "status": "33'",
       "teams": [
         {
           "name": "Tottenham Hotspur",
           "short": "Spurs",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20062.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Arsenal",
           "short": "Arsenal",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19973.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Tottenham Hotspur Stadium"
@@ -997,7 +997,7 @@
       "name": "Norwich City at Charlton Athletic",
       "date": "2026-10-24T11:30Z",
       "state": "in",
-      "status": "23'",
+      "status": "45'+3'",
       "teams": [
         {
           "name": "Charlton Athletic",
@@ -1009,7 +1009,7 @@
           "name": "Norwich City",
           "short": "Norwich City",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/381.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "The Valley"
@@ -1020,7 +1020,7 @@
       "name": "Millwall at Portsmouth",
       "date": "2026-10-24T11:30Z",
       "state": "in",
-      "status": "24'",
+      "status": "HT",
       "teams": [
         {
           "name": "Portsmouth",
@@ -1043,7 +1043,7 @@
       "name": "Derby County at Sheffield United",
       "date": "2026-10-24T11:30Z",
       "state": "in",
-      "status": "24'",
+      "status": "45'+3'",
       "teams": [
         {
           "name": "Sheffield United",
@@ -1055,7 +1055,7 @@
           "name": "Derby County",
           "short": "Derby",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/374.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Bramall Lane"
