@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T13:04:51.258576+00:00",
+  "updated_at": "2026-10-24T13:53:20.397543+00:00",
   "count": 100,
   "items": [
     {
@@ -7,8 +7,8 @@
       "league": "Football",
       "name": "Manchester City at Aston Villa",
       "date": "2026-10-24T11:30Z",
-      "state": "in",
-      "status": "77'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Aston Villa",
@@ -100,7 +100,7 @@
       "name": "Elche at Rayo Vallecano",
       "date": "2026-10-24T12:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "86'",
       "teams": [
         {
           "name": "Rayo Vallecano",
@@ -112,7 +112,7 @@
           "name": "Elche",
           "short": "Elche",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "Estadio de Vallecas"
@@ -560,7 +560,7 @@
       "name": "Bologna at Cagliari",
       "date": "2026-10-24T13:00Z",
       "state": "in",
-      "status": "5'",
+      "status": "HT",
       "teams": [
         {
           "name": "Cagliari",
@@ -583,7 +583,7 @@
       "name": "Sassuolo at Como",
       "date": "2026-10-24T13:00Z",
       "state": "in",
-      "status": "3'",
+      "status": "HT",
       "teams": [
         {
           "name": "Como",
@@ -651,8 +651,8 @@
       "league": "Football",
       "name": "1. FC Union Berlin at FC Augsburg",
       "date": "2026-10-24T13:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "23'",
       "teams": [
         {
           "name": "FC Augsburg",
@@ -674,8 +674,8 @@
       "league": "Football",
       "name": "Schalke 04 at FC Cologne",
       "date": "2026-10-24T13:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "23'",
       "teams": [
         {
           "name": "FC Cologne",
@@ -697,8 +697,8 @@
       "league": "Football",
       "name": "Werder Bremen at Mainz",
       "date": "2026-10-24T13:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "23'",
       "teams": [
         {
           "name": "Mainz",
@@ -710,7 +710,7 @@
           "name": "Werder Bremen",
           "short": "Bremen",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "MEWA ARENA"
@@ -720,8 +720,8 @@
       "league": "Football",
       "name": "SV Elversberg at RB Leipzig",
       "date": "2026-10-24T13:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "23'",
       "teams": [
         {
           "name": "RB Leipzig",
@@ -743,8 +743,8 @@
       "league": "Football",
       "name": "Hamburg SV at SC Paderborn 07",
       "date": "2026-10-24T13:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "23'",
       "teams": [
         {
           "name": "SC Paderborn 07",
@@ -950,8 +950,8 @@
       "league": "Football",
       "name": "Arsenal at Tottenham Hotspur",
       "date": "2026-10-24T11:45Z",
-      "state": "in",
-      "status": "63'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Tottenham Hotspur",
@@ -996,8 +996,8 @@
       "league": "Football",
       "name": "Norwich City at Charlton Athletic",
       "date": "2026-10-24T11:30Z",
-      "state": "in",
-      "status": "75'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Charlton Athletic",
@@ -1009,7 +1009,7 @@
           "name": "Norwich City",
           "short": "Norwich City",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/381.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "The Valley"
@@ -1019,14 +1019,14 @@
       "league": "Football",
       "name": "Millwall at Portsmouth",
       "date": "2026-10-24T11:30Z",
-      "state": "in",
-      "status": "77'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Portsmouth",
           "short": "Portsmouth",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/385.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Millwall",
@@ -1042,14 +1042,14 @@
       "league": "Football",
       "name": "Derby County at Sheffield United",
       "date": "2026-10-24T11:30Z",
-      "state": "in",
-      "status": "74'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Sheffield United",
           "short": "Sheffield Utd",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/398.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Derby County",
@@ -1893,8 +1893,8 @@
       "league": "Football",
       "name": "Formartine United at Johnstone Burgh FC",
       "date": "2026-10-24T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "Postponed",
       "teams": [
         {
           "name": "Johnstone Burgh FC",
@@ -2008,8 +2008,8 @@
       "league": "Football",
       "name": "Pollok at Threave Rovers",
       "date": "2026-10-24T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "Postponed",
       "teams": [
         {
           "name": "Threave Rovers",
