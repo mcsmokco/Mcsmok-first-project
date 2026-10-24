@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T17:16:23.406899+00:00",
+  "updated_at": "2026-10-24T17:49:34.586515+00:00",
   "count": 100,
   "items": [
     {
@@ -77,7 +77,7 @@
       "name": "Tottenham Hotspur at Chelsea",
       "date": "2026-10-24T16:30Z",
       "state": "in",
-      "status": "45'",
+      "status": "62'",
       "teams": [
         {
           "name": "Chelsea",
@@ -146,7 +146,7 @@
       "name": "Villarreal at Valencia",
       "date": "2026-10-24T16:30Z",
       "state": "in",
-      "status": "44'",
+      "status": "57'",
       "teams": [
         {
           "name": "Valencia",
@@ -191,8 +191,8 @@
       "league": "Football",
       "name": "Nashville SC at CF Montréal",
       "date": "2026-10-24T17:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "CF Montréal",
@@ -606,19 +606,19 @@
       "name": "AS Roma at Napoli",
       "date": "2026-10-24T16:00Z",
       "state": "in",
-      "status": "57'",
+      "status": "90'",
       "teams": [
         {
           "name": "Napoli",
           "short": "Napoli",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "AS Roma",
           "short": "AS Roma",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Stadio Diego Armando Maradona"
@@ -767,7 +767,7 @@
       "name": "Eintracht Frankfurt at Borussia Dortmund",
       "date": "2026-10-24T16:30Z",
       "state": "in",
-      "status": "45'+1'",
+      "status": "61'",
       "teams": [
         {
           "name": "Borussia Dortmund",
@@ -905,7 +905,7 @@
       "name": "SC Cambuur at Willem II",
       "date": "2026-10-24T16:45Z",
       "state": "in",
-      "status": "31'",
+      "status": "47'",
       "teams": [
         {
           "name": "Willem II",
@@ -974,13 +974,13 @@
       "name": "West Ham United at Brighton & Hove Albion",
       "date": "2026-10-24T16:15Z",
       "state": "in",
-      "status": "HT",
+      "status": "71'",
       "teams": [
         {
           "name": "Brighton & Hove Albion",
           "short": "Brighton",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19976.png",
-          "score": "1"
+          "score": "3"
         },
         {
           "name": "West Ham United",
@@ -1365,7 +1365,7 @@
       "name": "FC Badalona at Dux Logroño",
       "date": "2026-10-24T16:15Z",
       "state": "in",
-      "status": "HT",
+      "status": "75'",
       "teams": [
         {
           "name": "Dux Logroño",
@@ -1457,7 +1457,7 @@
       "name": "Lens at Le Havre AC",
       "date": "2026-10-24T16:00Z",
       "state": "in",
-      "status": "58'",
+      "status": "90'",
       "teams": [
         {
           "name": "Le Havre AC",
@@ -1480,19 +1480,19 @@
       "name": "Strasbourg at Nantes",
       "date": "2026-10-24T16:00Z",
       "state": "in",
-      "status": "58'",
+      "status": "90'+1'",
       "teams": [
         {
           "name": "Nantes",
           "short": "Nantes",
           "logo": "",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "Strasbourg",
           "short": "Strasbourg",
           "logo": "",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Stade Marcel-Saupin"
@@ -1663,8 +1663,8 @@
       "league": "Football",
       "name": "Strathspey Thistle at Brechin City",
       "date": "2026-10-24T14:00Z",
-      "state": "in",
-      "status": "Pens",
+      "state": "post",
+      "status": "FT-Pens",
       "teams": [
         {
           "name": "Brechin City",
