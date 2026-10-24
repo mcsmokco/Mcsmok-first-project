@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T10:17:40.678119+00:00",
+  "updated_at": "2026-10-24T10:53:41.748603+00:00",
   "count": 100,
   "items": [
     {
@@ -1296,7 +1296,7 @@
       "name": "Sevilla at Athletic Club",
       "date": "2026-10-24T10:00Z",
       "state": "in",
-      "status": "18'",
+      "status": "HT",
       "teams": [
         {
           "name": "Athletic Club",
@@ -1319,19 +1319,19 @@
       "name": "Espanyol at Real Sociedad",
       "date": "2026-10-24T10:00Z",
       "state": "in",
-      "status": "18'",
+      "status": "HT",
       "teams": [
         {
           "name": "Real Sociedad",
           "short": "Real Sociedad",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21428.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Espanyol",
           "short": "Espanyol",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21154.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Instalaciones de Zubieta"
@@ -2100,8 +2100,8 @@
       "league": "Football",
       "name": "Melbourne City FC at Melbourne Victory",
       "date": "2026-10-24T08:40Z",
-      "state": "in",
-      "status": "78'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Melbourne Victory",
