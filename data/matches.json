@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T20:50:37.661043+00:00",
+  "updated_at": "2026-10-24T21:14:59.948229+00:00",
   "count": 100,
   "items": [
     {
@@ -168,8 +168,8 @@
       "league": "Football",
       "name": "Deportivo at Atlético Madrid",
       "date": "2026-10-24T19:00Z",
-      "state": "in",
-      "status": "90'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Atlético Madrid",
@@ -215,19 +215,19 @@
       "name": "Toronto FC at Columbus Crew",
       "date": "2026-10-24T19:30Z",
       "state": "in",
-      "status": "50'",
+      "status": "74'",
       "teams": [
         {
           "name": "Columbus Crew",
           "short": "Columbus",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
-          "score": "3"
+          "score": "4"
         },
         {
           "name": "Toronto FC",
           "short": "Toronto",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "ScottsMiracle-Gro Field"
@@ -927,8 +927,8 @@
       "league": "Football",
       "name": "Heerenveen at ADO Den Haag",
       "date": "2026-10-24T19:00Z",
-      "state": "in",
-      "status": "90'+2'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "ADO Den Haag",
@@ -1250,7 +1250,7 @@
       "name": "Tampa Bay Sun FC at Brooklyn FC",
       "date": "2026-10-24T20:00Z",
       "state": "in",
-      "status": "43'",
+      "status": "50'",
       "teams": [
         {
           "name": "Brooklyn FC",
@@ -1502,8 +1502,8 @@
       "league": "Football",
       "name": "Marseille at OL Lyonnes",
       "date": "2026-10-24T19:00Z",
-      "state": "in",
-      "status": "88'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "OL Lyonnes",
@@ -2262,7 +2262,7 @@
       "name": "FC Porto at Gil Vicente",
       "date": "2026-10-24T19:30Z",
       "state": "in",
-      "status": "60'",
+      "status": "85'",
       "teams": [
         {
           "name": "Gil Vicente",
@@ -2274,7 +2274,7 @@
           "name": "FC Porto",
           "short": "FC Porto",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Estádio Cidade de Barcelos"
