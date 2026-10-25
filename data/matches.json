@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T15:53:57.636719+00:00",
+  "updated_at": "2026-10-25T16:17:00.503409+00:00",
   "count": 100,
   "items": [
     {
@@ -7,8 +7,8 @@
       "league": "Football",
       "name": "Newcastle United at Crystal Palace",
       "date": "2026-10-25T14:00Z",
-      "state": "in",
-      "status": "90'+7'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Crystal Palace",
@@ -53,8 +53,8 @@
       "league": "Football",
       "name": "Brighton & Hove Albion at Liverpool",
       "date": "2026-10-25T14:00Z",
-      "state": "in",
-      "status": "90'+5'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Liverpool",
@@ -76,8 +76,8 @@
       "league": "Football",
       "name": "AFC Bournemouth at Manchester United",
       "date": "2026-10-25T14:00Z",
-      "state": "in",
-      "status": "90'+5'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Manchester United",
@@ -146,7 +146,7 @@
       "name": "Real Betis at Celta Vigo",
       "date": "2026-10-25T15:15Z",
       "state": "in",
-      "status": "38'",
+      "status": "HT",
       "teams": [
         {
           "name": "Celta Vigo",
@@ -375,8 +375,8 @@
       "league": "Football",
       "name": "Venezia at Genoa",
       "date": "2026-10-25T14:00Z",
-      "state": "in",
-      "status": "90'+5'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Genoa",
@@ -445,13 +445,13 @@
       "name": "Bayer Leverkusen at TSG Hoffenheim",
       "date": "2026-10-25T14:30Z",
       "state": "in",
-      "status": "63'",
+      "status": "86'",
       "teams": [
         {
           "name": "TSG Hoffenheim",
           "short": "Hoffenheim",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Bayer Leverkusen",
@@ -490,8 +490,8 @@
       "league": "Football",
       "name": "Lille at AS Monaco",
       "date": "2026-10-25T14:00Z",
-      "state": "in",
-      "status": "90'+5'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "AS Monaco",
@@ -513,8 +513,8 @@
       "league": "Football",
       "name": "Le Mans at AJ Auxerre",
       "date": "2026-10-25T16:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "2'",
       "teams": [
         {
           "name": "AJ Auxerre",
@@ -536,8 +536,8 @@
       "league": "Football",
       "name": "Lorient at Angers",
       "date": "2026-10-25T16:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "2'",
       "teams": [
         {
           "name": "Angers",
@@ -559,8 +559,8 @@
       "league": "Football",
       "name": "Le Havre AC at Marseille",
       "date": "2026-10-25T16:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "1'",
       "teams": [
         {
           "name": "Marseille",
@@ -582,8 +582,8 @@
       "league": "Football",
       "name": "Strasbourg at Stade Rennais",
       "date": "2026-10-25T16:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "2'",
       "teams": [
         {
           "name": "Stade Rennais",
@@ -605,8 +605,8 @@
       "league": "Football",
       "name": "Troyes at Toulouse",
       "date": "2026-10-25T16:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "1'",
       "teams": [
         {
           "name": "Toulouse",
@@ -790,7 +790,7 @@
       "name": "Ajax Amsterdam at Sparta Rotterdam",
       "date": "2026-10-25T15:45Z",
       "state": "in",
-      "status": "6'",
+      "status": "29'",
       "teams": [
         {
           "name": "Sparta Rotterdam",
@@ -802,7 +802,7 @@
           "name": "Ajax Amsterdam",
           "short": "Ajax",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Sparta-Stadion Het Kasteel"
@@ -904,14 +904,14 @@
       "league": "Football",
       "name": "London City Lionesses at Liverpool",
       "date": "2026-10-25T14:00Z",
-      "state": "in",
-      "status": "90'+3'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Liverpool",
           "short": "Liverpool ",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19971.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "London City Lionesses",
@@ -996,8 +996,8 @@
       "league": "Football",
       "name": "Bristol Rovers at Abingdon United",
       "date": "2026-10-25T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Abingdon United",
@@ -1009,7 +1009,7 @@
           "name": "Bristol Rovers",
           "short": "Bristol",
           "logo": "",
-          "score": "0"
+          "score": "6"
         }
       ],
       "venue": "The Northcourt"
@@ -1019,8 +1019,8 @@
       "league": "Football",
       "name": "Oxford United at AFC Portchester",
       "date": "2026-10-25T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "AFC Portchester",
@@ -1032,7 +1032,7 @@
           "name": "Oxford United",
           "short": "Oxford Utd",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21043.png",
-          "score": "0"
+          "score": "5"
         }
       ],
       "venue": "Wicor Recreation Ground"
@@ -1042,14 +1042,14 @@
       "league": "Football",
       "name": "Dussindale & Hellesdon at Bedford",
       "date": "2026-10-25T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Bedford",
           "short": "Bedford",
           "logo": "",
-          "score": "0"
+          "score": "5"
         },
         {
           "name": "Dussindale & Hellesdon",
@@ -1065,14 +1065,14 @@
       "league": "Football",
       "name": "Feniton at Bournemouth",
       "date": "2026-10-25T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Bournemouth",
           "short": "Bournemouth",
           "logo": "",
-          "score": "0"
+          "score": "4"
         },
         {
           "name": "Feniton",
@@ -1111,20 +1111,20 @@
       "league": "Football",
       "name": "Hull City at Durham Cestria",
       "date": "2026-10-25T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Durham Cestria",
           "short": "Durham Cestria",
           "logo": "",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Hull City",
           "short": "Hull City",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "J Denham Metals Stadium"
@@ -1134,14 +1134,14 @@
       "league": "Football",
       "name": "Enfield Town at Fulham",
       "date": "2026-10-25T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Fulham",
           "short": "Fulham",
           "logo": "",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Enfield Town",
@@ -1157,8 +1157,8 @@
       "league": "Football",
       "name": "Stockport County at Grimsby Town",
       "date": "2026-10-25T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Grimsby Town",
@@ -1170,7 +1170,7 @@
           "name": "Stockport County",
           "short": "Stockport",
           "logo": "",
-          "score": "0"
+          "score": "5"
         }
       ],
       "venue": "Clee Fields"
@@ -1180,14 +1180,14 @@
       "league": "Football",
       "name": "Yate Town at Gwalia United",
       "date": "2026-10-25T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Gwalia United",
           "short": "Gwalia Utd",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21071.png",
-          "score": "0"
+          "score": "5"
         },
         {
           "name": "Yate Town",
@@ -1226,8 +1226,8 @@
       "league": "Football",
       "name": "Middlesbrough at Huddersfield Town",
       "date": "2026-10-25T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "Postponed",
       "teams": [
         {
           "name": "Huddersfield Town",
@@ -1272,14 +1272,14 @@
       "league": "Football",
       "name": "Mansfield Town at Leafield Athletic",
       "date": "2026-10-25T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Leafield Athletic",
           "short": "Leafield",
           "logo": "",
-          "score": "0"
+          "score": "4"
         },
         {
           "name": "Mansfield Town",
@@ -1318,8 +1318,8 @@
       "league": "Football",
       "name": "Rotherham United at Leeds United",
       "date": "2026-10-25T14:00Z",
-      "state": "post",
-      "status": "Postponed",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
           "name": "Leeds United",
@@ -1341,8 +1341,8 @@
       "league": "Football",
       "name": "Halifax FC at Lincoln FC",
       "date": "2026-10-25T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Lincoln FC",
@@ -1354,7 +1354,7 @@
           "name": "Halifax FC",
           "short": "Halifax",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Sun Hat Villas & Resorts Stadium"
@@ -1410,14 +1410,14 @@
       "league": "Football",
       "name": "Andover New Street at Maidenhead United",
       "date": "2026-10-25T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Maidenhead United",
           "short": "Maidenhead",
           "logo": "",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Andover New Street",
@@ -1433,14 +1433,14 @@
       "league": "Football",
       "name": "Nantwich Town at Milton Keynes Dons",
       "date": "2026-10-25T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Milton Keynes Dons",
           "short": "MK Dons",
           "logo": "",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Nantwich Town",
@@ -1525,20 +1525,20 @@
       "league": "Football",
       "name": "Loughborough at Nottingham Trent University FC",
       "date": "2026-10-25T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Nottingham Trent University FC",
           "short": "Nott Trent",
           "logo": "",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Loughborough",
           "short": "Loughborough",
           "logo": "",
-          "score": "0"
+          "score": "5"
         }
       ],
       "venue": "Clifton Sports Hub"
@@ -1571,20 +1571,20 @@
       "league": "Football",
       "name": "Boldmere St. Michael's at Port Vale",
       "date": "2026-10-25T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Port Vale",
           "short": "Port Vale",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Boldmere St. Michael's",
           "short": "Boldmere",
           "logo": "",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Emerys Stadium"
@@ -1686,8 +1686,8 @@
       "league": "Football",
       "name": "SJR Workshop at South Shields",
       "date": "2026-10-25T14:00Z",
-      "state": "post",
-      "status": "Postponed",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
           "name": "South Shields",
@@ -1778,20 +1778,20 @@
       "league": "Football",
       "name": "Chorley at Thornaby",
       "date": "2026-10-25T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Thornaby",
           "short": "Thornaby",
           "logo": "",
-          "score": "0"
+          "score": "4"
         },
         {
           "name": "Chorley",
           "short": "Chorley",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "GM Flooring Stadium"
@@ -1824,8 +1824,8 @@
       "league": "Football",
       "name": "Chester-le-Street Town at Wigan Athletic",
       "date": "2026-10-25T14:00Z",
-      "state": "post",
-      "status": "Postponed",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
           "name": "Wigan Athletic",
@@ -1847,8 +1847,8 @@
       "league": "Football",
       "name": "Keynsham Town at Winchester City Flyers",
       "date": "2026-10-25T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Winchester City Flyers",
@@ -1860,7 +1860,7 @@
           "name": "Keynsham Town",
           "short": "Keynsham",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Charters Community Stadium"
@@ -2054,8 +2054,8 @@
       "league": "Football",
       "name": "Madrid CFF at Eibar",
       "date": "2026-10-25T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "17'",
       "teams": [
         {
           "name": "Eibar",
@@ -2170,7 +2170,7 @@
       "name": "Moreirense at Estoril",
       "date": "2026-10-25T15:30Z",
       "state": "in",
-      "status": "21'",
+      "status": "44'",
       "teams": [
         {
           "name": "Estoril",
@@ -2182,7 +2182,7 @@
           "name": "Moreirense",
           "short": "Moreirense",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3696.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "Estádio António Coimbra da Mota"
@@ -2284,14 +2284,14 @@
       "league": "Football",
       "name": "Çorum FK at Goztepe",
       "date": "2026-10-25T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "17'",
       "teams": [
         {
           "name": "Goztepe",
           "short": "Goztepe",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/789.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Çorum FK",
