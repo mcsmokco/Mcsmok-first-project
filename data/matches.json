@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T21:51:03.058309+00:00",
+  "updated_at": "2026-10-25T22:13:01.931128+00:00",
   "count": 100,
   "items": [
     {
@@ -191,8 +191,8 @@
       "league": "Football",
       "name": "Real Madrid at Barcelona",
       "date": "2026-10-25T20:00Z",
-      "state": "in",
-      "status": "88'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Barcelona",
@@ -204,7 +204,7 @@
           "name": "Real Madrid",
           "short": "Real Madrid",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Spotify Camp Nou"
@@ -261,7 +261,7 @@
       "name": "Washington Spirit at Kansas City Current",
       "date": "2026-10-25T21:00Z",
       "state": "in",
-      "status": "42'",
+      "status": "HT",
       "teams": [
         {
           "name": "Kansas City Current",
@@ -2193,13 +2193,13 @@
       "name": "Académico de Viseu at Sporting CP",
       "date": "2026-10-25T20:30Z",
       "state": "in",
-      "status": "51'",
+      "status": "73'",
       "teams": [
         {
           "name": "Sporting CP",
           "short": "Sporting",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Académico de Viseu",
