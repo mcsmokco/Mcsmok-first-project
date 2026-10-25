@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T14:53:58.147588+00:00",
+  "updated_at": "2026-10-25T15:16:24.692719+00:00",
   "count": 100,
   "items": [
     {
@@ -8,7 +8,7 @@
       "name": "Newcastle United at Crystal Palace",
       "date": "2026-10-25T14:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "60'",
       "teams": [
         {
           "name": "Crystal Palace",
@@ -20,7 +20,7 @@
           "name": "Newcastle United",
           "short": "Newcastle",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Selhurst Park"
@@ -31,7 +31,7 @@
       "name": "Brentford at Hull City",
       "date": "2026-10-25T14:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "58'",
       "teams": [
         {
           "name": "Hull City",
@@ -54,7 +54,7 @@
       "name": "Brighton & Hove Albion at Liverpool",
       "date": "2026-10-25T14:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "57'",
       "teams": [
         {
           "name": "Liverpool",
@@ -77,7 +77,7 @@
       "name": "AFC Bournemouth at Manchester United",
       "date": "2026-10-25T14:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "58'",
       "teams": [
         {
           "name": "Manchester United",
@@ -122,8 +122,8 @@
       "league": "Football",
       "name": "Getafe at Athletic Club",
       "date": "2026-10-25T13:00Z",
-      "state": "in",
-      "status": "90'+2'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Athletic Club",
@@ -353,19 +353,19 @@
       "name": "Frosinone at Atalanta",
       "date": "2026-10-25T14:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "58'",
       "teams": [
         {
           "name": "Atalanta",
           "short": "Atalanta",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-          "score": "3"
+          "score": "4"
         },
         {
           "name": "Frosinone",
           "short": "Frosinone",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "New Balance Arena"
@@ -376,7 +376,7 @@
       "name": "Venezia at Genoa",
       "date": "2026-10-25T14:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "58'",
       "teams": [
         {
           "name": "Genoa",
@@ -445,7 +445,7 @@
       "name": "Bayer Leverkusen at TSG Hoffenheim",
       "date": "2026-10-25T14:30Z",
       "state": "in",
-      "status": "24'",
+      "status": "45'+1'",
       "teams": [
         {
           "name": "TSG Hoffenheim",
@@ -491,7 +491,7 @@
       "name": "Lille at AS Monaco",
       "date": "2026-10-25T14:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "57'",
       "teams": [
         {
           "name": "AS Monaco",
@@ -744,13 +744,13 @@
       "name": "FC Groningen at NEC Nijmegen",
       "date": "2026-10-25T13:30Z",
       "state": "in",
-      "status": "64'",
+      "status": "87'",
       "teams": [
         {
           "name": "NEC Nijmegen",
           "short": "NEC",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "FC Groningen",
@@ -767,7 +767,7 @@
       "name": "Feyenoord Rotterdam at PSV Eindhoven",
       "date": "2026-10-25T13:30Z",
       "state": "in",
-      "status": "67'",
+      "status": "90'",
       "teams": [
         {
           "name": "PSV Eindhoven",
@@ -859,7 +859,7 @@
       "name": "Charlton Athletic at Birmingham City",
       "date": "2026-10-25T14:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "59'",
       "teams": [
         {
           "name": "Birmingham City",
@@ -882,7 +882,7 @@
       "name": "Aston Villa at Everton",
       "date": "2026-10-25T14:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "59'",
       "teams": [
         {
           "name": "Everton",
@@ -894,7 +894,7 @@
           "name": "Aston Villa",
           "short": "Aston Villa",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20707.png",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "Goodison Park"
@@ -905,7 +905,7 @@
       "name": "London City Lionesses at Liverpool",
       "date": "2026-10-25T14:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "55'",
       "teams": [
         {
           "name": "Liverpool",
@@ -2101,7 +2101,7 @@
       "name": "Heart of Midlothian at Motherwell",
       "date": "2026-10-25T14:00Z",
       "state": "in",
-      "status": "HT",
+      "status": "59'",
       "teams": [
         {
           "name": "Motherwell",
@@ -2261,8 +2261,8 @@
       "league": "Football",
       "name": "Genclerbirligi at Konyaspor",
       "date": "2026-10-25T13:00Z",
-      "state": "in",
-      "status": "90'+4'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Konyaspor",
