@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T13:04:56.985964+00:00",
+  "updated_at": "2026-10-25T13:53:56.275922+00:00",
   "count": 100,
   "items": [
     {
@@ -123,13 +123,13 @@
       "name": "Getafe at Athletic Club",
       "date": "2026-10-25T13:00Z",
       "state": "in",
-      "status": "3'",
+      "status": "HT",
       "teams": [
         {
           "name": "Athletic Club",
           "short": "Athletic",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Getafe",
@@ -329,14 +329,14 @@
       "league": "Football",
       "name": "Fiorentina at Internazionale",
       "date": "2026-10-25T11:30Z",
-      "state": "in",
-      "status": "74'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Internazionale",
           "short": "Inter Milan",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Fiorentina",
@@ -720,14 +720,14 @@
       "league": "Football",
       "name": "Excelsior at Fortuna Sittard",
       "date": "2026-10-25T11:15Z",
-      "state": "in",
-      "status": "89'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Fortuna Sittard",
           "short": "Fortuna",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/143.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Excelsior",
@@ -743,8 +743,8 @@
       "league": "Football",
       "name": "FC Groningen at NEC Nijmegen",
       "date": "2026-10-25T13:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "23'",
       "teams": [
         {
           "name": "NEC Nijmegen",
@@ -756,7 +756,7 @@
           "name": "FC Groningen",
           "short": "FC Groningen",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/145.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Goffertstadion"
@@ -766,14 +766,14 @@
       "league": "Football",
       "name": "Feyenoord Rotterdam at PSV Eindhoven",
       "date": "2026-10-25T13:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "24'",
       "teams": [
         {
           "name": "PSV Eindhoven",
           "short": "PSV",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Feyenoord Rotterdam",
@@ -836,7 +836,7 @@
       "name": "Chelsea at Crystal Palace",
       "date": "2026-10-25T12:00Z",
       "state": "in",
-      "status": "47'",
+      "status": "90'+6'",
       "teams": [
         {
           "name": "Crystal Palace",
@@ -848,7 +848,7 @@
           "name": "Chelsea",
           "short": "Chelsea ",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19970.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "VBS Community Stadium"
@@ -2031,14 +2031,14 @@
       "league": "Football",
       "name": "Alavés at Deportivo",
       "date": "2026-10-25T11:45Z",
-      "state": "in",
-      "status": "60'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Deportivo",
           "short": "Deportivo",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21145.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Alavés",
@@ -2077,8 +2077,8 @@
       "league": "Football",
       "name": "Celtic at Hibernian",
       "date": "2026-10-25T12:00Z",
-      "state": "in",
-      "status": "46'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Hibernian",
@@ -2262,13 +2262,13 @@
       "name": "Genclerbirligi at Konyaspor",
       "date": "2026-10-25T13:00Z",
       "state": "in",
-      "status": "4'",
+      "status": "HT",
       "teams": [
         {
           "name": "Konyaspor",
           "short": "Konyaspor",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7648.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Genclerbirligi",
