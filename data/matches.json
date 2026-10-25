@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T19:21:47.600833+00:00",
+  "updated_at": "2026-10-25T19:49:05.335519+00:00",
   "count": 100,
   "items": [
     {
@@ -168,8 +168,8 @@
       "league": "Football",
       "name": "Levante at Real Sociedad",
       "date": "2026-10-25T17:30Z",
-      "state": "in",
-      "status": "90'+2'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Real Sociedad",
@@ -238,7 +238,7 @@
       "name": "Gotham FC at Orlando Pride",
       "date": "2026-10-25T19:00Z",
       "state": "in",
-      "status": "14'",
+      "status": "41'",
       "teams": [
         {
           "name": "Orlando Pride",
@@ -250,7 +250,7 @@
           "name": "Gotham FC",
           "short": "Gotham",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15364.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Inter&Co Stadium"
@@ -421,8 +421,8 @@
       "league": "Football",
       "name": "AC Milan at Udinese",
       "date": "2026-10-25T19:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "4'",
       "teams": [
         {
           "name": "Udinese",
@@ -813,7 +813,7 @@
       "name": "FC Twente at AZ Alkmaar",
       "date": "2026-10-25T19:00Z",
       "state": "in",
-      "status": "21'",
+      "status": "HT",
       "teams": [
         {
           "name": "AZ Alkmaar",
@@ -928,19 +928,19 @@
       "name": "Manchester City at Manchester United",
       "date": "2026-10-25T18:00Z",
       "state": "in",
-      "status": "65'",
+      "status": "90'+3'",
       "teams": [
         {
           "name": "Manchester United",
           "short": "Man Utd",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20061.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Manchester City",
           "short": "Man City",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19257.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Leigh Sports Village"
@@ -951,7 +951,7 @@
       "name": "Dallas Trinity FC at DC Power FC",
       "date": "2026-10-25T19:00Z",
       "state": "in",
-      "status": "14'",
+      "status": "41'",
       "teams": [
         {
           "name": "DC Power FC",
@@ -2147,7 +2147,7 @@
       "name": "Braga at C.D. Nacional",
       "date": "2026-10-25T18:00Z",
       "state": "in",
-      "status": "58'",
+      "status": "85'",
       "teams": [
         {
           "name": "C.D. Nacional",
@@ -2170,7 +2170,7 @@
       "name": "FC Famalicao at Rio Ave",
       "date": "2026-10-25T18:00Z",
       "state": "in",
-      "status": "61'",
+      "status": "89'",
       "teams": [
         {
           "name": "Rio Ave",
@@ -2182,7 +2182,7 @@
           "name": "FC Famalicao",
           "short": "FC Famalicao",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12698.png",
-          "score": "1"
+          "score": "3"
         }
       ],
       "venue": "Estádio do Rio Ave"
@@ -2262,13 +2262,13 @@
       "name": "Correcaminos UAT at Tlaxcala FC",
       "date": "2026-10-25T18:00Z",
       "state": "in",
-      "status": "59'",
+      "status": "85'",
       "teams": [
         {
           "name": "Tlaxcala FC",
           "short": "Tlaxcala",
           "logo": "https://a.espncdn.com/guid/ad1afdd8-e4fd-3c4b-9a80-4b80924bed85/logos/default.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Correcaminos UAT",
