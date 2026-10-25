@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T17:17:32.350764+00:00",
+  "updated_at": "2026-10-25T17:50:50.438419+00:00",
   "count": 100,
   "items": [
     {
@@ -100,7 +100,7 @@
       "name": "Leeds United at Sunderland",
       "date": "2026-10-25T16:30Z",
       "state": "in",
-      "status": "HT",
+      "status": "64'",
       "teams": [
         {
           "name": "Sunderland",
@@ -168,14 +168,14 @@
       "league": "Football",
       "name": "Levante at Real Sociedad",
       "date": "2026-10-25T17:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "20'",
       "teams": [
         {
           "name": "Real Sociedad",
           "short": "Real Sociedad",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Levante",
@@ -399,7 +399,7 @@
       "name": "Juventus at Lecce",
       "date": "2026-10-25T17:00Z",
       "state": "in",
-      "status": "12'",
+      "status": "45'",
       "teams": [
         {
           "name": "Lecce",
@@ -411,7 +411,7 @@
           "name": "Juventus",
           "short": "Juventus",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Via Del Mare"
@@ -468,7 +468,7 @@
       "name": "Bayern Munich at SC Freiburg",
       "date": "2026-10-25T16:30Z",
       "state": "in",
-      "status": "45'+3'",
+      "status": "61'",
       "teams": [
         {
           "name": "SC Freiburg",
@@ -514,19 +514,19 @@
       "name": "Le Mans at AJ Auxerre",
       "date": "2026-10-25T16:15Z",
       "state": "in",
-      "status": "46'",
+      "status": "79'",
       "teams": [
         {
           "name": "AJ Auxerre",
           "short": "Auxerre",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Le Mans",
           "short": "Le Mans",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stade de l'Abbé-Deschamps"
@@ -537,7 +537,7 @@
       "name": "Lorient at Angers",
       "date": "2026-10-25T16:15Z",
       "state": "in",
-      "status": "HT",
+      "status": "78'",
       "teams": [
         {
           "name": "Angers",
@@ -560,19 +560,19 @@
       "name": "Le Havre AC at Marseille",
       "date": "2026-10-25T16:15Z",
       "state": "in",
-      "status": "HT",
+      "status": "78'",
       "teams": [
         {
           "name": "Marseille",
           "short": "Marseille",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-          "score": "2"
+          "score": "4"
         },
         {
           "name": "Le Havre AC",
           "short": "Le Havre AC",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stade Vélodrome"
@@ -583,13 +583,13 @@
       "name": "Strasbourg at Stade Rennais",
       "date": "2026-10-25T16:15Z",
       "state": "in",
-      "status": "HT",
+      "status": "76'",
       "teams": [
         {
           "name": "Stade Rennais",
           "short": "Rennes",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "Strasbourg",
@@ -606,7 +606,7 @@
       "name": "Troyes at Toulouse",
       "date": "2026-10-25T16:15Z",
       "state": "in",
-      "status": "HT",
+      "status": "78'",
       "teams": [
         {
           "name": "Toulouse",
@@ -789,8 +789,8 @@
       "league": "Football",
       "name": "Ajax Amsterdam at Sparta Rotterdam",
       "date": "2026-10-25T15:45Z",
-      "state": "in",
-      "status": "71'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Sparta Rotterdam",
@@ -1893,8 +1893,8 @@
       "league": "Football",
       "name": "AFC Wimbledon at Hammersmith",
       "date": "2026-10-25T15:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Hammersmith",
@@ -1906,7 +1906,7 @@
           "name": "AFC Wimbledon",
           "short": "Wimbledon",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21218.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Gunnersbury Park Sports Hub"
@@ -1916,8 +1916,8 @@
       "league": "Football",
       "name": "Chesterfield at Harpenden Town",
       "date": "2026-10-25T15:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT-Pens",
       "teams": [
         {
           "name": "Harpenden Town",
@@ -1939,14 +1939,14 @@
       "league": "Football",
       "name": "Sporting Khalsa at Rugby Borough",
       "date": "2026-10-25T15:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Rugby Borough",
           "short": "Rugby",
           "logo": "",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Sporting Khalsa",
@@ -1962,8 +1962,8 @@
       "league": "Football",
       "name": "Chatham Town at Tooting Bec",
       "date": "2026-10-25T15:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Tooting Bec",
@@ -1975,7 +1975,7 @@
           "name": "Chatham Town",
           "short": "Chatham",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Imperial Fields"
@@ -2009,13 +2009,13 @@
       "name": "Madrid CFF at Eibar",
       "date": "2026-10-25T16:00Z",
       "state": "in",
-      "status": "58'",
+      "status": "90'+2'",
       "teams": [
         {
           "name": "Eibar",
           "short": "Eibar",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21376.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Madrid CFF",
@@ -2123,14 +2123,14 @@
       "league": "Football",
       "name": "Moreirense at Estoril",
       "date": "2026-10-25T15:30Z",
-      "state": "in",
-      "status": "86'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Estoril",
           "short": "Estoril",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12216.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Moreirense",
@@ -2239,7 +2239,7 @@
       "name": "Çorum FK at Goztepe",
       "date": "2026-10-25T16:00Z",
       "state": "in",
-      "status": "55'",
+      "status": "89'",
       "teams": [
         {
           "name": "Goztepe",
