@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T07:10:57.129821+00:00",
+  "updated_at": "2026-10-25T07:57:52.684291+00:00",
   "count": 100,
   "items": [
     {
@@ -307,13 +307,13 @@
       "name": "Auckland United FC at Naegohyang",
       "date": "2026-10-25T07:00Z",
       "state": "in",
-      "status": "10'",
+      "status": "HT",
       "teams": [
         {
           "name": "Naegohyang",
           "short": "Naegohyang",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Auckland United FC",
@@ -1774,29 +1774,6 @@
       "venue": "The Central Ground"
     },
     {
-      "id": "401928641",
-      "league": "Football",
-      "name": "Bridgwater United at Swindon Town",
-      "date": "2026-10-25T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Swindon Town",
-          "short": "Swindon Town",
-          "logo": "",
-          "score": "0"
-        },
-        {
-          "name": "Bridgwater United",
-          "short": "Bridgwater Utd",
-          "logo": "",
-          "score": "0"
-        }
-      ],
-      "venue": "The Imagine Cruising Stadium"
-    },
-    {
       "id": "401928633",
       "league": "Football",
       "name": "Chorley at Thornaby",
@@ -2169,8 +2146,8 @@
       "league": "Football",
       "name": "Melbourne City at Sydney FC ",
       "date": "2026-10-25T06:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "5'",
       "teams": [
         {
           "name": "Sydney FC ",
@@ -2301,6 +2278,29 @@
         }
       ],
       "venue": "Medas Konya Büyüksehir Stadyumu"
+    },
+    {
+      "id": "401888376",
+      "league": "Football",
+      "name": "Çorum FK at Goztepe",
+      "date": "2026-10-25T16:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Goztepe",
+          "short": "Goztepe",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/789.png",
+          "score": "0"
+        },
+        {
+          "name": "Çorum FK",
+          "short": "Çorum FK",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132334.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Göztepe Gürsel Aksel Stadi"
     }
   ]
 }
