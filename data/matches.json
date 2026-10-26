@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T19:14:49.869567+00:00",
+  "updated_at": "2026-10-26T19:59:50.628174+00:00",
   "count": 40,
   "items": [
     {
@@ -30,8 +30,8 @@
       "league": "Football",
       "name": "Lyon at Paris Saint-Germain",
       "date": "2026-10-26T19:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "29'",
       "teams": [
         {
           "name": "Paris Saint-Germain",
@@ -54,13 +54,13 @@
       "name": "Benfica at Santa Clara",
       "date": "2026-10-26T18:45Z",
       "state": "in",
-      "status": "27'",
+      "status": "54'",
       "teams": [
         {
           "name": "Santa Clara",
           "short": "Santa Clara",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12215.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Benfica",
@@ -123,19 +123,19 @@
       "name": "Fenerbahce at Galatasaray",
       "date": "2026-10-26T18:30Z",
       "state": "in",
-      "status": "44'",
+      "status": "71'",
       "teams": [
         {
           "name": "Galatasaray",
           "short": "Galatasaray",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
-          "score": "1"
+          "score": "2"
         },
         {
           "name": "Fenerbahce",
           "short": "Fenerbahce",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "RAMS Park"
@@ -238,19 +238,19 @@
       "name": "Al Sadd at Al Qadsiah",
       "date": "2026-10-26T18:15Z",
       "state": "in",
-      "status": "HT",
+      "status": "85'",
       "teams": [
         {
           "name": "Al Qadsiah",
           "short": "Al Qadsiah",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22022.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Al Sadd",
           "short": "Al Sadd",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7135.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Prince Mohammed Bin Fahd Stadium"
@@ -261,13 +261,13 @@
       "name": "Pakhtakor at Al-Quwa Al-Jawiya",
       "date": "2026-10-26T18:15Z",
       "state": "in",
-      "status": "HT",
+      "status": "82'",
       "teams": [
         {
           "name": "Al-Quwa Al-Jawiya",
           "short": "Al-Quwa",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Pakhtakor",
@@ -375,20 +375,20 @@
       "league": "Football",
       "name": "Burgos at FC Andorra",
       "date": "2026-10-26T19:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "28'",
       "teams": [
         {
           "name": "FC Andorra",
           "short": "FC Andorra",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20179.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Burgos",
           "short": "Burgos",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12597.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Estadi de la FAF d'Encamp"
@@ -398,8 +398,8 @@
       "league": "Football",
       "name": "Stade de Reims at Boulogne",
       "date": "2026-10-26T19:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "14'",
       "teams": [
         {
           "name": "Boulogne",
@@ -421,8 +421,8 @@
       "league": "Football",
       "name": "Red Star FC 93 at Montpellier",
       "date": "2026-10-26T19:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "14'",
       "teams": [
         {
           "name": "Montpellier",
@@ -467,14 +467,14 @@
       "league": "Football",
       "name": "Odense Boldklub at F.C. København",
       "date": "2026-10-26T18:00Z",
-      "state": "in",
-      "status": "55'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "F.C. København",
           "short": "København",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/909.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Odense Boldklub",
@@ -560,7 +560,7 @@
       "name": "San Miguel at Defensores de Belgrano",
       "date": "2026-10-26T18:30Z",
       "state": "in",
-      "status": "45'+1'",
+      "status": "73'",
       "teams": [
         {
           "name": "Defensores de Belgrano",
@@ -582,14 +582,14 @@
       "league": "Football",
       "name": "Villa San Carlos at UAI Urquiza",
       "date": "2026-10-26T18:00Z",
-      "state": "in",
-      "status": "50'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "UAI Urquiza",
           "short": "UAI Urquiza",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17705.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Villa San Carlos",
