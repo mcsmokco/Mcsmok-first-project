@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T06:00:12.708302+00:00",
+  "updated_at": "2026-10-28T12:36:35.265381+00:00",
   "count": 100,
   "items": [
     {
@@ -442,14 +442,14 @@
     {
       "id": "401928514",
       "league": "Football",
-      "name": "Alavés at Anaitasuna",
+      "name": "Alavés at ANAITASUNA",
       "date": "2026-10-28T18:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Anaitasuna",
-          "short": "Anaitasuna",
+          "name": "ANAITASUNA",
+          "short": "ANAITASUNA",
           "logo": "",
           "score": "0"
         },
@@ -1939,20 +1939,20 @@
       "league": "Football",
       "name": "Buriram United at Gamba Osaka",
       "date": "2026-10-28T10:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Gamba Osaka",
           "short": "Gamba Osaka",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7102.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Buriram United",
           "short": "Buriram",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7138.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Suita City Football Stadium"
@@ -1962,14 +1962,14 @@
       "league": "Football",
       "name": "Pohang Steelers at Kashima Antlers",
       "date": "2026-10-28T10:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Kashima Antlers",
           "short": "Kashima",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7115.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Pohang Steelers",
@@ -1985,8 +1985,8 @@
       "league": "Football",
       "name": "Melbourne Victory at Persib Bandung",
       "date": "2026-10-28T12:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "21'",
       "teams": [
         {
           "name": "Persib Bandung",
@@ -2008,8 +2008,8 @@
       "league": "Football",
       "name": "FC Seoul at The Cong-Viettel FC",
       "date": "2026-10-28T12:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "21'",
       "teams": [
         {
           "name": "The Cong-Viettel FC",
@@ -2021,7 +2021,7 @@
           "name": "FC Seoul",
           "short": "FC Seoul",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Háng Day Stadium"
