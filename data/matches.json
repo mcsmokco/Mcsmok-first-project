@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T08:43:20.407767+00:00",
+  "updated_at": "2026-10-29T15:46:57.058924+00:00",
   "count": 100,
   "items": [
     {
@@ -375,8 +375,8 @@
       "league": "Football",
       "name": "Real Jaen CF at Mijas Las Lagunas",
       "date": "2026-10-29T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "Postponed",
       "teams": [
         {
           "name": "Mijas Las Lagunas",
@@ -881,20 +881,20 @@
       "league": "Football",
       "name": "Al Hazem at Al Khaleej",
       "date": "2026-10-29T14:35Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "46'",
       "teams": [
         {
           "name": "Al Khaleej",
           "short": "Al Khaleej",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21829.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Al Hazem",
           "short": "Al Hazem",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21964.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Prince Mohammed Bin Fahd Stadium"
@@ -950,8 +950,8 @@
       "league": "Football",
       "name": "Lion City Sailors FC at Adelaide United FC",
       "date": "2026-10-29T07:45Z",
-      "state": "in",
-      "status": "HT",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Adelaide United FC",
@@ -963,7 +963,7 @@
           "name": "Lion City Sailors FC",
           "short": "LC Sailors",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8040.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Hindmarsh Stadium"
@@ -973,14 +973,14 @@
       "league": "Football",
       "name": "Kuching City at Gangwon FC",
       "date": "2026-10-29T10:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Gangwon FC",
           "short": "Gangwon",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Kuching City",
@@ -994,22 +994,22 @@
     {
       "id": "401912776",
       "league": "Football",
-      "name": "Preah Khan Reach Svay Rieng FC at Tampines Rovers FC",
+      "name": "PKR Svay Rieng at Tampines Rovers FC",
       "date": "2026-10-29T10:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Tampines Rovers FC",
           "short": "Tampines Rovers",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7998.png",
-          "score": "0"
+          "score": "1"
         },
         {
-          "name": "Preah Khan Reach Svay Rieng FC",
+          "name": "PKR Svay Rieng",
           "short": "Svay Rieng",
           "logo": "",
-          "score": "0"
+          "score": "5"
         }
       ],
       "venue": "Jalan Besar Stadium"
@@ -1019,14 +1019,14 @@
       "league": "Football",
       "name": "Kitchee SC at Phnom Penh Crown FC",
       "date": "2026-10-29T12:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Phnom Penh Crown FC",
           "short": "Phnom Penh",
           "logo": "",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Kitchee SC",
@@ -1042,8 +1042,8 @@
       "league": "Football",
       "name": "Machida Zelvia at Shanghai Shenhua FC",
       "date": "2026-10-29T12:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Shanghai Shenhua FC",
@@ -1055,7 +1055,7 @@
           "name": "Machida Zelvia",
           "short": "Machida Zelvia",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22167.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Shanghai Stadium"
@@ -1065,8 +1065,8 @@
       "league": "Football",
       "name": "BG Pathum United at Tai Po FC",
       "date": "2026-10-29T12:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Tai Po FC",
@@ -1078,7 +1078,7 @@
           "name": "BG Pathum United",
           "short": "BG Pathum Utd",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8519.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Mong Kok Stadium"
@@ -1157,8 +1157,8 @@
       "league": "Football",
       "name": "France U17 at China PR U17",
       "date": "2026-10-29T15:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "45'+1'",
       "teams": [
         {
           "name": "China PR U17",
@@ -1180,14 +1180,14 @@
       "league": "Football",
       "name": "Mexico U17 at Nigeria U17",
       "date": "2026-10-29T15:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "45'+1'",
       "teams": [
         {
           "name": "Nigeria U17",
           "short": "Nigeria",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nga.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Mexico U17",
