@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T06:42:37.639666+00:00",
+  "updated_at": "2026-10-30T13:45:29.841879+00:00",
   "count": 100,
   "items": [
     {
@@ -237,20 +237,20 @@
       "league": "Football",
       "name": "Auckland FC at Brisbane Roar FC",
       "date": "2026-10-30T09:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Brisbane Roar FC",
           "short": "Brisbane",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5326.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Auckland FC",
           "short": "Auckland",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22344.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Suncorp Stadium"
@@ -260,8 +260,8 @@
       "league": "Football",
       "name": "Al Ittihad at Abha",
       "date": "2026-10-30T12:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "56'",
       "teams": [
         {
           "name": "Abha",
@@ -273,7 +273,7 @@
           "name": "Al Ittihad",
           "short": "Al Ittihad",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2276.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Prince Sultan bin Abdulaziz Sports City Stadium"
@@ -1502,8 +1502,8 @@
       "league": "Football",
       "name": "Nagaland United SC at Real Kashmir",
       "date": "2026-10-30T13:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "43'",
       "teams": [
         {
           "name": "Real Kashmir",
@@ -1515,7 +1515,7 @@
           "name": "Nagaland United SC",
           "short": "Nagaland",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "TRC Turf Ground"
