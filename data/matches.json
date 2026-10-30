@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T13:45:29.841879+00:00",
+  "updated_at": "2026-10-30T18:56:55.685364+00:00",
   "count": 100,
   "items": [
     {
@@ -53,20 +53,20 @@
       "league": "Football",
       "name": "Paris Saint-Germain at Le Havre AC",
       "date": "2026-10-30T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "HT",
       "teams": [
         {
           "name": "Le Havre AC",
           "short": "Le Havre AC",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Paris Saint-Germain",
           "short": "PSG",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Stade Océane"
@@ -76,20 +76,20 @@
       "league": "Football",
       "name": "Stade Rennais at Nice",
       "date": "2026-10-30T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "HT",
       "teams": [
         {
           "name": "Nice",
           "short": "Nice",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Stade Rennais",
           "short": "Rennes",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Allianz Riviera"
@@ -260,14 +260,14 @@
       "league": "Football",
       "name": "Al Ittihad at Abha",
       "date": "2026-10-30T12:30Z",
-      "state": "in",
-      "status": "56'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Abha",
           "short": "Abha",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21833.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Al Ittihad",
@@ -283,20 +283,20 @@
       "league": "Football",
       "name": "Neom SC at Al Diriyah",
       "date": "2026-10-30T14:50Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Al Diriyah",
           "short": "Al Diriyah",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131746.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Neom SC",
           "short": "Neom SC",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/130899.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Al-Awwal Park"
@@ -306,20 +306,20 @@
       "league": "Football",
       "name": "Al Ahli at Al Shabab",
       "date": "2026-10-30T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "HT",
       "teams": [
         {
           "name": "Al Shabab",
           "short": "Al Shabab",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/793.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Al Ahli",
           "short": "Al Ahli",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8346.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Al-Shabab Club Stadium"
@@ -352,8 +352,8 @@
       "league": "Football",
       "name": "Galatasaray at Konyaspor",
       "date": "2026-10-30T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Konyaspor",
@@ -365,7 +365,7 @@
           "name": "Galatasaray",
           "short": "Galatasaray",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
-          "score": "0"
+          "score": "4"
         }
       ],
       "venue": "Medas Konya Büyüksehir Stadyumu"
@@ -627,7 +627,7 @@
       "id": "401924399",
       "league": "Football",
       "name": "Pumas UNAM at Monterrey",
-      "date": "2026-10-31T03:10Z",
+      "date": "2026-10-31T03:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
@@ -674,20 +674,20 @@
       "league": "Football",
       "name": "TSV Eintracht Braunschweig at Arminia Bielefeld",
       "date": "2026-10-30T17:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "66'",
       "teams": [
         {
           "name": "Arminia Bielefeld",
           "short": "Bielefeld",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2506.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "TSV Eintracht Braunschweig",
           "short": "E Braunschweig",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3067.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "SchücoArena"
@@ -697,14 +697,14 @@
       "league": "Football",
       "name": "VfL Bochum at Energie Cottbus",
       "date": "2026-10-30T17:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "66'",
       "teams": [
         {
           "name": "Energie Cottbus",
           "short": "Cottbus",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/123.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "VfL Bochum",
@@ -835,8 +835,8 @@
       "league": "Football",
       "name": "TSV Hartberg at Grazer AK",
       "date": "2026-10-30T18:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "27'",
       "teams": [
         {
           "name": "Grazer AK",
@@ -848,7 +848,7 @@
           "name": "TSV Hartberg",
           "short": "TSV Hartberg",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6907.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Merkur Arena"
@@ -1019,20 +1019,20 @@
       "league": "Football",
       "name": "Randers FC at Lyngby Boldklub",
       "date": "2026-10-30T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "HT",
       "teams": [
         {
           "name": "Lyngby Boldklub",
           "short": "Lyngby",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7860.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Randers FC",
           "short": "Randers",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3132.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Lyngby Stadion"
@@ -1042,20 +1042,20 @@
       "league": "Football",
       "name": "Viking FK at Bodo/Glimt",
       "date": "2026-10-30T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "HT",
       "teams": [
         {
           "name": "Bodo/Glimt",
           "short": "Bodo/Glimt",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Viking FK",
           "short": "Viking FK",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Aspmyra Stadion"
@@ -1479,20 +1479,20 @@
       "league": "Football",
       "name": "Bengaluru FC at NorthEast United FC",
       "date": "2026-10-30T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "NorthEast United FC",
           "short": "NorthEast",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18004.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Bengaluru FC",
           "short": "Bengaluru",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18851.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Indira Gandhi Stadium"
@@ -1502,20 +1502,20 @@
       "league": "Football",
       "name": "Nagaland United SC at Real Kashmir",
       "date": "2026-10-30T13:00Z",
-      "state": "in",
-      "status": "43'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Real Kashmir",
           "short": "Real Kashmir",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19341.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Nagaland United SC",
           "short": "Nagaland",
           "logo": "",
-          "score": "2"
+          "score": "3"
         }
       ],
       "venue": "TRC Turf Ground"
@@ -1525,20 +1525,20 @@
       "league": "Football",
       "name": "Siwelele at Marumo Gallants",
       "date": "2026-10-30T17:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "67'",
       "teams": [
         {
           "name": "Marumo Gallants",
           "short": "Marumo",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/13317.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Siwelele",
           "short": "Siwelele",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131361.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Royal Bafokeng Stadium"
@@ -1548,8 +1548,8 @@
       "league": "Football",
       "name": "Holy Cross at American University",
       "date": "2026-10-30T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "82'",
       "teams": [
         {
           "name": "American University",
@@ -1571,8 +1571,8 @@
       "league": "Football",
       "name": "Northern Kentucky at Oakland",
       "date": "2026-10-30T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "45'",
       "teams": [
         {
           "name": "Oakland",
