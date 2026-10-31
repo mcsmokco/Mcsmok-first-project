@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T08:00:26.036666+00:00",
+  "updated_at": "2026-10-31T14:40:09.567423+00:00",
   "count": 100,
   "items": [
     {
@@ -7,14 +7,14 @@
       "league": "Football",
       "name": "Manchester United at Chelsea",
       "date": "2026-10-31T12:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Chelsea",
           "short": "Chelsea",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Manchester United",
@@ -191,8 +191,8 @@
       "league": "Football",
       "name": "Atlético Madrid at Levante",
       "date": "2026-10-31T13:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "81'",
       "teams": [
         {
           "name": "Levante",
@@ -204,7 +204,7 @@
           "name": "Atlético Madrid",
           "short": "Atlético",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Estadi Ciutat de València"
@@ -490,20 +490,20 @@
       "league": "Football",
       "name": "Monza at Bologna",
       "date": "2026-10-31T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "39'",
       "teams": [
         {
           "name": "Bologna",
           "short": "Bologna",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Monza",
           "short": "Monza",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Renato Dall'Ara"
@@ -559,8 +559,8 @@
       "league": "Football",
       "name": "VfB Stuttgart at Bayer Leverkusen",
       "date": "2026-10-31T14:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "Bayer Leverkusen",
@@ -582,8 +582,8 @@
       "league": "Football",
       "name": "SC Paderborn 07 at Borussia Mönchengladbach",
       "date": "2026-10-31T14:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "Borussia Mönchengladbach",
@@ -605,8 +605,8 @@
       "league": "Football",
       "name": "SC Freiburg at FC Augsburg",
       "date": "2026-10-31T14:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "FC Augsburg",
@@ -628,8 +628,8 @@
       "league": "Football",
       "name": "RB Leipzig at Schalke 04",
       "date": "2026-10-31T14:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "Schalke 04",
@@ -651,8 +651,8 @@
       "league": "Football",
       "name": "TSG Hoffenheim at Werder Bremen",
       "date": "2026-10-31T14:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "Werder Bremen",
@@ -927,8 +927,8 @@
       "league": "Football",
       "name": "Manchester United at Everton",
       "date": "2026-10-31T12:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Everton",
@@ -950,20 +950,20 @@
       "league": "Football",
       "name": "Birmingham City at Lincoln City",
       "date": "2026-10-31T12:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Lincoln City",
           "short": "Lincoln City",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/314.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Birmingham City",
           "short": "Birmingham",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/392.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "LNER Stadium"
@@ -973,20 +973,20 @@
       "league": "Football",
       "name": "Watford at Norwich City",
       "date": "2026-10-31T12:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Norwich City",
           "short": "Norwich City",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/381.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Watford",
           "short": "Watford",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/395.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Carrow Road"
@@ -996,14 +996,14 @@
       "league": "Football",
       "name": "Preston North End at Stoke City",
       "date": "2026-10-31T12:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Stoke City",
           "short": "Stoke",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/336.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Preston North End",
@@ -1272,20 +1272,20 @@
       "league": "Football",
       "name": "Atlético Madrid at Granada",
       "date": "2026-10-31T11:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Granada",
           "short": "Granada",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21140.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Atlético Madrid",
           "short": "Atlético Madrid",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20093.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Ciudad Deportiva del Granada CF"
@@ -1295,20 +1295,20 @@
       "league": "Football",
       "name": "Eibar at Valencia",
       "date": "2026-10-31T11:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Valencia",
           "short": "Valencia",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21374.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Eibar",
           "short": "Eibar",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21376.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Estadio Antonio Puchades"
@@ -1525,20 +1525,20 @@
       "league": "Football",
       "name": "Banks O'Dee at Cumbernauld Colts",
       "date": "2026-10-31T15:00Z",
-      "state": "post",
-      "status": "Susp",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
           "name": "Cumbernauld Colts",
           "short": "Cumbernauld",
           "logo": "",
-          "score": "3"
+          "score": "0"
         },
         {
           "name": "Banks O'Dee",
           "short": "Banks O'Dee",
           "logo": "",
-          "score": "2"
+          "score": "0"
         }
       ],
       "venue": "Broadwood Stadium"
@@ -1686,8 +1686,8 @@
       "league": "Football",
       "name": "Western Sydney Wanderers FC at Macarthur FC",
       "date": "2026-10-31T08:40Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Macarthur FC",
@@ -1755,14 +1755,14 @@
       "league": "Football",
       "name": "Al Ettifaq at Al Taawoun",
       "date": "2026-10-31T13:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "47'",
       "teams": [
         {
           "name": "Al Taawoun",
           "short": "Al Taawoun",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18459.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Al Ettifaq",
@@ -1870,20 +1870,20 @@
       "league": "Football",
       "name": "Çorum FK at Erzurum BB",
       "date": "2026-10-31T10:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Erzurum BB",
           "short": "Erzurum",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19267.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Çorum FK",
           "short": "Çorum FK",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132334.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Erzurum Kazim Karabekir"
@@ -1893,8 +1893,8 @@
       "league": "Football",
       "name": "Caykur Rizespor at Kocaelispor",
       "date": "2026-10-31T13:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "81'",
       "teams": [
         {
           "name": "Kocaelispor",
@@ -2123,14 +2123,14 @@
       "league": "Football",
       "name": "Fakel Voronezh at Rubin Kazan",
       "date": "2026-10-31T12:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Rubin Kazan",
           "short": " Rubin Kazan",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3851.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Fakel Voronezh",
@@ -2146,14 +2146,14 @@
       "league": "Football",
       "name": "Akhmat Grozny at Dinamo Moscow",
       "date": "2026-10-31T14:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "7'",
       "teams": [
         {
           "name": "Dinamo Moscow",
           "short": "Dinamo Moscow",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/596.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Akhmat Grozny",
@@ -2284,8 +2284,8 @@
       "league": "Football",
       "name": "Girona at Real Sociedad II",
       "date": "2026-10-31T13:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "79'",
       "teams": [
         {
           "name": "Real Sociedad II",
