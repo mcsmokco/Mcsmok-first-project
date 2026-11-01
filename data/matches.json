@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T19:19:18.614792+00:00",
+  "updated_at": "2026-11-01T22:56:29.295162+00:00",
   "count": 100,
   "items": [
     {
@@ -76,8 +76,8 @@
       "league": "Football",
       "name": "Valencia at Elche",
       "date": "2026-11-01T17:30Z",
-      "state": "in",
-      "status": "89'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Elche",
@@ -99,20 +99,20 @@
       "league": "Football",
       "name": "Real Sociedad at Athletic Club",
       "date": "2026-11-01T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Athletic Club",
           "short": "Athletic",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Real Sociedad",
           "short": "Real Sociedad",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "San Mamés"
@@ -122,20 +122,20 @@
       "league": "Football",
       "name": "Seattle Sounders FC at Vancouver Whitecaps",
       "date": "2026-11-01T20:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Vancouver Whitecaps",
           "short": "Vancouver",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png",
-          "score": "0"
+          "score": "5"
         },
         {
           "name": "Seattle Sounders FC",
           "short": "Seattle",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "BC Place"
@@ -145,14 +145,14 @@
       "league": "Football",
       "name": "Toronto FC at Atlanta United FC",
       "date": "2026-11-01T21:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "57'",
       "teams": [
         {
           "name": "Atlanta United FC",
           "short": "Atlanta",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Toronto FC",
@@ -168,20 +168,20 @@
       "league": "Football",
       "name": "Red Bull New York at Nashville SC",
       "date": "2026-11-01T21:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "50'",
       "teams": [
         {
           "name": "Nashville SC",
           "short": "Nashville",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Red Bull New York",
           "short": "Red Bull NY",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "GEODIS Park"
@@ -260,20 +260,20 @@
       "league": "Football",
       "name": "Boston Legacy FC at Angel City FC",
       "date": "2026-11-01T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "HT",
       "teams": [
         {
           "name": "Angel City FC",
           "short": "Angel City",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21422.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Boston Legacy FC",
           "short": "Boston",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131562.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Dignity Health Sports Park"
@@ -283,8 +283,8 @@
       "league": "Football",
       "name": "San Diego Wave FC at Bay FC",
       "date": "2026-11-01T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "45'+3'",
       "teams": [
         {
           "name": "Bay FC",
@@ -296,7 +296,7 @@
           "name": "San Diego Wave FC",
           "short": "San Diego",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21423.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "PayPal Park"
@@ -306,14 +306,14 @@
       "league": "Football",
       "name": "Utah Royals at Gotham FC",
       "date": "2026-11-01T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "45'+2'",
       "teams": [
         {
           "name": "Gotham FC",
           "short": "Gotham",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15364.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Utah Royals",
@@ -329,8 +329,8 @@
       "league": "Football",
       "name": "Portland Thorns FC at Houston Dash",
       "date": "2026-11-01T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "45'+3'",
       "teams": [
         {
           "name": "Houston Dash",
@@ -342,7 +342,7 @@
           "name": "Portland Thorns FC",
           "short": "Portland",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15362.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Shell Energy Stadium"
@@ -352,8 +352,8 @@
       "league": "Football",
       "name": "Denver Summit FC at North Carolina Courage",
       "date": "2026-11-01T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "HT",
       "teams": [
         {
           "name": "North Carolina Courage",
@@ -375,8 +375,8 @@
       "league": "Football",
       "name": "Kansas City Current at Racing Louisville FC",
       "date": "2026-11-01T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "HT",
       "teams": [
         {
           "name": "Racing Louisville FC",
@@ -388,7 +388,7 @@
           "name": "Kansas City Current",
           "short": "Kansas City",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20907.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Lynn Family Stadium"
@@ -398,8 +398,8 @@
       "league": "Football",
       "name": "Orlando Pride at Seattle Reign FC",
       "date": "2026-11-01T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "HT",
       "teams": [
         {
           "name": "Seattle Reign FC",
@@ -421,8 +421,8 @@
       "league": "Football",
       "name": "Chicago Stars FC at Washington Spirit",
       "date": "2026-11-01T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "HT",
       "teams": [
         {
           "name": "Washington Spirit",
@@ -536,14 +536,14 @@
       "league": "Football",
       "name": "Napoli at Juventus",
       "date": "2026-11-01T19:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Juventus",
           "short": "Juventus",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Napoli",
@@ -674,14 +674,14 @@
       "league": "Football",
       "name": "Toulouse at Marseille",
       "date": "2026-11-01T19:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Marseille",
           "short": "Marseille",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Toulouse",
@@ -973,8 +973,8 @@
       "league": "Football",
       "name": "Fort Lauderdale United FC at Dallas Trinity FC",
       "date": "2026-11-01T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "HT",
       "teams": [
         {
           "name": "Dallas Trinity FC",
@@ -996,8 +996,8 @@
       "league": "Football",
       "name": "DC Power FC at Tampa Bay Sun FC",
       "date": "2026-11-01T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "HT",
       "teams": [
         {
           "name": "Tampa Bay Sun FC",
@@ -1009,7 +1009,7 @@
           "name": "DC Power FC",
           "short": "DC Power",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131450.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Suncoast Credit Union Field"
@@ -1341,8 +1341,8 @@
       "league": "Football",
       "name": "Real Madrid at Sevilla",
       "date": "2026-11-01T18:00Z",
-      "state": "in",
-      "status": "60'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Sevilla",
@@ -1354,7 +1354,7 @@
           "name": "Real Madrid",
           "short": "Real Madrid",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21128.png",
-          "score": "1"
+          "score": "3"
         }
       ],
       "venue": "Estadio Jesús Navas"
@@ -1571,14 +1571,14 @@
       "league": "Football",
       "name": "Rio Ave at Académico de Viseu",
       "date": "2026-11-01T18:00Z",
-      "state": "in",
-      "status": "57'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Académico de Viseu",
           "short": "Académico",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21607.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Rio Ave",
@@ -1594,8 +1594,8 @@
       "league": "Football",
       "name": "Santa Clara at Maritimo",
       "date": "2026-11-01T18:00Z",
-      "state": "in",
-      "status": "60'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Maritimo",
@@ -1607,7 +1607,7 @@
           "name": "Santa Clara",
           "short": "Santa Clara",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12215.png",
-          "score": "1"
+          "score": "2"
         }
       ],
       "venue": "Estádio do Marítimo"
@@ -1617,14 +1617,14 @@
       "league": "Football",
       "name": "FC Famalicao at Braga",
       "date": "2026-11-01T20:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Braga",
           "short": "Braga",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2994.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "FC Famalicao",
@@ -1732,20 +1732,20 @@
       "league": "Football",
       "name": "Colorado Springs Switchbacks FC at Lexington",
       "date": "2026-11-01T19:00Z",
-      "state": "in",
-      "status": "10'",
+      "state": "post",
+      "status": "FT-Pens",
       "teams": [
         {
           "name": "Lexington",
           "short": "Lexington",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21822.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Colorado Springs Switchbacks FC",
           "short": "Switchbacks FC",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17830.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Lexington Stadium"
@@ -1847,14 +1847,14 @@
       "league": "Football",
       "name": "Tepatitlán FC at Leones Negros",
       "date": "2026-11-01T18:00Z",
-      "state": "in",
-      "status": "55'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Leones Negros",
           "short": "U de G",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10129.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "Tepatitlán FC",
@@ -1870,8 +1870,8 @@
       "league": "Football",
       "name": "FC Juárez at Puebla",
       "date": "2026-11-01T18:00Z",
-      "state": "in",
-      "status": "57'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Puebla",
@@ -1893,14 +1893,14 @@
       "league": "Football",
       "name": "Atlante at América",
       "date": "2026-11-01T21:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "HT",
       "teams": [
         {
           "name": "América",
           "short": "América",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22415.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Atlante",
@@ -2077,8 +2077,8 @@
       "league": "Football",
       "name": "KAA Gent at Lommel SK",
       "date": "2026-11-01T17:30Z",
-      "state": "in",
-      "status": "90'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Lommel SK",
@@ -2100,20 +2100,20 @@
       "league": "Football",
       "name": "RAAL La Louvière at Royal Charleroi SC",
       "date": "2026-11-01T18:15Z",
-      "state": "in",
-      "status": "HT",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Royal Charleroi SC",
           "short": "Royal Charleroi",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3616.png",
-          "score": "2"
+          "score": "5"
         },
         {
           "name": "RAAL La Louvière",
           "short": "La Louvière",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131235.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Stade du Pays de Charleroi"
@@ -2169,8 +2169,8 @@
       "league": "Football",
       "name": "Castellón at Burgos",
       "date": "2026-11-01T17:30Z",
-      "state": "in",
-      "status": "90'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Burgos",
@@ -2186,29 +2186,6 @@
         }
       ],
       "venue": "Estadio Municipal de El Plantío"
-    },
-    {
-      "id": "401883144",
-      "league": "Football",
-      "name": "FC Andorra at Tenerife",
-      "date": "2026-11-01T20:00Z",
-      "state": "post",
-      "status": "Postponed",
-      "teams": [
-        {
-          "name": "Tenerife",
-          "short": "Tenerife",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/245.png",
-          "score": "0"
-        },
-        {
-          "name": "FC Andorra",
-          "short": "FC Andorra",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20179.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Estadio Heliodoro Rodríguez López"
     },
     {
       "id": "401885072",
@@ -2301,6 +2278,29 @@
         }
       ],
       "venue": "Stadio Città di Arezzo"
+    },
+    {
+      "id": "401899565",
+      "league": "Football",
+      "name": "Juve Stabia at Empoli",
+      "date": "2026-11-01T14:00Z",
+      "state": "post",
+      "status": "FT",
+      "teams": [
+        {
+          "name": "Empoli",
+          "short": "Empoli",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2574.png",
+          "score": "2"
+        },
+        {
+          "name": "Juve Stabia",
+          "short": "Juve Stabia",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3975.png",
+          "score": "2"
+        }
+      ],
+      "venue": "Stadio Carlo Castellani - Computer Gross Arena"
     }
   ]
 }
