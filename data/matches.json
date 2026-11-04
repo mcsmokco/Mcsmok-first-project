@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T10:18:51.037438+00:00",
+  "updated_at": "2026-11-04T18:10:55.566672+00:00",
   "count": 100,
   "items": [
     {
@@ -7,14 +7,14 @@
       "league": "Football",
       "name": "Real Madrid at AEK Athens",
       "date": "2026-11-04T17:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "23'",
       "teams": [
         {
           "name": "AEK Athens",
           "short": "AEK Athens",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Real Madrid",
@@ -30,8 +30,8 @@
       "league": "Football",
       "name": "Liverpool at Fenerbahce",
       "date": "2026-11-04T17:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "23'",
       "teams": [
         {
           "name": "Fenerbahce",
@@ -352,8 +352,8 @@
       "league": "Football",
       "name": "Olympiacos at Stade Rennais",
       "date": "2026-11-04T15:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Stade Rennais",
@@ -374,7 +374,7 @@
       "id": "401933098",
       "league": "Football",
       "name": "Siroco Les Abymes at Sporting Club Baie-Mahault",
-      "date": "2026-11-04T17:00Z",
+      "date": "2026-11-04T19:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
@@ -391,7 +391,7 @@
           "score": "0"
         }
       ],
-      "venue": ""
+      "venue": "Stade Omnisports Fiesque Duchesne"
     },
     {
       "id": "401880175",
@@ -465,22 +465,22 @@
     {
       "id": "401933038",
       "league": "Football",
-      "name": "Congo DR at SAO TOME E PRINCIPE WOMEN",
+      "name": "Congo at Sao Tome E Principe",
       "date": "2026-11-04T12:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
-          "name": "SAO TOME E PRINCIPE WOMEN",
-          "short": "SAOTOMEW",
+          "name": "Sao Tome E Principe",
+          "short": "Sao Tome",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
-          "name": "Congo DR",
-          "short": "Congo DR",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cod.png",
-          "score": "0"
+          "name": "Congo",
+          "short": "Congo",
+          "logo": "",
+          "score": "4"
         }
       ],
       "venue": ""
@@ -488,22 +488,22 @@
     {
       "id": "401933059",
       "league": "Football",
-      "name": "CHAD WOMEN at CENTRAL AFRICAN REPUBLIC WOMEN",
+      "name": "Chad at Central African Republic",
       "date": "2026-11-04T15:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
-          "name": "CENTRAL AFRICAN REPUBLIC WOMEN",
-          "short": "CENAFRICAW",
+          "name": "Central African Republic",
+          "short": "Central African",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
-          "name": "CHAD WOMEN",
+          "name": "Chad",
           "short": "Chad",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": ""
@@ -605,20 +605,20 @@
       "league": "Football",
       "name": "Gamba Osaka at Pohang Steelers",
       "date": "2026-11-04T10:00Z",
-      "state": "in",
-      "status": "18'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Pohang Steelers",
           "short": "Pohang Steelers",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9693.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Gamba Osaka",
           "short": "Gamba Osaka",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7102.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Steelyard Stadium"
@@ -628,8 +628,8 @@
       "league": "Football",
       "name": "Kashima Antlers at Buriram United",
       "date": "2026-11-04T12:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Buriram United",
@@ -674,14 +674,14 @@
       "league": "Football",
       "name": "The Cong-Viettel FC at FC Seoul",
       "date": "2026-11-04T10:00Z",
-      "state": "in",
-      "status": "18'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "FC Seoul",
           "short": "FC Seoul",
           "logo": "",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "The Cong-Viettel FC",
@@ -697,14 +697,14 @@
       "league": "Football",
       "name": "Gol Gohar Sirjan FC at Arkadag FK",
       "date": "2026-11-04T13:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Arkadag FK",
           "short": "Arkadag FK",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Gol Gohar Sirjan FC",
@@ -720,20 +720,20 @@
       "league": "Football",
       "name": "Al-Khaldiya SC at Al Wahda FC",
       "date": "2026-11-04T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Al Wahda FC",
           "short": "Al Wahda FC",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Al-Khaldiya SC",
           "short": "Al-Khaldiya SC",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Al Nahyan Stadium"
@@ -743,14 +743,14 @@
       "league": "Football",
       "name": "Al-Nahda Club at Al-Rayyan SC",
       "date": "2026-11-04T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Al-Rayyan SC",
           "short": "Al-Rayyan SC",
           "logo": "https://a.espncdn.com/guid/3537b0de-4d7e-d529-f36e-58888e65e902/logos/default.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Al-Nahda Club",
@@ -766,20 +766,20 @@
       "league": "Football",
       "name": "FC Nasaf at Kuwait SC",
       "date": "2026-11-04T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Kuwait SC",
           "short": "Kuwait SC",
           "logo": "",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "FC Nasaf",
           "short": "FC Nasaf",
           "logo": "",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Jaber Al-Mubarak Al-Hamad Stadium"
@@ -904,20 +904,20 @@
       "league": "Football",
       "name": "North Korea U17 at Japan U17",
       "date": "2026-11-04T15:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT-Pens",
       "teams": [
         {
           "name": "Japan U17",
           "short": "Japan",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "North Korea U17",
           "short": "North Korea",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/korn.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Mohammed VI Football Academy"
@@ -927,8 +927,8 @@
       "league": "Football",
       "name": "Nigeria U17 at Brazil U17",
       "date": "2026-11-04T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "10'",
       "teams": [
         {
           "name": "Brazil U17",
@@ -1640,8 +1640,8 @@
       "league": "Football",
       "name": "Manhattan at Iona",
       "date": "2026-11-04T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "8'",
       "teams": [
         {
           "name": "Iona",
@@ -2169,20 +2169,20 @@
       "league": "Football",
       "name": "Canisius at Mount St. Mary's",
       "date": "2026-11-04T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "0'",
       "teams": [
         {
           "name": "Mount St. Mary's",
           "short": "Mount St Marys",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/116.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Canisius",
           "short": "Canisius",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2099.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Waldron Family Stadium"
@@ -2192,8 +2192,8 @@
       "league": "Football",
       "name": "Bucknell at American University",
       "date": "2026-11-04T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "7'",
       "teams": [
         {
           "name": "American University",
