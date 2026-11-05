@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T04:42:34.327258+00:00",
+  "updated_at": "2026-11-05T12:53:22.073502+00:00",
   "count": 100,
   "items": [
     {
@@ -996,20 +996,20 @@
       "league": "Football",
       "name": "Phnom Penh Crown FC at Kitchee SC",
       "date": "2026-11-05T10:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Kitchee SC",
           "short": "Kitchee SC",
           "logo": "",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Phnom Penh Crown FC",
           "short": "Phnom Penh",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Mong Kok Stadium"
@@ -1019,14 +1019,14 @@
       "league": "Football",
       "name": "Adelaide United FC at Lion City Sailors FC",
       "date": "2026-11-05T10:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "63'",
       "teams": [
         {
           "name": "Lion City Sailors FC",
           "short": "LC Sailors",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8040.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Adelaide United FC",
@@ -1042,20 +1042,20 @@
       "league": "Football",
       "name": "Shanghai Shenhua FC at Machida Zelvia",
       "date": "2026-11-05T10:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Machida Zelvia",
           "short": "Machida Zelvia",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22167.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Shanghai Shenhua FC",
           "short": "Shanghai Shenhua",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/977.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Machida Gion Stadium"
@@ -1065,14 +1065,14 @@
       "league": "Football",
       "name": "Tai Po FC at BG Pathum United",
       "date": "2026-11-05T12:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "37'",
       "teams": [
         {
           "name": "BG Pathum United",
           "short": "BG Pathum Utd",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8519.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Tai Po FC",
@@ -1088,14 +1088,14 @@
       "league": "Football",
       "name": "Gangwon FC at Kuching City",
       "date": "2026-11-05T12:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "37'",
       "teams": [
         {
           "name": "Kuching City",
           "short": "Kuching",
           "logo": "",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Gangwon FC",
@@ -1111,14 +1111,14 @@
       "league": "Football",
       "name": "Tampines Rovers FC at PKR Svay Rieng",
       "date": "2026-11-05T12:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "37'",
       "teams": [
         {
           "name": "PKR Svay Rieng",
           "short": "Svay Rieng",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Tampines Rovers FC",
@@ -1617,8 +1617,8 @@
       "league": "Football",
       "name": "NorthEast United FC at Churchill Brothers",
       "date": "2026-11-05T11:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "64'",
       "teams": [
         {
           "name": "Churchill Brothers",
@@ -1630,7 +1630,7 @@
           "name": "NorthEast United FC",
           "short": "NorthEast",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18004.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Pandit Jawaharlal Nehru Stadium"
