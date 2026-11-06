@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T08:11:29.609000+00:00",
+  "updated_at": "2026-11-06T16:05:52.288083+00:00",
   "count": 100,
   "items": [
     {
@@ -444,20 +444,20 @@
       "league": "Football",
       "name": "Central Coast Mariners FC at Sydney FC",
       "date": "2026-11-06T08:40Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Sydney FC",
           "short": "Sydney FC",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5327.png",
-          "score": "0"
+          "score": "4"
         },
         {
           "name": "Central Coast Mariners FC",
           "short": "CC Mariners",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5325.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Allianz Stadium"
@@ -490,8 +490,8 @@
       "league": "Football",
       "name": "Wellington Phoenix at Adelaide United ",
       "date": "2026-11-06T08:00Z",
-      "state": "in",
-      "status": "10'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Adelaide United ",
@@ -503,7 +503,7 @@
           "name": "Wellington Phoenix",
           "short": "Wellington",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21133.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "ServiceFM Stadium"
@@ -1640,20 +1640,20 @@
       "league": "Football",
       "name": "Bengaluru FC at FC GOA",
       "date": "2026-11-06T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "FC GOA",
           "short": "GOA",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18003.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Bengaluru FC",
           "short": "Bengaluru",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18851.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Pandit Jawaharlal Nehru Stadium"
@@ -1663,20 +1663,20 @@
       "league": "Football",
       "name": "Mohammedan SC at Bengaluru United FC",
       "date": "2026-11-06T10:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Bengaluru United FC",
           "short": "Bengal Utd",
           "logo": "",
-          "score": "0"
+          "score": "4"
         },
         {
           "name": "Mohammedan SC",
           "short": "Mohammedan",
           "logo": "",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Bangalore Football Stadium"
@@ -1686,20 +1686,20 @@
       "league": "Football",
       "name": "Chanmari FC at Shillong Lajong FC",
       "date": "2026-11-06T13:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Shillong Lajong FC",
           "short": "Lajong",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Chanmari FC",
           "short": "Chanmari",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "SSA Stadium"
