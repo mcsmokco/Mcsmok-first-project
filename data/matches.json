@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T19:17:50.624010+00:00",
+  "updated_at": "2026-11-07T22:52:27.734832+00:00",
   "count": 100,
   "items": [
     {
@@ -76,8 +76,8 @@
       "league": "Football",
       "name": "Manchester City at Nottingham Forest",
       "date": "2026-11-07T17:30Z",
-      "state": "in",
-      "status": "88'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Nottingham Forest",
@@ -145,14 +145,14 @@
       "league": "Football",
       "name": "Athletic Club at Osasuna",
       "date": "2026-11-07T17:30Z",
-      "state": "in",
-      "status": "88'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Osasuna",
           "short": "Osasuna",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Athletic Club",
@@ -168,8 +168,8 @@
       "league": "Football",
       "name": "Real Madrid at Valencia",
       "date": "2026-11-07T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Valencia",
@@ -181,7 +181,7 @@
           "name": "Real Madrid",
           "short": "Real Madrid",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Mestalla Stadium"
@@ -191,8 +191,8 @@
       "league": "Football",
       "name": "Vancouver Whitecaps at CF Montréal",
       "date": "2026-11-07T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "82'",
       "teams": [
         {
           "name": "CF Montréal",
@@ -204,7 +204,7 @@
           "name": "Vancouver Whitecaps",
           "short": "Vancouver",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stade Saputo"
@@ -214,20 +214,20 @@
       "league": "Football",
       "name": "Columbus Crew at Chicago Fire FC",
       "date": "2026-11-07T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "78'",
       "teams": [
         {
           "name": "Chicago Fire FC",
           "short": "Chicago",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/182.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Columbus Crew",
           "short": "Columbus",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "SeatGeek Stadium"
@@ -237,8 +237,8 @@
       "league": "Football",
       "name": "New York City FC at D.C. United",
       "date": "2026-11-07T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "82'",
       "teams": [
         {
           "name": "D.C. United",
@@ -260,8 +260,8 @@
       "league": "Football",
       "name": "Nashville SC at FC Cincinnati",
       "date": "2026-11-07T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "82'",
       "teams": [
         {
           "name": "FC Cincinnati",
@@ -273,7 +273,7 @@
           "name": "Nashville SC",
           "short": "Nashville",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "TQL Stadium"
@@ -283,20 +283,20 @@
       "league": "Football",
       "name": "Charlotte FC at Inter Miami CF",
       "date": "2026-11-07T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "81'",
       "teams": [
         {
           "name": "Inter Miami CF",
           "short": "Miami",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Charlotte FC",
           "short": "Charlotte",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21300.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Nu Stadium"
@@ -306,14 +306,14 @@
       "league": "Football",
       "name": "New England Revolution at Orlando City SC",
       "date": "2026-11-07T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "82'",
       "teams": [
         {
           "name": "Orlando City SC",
           "short": "Orlando",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12011.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "New England Revolution",
@@ -329,20 +329,20 @@
       "league": "Football",
       "name": "Toronto FC at Philadelphia Union",
       "date": "2026-11-07T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "78'",
       "teams": [
         {
           "name": "Philadelphia Union",
           "short": "Philadelphia",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png",
-          "score": "0"
+          "score": "4"
         },
         {
           "name": "Toronto FC",
           "short": "Toronto",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Subaru Park"
@@ -352,14 +352,14 @@
       "league": "Football",
       "name": "Atlanta United FC at Red Bull New York",
       "date": "2026-11-07T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "82'",
       "teams": [
         {
           "name": "Red Bull New York",
           "short": "Red Bull NY",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Atlanta United FC",
@@ -536,14 +536,14 @@
       "league": "Football",
       "name": "Angel City FC at Kansas City Current",
       "date": "2026-11-07T17:00Z",
-      "state": "in",
-      "status": "ET",
+      "state": "post",
+      "status": "AET",
       "teams": [
         {
           "name": "Kansas City Current",
           "short": "Kansas City",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20907.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Angel City FC",
@@ -651,8 +651,8 @@
       "league": "Football",
       "name": "Werder Bremen at VfB Stuttgart",
       "date": "2026-11-07T17:30Z",
-      "state": "in",
-      "status": "89'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "VfB Stuttgart",
@@ -743,14 +743,14 @@
       "league": "Football",
       "name": "Sassuolo at AS Roma",
       "date": "2026-11-07T19:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "AS Roma",
           "short": "AS Roma",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Sassuolo",
@@ -858,8 +858,8 @@
       "league": "Football",
       "name": "Paris FC at AJ Auxerre",
       "date": "2026-11-07T18:00Z",
-      "state": "in",
-      "status": "60'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "AJ Auxerre",
@@ -871,7 +871,7 @@
           "name": "Paris FC",
           "short": "Paris FC",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stade de l'Abbé-Deschamps"
@@ -881,14 +881,14 @@
       "league": "Football",
       "name": "Troyes at Paris Saint-Germain",
       "date": "2026-11-07T20:05Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Paris Saint-Germain",
           "short": "PSG",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Troyes",
@@ -1617,8 +1617,8 @@
       "league": "Football",
       "name": "Notts County at Altrincham",
       "date": "2026-11-07T17:30Z",
-      "state": "in",
-      "status": "90'+1'",
+      "state": "post",
+      "status": "FT-Pens",
       "teams": [
         {
           "name": "Altrincham",
@@ -1640,8 +1640,8 @@
       "league": "Football",
       "name": "Reading at Peterborough United",
       "date": "2026-11-07T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Peterborough United",
@@ -1653,7 +1653,7 @@
           "name": "Reading",
           "short": "Reading",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/338.png",
-          "score": "0"
+          "score": "5"
         }
       ],
       "venue": "London Road Stadium"
@@ -1686,14 +1686,14 @@
       "league": "Football",
       "name": "Sparta Rotterdam at ADO Den Haag",
       "date": "2026-11-07T17:45Z",
-      "state": "in",
-      "status": "74'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "ADO Den Haag",
           "short": "ADO Den Haag",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2726.png",
-          "score": "2"
+          "score": "3"
         },
         {
           "name": "Sparta Rotterdam",
@@ -1709,8 +1709,8 @@
       "league": "Football",
       "name": "Go Ahead Eagles at Excelsior",
       "date": "2026-11-07T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Excelsior",
@@ -1722,7 +1722,7 @@
           "name": "Go Ahead Eagles",
           "short": "Go Ahead Eagles",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3706.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stadion Woudestein"
@@ -2077,20 +2077,20 @@
       "league": "Football",
       "name": "Carolina Ascent FC at Brooklyn FC",
       "date": "2026-11-07T19:00Z",
-      "state": "in",
-      "status": "10'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Brooklyn FC",
           "short": "Brooklyn",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131452.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Carolina Ascent FC",
           "short": "Carolina",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131454.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Maimonides Park"
@@ -2215,20 +2215,20 @@
       "league": "Football",
       "name": "Marseille at Saint-Malo",
       "date": "2026-11-07T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Saint-Malo",
           "short": "Saint-Malo",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Marseille",
           "short": "Marseille",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Stade de Marville"
@@ -2284,8 +2284,8 @@
       "league": "Football",
       "name": "Hibernian at Aberdeen",
       "date": "2026-11-07T17:45Z",
-      "state": "in",
-      "status": "75'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Aberdeen",
@@ -2297,7 +2297,7 @@
           "name": "Hibernian",
           "short": "Hibernian",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/258.png",
-          "score": "1"
+          "score": "4"
         }
       ],
       "venue": "Pittodrie Stadium"
