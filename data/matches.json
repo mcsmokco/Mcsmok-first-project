@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T01:59:26.478859+00:00",
+  "updated_at": "2026-11-08T08:46:12.155263+00:00",
   "count": 100,
   "items": [
     {
@@ -1134,20 +1134,20 @@
       "league": "Football",
       "name": "Melbourne Victory at Adelaide United FC",
       "date": "2026-11-08T06:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Adelaide United FC",
           "short": "Adelaide Utd",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5321.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Melbourne Victory",
           "short": "Melbourne V",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5328.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Hindmarsh Stadium"
@@ -1180,8 +1180,8 @@
       "league": "Football",
       "name": "Maritimo at Estoril",
       "date": "2026-11-08T15:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "Postponed",
       "teams": [
         {
           "name": "Estoril",
@@ -2077,8 +2077,8 @@
       "league": "Football",
       "name": "Chongqing Tonglianglong at Beijing Guoan",
       "date": "2026-11-08T07:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "54'",
       "teams": [
         {
           "name": "Beijing Guoan",
@@ -2100,20 +2100,20 @@
       "league": "Football",
       "name": "Tianjin Jinmen Tiger at Dalian Yingbo",
       "date": "2026-11-08T07:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "54'",
       "teams": [
         {
           "name": "Dalian Yingbo",
           "short": "Yingbo",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22537.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Tianjin Jinmen Tiger",
           "short": "Tianjin",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8239.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Dalian Suoyuwan Football Stadium"
@@ -2123,14 +2123,14 @@
       "league": "Football",
       "name": "Shenzhen Xinpengcheng at Qingdao Hainiu",
       "date": "2026-11-08T07:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "59'",
       "teams": [
         {
           "name": "Qingdao Hainiu",
           "short": "Qingdao Hainiu",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21910.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Shenzhen Xinpengcheng",
@@ -2146,20 +2146,20 @@
       "league": "Football",
       "name": "Chengdu Rongcheng at Shandong Taishan",
       "date": "2026-11-08T07:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "54'",
       "teams": [
         {
           "name": "Shandong Taishan",
           "short": "Shandong",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7521.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Chengdu Rongcheng",
           "short": "Chengdu",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21355.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Jinan Olympic Sports Center Stadium"
@@ -2169,14 +2169,14 @@
       "league": "Football",
       "name": "Liaoning Tieren at Shanghai Port FC",
       "date": "2026-11-08T07:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "60'",
       "teams": [
         {
           "name": "Shanghai Port FC",
           "short": "Shanghai Port",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15515.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Liaoning Tieren",
@@ -2192,14 +2192,14 @@
       "league": "Football",
       "name": "Qingdao West Coast at Shanghai Shenhua FC",
       "date": "2026-11-08T07:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "58'",
       "teams": [
         {
           "name": "Shanghai Shenhua FC",
           "short": "Shanghai Shenhua",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/977.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Qingdao West Coast",
@@ -2215,14 +2215,14 @@
       "league": "Football",
       "name": "Wuhan Three Towns at Yunnan Yukun",
       "date": "2026-11-08T07:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "58'",
       "teams": [
         {
           "name": "Yunnan Yukun",
           "short": "Yunnan",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22536.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Wuhan Three Towns",
@@ -2238,14 +2238,14 @@
       "league": "Football",
       "name": "Henan at Zhejiang Professional FC",
       "date": "2026-11-08T07:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "56'",
       "teams": [
         {
           "name": "Zhejiang Professional FC",
           "short": "Zhejiang",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18203.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Henan",
