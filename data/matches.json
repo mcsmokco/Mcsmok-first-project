@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T13:10:33.781057+00:00",
+  "updated_at": "2026-11-09T23:04:16.731575+00:00",
   "count": 22,
   "items": [
     {
@@ -7,20 +7,20 @@
       "league": "Football",
       "name": "Berkhamsted at Plymouth Parkway",
       "date": "2026-11-09T19:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "AET",
       "teams": [
         {
           "name": "Plymouth Parkway",
           "short": "Plymouth",
           "logo": "",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Berkhamsted",
           "short": "Berkhamsted",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Manadon Sports Hub"
@@ -30,14 +30,14 @@
       "league": "Football",
       "name": "FC Badalona at Atlético Madrid",
       "date": "2026-11-09T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Atlético Madrid",
           "short": "Atlético Madrid",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20093.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "FC Badalona",
@@ -53,8 +53,8 @@
       "league": "Football",
       "name": "Valencia at Deportivo",
       "date": "2026-11-09T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Deportivo",
@@ -66,7 +66,7 @@
           "name": "Valencia",
           "short": "Valencia",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21374.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Riazor"
@@ -76,8 +76,8 @@
       "league": "Football",
       "name": "Real Sociedad II at CD Sabadell",
       "date": "2026-11-09T19:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "CD Sabadell",
@@ -99,14 +99,14 @@
       "league": "Football",
       "name": "Eldense at Las Palmas",
       "date": "2026-11-09T19:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Las Palmas",
           "short": "Las Palmas",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/98.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Eldense",
@@ -122,14 +122,14 @@
       "league": "Football",
       "name": "Valerenga at Kristiansund BK",
       "date": "2026-11-09T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Kristiansund BK",
           "short": "Kristiansund",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6672.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Vålerenga",
@@ -168,20 +168,20 @@
       "league": "Football",
       "name": "Rubio Ñú at Sportivo San Lorenzo",
       "date": "2026-11-09T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Sportivo San Lorenzo",
           "short": "San Lorenzo",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17671.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Rubio Ñú",
           "short": "Rubio Ñú",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10080.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Estadio Gunther Vogel"
@@ -191,14 +191,14 @@
       "league": "Football",
       "name": "2 de Mayo at Sportivo Luqueño",
       "date": "2026-11-09T22:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "33'",
       "teams": [
         {
           "name": "Sportivo Luqueño",
           "short": "Luqueño",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5583.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "2 de Mayo",
@@ -214,20 +214,20 @@
       "league": "Football",
       "name": "Delfín at Mushuc Runa",
       "date": "2026-11-09T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Mushuc Runa",
           "short": "Mushuc Runa",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17176.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Delfín",
           "short": "Delfín",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1011.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Estadio COAC Mushuc Runa"
@@ -237,20 +237,20 @@
       "league": "Football",
       "name": "Manta F.C. at Técnico Universitario",
       "date": "2026-11-09T20:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Técnico Universitario",
           "short": "Tecnico U.",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9292.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Manta F.C.",
           "short": "Manta F.C.",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10307.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Estadio Bellavista"
@@ -329,14 +329,14 @@
       "league": "Football",
       "name": "Louisiana at App State",
       "date": "2026-11-09T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "AGT",
       "teams": [
         {
           "name": "App State",
           "short": "App State",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2026.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Louisiana",
@@ -352,20 +352,20 @@
       "league": "Football",
       "name": "Kansas at Colorado",
       "date": "2026-11-09T17:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Colorado",
           "short": "Colorado",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Kansas",
           "short": "Kansas",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Texas Health Mansfield Stadium"
@@ -374,21 +374,21 @@
       "id": "401931344",
       "league": "Football",
       "name": "Marshall at Old Dominion",
-      "date": "2026-11-09T19:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "date": "2026-11-09T20:15Z",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Old Dominion",
           "short": "Old Dominion",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/295.png",
-          "score": "0"
+          "score": "5"
         },
         {
           "name": "Marshall",
           "short": "Marshall",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/276.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Foley Sports Tourism Complex"
@@ -397,21 +397,21 @@
       "id": "401929890",
       "league": "Football",
       "name": "West Virginia at BYU",
-      "date": "2026-11-09T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "date": "2026-11-09T20:20Z",
+      "state": "in",
+      "status": "Pens",
       "teams": [
         {
           "name": "BYU",
           "short": "BYU",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "West Virginia",
           "short": "West Virginia",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/277.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Texas Health Mansfield Stadium"
