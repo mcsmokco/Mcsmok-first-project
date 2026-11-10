@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T13:11:56.208052+00:00",
+  "updated_at": "2026-11-10T20:31:37.247478+00:00",
   "count": 58,
   "items": [
     {
@@ -7,8 +7,8 @@
       "league": "Football",
       "name": "Chelsea at BK Häcken",
       "date": "2026-11-10T17:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "BK Häcken",
@@ -30,14 +30,14 @@
       "league": "Football",
       "name": "Paris FC at Real Madrid",
       "date": "2026-11-10T17:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Real Madrid",
           "short": "Real Madrid",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21128.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Paris FC",
@@ -53,14 +53,14 @@
       "league": "Football",
       "name": "Manchester City at Internazionale",
       "date": "2026-11-10T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "30'",
       "teams": [
         {
           "name": "Internazionale",
           "short": "Inter Milan",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131635.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Manchester City",
@@ -76,8 +76,8 @@
       "league": "Football",
       "name": "Bayern Munich at Paris Saint-Germain",
       "date": "2026-11-10T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "31'",
       "teams": [
         {
           "name": "Paris Saint-Germain",
@@ -89,7 +89,7 @@
           "name": "Bayern Munich",
           "short": "Bayern",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20103.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Parc des Princes"
@@ -99,14 +99,14 @@
       "league": "Football",
       "name": "Servette at Roma",
       "date": "2026-11-10T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "31'",
       "teams": [
         {
           "name": "Roma",
           "short": "Roma",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21685.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Servette",
@@ -122,20 +122,20 @@
       "league": "Football",
       "name": "Alavés at Anaitasuna",
       "date": "2026-11-10T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Anaitasuna",
           "short": "Anaitasuna",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Alavés",
           "short": "Alavés",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-          "score": "0"
+          "score": "6"
         }
       ],
       "venue": "Txerloia"
@@ -145,8 +145,8 @@
       "league": "Football",
       "name": "Eibar at CD Pamplona",
       "date": "2026-11-10T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "CD Pamplona",
@@ -158,7 +158,7 @@
           "name": "Eibar",
           "short": "Eibar",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Polideportivo Valle Aranguren"
@@ -168,8 +168,8 @@
       "league": "Football",
       "name": "UD Logroñés at Amorebieta",
       "date": "2026-11-10T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "75'",
       "teams": [
         {
           "name": "Amorebieta",
@@ -191,8 +191,8 @@
       "league": "Football",
       "name": "Real Jaen CF at Mijas Las Lagunas",
       "date": "2026-11-10T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "73'",
       "teams": [
         {
           "name": "Mijas Las Lagunas",
@@ -204,7 +204,7 @@
           "name": "Real Jaen CF",
           "short": "Real Jaen CF",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Francisco Muñoz Pérez"
@@ -214,8 +214,8 @@
       "league": "Football",
       "name": "Leganés at Trival Valderas",
       "date": "2026-11-10T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "75'",
       "teams": [
         {
           "name": "Trival Valderas",
@@ -227,7 +227,7 @@
           "name": "Leganés",
           "short": "Leganés",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17534.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Estadio Municipal de Butarque"
@@ -237,8 +237,8 @@
       "league": "Football",
       "name": "Valencia at Tavernes de la Valldigna",
       "date": "2026-11-10T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "31'",
       "teams": [
         {
           "name": "Tavernes de la Valldigna",
@@ -250,7 +250,7 @@
           "name": "Valencia",
           "short": "Valencia",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-          "score": "0"
+          "score": "4"
         }
       ],
       "venue": "Mestalla Stadium"
@@ -260,20 +260,20 @@
       "league": "Football",
       "name": "Central African Republic at Congo",
       "date": "2026-11-10T12:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Congo",
           "short": "Congo",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Central African Republic",
           "short": "Cent Afr Rep",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stade de Nzeng Ayong"
@@ -283,8 +283,8 @@
       "league": "Football",
       "name": "Chad at Gabon",
       "date": "2026-11-10T14:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Gabon",
@@ -296,7 +296,7 @@
           "name": "Chad",
           "short": "Chad",
           "logo": "",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Stade de Nzeng Ayong"
@@ -352,8 +352,8 @@
       "league": "Football",
       "name": "VfL Wolfsburg at Feyenoord Rotterdam",
       "date": "2026-11-10T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Feyenoord Rotterdam",
@@ -365,7 +365,7 @@
           "name": "VfL Wolfsburg",
           "short": "Wolfsburg",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20107.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Sportcomplex Varkenoord Hoofdveld"
@@ -375,20 +375,20 @@
       "league": "Football",
       "name": "TSV Eintracht Braunschweig at SC Paderborn 07",
       "date": "2026-11-10T12:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "SC Paderborn 07",
           "short": "Paderborn",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3307.png",
-          "score": "0"
+          "score": "4"
         },
         {
           "name": "TSV Eintracht Braunschweig",
           "short": "E Braunschweig",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3067.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": ""
@@ -396,7 +396,7 @@
     {
       "id": "401933840",
       "league": "Football",
-      "name": "TBD Away at SV Bergisch Gladbach 09",
+      "name": "SV SCHLEBUSCH at SV Bergisch Gladbach 09",
       "date": "2026-11-10T18:30Z",
       "state": "pre",
       "status": "Scheduled",
@@ -408,8 +408,8 @@
           "score": "0"
         },
         {
-          "name": "TBD Away",
-          "short": "TBD Away",
+          "name": "SV SCHLEBUSCH",
+          "short": "SCHLEBUSCH",
           "logo": "",
           "score": "0"
         }
@@ -421,20 +421,20 @@
       "league": "Football",
       "name": "Leyton Orient at Barnet",
       "date": "2026-11-10T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "71'",
       "teams": [
         {
           "name": "Barnet",
           "short": "Barnet",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/280.png",
-          "score": "0"
+          "score": "4"
         },
         {
           "name": "Leyton Orient",
           "short": "Leyton Orient",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/309.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "The Hive Stadium"
@@ -444,20 +444,20 @@
       "league": "Football",
       "name": "Reading at Bristol Rovers",
       "date": "2026-11-10T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "73'",
       "teams": [
         {
           "name": "Bristol Rovers",
           "short": "Bristol Rovers",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/308.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Reading",
           "short": "Reading",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/338.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Memorial Stadium"
@@ -467,8 +467,8 @@
       "league": "Football",
       "name": "Notts County at Burton Albion",
       "date": "2026-11-10T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "73'",
       "teams": [
         {
           "name": "Burton Albion",
@@ -480,7 +480,7 @@
           "name": "Notts County",
           "short": "Notts County",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/340.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Pirelli Stadium"
@@ -490,20 +490,20 @@
       "league": "Football",
       "name": "Wigan Athletic at Crewe Alexandra",
       "date": "2026-11-10T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "74'",
       "teams": [
         {
           "name": "Crewe Alexandra",
           "short": "Crewe",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/396.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Wigan Athletic",
           "short": "Wigan",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/350.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Mornflake Stadium"
@@ -513,8 +513,8 @@
       "league": "Football",
       "name": "Nottingham Forest U21 at Grimsby Town",
       "date": "2026-11-10T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "75'",
       "teams": [
         {
           "name": "Grimsby Town",
@@ -526,7 +526,7 @@
           "name": "Nottingham Forest U21",
           "short": "Nottm Forest U21",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21979.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Blundell Park"
@@ -536,14 +536,14 @@
       "league": "Football",
       "name": "Liverpool U21 at Huddersfield Town",
       "date": "2026-11-10T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "74'",
       "teams": [
         {
           "name": "Huddersfield Town",
           "short": "Huddersfield",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/335.png",
-          "score": "0"
+          "score": "4"
         },
         {
           "name": "Liverpool U21",
@@ -559,20 +559,20 @@
       "league": "Football",
       "name": "Walsall at Leicester City",
       "date": "2026-11-10T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "71'",
       "teams": [
         {
           "name": "Leicester City",
           "short": "Leicester",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Walsall",
           "short": "Walsall",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/401.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "King Power Stadium"
@@ -582,20 +582,20 @@
       "league": "Football",
       "name": "Chesterfield at Mansfield Town",
       "date": "2026-11-10T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "73'",
       "teams": [
         {
           "name": "Mansfield Town",
           "short": "Mansfield",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/304.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Chesterfield",
           "short": "Chesterfield",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/343.png",
-          "score": "0"
+          "score": "4"
         }
       ],
       "venue": "One Call Stadium"
@@ -605,20 +605,20 @@
       "league": "Football",
       "name": "Gillingham at Northampton Town",
       "date": "2026-11-10T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "71'",
       "teams": [
         {
           "name": "Northampton Town",
           "short": "Northampton",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/353.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Gillingham",
           "short": "Gillingham",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/389.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Sixfields Stadium"
@@ -628,14 +628,14 @@
       "league": "Football",
       "name": "Cheltenham Town at Oxford United",
       "date": "2026-11-10T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "77'",
       "teams": [
         {
           "name": "Oxford United",
           "short": "Oxford Utd",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/311.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Cheltenham Town",
@@ -651,20 +651,20 @@
       "league": "Football",
       "name": "Swindon Town at Plymouth Argyle",
       "date": "2026-11-10T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "72'",
       "teams": [
         {
           "name": "Plymouth Argyle",
           "short": "Plymouth",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/307.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Swindon Town",
           "short": "Swindon",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/341.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Home Park"
@@ -674,20 +674,20 @@
       "league": "Football",
       "name": "Fulham U21 at Stevenage",
       "date": "2026-11-10T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "73'",
       "teams": [
         {
           "name": "Stevenage",
           "short": "Stevenage",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/285.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Fulham U21",
           "short": "Fulham U21",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18777.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Lamex Stadium"
@@ -697,8 +697,8 @@
       "league": "Football",
       "name": "Tranmere Rovers at Stockport County",
       "date": "2026-11-10T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "74'",
       "teams": [
         {
           "name": "Stockport County",
@@ -720,14 +720,14 @@
       "league": "Football",
       "name": "York City at Bradford City",
       "date": "2026-11-10T19:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "HT",
       "teams": [
         {
           "name": "Bradford City",
           "short": "Bradford",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/387.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "York City",
@@ -743,20 +743,20 @@
       "league": "Football",
       "name": "Milton Keynes Dons at Bromley",
       "date": "2026-11-10T19:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "HT",
       "teams": [
         {
           "name": "Bromley",
           "short": "Bromley",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3129.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Milton Keynes Dons",
           "short": "MK Dons",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/390.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "RELOC8 EM Community Stadium"
@@ -766,8 +766,8 @@
       "league": "Football",
       "name": "Brentford U21 at Crawley Town",
       "date": "2026-11-10T19:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "HT",
       "teams": [
         {
           "name": "Crawley Town",
@@ -779,7 +779,7 @@
           "name": "Brentford U21",
           "short": "Brentford U21",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Broadfield Stadium"
@@ -789,8 +789,8 @@
       "league": "Football",
       "name": "Ipswich Town U21 at Colchester United",
       "date": "2026-11-10T19:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "45'+2'",
       "teams": [
         {
           "name": "Colchester United",
@@ -904,20 +904,20 @@
       "league": "Football",
       "name": "Bucknell at American University",
       "date": "2026-11-10T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "American University",
           "short": "American",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/44.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Bucknell",
           "short": "Bucknell",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2083.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Reeves Field"
@@ -927,20 +927,20 @@
       "league": "Football",
       "name": "Fordham at Duquesne",
       "date": "2026-11-10T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Duquesne",
           "short": "Duquesne",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2184.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Fordham",
           "short": "Fordham",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2230.png",
-          "score": "0"
+          "score": "5"
         }
       ],
       "venue": "Arthur J. Rooney Athletic Field"
@@ -1042,14 +1042,14 @@
       "league": "Football",
       "name": "Georgia at South Carolina",
       "date": "2026-11-10T17:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "South Carolina",
           "short": "South Carolina",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Georgia",
@@ -1065,14 +1065,14 @@
       "league": "Football",
       "name": "Nicholls at Incarnate Word",
       "date": "2026-11-10T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Incarnate Word",
           "short": "Incarnate Word",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2916.png",
-          "score": "0"
+          "score": "4"
         },
         {
           "name": "Nicholls",
@@ -1088,14 +1088,14 @@
       "league": "Football",
       "name": "Ball State at Massachusetts",
       "date": "2026-11-10T18:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "AGT",
       "teams": [
         {
           "name": "Massachusetts",
           "short": "UMass",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/113.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Ball State",
@@ -1110,9 +1110,9 @@
       "id": "401931289",
       "league": "Football",
       "name": "LSU at Alabama",
-      "date": "2026-11-10T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "date": "2026-11-10T20:25Z",
+      "state": "in",
+      "status": "5'",
       "teams": [
         {
           "name": "Alabama",
