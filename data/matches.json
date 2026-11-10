@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T04:42:27.333082+00:00",
-  "count": 57,
+  "updated_at": "2026-11-10T13:11:56.208052+00:00",
+  "count": 58,
   "items": [
     {
       "id": "401916991",
@@ -256,33 +256,10 @@
       "venue": "Mestalla Stadium"
     },
     {
-      "id": "401933275",
-      "league": "Football",
-      "name": "Chad at Gabon",
-      "date": "2026-11-10T10:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Gabon",
-          "short": "Gabon",
-          "logo": "",
-          "score": "0"
-        },
-        {
-          "name": "Chad",
-          "short": "Chad",
-          "logo": "",
-          "score": "0"
-        }
-      ],
-      "venue": "Stade de Nzeng Ayong"
-    },
-    {
       "id": "401933295",
       "league": "Football",
       "name": "Central African Republic at Congo",
-      "date": "2026-11-10T12:00Z",
+      "date": "2026-11-10T12:15Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
@@ -295,6 +272,29 @@
         {
           "name": "Central African Republic",
           "short": "Cent Afr Rep",
+          "logo": "",
+          "score": "0"
+        }
+      ],
+      "venue": "Stade de Nzeng Ayong"
+    },
+    {
+      "id": "401933275",
+      "league": "Football",
+      "name": "Chad at Gabon",
+      "date": "2026-11-10T14:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Gabon",
+          "short": "Gabon",
+          "logo": "",
+          "score": "0"
+        },
+        {
+          "name": "Chad",
+          "short": "Chad",
           "logo": "",
           "score": "0"
         }
@@ -388,6 +388,29 @@
           "name": "TSV Eintracht Braunschweig",
           "short": "E Braunschweig",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3067.png",
+          "score": "0"
+        }
+      ],
+      "venue": ""
+    },
+    {
+      "id": "401933840",
+      "league": "Football",
+      "name": "TBD Away at SV Bergisch Gladbach 09",
+      "date": "2026-11-10T18:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "SV Bergisch Gladbach 09",
+          "short": "SV Bergisch Gladbach 09",
+          "logo": "",
+          "score": "0"
+        },
+        {
+          "name": "TBD Away",
+          "short": "TBD Away",
+          "logo": "",
           "score": "0"
         }
       ],
@@ -851,7 +874,7 @@
           "score": "0"
         }
       ],
-      "venue": ""
+      "venue": "Estadio Municipal Chapeltique"
     },
     {
       "id": "401899696",
@@ -874,7 +897,7 @@
           "score": "0"
         }
       ],
-      "venue": ""
+      "venue": "Estadio Jorge \"Calero\" Suarez"
     },
     {
       "id": "401929834",
