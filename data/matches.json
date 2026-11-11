@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-11-11T07:34:03.458236+00:00",
-  "count": 77,
+  "updated_at": "2026-11-11T15:46:56.059553+00:00",
+  "count": 75,
   "items": [
     {
       "id": "401930244",
       "league": "Football",
       "name": "Chinese Taipei at Vietnam",
       "date": "2026-11-11T12:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Vietnam",
           "short": "Vietnam",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/vie.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Chinese Taipei",
@@ -47,29 +47,6 @@
         }
       ],
       "venue": "King Power at Den Dreef Stadion"
-    },
-    {
-      "id": "401916983",
-      "league": "Football",
-      "name": "Austria Vienna at Benfica",
-      "date": "2026-11-11T20:00Z",
-      "state": "post",
-      "status": "Postponed",
-      "teams": [
-        {
-          "name": "Benfica",
-          "short": "Benfica",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20830.png",
-          "score": "0"
-        },
-        {
-          "name": "Austria Vienna",
-          "short": "Vienna",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131643.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Estádio da Luz"
     },
     {
       "id": "401916984",
@@ -486,29 +463,6 @@
       "venue": "Eleda Stadion"
     },
     {
-      "id": "401928138",
-      "league": "Football",
-      "name": "Sparta Prague at Torreense",
-      "date": "2026-11-11T18:00Z",
-      "state": "post",
-      "status": "Postponed",
-      "teams": [
-        {
-          "name": "Torreense",
-          "short": "Torreense",
-          "logo": "",
-          "score": "0"
-        },
-        {
-          "name": "Sparta Prague",
-          "short": "Sparta",
-          "logo": "",
-          "score": "0"
-        }
-      ],
-      "venue": "Campo Manuel Marques"
-    },
-    {
       "id": "401933839",
       "league": "Football",
       "name": "Preußen Münster II at SC Wiedenbrück 2000",
@@ -720,14 +674,14 @@
       "league": "Football",
       "name": "Maldives at India",
       "date": "2026-11-11T09:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "India",
           "short": "India",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ind.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Maldives",
