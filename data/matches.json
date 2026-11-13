@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T00:37:27.995750+00:00",
-  "count": 84,
+  "updated_at": "2026-11-13T07:32:05.174443+00:00",
+  "count": 85,
   "items": [
     {
       "id": "401929714",
@@ -397,7 +397,7 @@
       "id": "401931957",
       "league": "Football",
       "name": "Honduras at United Arab Emirates",
-      "date": "2026-11-13T14:15Z",
+      "date": "2026-11-13T14:10Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
@@ -1084,6 +1084,29 @@
       "venue": "Mohamed V Stadium"
     },
     {
+      "id": "401934215",
+      "league": "Football",
+      "name": "Kladno at FC Sellier & Bellot Vla'im",
+      "date": "2026-11-13T10:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "FC Sellier & Bellot Vla'im",
+          "short": "FC Sellier",
+          "logo": "",
+          "score": "0"
+        },
+        {
+          "name": "Kladno",
+          "short": "Kladno",
+          "logo": "",
+          "score": "0"
+        }
+      ],
+      "venue": ""
+    },
+    {
       "id": "401933377",
       "league": "Football",
       "name": "Vysocina Jihlava at Mlada Boleslav",
@@ -1288,7 +1311,7 @@
           "score": "0"
         }
       ],
-      "venue": ""
+      "venue": "Gradski Stadion (Lovech)"
     },
     {
       "id": "401933865",
@@ -1685,7 +1708,7 @@
       "id": "401929749",
       "league": "Football",
       "name": "Cal State Bakersfield at UC Santa Barbara",
-      "date": "2026-11-14T03:00Z",
+      "date": "2026-11-14T01:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
@@ -1749,29 +1772,6 @@
         }
       ],
       "venue": "South Campus Stadium"
-    },
-    {
-      "id": "401931336",
-      "league": "Football",
-      "name": "TBD Away at TBD Home",
-      "date": "2026-11-13T20:00Z",
-      "state": "pre",
-      "status": "TBD",
-      "teams": [
-        {
-          "name": "TBD Home",
-          "short": "TBD Home",
-          "logo": "",
-          "score": "0"
-        },
-        {
-          "name": "TBD Away",
-          "short": "TBD Away",
-          "logo": "",
-          "score": "0"
-        }
-      ],
-      "venue": "PVAMU Soccer Complex"
     },
     {
       "id": "401929902",
@@ -1887,6 +1887,29 @@
         }
       ],
       "venue": "Folk Field"
+    },
+    {
+      "id": "401931336",
+      "league": "Football",
+      "name": "Southern at Alcorn State",
+      "date": "2026-11-14T00:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Alcorn State",
+          "short": "Alcorn St",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2016.png",
+          "score": "0"
+        },
+        {
+          "name": "Southern",
+          "short": "Southern",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2582.png",
+          "score": "0"
+        }
+      ],
+      "venue": "PVAMU Soccer Complex"
     },
     {
       "id": "401929961",
