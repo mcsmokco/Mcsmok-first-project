@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T07:32:05.174443+00:00",
-  "count": 85,
+  "updated_at": "2026-11-13T15:50:57.733575+00:00",
+  "count": 90,
   "items": [
     {
       "id": "401929714",
@@ -375,20 +375,20 @@
       "league": "Football",
       "name": "Paraguay at Singapore",
       "date": "2026-11-13T12:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Singapore",
           "short": "Singapore",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sin.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Paraguay",
           "short": "Paraguay",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/par.png",
-          "score": "0"
+          "score": "4"
         }
       ],
       "venue": "Singapore National Stadium"
@@ -398,20 +398,20 @@
       "league": "Football",
       "name": "Honduras at United Arab Emirates",
       "date": "2026-11-13T14:10Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "81'",
       "teams": [
         {
           "name": "United Arab Emirates",
           "short": "UAE",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uae.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Honduras",
           "short": "Honduras",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/hon.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Mohammed bin Zayed Stadium"
@@ -421,20 +421,20 @@
       "league": "Football",
       "name": "South Korea at Saudi Arabia",
       "date": "2026-11-13T14:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "57'",
       "teams": [
         {
           "name": "Saudi Arabia",
           "short": "Saudi Arabia",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ksa.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "South Korea",
           "short": "South Korea",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kors.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Jassim Bin Hamad Stadium"
@@ -444,8 +444,8 @@
       "league": "Football",
       "name": "Australia at Qatar",
       "date": "2026-11-13T14:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "50'",
       "teams": [
         {
           "name": "Qatar",
@@ -457,7 +457,7 @@
           "name": "Australia",
           "short": "Australia",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Abdullah bin Khalifa Stadium"
@@ -812,8 +812,8 @@
       "league": "Football",
       "name": "Congo at Comoros",
       "date": "2026-11-13T13:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Comoros",
@@ -835,8 +835,8 @@
       "league": "Football",
       "name": "Ethiopia at Mozambique",
       "date": "2026-11-13T13:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Mozambique",
@@ -848,7 +848,7 @@
           "name": "Ethiopia",
           "short": "Ethiopia",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eth.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Estádio do Zimpeto"
@@ -858,20 +858,20 @@
       "league": "Football",
       "name": "Burundi at Zambia",
       "date": "2026-11-13T13:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Zambia",
           "short": "Zambia",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/zam.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Burundi",
           "short": "Burundi",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bdi.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Levy Mwanawasa Stadium"
@@ -1084,24 +1084,47 @@
       "venue": "Mohamed V Stadium"
     },
     {
-      "id": "401934215",
+      "id": "401934264",
       "league": "Football",
-      "name": "Kladno at FC Sellier & Bellot Vla'im",
+      "name": "FCSB at Chindia Targoviste",
       "date": "2026-11-13T10:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
+          "name": "Chindia Targoviste",
+          "short": "Chindia",
+          "logo": "",
+          "score": "0"
+        },
+        {
+          "name": "FCSB",
+          "short": "FCSB",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/484.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Stadionul Eugen Popescu"
+    },
+    {
+      "id": "401934215",
+      "league": "Football",
+      "name": "Kladno at FC Sellier & Bellot Vla'im",
+      "date": "2026-11-13T10:00Z",
+      "state": "post",
+      "status": "FT",
+      "teams": [
+        {
           "name": "FC Sellier & Bellot Vla'im",
           "short": "FC Sellier",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Kladno",
           "short": "Kladno",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": ""
@@ -1134,43 +1157,89 @@
       "league": "Football",
       "name": "SC Rheindorf Altach at Schwarz-Weiß Bregenz",
       "date": "2026-11-13T10:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Schwarz-Weiß Bregenz",
           "short": "Bregenz",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "SC Rheindorf Altach",
           "short": "SC Rheindorf",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4405.png",
-          "score": "0"
+          "score": "5"
         }
       ],
       "venue": "ImmoAgentur Stadion"
+    },
+    {
+      "id": "401934230",
+      "league": "Football",
+      "name": "TBD Away at Universitatea Cluj",
+      "date": "2026-11-13T10:00Z",
+      "state": "post",
+      "status": "FT",
+      "teams": [
+        {
+          "name": "Universitatea Cluj",
+          "short": "U. Cluj",
+          "logo": "",
+          "score": "0"
+        },
+        {
+          "name": "TBD Away",
+          "short": "TBD Away",
+          "logo": "",
+          "score": "0"
+        }
+      ],
+      "venue": ""
+    },
+    {
+      "id": "401934262",
+      "league": "Football",
+      "name": "Slaven Belupo Koprivnica at NK NAFTA 1903 LENDAVA",
+      "date": "2026-11-13T11:00Z",
+      "state": "post",
+      "status": "FT",
+      "teams": [
+        {
+          "name": "NK NAFTA 1903 LENDAVA",
+          "short": "NAFTA1903",
+          "logo": "",
+          "score": "1"
+        },
+        {
+          "name": "Slaven Belupo Koprivnica",
+          "short": "Slaven Belup",
+          "logo": "",
+          "score": "1"
+        }
+      ],
+      "venue": ""
     },
     {
       "id": "401928130",
       "league": "Football",
       "name": "IF Brommapojkarna at Västerås SK",
       "date": "2026-11-13T11:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Västerås SK",
           "short": "Västerås",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22163.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "IF Brommapojkarna",
           "short": "Brommapojkar",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8221.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Hitachi Energy Arena"
@@ -1180,20 +1249,20 @@
       "league": "Football",
       "name": "FC Ilves at TPS",
       "date": "2026-11-13T11:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "TPS",
           "short": "TPS",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8219.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "FC Ilves",
           "short": "FC Ilves",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Veritas Stadion"
@@ -1203,20 +1272,20 @@
       "league": "Football",
       "name": "Floridsdorfer AC at TSV Hartberg",
       "date": "2026-11-13T11:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "TSV Hartberg",
           "short": "TSV Hartberg",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6907.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Floridsdorfer AC",
           "short": "Floridsdorfer",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Profertil Arena"
@@ -1226,14 +1295,14 @@
       "league": "Football",
       "name": "Dukla Prague at Dynamo Dresden",
       "date": "2026-11-13T12:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Dynamo Dresden",
           "short": "D Dresden",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7017.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Dukla Prague",
@@ -1249,43 +1318,66 @@
       "league": "Football",
       "name": "NK Radomlje at NK Istra 1961 Pula",
       "date": "2026-11-13T12:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "NK Istra 1961 Pula",
           "short": "NK Istra 1961 Pula",
           "logo": "",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "NK Radomlje",
           "short": "Radomlje",
           "logo": "",
-          "score": "0"
+          "score": "5"
         }
       ],
       "venue": "Sportni Park Radomlje"
+    },
+    {
+      "id": "401934223",
+      "league": "Football",
+      "name": "AFC METALUL BUZAU at Petrolul Ploiesti",
+      "date": "2026-11-13T12:00Z",
+      "state": "post",
+      "status": "FT",
+      "teams": [
+        {
+          "name": "Petrolul Ploiesti",
+          "short": "Petrolul",
+          "logo": "",
+          "score": "2"
+        },
+        {
+          "name": "AFC METALUL BUZAU",
+          "short": "METALUL",
+          "logo": "",
+          "score": "0"
+        }
+      ],
+      "venue": ""
     },
     {
       "id": "401933767",
       "league": "Football",
       "name": "NK Uljanik at SV Kapfenberg",
       "date": "2026-11-13T12:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "SV Kapfenberg",
           "short": "SV Kapfenberg",
           "logo": "",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "NK Uljanik",
           "short": "ULJANIK",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Alpenstadion Kapfenberg"
@@ -1295,8 +1387,8 @@
       "league": "Football",
       "name": "NK Maribor at NK Varazdin",
       "date": "2026-11-13T13:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "NK Varazdin",
@@ -1308,18 +1400,41 @@
           "name": "NK Maribor",
           "short": "NK Maribor",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/619.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Gradski Stadion (Lovech)"
+    },
+    {
+      "id": "401934261",
+      "league": "Football",
+      "name": "FC Blau-Weiß Linz at SSV Jahn Regensburg",
+      "date": "2026-11-13T13:00Z",
+      "state": "post",
+      "status": "FT",
+      "teams": [
+        {
+          "name": "SSV Jahn Regensburg",
+          "short": "J Regensburg",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11017.png",
+          "score": "2"
+        },
+        {
+          "name": "FC Blau-Weiß Linz",
+          "short": "BW Linz",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21950.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Sportpark am Kaulbachweg"
     },
     {
       "id": "401933865",
       "league": "Football",
       "name": "Lechia Gdansk at Raków Czestochowa",
       "date": "2026-11-13T13:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Raków Czestochowa",
@@ -1479,20 +1594,20 @@
       "league": "Football",
       "name": "Montenegro U21 at Bosnia-Herzegovina U21",
       "date": "2026-11-13T13:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Bosnia-Herzegovina U21",
           "short": "Bosnia-Herz",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bih.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Montenegro U21",
           "short": "Montenegro",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mtg.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": ""
@@ -1686,20 +1801,20 @@
       "league": "Football",
       "name": "Sreenidi Deccan FC at Shillong Lajong FC",
       "date": "2026-11-13T13:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Shillong Lajong FC",
           "short": "Lajong",
           "logo": "",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Sreenidi Deccan FC",
           "short": "Sreenidi",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "SSA Stadium"
