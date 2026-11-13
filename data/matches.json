@@ -1,1151 +1,1358 @@
 {
-  "updated_at": "2026-11-12T19:25:36.071023+00:00",
-  "count": 99,
+  "updated_at": "2026-11-13T00:37:27.995750+00:00",
+  "count": 84,
   "items": [
     {
-      "id": "401929778",
+      "id": "401929714",
       "league": "Football",
-      "name": "Guadeloupe at Barbados",
-      "date": "2026-11-12T19:00Z",
-      "state": "in",
-      "status": "24'",
+      "name": "St. Lucia at Bermuda",
+      "date": "2026-11-13T19:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "Barbados",
-          "short": "Barbados",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/brb.png",
+          "name": "Bermuda",
+          "short": "Bermuda",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ber.png",
           "score": "0"
         },
         {
-          "name": "Guadeloupe",
-          "short": "Guadeloupe",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gdl.png",
-          "score": "1"
+          "name": "St. Lucia",
+          "short": "St Lucia",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lca.png",
+          "score": "0"
         }
       ],
       "venue": "Stade Roger Zami"
     },
     {
-      "id": "401929777",
+      "id": "401929795",
       "league": "Football",
-      "name": "Cuba at Bonaire",
-      "date": "2026-11-12T19:00Z",
-      "state": "in",
-      "status": "25'",
+      "name": "Dominica at Puerto Rico",
+      "date": "2026-11-13T19:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "Bonaire",
-          "short": "Bonaire",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/boe.png",
+          "name": "Puerto Rico",
+          "short": "Puerto Rico",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11766.png",
           "score": "0"
         },
         {
-          "name": "Cuba",
-          "short": "Cuba",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cub.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Estadio La Polar"
-    },
-    {
-      "id": "401929797",
-      "league": "Football",
-      "name": "Guyana at Cayman Islands",
-      "date": "2026-11-12T19:00Z",
-      "state": "in",
-      "status": "25'",
-      "teams": [
-        {
-          "name": "Cayman Islands",
-          "short": "Cayman Isl",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cay.png",
+          "name": "Dominica",
+          "short": "Dominica",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/dma.png",
           "score": "0"
-        },
-        {
-          "name": "Guyana",
-          "short": "Guyana",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/guy.png",
-          "score": "2"
         }
       ],
       "venue": "Leonora National Track and Field Facility"
     },
     {
-      "id": "401929779",
+      "id": "401929713",
       "league": "Football",
-      "name": "Martinique at Aruba",
-      "date": "2026-11-12T22:00Z",
+      "name": "St. Kitts and Nevis at Grenada",
+      "date": "2026-11-13T20:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Aruba",
-          "short": "Aruba",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aru.png",
+          "name": "Grenada",
+          "short": "Grenada",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/grn.png",
           "score": "0"
         },
         {
-          "name": "Martinique",
-          "short": "Martinique",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/marq.png",
+          "name": "St. Kitts and Nevis",
+          "short": "St Kitts & Nevis",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/skn.png",
           "score": "0"
         }
       ],
-      "venue": "Guillermo Prospero Trinidad Stadium"
+      "venue": "Estadio La Polar"
     },
     {
-      "id": "401929796",
+      "id": "401929712",
       "league": "Football",
-      "name": "Trinidad and Tobago at Antigua and Barbuda",
-      "date": "2026-11-12T23:00Z",
+      "name": "El Salvador at St. Martin",
+      "date": "2026-11-13T23:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Antigua and Barbuda",
-          "short": "Antigua Barbuda",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/atg.png",
+          "name": "St. Martin",
+          "short": "St. Martin",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/stm.png",
           "score": "0"
         },
         {
-          "name": "Trinidad and Tobago",
-          "short": "Trin & Tob",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tri.png",
+          "name": "El Salvador",
+          "short": "El Salvador",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/slv.png",
           "score": "0"
         }
       ],
-      "venue": "Sir Vivian Richards Stadium"
+      "venue": "SKNFA Technical Centre"
     },
     {
-      "id": "401929776",
+      "id": "401929775",
       "league": "Football",
-      "name": "Panama at Curaçao",
-      "date": "2026-11-13T00:30Z",
+      "name": "Nicaragua at Montserrat",
+      "date": "2026-11-14T00:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Curaçao",
-          "short": "Curaçao",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11678.png",
+          "name": "Montserrat",
+          "short": "Montserrat",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/msr.png",
           "score": "0"
         },
         {
-          "name": "Panama",
-          "short": "Panama",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pan.png",
+          "name": "Nicaragua",
+          "short": "Nicaragua",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nca.png",
           "score": "0"
         }
       ],
-      "venue": "Stadion Ergilio Hato"
+      "venue": "Estadio Cibao"
     },
     {
-      "id": "401861146",
+      "id": "401929711",
       "league": "Football",
-      "name": "Cyprus at Armenia",
-      "date": "2026-11-12T17:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Armenia",
-          "short": "Armenia",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fifa.armenia.png",
-          "score": "1"
-        },
-        {
-          "name": "Cyprus",
-          "short": "Cyprus",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cyp.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Vazgen Sargsyan Republican Stadium"
-    },
-    {
-      "id": "401861145",
-      "league": "Football",
-      "name": "Belgium at Türkiye",
-      "date": "2026-11-12T17:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Türkiye",
-          "short": "Türkiye",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png",
-          "score": "1"
-        },
-        {
-          "name": "Belgium",
-          "short": "Belgium",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
-          "score": "2"
-        }
-      ],
-      "venue": "Göztepe Gürsel Aksel Stadi"
-    },
-    {
-      "id": "401861147",
-      "league": "Football",
-      "name": "Finland at Albania",
-      "date": "2026-11-12T19:45Z",
+      "name": "Canada at Guatemala",
+      "date": "2026-11-14T02:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Albania",
-          "short": "Albania",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/alb.png",
+          "name": "Guatemala",
+          "short": "Guatemala",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gua.png",
           "score": "0"
         },
         {
-          "name": "Finland",
-          "short": "Finland",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fin.png",
+          "name": "Canada",
+          "short": "Canada",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/can.png",
           "score": "0"
         }
       ],
-      "venue": "Air Albania Stadium"
+      "venue": "Estadio El Trébol"
     },
     {
-      "id": "401861148",
+      "id": "401861162",
       "league": "Football",
-      "name": "Spain at Czechia",
-      "date": "2026-11-12T19:45Z",
+      "name": "Kazakhstan at Moldova",
+      "date": "2026-11-13T17:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Czechia",
-          "short": "Czechia",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png",
+          "name": "Moldova",
+          "short": "Moldova",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mda.png",
           "score": "0"
         },
         {
-          "name": "Spain",
-          "short": "Spain",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+          "name": "Kazakhstan",
+          "short": "Kazakhstan",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kaz.png",
           "score": "0"
         }
       ],
-      "venue": "Generali Arena"
+      "venue": "Stadionul Zimbru"
     },
     {
-      "id": "401861150",
+      "id": "401861155",
       "league": "Football",
-      "name": "Croatia at England",
-      "date": "2026-11-12T19:45Z",
+      "name": "Gibraltar at Andorra",
+      "date": "2026-11-13T19:45Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "England",
-          "short": "England",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+          "name": "Andorra",
+          "short": "Andorra",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/and.png",
           "score": "0"
         },
         {
-          "name": "Croatia",
-          "short": "Croatia",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cro.png",
+          "name": "Gibraltar",
+          "short": "Gibraltar",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gib.png",
           "score": "0"
         }
       ],
-      "venue": "Wembley Stadium"
+      "venue": "Estadi de la FAF d'Encamp"
     },
     {
-      "id": "401861151",
+      "id": "401861157",
       "league": "Football",
-      "name": "France at Italy",
-      "date": "2026-11-12T19:45Z",
+      "name": "Iceland at Bulgaria",
+      "date": "2026-11-13T19:45Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Italy",
-          "short": "Italy",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png",
+          "name": "Bulgaria",
+          "short": "Bulgaria",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bul.png",
           "score": "0"
         },
         {
-          "name": "France",
-          "short": "France",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+          "name": "Iceland",
+          "short": "Iceland",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/isl.png",
           "score": "0"
         }
       ],
-      "venue": "San Siro"
+      "venue": "Hristo Botev Stadium, Plovdiv"
     },
     {
-      "id": "401861152",
+      "id": "401861153",
       "league": "Football",
-      "name": "Latvia at Montenegro",
-      "date": "2026-11-12T19:45Z",
+      "name": "Azerbaijan at Liechtenstein",
+      "date": "2026-11-13T19:45Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Montenegro",
-          "short": "Montenegro",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mtg.png",
+          "name": "Liechtenstein",
+          "short": "Liechtenstein",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lie.png",
           "score": "0"
         },
         {
-          "name": "Latvia",
-          "short": "Latvia",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lva.png",
+          "name": "Azerbaijan",
+          "short": "Azerbaijan",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aze.png",
           "score": "0"
         }
       ],
-      "venue": "Podgorica City Stadium"
+      "venue": "Rheinpark Stadion"
     },
     {
-      "id": "401861149",
+      "id": "401861154",
       "league": "Football",
-      "name": "Belarus at San Marino",
-      "date": "2026-11-12T19:45Z",
+      "name": "Estonia at Luxembourg",
+      "date": "2026-11-13T19:45Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "San Marino",
-          "short": "San Marino",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/smr.png",
+          "name": "Luxembourg",
+          "short": "Luxembourg",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lux.png",
           "score": "0"
         },
         {
-          "name": "Belarus",
-          "short": "Belarus",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/blr.png",
+          "name": "Estonia",
+          "short": "Estonia",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/est.png",
           "score": "0"
         }
       ],
-      "venue": "San Marino Stadium"
+      "venue": "Stade de Luxembourg"
     },
     {
-      "id": "401906458",
+      "id": "401861159",
       "league": "Football",
-      "name": "India at New Zealand",
-      "date": "2026-11-12T06:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "New Zealand",
-          "short": "New Zealand",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nzl.png",
-          "score": "5"
-        },
-        {
-          "name": "India",
-          "short": "India",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ind.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Go Media Stadium"
-    },
-    {
-      "id": "401930962",
-      "league": "Football",
-      "name": "Russia at Uzbekistan",
-      "date": "2026-11-12T15:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Uzbekistan",
-          "short": "Uzbekistan",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uzb.png",
-          "score": "2"
-        },
-        {
-          "name": "Russia",
-          "short": "Russia",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rus.png",
-          "score": "3"
-        }
-      ],
-      "venue": "Pakhtakor Markaziy Stadium"
-    },
-    {
-      "id": "401933115",
-      "league": "Football",
-      "name": "Suriname at Lithuania",
-      "date": "2026-11-12T17:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Lithuania",
-          "short": "Lithuania",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ltu.png",
-          "score": "0"
-        },
-        {
-          "name": "Suriname",
-          "short": "Suriname",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sur.png",
-          "score": "0"
-        }
-      ],
-      "venue": "S. Darius and S. Gireno Stadium"
-    },
-    {
-      "id": "401931296",
-      "league": "Football",
-      "name": "Eswatini at Malta",
-      "date": "2026-11-12T17:30Z",
-      "state": "in",
-      "status": "90'+3'",
-      "teams": [
-        {
-          "name": "Malta",
-          "short": "Malta",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mlt.png",
-          "score": "1"
-        },
-        {
-          "name": "Eswatini",
-          "short": "Eswatini",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swz.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Ta' Qali National Stadium"
-    },
-    {
-      "id": "401916986",
-      "league": "Football",
-      "name": "Arsenal at Barcelona",
-      "date": "2026-11-12T17:45Z",
-      "state": "in",
-      "status": "79'",
-      "teams": [
-        {
-          "name": "Barcelona",
-          "short": "Barcelona",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20091.png",
-          "score": "1"
-        },
-        {
-          "name": "Arsenal",
-          "short": "Arsenal",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19973.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Spotify Camp Nou"
-    },
-    {
-      "id": "401916983",
-      "league": "Football",
-      "name": "Austria Vienna at Benfica",
-      "date": "2026-11-12T20:00Z",
+      "name": "Greece at Netherlands",
+      "date": "2026-11-13T19:45Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Benfica",
-          "short": "Benfica",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20830.png",
+          "name": "Netherlands",
+          "short": "Netherlands",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
           "score": "0"
         },
         {
-          "name": "Austria Vienna",
-          "short": "Vienna",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131643.png",
+          "name": "Greece",
+          "short": "Greece",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gre.png",
           "score": "0"
         }
       ],
-      "venue": "Estádio da Luz"
+      "venue": "Johan Cruijff Arena"
     },
     {
-      "id": "401928506",
+      "id": "401861161",
       "league": "Football",
-      "name": "Albacete at CS Puertollano",
-      "date": "2026-11-12T17:30Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "CS Puertollano",
-          "short": "CS Puerto",
-          "logo": "",
-          "score": "0"
-        },
-        {
-          "name": "Albacete",
-          "short": "Albacete",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2737.png",
-          "score": "3"
-        }
-      ],
-      "venue": "Estadio Ciudad de Puertollano"
-    },
-    {
-      "id": "401928551",
-      "league": "Football",
-      "name": "Real Betis at CD Artistico Navalcarnero",
-      "date": "2026-11-12T18:00Z",
-      "state": "in",
-      "status": "64'",
-      "teams": [
-        {
-          "name": "CD Artistico Navalcarnero",
-          "short": "CDA Navalcarnero",
-          "logo": "",
-          "score": "1"
-        },
-        {
-          "name": "Real Betis",
-          "short": "Betis",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Municipal de Santo Domingo"
-    },
-    {
-      "id": "401928527",
-      "league": "Football",
-      "name": "Levante at CD Tarancon",
-      "date": "2026-11-12T18:00Z",
-      "state": "in",
-      "status": "69'",
-      "teams": [
-        {
-          "name": "CD Tarancon",
-          "short": "CD Tarancon",
-          "logo": "",
-          "score": "1"
-        },
-        {
-          "name": "Levante",
-          "short": "Levante",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Polideportivo Estadio Municipal Tarancón"
-    },
-    {
-      "id": "401932846",
-      "league": "Football",
-      "name": "Grenoble at Chambéry Savoie",
-      "date": "2026-11-12T18:00Z",
+      "name": "North Macedonia at Scotland",
+      "date": "2026-11-13T19:45Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Chambéry Savoie",
-          "short": "Chambéry",
-          "logo": "",
+          "name": "Scotland",
+          "short": "Scotland",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png",
           "score": "0"
         },
         {
-          "name": "Grenoble",
-          "short": "Grenoble",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6994.png",
+          "name": "North Macedonia",
+          "short": "North Macedonia",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mkd.png",
           "score": "0"
         }
       ],
-      "venue": "Stade Municipal de Chambéry"
+      "venue": "Hampden Park"
     },
     {
-      "id": "401928540",
+      "id": "401861158",
       "league": "Football",
-      "name": "Dux Logroño at Osasuna",
-      "date": "2026-11-12T18:00Z",
-      "state": "in",
-      "status": "65'",
-      "teams": [
-        {
-          "name": "Osasuna",
-          "short": "Osasuna",
-          "logo": "",
-          "score": "1"
-        },
-        {
-          "name": "Dux Logroño",
-          "short": " Dux Logroño",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21175.png",
-          "score": "2"
-        }
-      ],
-      "venue": "Instalaciones Deportivas de Tajonar"
-    },
-    {
-      "id": "401928562",
-      "league": "Football",
-      "name": "Deportivo at CE Europa",
-      "date": "2026-11-12T19:00Z",
-      "state": "in",
-      "status": "24'",
-      "teams": [
-        {
-          "name": "CE Europa",
-          "short": "CE Europa",
-          "logo": "",
-          "score": "0"
-        },
-        {
-          "name": "Deportivo",
-          "short": "Deportivo",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21145.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Camp Municipal de Futbol Nou Sardenya"
-    },
-    {
-      "id": "401927214",
-      "league": "Football",
-      "name": "Somalia at Ghana",
-      "date": "2026-11-12T15:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Ghana",
-          "short": "Ghana",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gha.png",
-          "score": "2"
-        },
-        {
-          "name": "Somalia",
-          "short": "Somalia",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/som.png",
-          "score": "0"
-        }
-      ],
-      "venue": ""
-    },
-    {
-      "id": "401927211",
-      "league": "Football",
-      "name": "Sierra Leone at Congo DR",
-      "date": "2026-11-12T16:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Congo DR",
-          "short": "Congo DR",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rdc.png",
-          "score": "3"
-        },
-        {
-          "name": "Sierra Leone",
-          "short": "Sierra Leone",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sle.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Stade des Martyrs"
-    },
-    {
-      "id": "401927210",
-      "league": "Football",
-      "name": "Zimbabwe at Equatorial Guinea",
-      "date": "2026-11-12T16:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Equatorial Guinea",
-          "short": "Eq. Guinea",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eqg.png",
-          "score": "0"
-        },
-        {
-          "name": "Zimbabwe",
-          "short": "Zimbabwe",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4214.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Stade Omnisport Ahmadou Ahidjo"
-    },
-    {
-      "id": "401927184",
-      "league": "Football",
-      "name": "Guinea-Bissau at Madagascar",
-      "date": "2026-11-12T16:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Madagascar",
-          "short": "Madagascar",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mad.png",
-          "score": "1"
-        },
-        {
-          "name": "Guinea-Bissau",
-          "short": "Guinea-Bissau",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gnb.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Stade d'honneur de Meknès"
-    },
-    {
-      "id": "401927189",
-      "league": "Football",
-      "name": "Eritrea at Guinea",
-      "date": "2026-11-12T17:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Guinea",
-          "short": "Guinea",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gui.png",
-          "score": "2"
-        },
-        {
-          "name": "Eritrea",
-          "short": "Eritrea",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eri.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Stade du 28 Septembre"
-    },
-    {
-      "id": "401927209",
-      "league": "Football",
-      "name": "Central African Republic at Benin",
-      "date": "2026-11-12T19:00Z",
-      "state": "in",
-      "status": "24'",
-      "teams": [
-        {
-          "name": "Benin",
-          "short": "Benin",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ben.png",
-          "score": "1"
-        },
-        {
-          "name": "Central African Republic",
-          "short": "Cent Afr Rep",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10528.png",
-          "score": "1"
-        }
-      ],
-      "venue": "Felix Houphouet-Boigny"
-    },
-    {
-      "id": "401927207",
-      "league": "Football",
-      "name": "Namibia at Cameroon",
-      "date": "2026-11-12T19:00Z",
-      "state": "in",
-      "status": "23'",
-      "teams": [
-        {
-          "name": "Cameroon",
-          "short": "Cameroon",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/crm.png",
-          "score": "1"
-        },
-        {
-          "name": "Namibia",
-          "short": "Namibia",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nam.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Stade Omnisport de Douala"
-    },
-    {
-      "id": "401927213",
-      "league": "Football",
-      "name": "Gambia at Ivory Coast",
-      "date": "2026-11-12T19:00Z",
-      "state": "in",
-      "status": "24'",
-      "teams": [
-        {
-          "name": "Ivory Coast",
-          "short": "Ivory Coast",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/civ.png",
-          "score": "1"
-        },
-        {
-          "name": "Gambia",
-          "short": "Gambia",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gam.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Stade de Bouaké"
-    },
-    {
-      "id": "401927202",
-      "league": "Football",
-      "name": "Sudan at Senegal",
-      "date": "2026-11-12T19:00Z",
-      "state": "in",
-      "status": "23'",
-      "teams": [
-        {
-          "name": "Senegal",
-          "short": "Senegal",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sen.png",
-          "score": "0"
-        },
-        {
-          "name": "Sudan",
-          "short": "Sudan",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sud.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Stade Léopold Sédar Senghor"
-    },
-    {
-      "id": "401931922",
-      "league": "Football",
-      "name": "Leones Negros at Club Atlético Morelia",
-      "date": "2026-11-13T02:00Z",
+      "name": "Germany at Serbia",
+      "date": "2026-11-13T19:45Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Club Atlético Morelia",
-          "short": "Morelia",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/221.png",
+          "name": "Serbia",
+          "short": "Serbia",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sba.png",
           "score": "0"
         },
         {
-          "name": "Leones Negros",
-          "short": "U de G",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10129.png",
+          "name": "Germany",
+          "short": "Germany",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
           "score": "0"
         }
       ],
-      "venue": "Estadio Morelos"
+      "venue": "Rajko Mitic Stadium"
     },
     {
-      "id": "401928138",
+      "id": "401861160",
       "league": "Football",
-      "name": "Sparta Prague at Torreense",
-      "date": "2026-11-12T17:00Z",
-      "state": "post",
-      "status": "FT",
+      "name": "Faroe Islands at Slovakia",
+      "date": "2026-11-13T19:45Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "Torreense",
-          "short": "Torreense",
-          "logo": "",
-          "score": "3"
+          "name": "Slovakia",
+          "short": "Slovakia",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/svk.png",
+          "score": "0"
         },
         {
-          "name": "Sparta Prague",
-          "short": "Sparta",
+          "name": "Faroe Islands",
+          "short": "Faroe Islands",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fro.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Košická futbalová aréna (KFA)"
+    },
+    {
+      "id": "401861156",
+      "league": "Football",
+      "name": "Switzerland at Slovenia",
+      "date": "2026-11-13T19:45Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Slovenia",
+          "short": "Slovenia",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/svn.png",
+          "score": "0"
+        },
+        {
+          "name": "Switzerland",
+          "short": "Switzerland",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Ljudski vrt"
+    },
+    {
+      "id": "401916338",
+      "league": "Football",
+      "name": "Paraguay at Singapore",
+      "date": "2026-11-13T12:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Singapore",
+          "short": "Singapore",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sin.png",
+          "score": "0"
+        },
+        {
+          "name": "Paraguay",
+          "short": "Paraguay",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/par.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Singapore National Stadium"
+    },
+    {
+      "id": "401931957",
+      "league": "Football",
+      "name": "Honduras at United Arab Emirates",
+      "date": "2026-11-13T14:15Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "United Arab Emirates",
+          "short": "UAE",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uae.png",
+          "score": "0"
+        },
+        {
+          "name": "Honduras",
+          "short": "Honduras",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/hon.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Mohammed bin Zayed Stadium"
+    },
+    {
+      "id": "401931476",
+      "league": "Football",
+      "name": "South Korea at Saudi Arabia",
+      "date": "2026-11-13T14:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Saudi Arabia",
+          "short": "Saudi Arabia",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ksa.png",
+          "score": "0"
+        },
+        {
+          "name": "South Korea",
+          "short": "South Korea",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kors.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Jassim Bin Hamad Stadium"
+    },
+    {
+      "id": "401919978",
+      "league": "Football",
+      "name": "Australia at Qatar",
+      "date": "2026-11-13T14:45Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Qatar",
+          "short": "Qatar",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/qat.png",
+          "score": "0"
+        },
+        {
+          "name": "Australia",
+          "short": "Australia",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Abdullah bin Khalifa Stadium"
+    },
+    {
+      "id": "401933636",
+      "league": "Football",
+      "name": "Lebanon at Iraq",
+      "date": "2026-11-13T15:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Iraq",
+          "short": "Iraq",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irq.png",
+          "score": "0"
+        },
+        {
+          "name": "Lebanon",
+          "short": "Lebanon",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lib.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Basra International Stadium"
+    },
+    {
+      "id": "401931978",
+      "league": "Football",
+      "name": "Syria at Kuwait",
+      "date": "2026-11-13T16:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Kuwait",
+          "short": "Kuwait",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kuw.png",
+          "score": "0"
+        },
+        {
+          "name": "Syria",
+          "short": "Syria",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/syr.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Al-Sadaqua Walsalam Stadium"
+    },
+    {
+      "id": "401919975",
+      "league": "Football",
+      "name": "Indonesia at Jordan",
+      "date": "2026-11-13T20:00Z",
+      "state": "post",
+      "status": "Canceled",
+      "teams": [
+        {
+          "name": "Jordan",
+          "short": "Jordan",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jor.png",
+          "score": "0"
+        },
+        {
+          "name": "Indonesia",
+          "short": "Indonesia",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/idn.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Amman International Stadium"
+    },
+    {
+      "id": "401930876",
+      "league": "Football",
+      "name": "Uruguay at Argentina",
+      "date": "2026-11-13T23:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Argentina",
+          "short": "Argentina",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+          "score": "0"
+        },
+        {
+          "name": "Uruguay",
+          "short": "Uruguay",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Alberto José Armando (La Bombonera)"
+    },
+    {
+      "id": "401921325",
+      "league": "Football",
+      "name": "Chile at Colombia",
+      "date": "2026-11-14T00:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Colombia",
+          "short": "Colombia",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/col.png",
+          "score": "0"
+        },
+        {
+          "name": "Chile",
+          "short": "Chile",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/chi.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Pascual Guerrero"
+    },
+    {
+      "id": "401930898",
+      "league": "Football",
+      "name": "Costa Rica at Ecuador",
+      "date": "2026-11-14T00:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Ecuador",
+          "short": "Ecuador",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ecu.png",
+          "score": "0"
+        },
+        {
+          "name": "Costa Rica",
+          "short": "Costa Rica",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/crc.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio Olímpico Atahualpa"
+    },
+    {
+      "id": "401930878",
+      "league": "Football",
+      "name": "Bolivia at Peru",
+      "date": "2026-11-14T01:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Peru",
+          "short": "Peru",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/per.png",
+          "score": "0"
+        },
+        {
+          "name": "Bolivia",
+          "short": "Bolivia",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bol.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio Alejandro Villanueva"
+    },
+    {
+      "id": "401928487",
+      "league": "Football",
+      "name": "Celta Vigo at Salamanca UDS",
+      "date": "2026-11-13T20:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Salamanca UDS",
+          "short": "Salamanca UDS",
+          "logo": "",
+          "score": "0"
+        },
+        {
+          "name": "Celta Vigo",
+          "short": "Celta Vigo",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio Helmántico"
+    },
+    {
+      "id": "401932838",
+      "league": "Football",
+      "name": "Orléans at Dijon FCO",
+      "date": "2026-11-13T19:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Dijon FCO",
+          "short": "Dijon FCO",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3170.png",
+          "score": "0"
+        },
+        {
+          "name": "Orléans",
+          "short": "Orléans",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17483.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Stade Gaston-Gérard"
+    },
+    {
+      "id": "401932841",
+      "league": "Football",
+      "name": "Valenciennes at Neuvillette-Jamin",
+      "date": "2026-11-13T19:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Neuvillette-Jamin",
+          "short": "Jamin",
+          "logo": "",
+          "score": "0"
+        },
+        {
+          "name": "Valenciennes",
+          "short": "Valenciennes",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6732.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Stade Louis Blériot No. 2"
+    },
+    {
+      "id": "401932845",
+      "league": "Football",
+      "name": "La Roche-sur-Yon at US Saint-Philbert-de-Grand-Lieu",
+      "date": "2026-11-13T19:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "US Saint-Philbert-de-Grand-Lieu",
+          "short": "Saint-Philbert",
+          "logo": "",
+          "score": "0"
+        },
+        {
+          "name": "La Roche-sur-Yon",
+          "short": "La Roche",
           "logo": "",
           "score": "0"
         }
       ],
-      "venue": "Campo Manuel Marques"
+      "venue": "Complexe sportif des Chevrets Terrain 3"
     },
     {
-      "id": "401933861",
+      "id": "401878608",
       "league": "Football",
-      "name": "Polonia Bytom at Gornik Zabrze",
-      "date": "2026-11-12T09:30Z",
-      "state": "post",
-      "status": "FT",
+      "name": "Fort Lauderdale United FC at Lexington SC",
+      "date": "2026-11-14T00:30Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "Gornik Zabrze",
-          "short": "Gornik Zabrz",
-          "logo": "",
-          "score": "6"
+          "name": "Lexington SC",
+          "short": "Lexington",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131451.png",
+          "score": "0"
         },
         {
-          "name": "Polonia Bytom",
-          "short": "Polonia",
+          "name": "Fort Lauderdale United FC",
+          "short": "Fort Lauderdale",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131449.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Lexington Stadium"
+    },
+    {
+      "id": "401888026",
+      "league": "Football",
+      "name": "Lens at Nantes",
+      "date": "2026-11-13T18:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Nantes",
+          "short": "Nantes",
+          "logo": "",
+          "score": "0"
+        },
+        {
+          "name": "Lens",
+          "short": "Lens",
           "logo": "",
           "score": "0"
         }
       ],
-      "venue": ""
+      "venue": "Stade Marcel-Saupin"
     },
     {
-      "id": "401933766",
+      "id": "401913235",
       "league": "Football",
-      "name": "OFK Mladost DG at Iskra",
-      "date": "2026-11-12T10:00Z",
-      "state": "post",
-      "status": "FT",
+      "name": "Newcastle Jets  at Melbourne City",
+      "date": "2026-11-14T04:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "Iskra",
-          "short": "Iskra",
-          "logo": "",
-          "score": "3"
+          "name": "Melbourne City",
+          "short": "Melbourne C",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20280.png",
+          "score": "0"
         },
         {
-          "name": "OFK Mladost DG",
-          "short": "OFK Mladost DG",
-          "logo": "",
-          "score": "1"
+          "name": "Newcastle Jets ",
+          "short": "Newcastle Jets ",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20287.png",
+          "score": "0"
         }
       ],
-      "venue": ""
+      "venue": "Melbourne City Football Academy"
     },
     {
-      "id": "401933396",
+      "id": "401913234",
       "league": "Football",
-      "name": "Mlada Boleslav at RB Leipzig",
-      "date": "2026-11-12T10:00Z",
-      "state": "post",
-      "status": "FT",
+      "name": "Adelaide United  at Melbourne Victory ",
+      "date": "2026-11-14T04:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "RB Leipzig",
-          "short": "RB Leipzig",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
-          "score": "4"
+          "name": "Melbourne Victory ",
+          "short": "Melbourne V",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20284.png",
+          "score": "0"
         },
+        {
+          "name": "Adelaide United ",
+          "short": "Adelaide Utd",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20286.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Lakeside Stadium"
+    },
+    {
+      "id": "401927206",
+      "league": "Football",
+      "name": "Congo at Comoros",
+      "date": "2026-11-13T13:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Comoros",
+          "short": "Comoros",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/com.png",
+          "score": "0"
+        },
+        {
+          "name": "Congo",
+          "short": "Congo",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cgo.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Stade Omnisports de Malouzini"
+    },
+    {
+      "id": "401927187",
+      "league": "Football",
+      "name": "Ethiopia at Mozambique",
+      "date": "2026-11-13T13:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Mozambique",
+          "short": "Mozambique",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/moz.png",
+          "score": "0"
+        },
+        {
+          "name": "Ethiopia",
+          "short": "Ethiopia",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eth.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estádio do Zimpeto"
+    },
+    {
+      "id": "401927203",
+      "league": "Football",
+      "name": "Burundi at Zambia",
+      "date": "2026-11-13T13:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Zambia",
+          "short": "Zambia",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/zam.png",
+          "score": "0"
+        },
+        {
+          "name": "Burundi",
+          "short": "Burundi",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bdi.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Levy Mwanawasa Stadium"
+    },
+    {
+      "id": "401927208",
+      "league": "Football",
+      "name": "Mauritania at Burkina Faso",
+      "date": "2026-11-13T16:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Burkina Faso",
+          "short": "Burkina Faso",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bka.png",
+          "score": "0"
+        },
+        {
+          "name": "Mauritania",
+          "short": "Mauritania",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mtn.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Stade de 4 Aout"
+    },
+    {
+      "id": "401927186",
+      "league": "Football",
+      "name": "Liberia at Cape Verde",
+      "date": "2026-11-13T16:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Cape Verde",
+          "short": "Cape Verde",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cpv.png",
+          "score": "0"
+        },
+        {
+          "name": "Liberia",
+          "short": "Liberia",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lbr.png",
+          "score": "0"
+        }
+      ],
+      "venue": "National Stadium Cape Verde"
+    },
+    {
+      "id": "401927192",
+      "league": "Football",
+      "name": "Lesotho at Gabon",
+      "date": "2026-11-13T16:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Gabon",
+          "short": "Gabon",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gab.png",
+          "score": "0"
+        },
+        {
+          "name": "Lesotho",
+          "short": "Lesotho",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/les.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Stade de Franceville"
+    },
+    {
+      "id": "401927183",
+      "league": "Football",
+      "name": "Tanzania at Nigeria",
+      "date": "2026-11-13T16:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Nigeria",
+          "short": "Nigeria",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nga.png",
+          "score": "0"
+        },
+        {
+          "name": "Tanzania",
+          "short": "Tanzania",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tan.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Godswill Akpabio International Stadium"
+    },
+    {
+      "id": "401927212",
+      "league": "Football",
+      "name": "Kenya at South Africa",
+      "date": "2026-11-13T16:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "South Africa",
+          "short": "South Africa",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rsa.png",
+          "score": "0"
+        },
+        {
+          "name": "Kenya",
+          "short": "Kenya",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ken.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Orlando Stadium"
+    },
+    {
+      "id": "401927205",
+      "league": "Football",
+      "name": "Libya at Tunisia",
+      "date": "2026-11-13T16:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Tunisia",
+          "short": "Tunisia",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tun.png",
+          "score": "0"
+        },
+        {
+          "name": "Libya",
+          "short": "Libya",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lby.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Stade Taieb Mhiri"
+    },
+    {
+      "id": "401927190",
+      "league": "Football",
+      "name": "Malawi at Egypt",
+      "date": "2026-11-13T19:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Egypt",
+          "short": "Egypt",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/egy.png",
+          "score": "0"
+        },
+        {
+          "name": "Malawi",
+          "short": "Malawi",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mwi.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Cairo International Stadium"
+    },
+    {
+      "id": "401927185",
+      "league": "Football",
+      "name": "Rwanda at Mali",
+      "date": "2026-11-13T19:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Mali",
+          "short": "Mali",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mli.png",
+          "score": "0"
+        },
+        {
+          "name": "Rwanda",
+          "short": "Rwanda",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rwa.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Stade du 26 Mars"
+    },
+    {
+      "id": "401927191",
+      "league": "Football",
+      "name": "Niger at Morocco",
+      "date": "2026-11-13T20:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Morocco",
+          "short": "Morocco",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mar.png",
+          "score": "0"
+        },
+        {
+          "name": "Niger",
+          "short": "Niger",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nig.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Mohamed V Stadium"
+    },
+    {
+      "id": "401933377",
+      "league": "Football",
+      "name": "Vysocina Jihlava at Mlada Boleslav",
+      "date": "2026-11-13T10:00Z",
+      "state": "post",
+      "status": "Canceled",
+      "teams": [
         {
           "name": "Mlada Boleslav",
           "short": "M Boleslav",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6758.png",
-          "score": "5"
-        }
-      ],
-      "venue": ""
-    },
-    {
-      "id": "401933781",
-      "league": "Football",
-      "name": "TSV Havelse at Hannover 96",
-      "date": "2026-11-12T11:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Hannover 96",
-          "short": "Hannover",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2428.png",
-          "score": "6"
+          "score": "0"
         },
         {
-          "name": "TSV Havelse",
-          "short": "TSV Havelse",
+          "name": "Vysocina Jihlava",
+          "short": "Vysocina",
           "logo": "",
-          "score": "1"
-        }
-      ],
-      "venue": "Eilenriedestadion"
-    },
-    {
-      "id": "401933961",
-      "league": "Football",
-      "name": "Eupen at Racing Genk",
-      "date": "2026-11-12T11:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Racing Genk",
-          "short": "Genk",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/938.png",
-          "score": "1"
-        },
-        {
-          "name": "Eupen",
-          "short": "Eupen",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4689.png",
-          "score": "3"
-        }
-      ],
-      "venue": ""
-    },
-    {
-      "id": "401933782",
-      "league": "Football",
-      "name": "SV Meppen at Arminia Bielefeld",
-      "date": "2026-11-12T12:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Arminia Bielefeld",
-          "short": "Bielefeld",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2506.png",
-          "score": "2"
-        },
-        {
-          "name": "SV Meppen",
-          "short": "SV Meppen",
-          "logo": "",
-          "score": "1"
-        }
-      ],
-      "venue": "Trainingsgelände DSC Arminia"
-    },
-    {
-      "id": "401933842",
-      "league": "Football",
-      "name": "NK VERES RIVNE at Karpaty Lviv",
-      "date": "2026-11-12T12:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Karpaty Lviv",
-          "short": "Karpaty Lviv",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6229.png",
-          "score": "1"
-        },
-        {
-          "name": "NK VERES RIVNE",
-          "short": "VER",
-          "logo": "",
-          "score": "1"
-        }
-      ],
-      "venue": "Stadion Ukraina"
-    },
-    {
-      "id": "401933885",
-      "league": "Football",
-      "name": "Warta Poznan at Pogon Szczecin",
-      "date": "2026-11-12T12:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Pogon Szczecin",
-          "short": "Pogon Szczecin",
-          "logo": "",
-          "score": "3"
-        },
-        {
-          "name": "Warta Poznan",
-          "short": "Poznan",
-          "logo": "",
-          "score": "2"
-        }
-      ],
-      "venue": ""
-    },
-    {
-      "id": "401933976",
-      "league": "Football",
-      "name": "Standard Liege at Borussia Mönchengladbach",
-      "date": "2026-11-12T13:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Borussia Mönchengladbach",
-          "short": "Gladbach",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-          "score": "1"
-        },
-        {
-          "name": "Standard Liege",
-          "short": "Standard Liege",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/559.png",
           "score": "0"
         }
       ],
       "venue": ""
     },
     {
-      "id": "401933768",
+      "id": "401933780",
       "league": "Football",
-      "name": "FC Wacker Innsbruck at FC Ingolstadt 04",
-      "date": "2026-11-12T13:00Z",
-      "state": "post",
-      "status": "FT",
+      "name": "SC Rheindorf Altach at Schwarz-Weiß Bregenz",
+      "date": "2026-11-13T10:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "FC Ingolstadt 04",
-          "short": "Ingolstadt",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6367.png",
-          "score": "3"
+          "name": "Schwarz-Weiß Bregenz",
+          "short": "Bregenz",
+          "logo": "",
+          "score": "0"
         },
         {
-          "name": "FC Wacker Innsbruck",
-          "short": "Wacker Innsb",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19244.png",
-          "score": "1"
+          "name": "SC Rheindorf Altach",
+          "short": "SC Rheindorf",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4405.png",
+          "score": "0"
         }
       ],
-      "venue": "Audi Sportpark"
+      "venue": "ImmoAgentur Stadion"
     },
     {
-      "id": "401933977",
+      "id": "401928130",
       "league": "Football",
-      "name": "Odense Boldklub at Holstein Kiel",
-      "date": "2026-11-12T13:00Z",
-      "state": "post",
-      "status": "FT",
+      "name": "IF Brommapojkarna at Västerås SK",
+      "date": "2026-11-13T11:00Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "Holstein Kiel",
-          "short": "Holstein Kiel",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7884.png",
-          "score": "4"
+          "name": "Västerås SK",
+          "short": "Västerås",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22163.png",
+          "score": "0"
         },
         {
-          "name": "Odense Boldklub",
-          "short": "Odense",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11550.png",
+          "name": "IF Brommapojkarna",
+          "short": "Brommapojkar",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8221.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Hitachi Energy Arena"
+    },
+    {
+      "id": "401930883",
+      "league": "Football",
+      "name": "FC Ilves at TPS",
+      "date": "2026-11-13T11:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "TPS",
+          "short": "TPS",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8219.png",
+          "score": "0"
+        },
+        {
+          "name": "FC Ilves",
+          "short": "FC Ilves",
+          "logo": "",
+          "score": "0"
+        }
+      ],
+      "venue": "Veritas Stadion"
+    },
+    {
+      "id": "401933779",
+      "league": "Football",
+      "name": "Floridsdorfer AC at TSV Hartberg",
+      "date": "2026-11-13T11:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "TSV Hartberg",
+          "short": "TSV Hartberg",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6907.png",
+          "score": "0"
+        },
+        {
+          "name": "Floridsdorfer AC",
+          "short": "Floridsdorfer",
+          "logo": "",
+          "score": "0"
+        }
+      ],
+      "venue": "Profertil Arena"
+    },
+    {
+      "id": "401933125",
+      "league": "Football",
+      "name": "Dukla Prague at Dynamo Dresden",
+      "date": "2026-11-13T12:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Dynamo Dresden",
+          "short": "D Dresden",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7017.png",
+          "score": "0"
+        },
+        {
+          "name": "Dukla Prague",
+          "short": "Dukla Prague",
+          "logo": "",
+          "score": "0"
+        }
+      ],
+      "venue": "Walter-Fritzsch-Akademie Rasenplatz 1"
+    },
+    {
+      "id": "401934146",
+      "league": "Football",
+      "name": "NK Radomlje at NK Istra 1961 Pula",
+      "date": "2026-11-13T12:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "NK Istra 1961 Pula",
+          "short": "NK Istra 1961 Pula",
+          "logo": "",
+          "score": "0"
+        },
+        {
+          "name": "NK Radomlje",
+          "short": "Radomlje",
+          "logo": "",
+          "score": "0"
+        }
+      ],
+      "venue": "Sportni Park Radomlje"
+    },
+    {
+      "id": "401933767",
+      "league": "Football",
+      "name": "NK Uljanik at SV Kapfenberg",
+      "date": "2026-11-13T12:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "SV Kapfenberg",
+          "short": "SV Kapfenberg",
+          "logo": "",
+          "score": "0"
+        },
+        {
+          "name": "NK Uljanik",
+          "short": "ULJANIK",
+          "logo": "",
+          "score": "0"
+        }
+      ],
+      "venue": "Alpenstadion Kapfenberg"
+    },
+    {
+      "id": "401934163",
+      "league": "Football",
+      "name": "NK Maribor at NK Varazdin",
+      "date": "2026-11-13T13:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "NK Varazdin",
+          "short": "NK Varazdin",
+          "logo": "",
+          "score": "0"
+        },
+        {
+          "name": "NK Maribor",
+          "short": "NK Maribor",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/619.png",
           "score": "0"
         }
       ],
       "venue": ""
     },
     {
-      "id": "401934155",
+      "id": "401933865",
       "league": "Football",
-      "name": "RFC Seraing at Metz",
-      "date": "2026-11-12T13:00Z",
-      "state": "post",
-      "status": "FT",
+      "name": "Lechia Gdansk at Raków Czestochowa",
+      "date": "2026-11-13T13:30Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "Metz",
-          "short": "Metz",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
-          "score": "1"
+          "name": "Raków Czestochowa",
+          "short": "Raków",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21005.png",
+          "score": "0"
         },
         {
-          "name": "RFC Seraing",
-          "short": "RFC Seraing",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20946.png",
-          "score": "1"
+          "name": "Lechia Gdansk",
+          "short": "Lechia",
+          "logo": "",
+          "score": "0"
         }
       ],
-      "venue": "Stade Saint-Symphorien"
+      "venue": ""
     },
     {
-      "id": "401933841",
+      "id": "401933777",
       "league": "Football",
-      "name": "Dunajska Streda at Rapid Vienna",
-      "date": "2026-11-12T13:00Z",
-      "state": "post",
-      "status": "FT",
+      "name": "SR Donaufeld at Austria Vienna II",
+      "date": "2026-11-13T16:30Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "Rapid Vienna",
-          "short": "Rapid Vienna",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/519.png",
-          "score": "3"
+          "name": "Austria Vienna II",
+          "short": "Austria Vienna II",
+          "logo": "",
+          "score": "0"
         },
         {
-          "name": "Dunajska Streda",
-          "short": "Dunajska ",
+          "name": "SR Donaufeld",
+          "short": "Donaufeld",
+          "logo": "",
+          "score": "0"
+        }
+      ],
+      "venue": "Akademie FK Austria Platz 1"
+    },
+    {
+      "id": "401933776",
+      "league": "Football",
+      "name": "SV Donau at Rapid Vienna II",
+      "date": "2026-11-13T17:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Rapid Vienna II",
+          "short": "Vienna II",
+          "logo": "",
+          "score": "0"
+        },
+        {
+          "name": "SV Donau",
+          "short": "Donau",
           "logo": "",
           "score": "0"
         }
@@ -1153,1131 +1360,579 @@
       "venue": "Körner Trainingszentrum"
     },
     {
-      "id": "401933857",
+      "id": "401883136",
       "league": "Football",
-      "name": "FC Wil 1900 at St. Gallen",
-      "date": "2026-11-12T13:00Z",
-      "state": "post",
-      "status": "FT",
+      "name": "Burgos at Leganés",
+      "date": "2026-11-13T19:30Z",
+      "state": "pre",
+      "status": "Scheduled",
       "teams": [
         {
-          "name": "St. Gallen",
-          "short": "St. Gallen",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/557.png",
-          "score": "3"
+          "name": "Leganés",
+          "short": "Leganés",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17534.png",
+          "score": "0"
         },
         {
-          "name": "FC Wil 1900",
-          "short": "FC Wil 1900",
+          "name": "Burgos",
+          "short": "Burgos",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12597.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio Municipal de Butarque"
+    },
+    {
+      "id": "401929699",
+      "league": "Football",
+      "name": "Czechia U21 at Türkiye U21",
+      "date": "2026-11-13T16:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Türkiye U21",
+          "short": "Türkiye U21",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png",
+          "score": "0"
+        },
+        {
+          "name": "Czechia U21",
+          "short": "Czechia",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio Caykur Didi"
+    },
+    {
+      "id": "401929700",
+      "league": "Football",
+      "name": "Republic of Ireland U21 at Finland U21",
+      "date": "2026-11-13T16:15Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Finland U21",
+          "short": "Finland",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fin.png",
+          "score": "0"
+        },
+        {
+          "name": "Republic of Ireland U21",
+          "short": "Rep Ireland",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irl.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Tammelan Stadion"
+    },
+    {
+      "id": "401929702",
+      "league": "Football",
+      "name": "Netherlands U21 at Denmark U21",
+      "date": "2026-11-13T17:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Denmark U21",
+          "short": "Denmark",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/den.png",
+          "score": "0"
+        },
+        {
+          "name": "Netherlands U21",
+          "short": "Netherlands",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Vejle Stadion"
+    },
+    {
+      "id": "401934052",
+      "league": "Football",
+      "name": "Montenegro U21 at Bosnia-Herzegovina U21",
+      "date": "2026-11-13T13:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Bosnia-Herzegovina U21",
+          "short": "Bosnia-Herz",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bih.png",
+          "score": "0"
+        },
+        {
+          "name": "Montenegro U21",
+          "short": "Montenegro",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mtg.png",
+          "score": "0"
+        }
+      ],
+      "venue": ""
+    },
+    {
+      "id": "401933437",
+      "league": "Football",
+      "name": "Norway U21 at Poland U21",
+      "date": "2026-11-13T16:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Poland U21",
+          "short": "Poland",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pol.png",
+          "score": "0"
+        },
+        {
+          "name": "Norway U21",
+          "short": "Norway",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
+          "score": "0"
+        }
+      ],
+      "venue": ""
+    },
+    {
+      "id": "401932567",
+      "league": "Football",
+      "name": "Belgium U21 at Germany U21",
+      "date": "2026-11-13T17:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Germany U21",
+          "short": "Germany",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+          "score": "0"
+        },
+        {
+          "name": "Belgium U21",
+          "short": "Belgium",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Stadion an der Hafenstraße"
+    },
+    {
+      "id": "401931777",
+      "league": "Football",
+      "name": "Italy U21 at France U21",
+      "date": "2026-11-13T17:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "France U21",
+          "short": "France",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+          "score": "0"
+        },
+        {
+          "name": "Italy U21",
+          "short": "Italy",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Stade Francis Le Basser"
+    },
+    {
+      "id": "401933056",
+      "league": "Football",
+      "name": "Luxembourg U21 at Albania U21",
+      "date": "2026-11-13T18:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Albania U21",
+          "short": "Albania",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/alb.png",
+          "score": "0"
+        },
+        {
+          "name": "Luxembourg U21",
+          "short": "Luxembourg",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lux.png",
+          "score": "0"
+        }
+      ],
+      "venue": ""
+    },
+    {
+      "id": "401933835",
+      "league": "Football",
+      "name": "Japan U21 at Spain U21",
+      "date": "2026-11-13T18:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Spain U21",
+          "short": "Spain",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+          "score": "0"
+        },
+        {
+          "name": "Japan U21",
+          "short": "Japan U21",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Francisco de la Hera"
+    },
+    {
+      "id": "401930176",
+      "league": "Football",
+      "name": "Portugal U21 at England U21",
+      "date": "2026-11-13T19:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "England U21",
+          "short": "England",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+          "score": "0"
+        },
+        {
+          "name": "Portugal U21",
+          "short": "Portugal",
+          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Ashton Gate"
+    },
+    {
+      "id": "401933237",
+      "league": "Football",
+      "name": "Racing (Montevideo) at Montevideo City Torque",
+      "date": "2026-11-13T19:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Montevideo City Torque",
+          "short": "MC Torque",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19002.png",
+          "score": "0"
+        },
+        {
+          "name": "Racing (Montevideo)",
+          "short": "Racing (M)",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9903.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio Luis Franzini"
+    },
+    {
+      "id": "401877838",
+      "league": "Football",
+      "name": "Independiente Santa Fe at Internacional de Bogotá",
+      "date": "2026-11-14T01:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Internacional de Bogotá",
+          "short": "Inter Bogotá",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7445.png",
+          "score": "0"
+        },
+        {
+          "name": "Independiente Santa Fe",
+          "short": "Santa Fe",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5488.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Metropolitano de Techo"
+    },
+    {
+      "id": "401930699",
+      "league": "Football",
+      "name": "Sreenidi Deccan FC at Shillong Lajong FC",
+      "date": "2026-11-13T13:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Shillong Lajong FC",
+          "short": "Lajong",
           "logo": "",
-          "score": "3"
-        }
-      ],
-      "venue": "Sportanlage Gründenmoos"
-    },
-    {
-      "id": "401933855",
-      "league": "Football",
-      "name": "Austria Lustenau at FC Zürich",
-      "date": "2026-11-12T13:30Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "FC Zürich",
-          "short": "FC Zürich",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3019.png",
-          "score": "1"
-        },
-        {
-          "name": "Austria Lustenau",
-          "short": "Austria Lustenau",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21540.png",
-          "score": "2"
-        }
-      ],
-      "venue": "GC/Campus"
-    },
-    {
-      "id": "401933764",
-      "league": "Football",
-      "name": "1. FC Union Berlin at VfL Wolfsburg",
-      "date": "2026-11-12T13:30Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "VfL Wolfsburg",
-          "short": "Wolfsburg",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
-          "score": "2"
-        },
-        {
-          "name": "1. FC Union Berlin",
-          "short": "Union Berlin",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
-          "score": "0"
-        }
-      ],
-      "venue": "AOK Stadion"
-    },
-    {
-      "id": "401933856",
-      "league": "Football",
-      "name": "FC Stade Lausanne-Ouchy at Young Boys",
-      "date": "2026-11-12T13:30Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Young Boys",
-          "short": "Young Boys",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2722.png",
           "score": "0"
         },
         {
-          "name": "FC Stade Lausanne-Ouchy",
-          "short": "Lausanne-Ouchy",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21926.png",
+          "name": "Sreenidi Deccan FC",
+          "short": "Sreenidi",
+          "logo": "",
           "score": "0"
         }
       ],
-      "venue": ""
+      "venue": "SSA Stadium"
     },
     {
-      "id": "401930155",
+      "id": "401929749",
       "league": "Football",
-      "name": "Fredrikstad at BK Häcken",
-      "date": "2026-11-12T14:00Z",
-      "state": "post",
-      "status": "Canceled",
-      "teams": [
-        {
-          "name": "BK Häcken",
-          "short": "BK Häcken",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7834.png",
-          "score": "0"
-        },
-        {
-          "name": "Fredrikstad",
-          "short": "Fredrikstad",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3039.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Valhalla IP"
-    },
-    {
-      "id": "401929701",
-      "league": "Football",
-      "name": "Greece U21 at Iceland U21",
-      "date": "2026-11-12T13:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Iceland U21",
-          "short": "Iceland",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/isl.png",
-          "score": "1"
-        },
-        {
-          "name": "Greece U21",
-          "short": "Greece",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gre.png",
-          "score": "1"
-        }
-      ],
-      "venue": "AVIS völlurinn"
-    },
-    {
-      "id": "401933455",
-      "league": "Football",
-      "name": "Ukraine U21 at Scotland U21",
-      "date": "2026-11-12T13:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Scotland U21",
-          "short": "Scotland",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png",
-          "score": "4"
-        },
-        {
-          "name": "Ukraine U21",
-          "short": "Ukraine",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ukr.png",
-          "score": "0"
-        }
-      ],
-      "venue": ""
-    },
-    {
-      "id": "401933438",
-      "league": "Football",
-      "name": "North Macedonia U21 at Serbia U21",
-      "date": "2026-11-12T13:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Serbia U21",
-          "short": "Serbia U21",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sba.png",
-          "score": "2"
-        },
-        {
-          "name": "North Macedonia U21",
-          "short": "N Macedonia",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18413.png",
-          "score": "0"
-        }
-      ],
-      "venue": ""
-    },
-    {
-      "id": "401875813",
-      "league": "Football",
-      "name": "Independiente Rivadavia at Estudiantes de La Plata",
-      "date": "2026-11-12T23:00Z",
+      "name": "Cal State Bakersfield at UC Santa Barbara",
+      "date": "2026-11-14T03:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Estudiantes de La Plata",
-          "short": "Estudiantes",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8.png",
+          "name": "UC Santa Barbara",
+          "short": "Santa Barbara",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2540.png",
           "score": "0"
         },
         {
-          "name": "Independiente Rivadavia",
-          "short": "Ind. Rivadavia",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9744.png",
+          "name": "Cal State Bakersfield",
+          "short": "CSU Bakersfield",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2934.png",
           "score": "0"
         }
       ],
-      "venue": "El Gigante de Alberdi"
+      "venue": "Harder Stadium"
     },
     {
-      "id": "401860434",
+      "id": "401929932",
       "league": "Football",
-      "name": "Operário PR at Ponte Preta",
-      "date": "2026-11-12T22:00Z",
+      "name": "Western Kentucky at Liberty",
+      "date": "2026-11-13T17:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Ponte Preta",
-          "short": "Ponte Preta",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3459.png",
+          "name": "Liberty",
+          "short": "Liberty",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2335.png",
           "score": "0"
         },
         {
-          "name": "Operário PR",
-          "short": "Operário PR",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18187.png",
+          "name": "Western Kentucky",
+          "short": "Western KY",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/98.png",
           "score": "0"
         }
       ],
-      "venue": "Estádio Italo Mário Limongi"
+      "venue": "Stuart & Suzanne Grant Stadium"
     },
     {
-      "id": "401860436",
+      "id": "401929901",
       "league": "Football",
-      "name": "Athletic at São Bernardo",
-      "date": "2026-11-12T23:00Z",
+      "name": "Northern Arizona at Northern Colorado",
+      "date": "2026-11-13T17:30Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "São Bernardo",
-          "short": "São Bernardo",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11268.png",
+          "name": "Northern Colorado",
+          "short": "N Colorado",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
           "score": "0"
         },
         {
-          "name": "Athletic",
-          "short": "Athletic",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20851.png",
+          "name": "Northern Arizona",
+          "short": "N Arizona",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
           "score": "0"
         }
       ],
-      "venue": "Estádio Primeiro de Maio"
+      "venue": "South Campus Stadium"
     },
     {
-      "id": "401933238",
+      "id": "401931336",
       "league": "Football",
-      "name": "Progreso at Cerro Largo",
-      "date": "2026-11-12T23:00Z",
+      "name": "TBD Away at TBD Home",
+      "date": "2026-11-13T20:00Z",
+      "state": "pre",
+      "status": "TBD",
+      "teams": [
+        {
+          "name": "TBD Home",
+          "short": "TBD Home",
+          "logo": "",
+          "score": "0"
+        },
+        {
+          "name": "TBD Away",
+          "short": "TBD Away",
+          "logo": "",
+          "score": "0"
+        }
+      ],
+      "venue": "PVAMU Soccer Complex"
+    },
+    {
+      "id": "401929902",
+      "league": "Football",
+      "name": "Idaho at Weber State",
+      "date": "2026-11-13T20:30Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Cerro Largo",
-          "short": "Cerro Largo",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9902.png",
+          "name": "Weber State",
+          "short": "Weber St",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2692.png",
           "score": "0"
         },
         {
-          "name": "Progreso",
-          "short": "Progreso",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6866.png",
+          "name": "Idaho",
+          "short": "Idaho",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/70.png",
           "score": "0"
         }
       ],
-      "venue": "Estadio Arquitecto Antonio Eleuterio Ubilla"
+      "venue": "South Campus Stadium"
     },
     {
-      "id": "401878034",
+      "id": "401929864",
       "league": "Football",
-      "name": "Atlético Junior at Deportivo Pasto",
-      "date": "2026-11-12T22:00Z",
+      "name": "Lipscomb at Florida Gulf Coast",
+      "date": "2026-11-13T21:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Deportivo Pasto",
-          "short": "Pasto",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5485.png",
+          "name": "Florida Gulf Coast",
+          "short": "FGCU",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/526.png",
           "score": "0"
         },
         {
-          "name": "Atlético Junior",
-          "short": "Atl. Junior",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4815.png",
+          "name": "Lipscomb",
+          "short": "Lipscomb",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/288.png",
           "score": "0"
         }
       ],
-      "venue": "Departamental Libertad"
+      "venue": "Pickering Field at the FGCU Soccer Complex"
     },
     {
-      "id": "401877890",
+      "id": "401931335",
       "league": "Football",
-      "name": "Boyacá Chicó FC at Llaneros FC",
-      "date": "2026-11-13T00:00Z",
+      "name": "Alabama A&M at Jackson State",
+      "date": "2026-11-13T21:00Z",
       "state": "pre",
       "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Llaneros FC",
-          "short": "Llaneros FC",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7915.png",
-          "score": "0"
-        },
-        {
-          "name": "Boyacá Chicó FC",
-          "short": "Chicó FC",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5480.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Estadio Bello Horizonte - Rey Pele"
-    },
-    {
-      "id": "401930994",
-      "league": "Football",
-      "name": "Monagas SC at Academia Puerto Cabello",
-      "date": "2026-11-12T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Academia Puerto Cabello",
-          "short": "Puerto Cabello",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18995.png",
-          "score": "0"
-        },
-        {
-          "name": "Monagas SC",
-          "short": "Monagas",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6041.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Complejo Deportivo Socialista"
-    },
-    {
-      "id": "401930227",
-      "league": "Football",
-      "name": "Nacional Potosí at Real Potosí",
-      "date": "2026-11-12T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Real Potosí",
-          "short": "Real Potosí",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6051.png",
-          "score": "0"
-        },
-        {
-          "name": "Nacional Potosí",
-          "short": "N Potosí",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10311.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Estadio Víctor Agustín Ugarte"
-    },
-    {
-      "id": "401879608",
-      "league": "Football",
-      "name": "Deportivo Mixco at Aurora FC",
-      "date": "2026-11-12T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Aurora FC",
-          "short": "Aurora",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131213.png",
-          "score": "0"
-        },
-        {
-          "name": "Deportivo Mixco",
-          "short": "Deportivo",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20036.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Estadio Cementos Progreso"
-    },
-    {
-      "id": "401899695",
-      "league": "Football",
-      "name": "CD Municipal Limeño at Águila",
-      "date": "2026-11-12T21:30Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Águila",
-          "short": "Águila",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7226.png",
-          "score": "0"
-        },
-        {
-          "name": "CD Municipal Limeño",
-          "short": "Limeño",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7231.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Estadio Juan Francisco Barraza"
-    },
-    {
-      "id": "401899770",
-      "league": "Football",
-      "name": "Inca Aruba at Atletico Balboa",
-      "date": "2026-11-12T21:30Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Atletico Balboa",
-          "short": "Atl Balboa",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7369.png",
-          "score": "0"
-        },
-        {
-          "name": "Inca Aruba",
-          "short": "Inca Aruba",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132480.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Estadio Marcelino Imbers"
-    },
-    {
-      "id": "401929793",
-      "league": "Football",
-      "name": "Mercyhurst at Long Island University",
-      "date": "2026-11-12T18:00Z",
-      "state": "in",
-      "status": "48'",
-      "teams": [
-        {
-          "name": "Long Island University",
-          "short": "Long Island",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2341.png",
-          "score": "0"
-        },
-        {
-          "name": "Mercyhurst",
-          "short": "Mercyhurst",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2385.png",
-          "score": "0"
-        }
-      ],
-      "venue": "LIU Soccer Park"
-    },
-    {
-      "id": "401929794",
-      "league": "Football",
-      "name": "Central Connecticut at Fairleigh Dickinson",
-      "date": "2026-11-12T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Fairleigh Dickinson",
-          "short": "FDU",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/161.png",
-          "score": "0"
-        },
-        {
-          "name": "Central Connecticut",
-          "short": "C Connecticut",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2115.png",
-          "score": "0"
-        }
-      ],
-      "venue": "University Stadium"
-    },
-    {
-      "id": "401929760",
-      "league": "Football",
-      "name": "Harvard at Cornell",
-      "date": "2026-11-12T20:30Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Cornell",
-          "short": "Cornell",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/172.png",
-          "score": "0"
-        },
-        {
-          "name": "Harvard",
-          "short": "Harvard",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/108.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Charles F. Berman Field"
-    },
-    {
-      "id": "401929739",
-      "league": "Football",
-      "name": "Akron at Creighton",
-      "date": "2026-11-12T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Creighton",
-          "short": "Creighton",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/156.png",
-          "score": "0"
-        },
-        {
-          "name": "Akron",
-          "short": "Akron",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Maryland SoccerPlex"
-    },
-    {
-      "id": "401929736",
-      "league": "Football",
-      "name": "NC State at North Carolina",
-      "date": "2026-11-12T22:30Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "North Carolina",
-          "short": "North Carolina",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
-          "score": "0"
-        },
-        {
-          "name": "NC State",
-          "short": "NC State",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
-          "score": "0"
-        }
-      ],
-      "venue": "WakeMed Soccer Park"
-    },
-    {
-      "id": "401929761",
-      "league": "Football",
-      "name": "Yale at Pennsylvania",
-      "date": "2026-11-13T00:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Pennsylvania",
-          "short": "Pennsylvania",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/219.png",
-          "score": "0"
-        },
-        {
-          "name": "Yale",
-          "short": "Yale",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/43.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Charles F. Berman Field"
-    },
-    {
-      "id": "401929740",
-      "league": "Football",
-      "name": "Seton Hall at Georgetown",
-      "date": "2026-11-13T00:30Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Georgetown",
-          "short": "Georgetown",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/46.png",
-          "score": "0"
-        },
-        {
-          "name": "Seton Hall",
-          "short": "Seton Hall",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2550.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Maryland SoccerPlex"
-    },
-    {
-      "id": "401929737",
-      "league": "Football",
-      "name": "Syracuse at SMU",
-      "date": "2026-11-13T01:30Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "SMU",
-          "short": "SMU",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
-          "score": "0"
-        },
-        {
-          "name": "Syracuse",
-          "short": "Syracuse",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/183.png",
-          "score": "0"
-        }
-      ],
-      "venue": "WakeMed Soccer Park"
-    },
-    {
-      "id": "401931334",
-      "league": "Football",
-      "name": "Prairie View A&M at Jackson State",
-      "date": "2026-11-12T16:00Z",
-      "state": "post",
-      "status": "FT",
       "teams": [
         {
           "name": "Jackson State",
           "short": "Jackson St",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2296.png",
-          "score": "3"
-        },
-        {
-          "name": "Prairie View A&M",
-          "short": "Prairie View",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2504.png",
-          "score": "1"
-        }
-      ],
-      "venue": "PVAMU Soccer Complex"
-    },
-    {
-      "id": "401929887",
-      "league": "Football",
-      "name": "Virginia at Notre Dame",
-      "date": "2026-11-12T16:00Z",
-      "state": "post",
-      "status": "FT",
-      "teams": [
-        {
-          "name": "Notre Dame",
-          "short": "Notre Dame",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/87.png",
           "score": "0"
         },
-        {
-          "name": "Virginia",
-          "short": "Virginia",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
-          "score": "1"
-        }
-      ],
-      "venue": "WakeMed Soccer Park"
-    },
-    {
-      "id": "401929972",
-      "league": "Football",
-      "name": "Stonehill at Fairleigh Dickinson",
-      "date": "2026-11-12T17:00Z",
-      "state": "in",
-      "status": "HT",
-      "teams": [
-        {
-          "name": "Fairleigh Dickinson",
-          "short": "FDU",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/161.png",
-          "score": "0"
-        },
-        {
-          "name": "Stonehill",
-          "short": "Stonehill",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/284.png",
-          "score": "0"
-        }
-      ],
-      "venue": "University Stadium"
-    },
-    {
-      "id": "401929971",
-      "league": "Football",
-      "name": "Wagner at Central Connecticut",
-      "date": "2026-11-12T18:00Z",
-      "state": "in",
-      "status": "61'",
-      "teams": [
-        {
-          "name": "Central Connecticut",
-          "short": "C Connecticut",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2115.png",
-          "score": "0"
-        },
-        {
-          "name": "Wagner",
-          "short": "Wagner",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2681.png",
-          "score": "0"
-        }
-      ],
-      "venue": "CCSU Soccer Field"
-    },
-    {
-      "id": "401929955",
-      "league": "Football",
-      "name": "Siena at Quinnipiac",
-      "date": "2026-11-12T18:00Z",
-      "state": "in",
-      "status": "56'",
-      "teams": [
-        {
-          "name": "Quinnipiac",
-          "short": "Quinnipiac",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2514.png",
-          "score": "0"
-        },
-        {
-          "name": "Siena",
-          "short": "Siena",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2561.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Quinnipiac Soccer & Lacrosse Stadium"
-    },
-    {
-      "id": "401931333",
-      "league": "Football",
-      "name": "Texas Southern at Alabama A&M",
-      "date": "2026-11-12T19:00Z",
-      "state": "in",
-      "status": "15'",
-      "teams": [
         {
           "name": "Alabama A&M",
           "short": "Alabama A&M",
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2010.png",
-          "score": "1"
-        },
-        {
-          "name": "Texas Southern",
-          "short": "Texas Southern",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2640.png",
-          "score": "1"
-        }
-      ],
-      "venue": "PVAMU Soccer Complex"
-    },
-    {
-      "id": "401929886",
-      "league": "Football",
-      "name": "Duke at North Carolina",
-      "date": "2026-11-12T19:00Z",
-      "state": "in",
-      "status": "17'",
-      "teams": [
-        {
-          "name": "North Carolina",
-          "short": "North Carolina",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
-          "score": "0"
-        },
-        {
-          "name": "Duke",
-          "short": "Duke",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
-          "score": "0"
-        }
-      ],
-      "venue": "WakeMed Soccer Park"
-    },
-    {
-      "id": "401931340",
-      "league": "Football",
-      "name": "South Dakota at North Dakota State",
-      "date": "2026-11-12T20:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "North Dakota State",
-          "short": "N Dakota St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2449.png",
-          "score": "0"
-        },
-        {
-          "name": "South Dakota",
-          "short": "South Dakota",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/233.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Case Soccer Complex"
-    },
-    {
-      "id": "401929949",
-      "league": "Football",
-      "name": "Princeton at Columbia",
-      "date": "2026-11-12T20:30Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Columbia",
-          "short": "Columbia",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/171.png",
-          "score": "0"
-        },
-        {
-          "name": "Princeton",
-          "short": "Princeton",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/163.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Burnham Field"
-    },
-    {
-      "id": "401929968",
-      "league": "Football",
-      "name": "Illinois State at Southern Illinois",
-      "date": "2026-11-12T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Southern Illinois",
-          "short": "S Illinois",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/79.png",
-          "score": "0"
-        },
-        {
-          "name": "Illinois State",
-          "short": "Illinois St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2287.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Lew Hartzog Track & Field Complex"
-    },
-    {
-      "id": "401929980",
-      "league": "Football",
-      "name": "SIU Edwardsville at UT Martin",
-      "date": "2026-11-12T21:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "UT Martin",
-          "short": "UT Martin",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2630.png",
-          "score": "0"
-        },
-        {
-          "name": "SIU Edwardsville",
-          "short": "SIUE",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2565.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Skyhawk Soccer Field"
-    },
-    {
-      "id": "401931292",
-      "league": "Football",
-      "name": "Texas at Arkansas",
-      "date": "2026-11-12T21:30Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Arkansas",
-          "short": "Arkansas",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
-          "score": "0"
-        },
-        {
-          "name": "Texas",
-          "short": "Texas",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Ashton Brosnaham Soccer Complex"
-    },
-    {
-      "id": "401931328",
-      "league": "Football",
-      "name": "Incarnate Word at Lamar",
-      "date": "2026-11-12T21:30Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Lamar",
-          "short": "Lamar",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2320.png",
-          "score": "0"
-        },
-        {
-          "name": "Incarnate Word",
-          "short": "Incarnate Word",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2916.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Lion Soccer Field"
-    },
-    {
-      "id": "401931332",
-      "league": "Football",
-      "name": "Southern at Grambling",
-      "date": "2026-11-12T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Grambling",
-          "short": "Grambling",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2755.png",
-          "score": "0"
-        },
-        {
-          "name": "Southern",
-          "short": "Southern",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2582.png",
           "score": "0"
         }
       ],
       "venue": "PVAMU Soccer Complex"
     },
     {
-      "id": "401929954",
+      "id": "401931322",
       "league": "Football",
-      "name": "Fairfield at Niagara",
-      "date": "2026-11-12T23:00Z",
+      "name": "Tennessee Tech at Samford",
+      "date": "2026-11-13T22:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Niagara",
-          "short": "Niagara",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/315.png",
+          "name": "Samford",
+          "short": "Samford",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2535.png",
           "score": "0"
         },
         {
-          "name": "Fairfield",
-          "short": "Fairfield",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2217.png",
+          "name": "Tennessee Tech",
+          "short": "Tennessee Tech",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2635.png",
           "score": "0"
         }
       ],
-      "venue": "Niagara Field"
+      "venue": "Samford Track/Soccer Complex"
     },
     {
-      "id": "401929950",
+      "id": "401929915",
       "league": "Football",
-      "name": "Brown at Dartmouth",
-      "date": "2026-11-13T00:00Z",
+      "name": "Michigan State at Purdue",
+      "date": "2026-11-13T23:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Dartmouth",
-          "short": "Dartmouth",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/159.png",
+          "name": "Purdue",
+          "short": "Purdue",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
           "score": "0"
         },
         {
-          "name": "Brown",
-          "short": "Brown",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/225.png",
+          "name": "Michigan State",
+          "short": "Michigan St",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
           "score": "0"
         }
       ],
-      "venue": "Burnham Field"
+      "venue": "Folk Field"
     },
     {
-      "id": "401929969",
+      "id": "401929961",
       "league": "Football",
-      "name": "Murray State at Drake",
-      "date": "2026-11-13T00:00Z",
+      "name": "Massachusetts at Western Michigan",
+      "date": "2026-11-14T00:30Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Drake",
-          "short": "Drake",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2181.png",
+          "name": "Western Michigan",
+          "short": "W Michigan",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2711.png",
           "score": "0"
         },
         {
-          "name": "Murray State",
-          "short": "Murray St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/93.png",
+          "name": "Massachusetts",
+          "short": "UMass",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/113.png",
           "score": "0"
         }
       ],
-      "venue": "Mediacom Stadium"
+      "venue": "ScottsMiracle-Gro Field"
     },
     {
-      "id": "401931341",
+      "id": "401931323",
       "league": "Football",
-      "name": "St. Thomas at Oral Roberts",
-      "date": "2026-11-13T00:00Z",
+      "name": "Mercer at East Tennessee State",
+      "date": "2026-11-14T01:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "Oral Roberts",
-          "short": "Oral Roberts",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/198.png",
+          "name": "East Tennessee State",
+          "short": "ETSU",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2193.png",
           "score": "0"
         },
         {
-          "name": "St. Thomas",
-          "short": "St Thomas",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2900.png",
+          "name": "Mercer",
+          "short": "Mercer",
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2382.png",
           "score": "0"
         }
       ],
-      "venue": "Case Soccer Complex"
-    },
-    {
-      "id": "401931293",
-      "league": "Football",
-      "name": "Alabama at South Carolina",
-      "date": "2026-11-13T00:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "South Carolina",
-          "short": "South Carolina",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
-          "score": "0"
-        },
-        {
-          "name": "Alabama",
-          "short": "Alabama",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Ashton Brosnaham Soccer Complex"
-    },
-    {
-      "id": "401929981",
-      "league": "Football",
-      "name": "Southern Indiana at Southeast Missouri State",
-      "date": "2026-11-13T00:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Southeast Missouri State",
-          "short": "SE Missouri",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2546.png",
-          "score": "0"
-        },
-        {
-          "name": "Southern Indiana",
-          "short": "S Indiana",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/88.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Skyhawk Soccer Field"
-    },
-    {
-      "id": "401931331",
-      "league": "Football",
-      "name": "Alabama State at Alcorn State",
-      "date": "2026-11-13T01:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Alcorn State",
-          "short": "Alcorn St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2016.png",
-          "score": "0"
-        },
-        {
-          "name": "Alabama State",
-          "short": "Alabama St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2011.png",
-          "score": "0"
-        }
-      ],
-      "venue": "PVAMU Soccer Complex"
-    },
-    {
-      "id": "401931329",
-      "league": "Football",
-      "name": "Northwestern State at Houston Christian",
-      "date": "2026-11-13T01:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Houston Christian",
-          "short": "Hou Christian",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2277.png",
-          "score": "0"
-        },
-        {
-          "name": "Northwestern State",
-          "short": "N'Western St",
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2466.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Lion Soccer Field"
+      "venue": "Samford Track/Soccer Complex"
     }
   ]
 }
