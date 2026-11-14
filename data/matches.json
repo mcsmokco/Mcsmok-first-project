@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T01:56:38.033492+00:00",
+  "updated_at": "2026-11-14T08:35:53.866450+00:00",
   "count": 100,
   "items": [
     {
@@ -329,14 +329,14 @@
       "league": "Football",
       "name": "Cook Islands at Tahiti",
       "date": "2026-11-14T05:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Tahiti",
           "short": "Tahiti",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tah.png",
-          "score": "0"
+          "score": "4"
         },
         {
           "name": "Cook Islands",
@@ -352,20 +352,20 @@
       "league": "Football",
       "name": "Yemen at Bahrain",
       "date": "2026-11-14T06:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Bahrain",
           "short": "Bahrain",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bhr.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Yemen",
           "short": "Yemen",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/yem.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Tianhe Stadium"
@@ -466,7 +466,7 @@
       "id": "401906463",
       "league": "Football",
       "name": "India at New Zealand",
-      "date": "2026-11-15T03:00Z",
+      "date": "2026-11-15T03:10Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
@@ -1797,29 +1797,6 @@
       "venue": "American Express Stadium"
     },
     {
-      "id": "401878607",
-      "league": "Football",
-      "name": "Dallas Trinity FC at Tampa Bay Sun FC",
-      "date": "2026-11-14T23:00Z",
-      "state": "pre",
-      "status": "Scheduled",
-      "teams": [
-        {
-          "name": "Tampa Bay Sun FC",
-          "short": "Tampa Bay",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131455.png",
-          "score": "0"
-        },
-        {
-          "name": "Dallas Trinity FC",
-          "short": "Dallas",
-          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131447.png",
-          "score": "0"
-        }
-      ],
-      "venue": "Suncoast Credit Union Field"
-    },
-    {
       "id": "401931842",
       "league": "Football",
       "name": "Portishead Town at Dulwich Hamlet",
@@ -2031,8 +2008,8 @@
       "league": "Football",
       "name": "Perth Glory at Central Coast Mariners",
       "date": "2026-11-14T06:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Central Coast Mariners",
@@ -2044,7 +2021,7 @@
           "name": "Perth Glory",
           "short": "Perth Glory",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20282.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Central Coast Stadium"
@@ -2301,6 +2278,29 @@
         }
       ],
       "venue": "TD Place Stadium"
+    },
+    {
+      "id": "401934157",
+      "league": "Football",
+      "name": "CSC Dumbravita at ACS Poli Timisoara",
+      "date": "2026-11-14T09:00Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "ACS Poli Timisoara",
+          "short": "Poli Timisoara",
+          "logo": "",
+          "score": "0"
+        },
+        {
+          "name": "CSC Dumbravita",
+          "short": "Dumbravita",
+          "logo": "",
+          "score": "0"
+        }
+      ],
+      "venue": ""
     }
   ]
 }
