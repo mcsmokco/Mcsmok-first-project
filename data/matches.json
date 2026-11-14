@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T15:27:56.266959+00:00",
+  "updated_at": "2026-11-14T20:01:07.808640+00:00",
   "count": 100,
   "items": [
     {
@@ -7,20 +7,20 @@
       "league": "Football",
       "name": "Utah Royals at Washington Spirit",
       "date": "2026-11-14T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Washington Spirit",
           "short": "Washington",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15365.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Utah Royals",
           "short": "Utah",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19141.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Audi Field"
@@ -30,20 +30,20 @@
       "league": "Football",
       "name": "French Guiana at Sint Maarten",
       "date": "2026-11-14T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "HT",
       "teams": [
         {
           "name": "Sint Maarten",
           "short": "Sint Maarten",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sma.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "French Guiana",
           "short": "French Guiana",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10532.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Arnos Vale Stadium"
@@ -122,8 +122,8 @@
       "league": "Football",
       "name": "Israel at Kosovo",
       "date": "2026-11-14T14:00Z",
-      "state": "in",
-      "status": "71'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Kosovo",
@@ -145,8 +145,8 @@
       "league": "Football",
       "name": "Hungary at Georgia",
       "date": "2026-11-14T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Georgia",
@@ -158,7 +158,7 @@
           "name": "Hungary",
           "short": "Hungary",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Mikheil Meskhi Stadioni"
@@ -168,20 +168,20 @@
       "league": "Football",
       "name": "Wales at Norway",
       "date": "2026-11-14T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Norway",
           "short": "Norway",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Wales",
           "short": "Wales",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/wal.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Ullevaal Stadion"
@@ -191,8 +191,8 @@
       "league": "Football",
       "name": "Republic of Ireland at Austria",
       "date": "2026-11-14T19:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "15'",
       "teams": [
         {
           "name": "Austria",
@@ -214,8 +214,8 @@
       "league": "Football",
       "name": "Ukraine at Northern Ireland",
       "date": "2026-11-14T19:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "14'",
       "teams": [
         {
           "name": "Northern Ireland",
@@ -237,8 +237,8 @@
       "league": "Football",
       "name": "Denmark at Portugal",
       "date": "2026-11-14T19:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "15'",
       "teams": [
         {
           "name": "Portugal",
@@ -260,8 +260,8 @@
       "league": "Football",
       "name": "Poland at Romania",
       "date": "2026-11-14T19:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "14'",
       "teams": [
         {
           "name": "Romania",
@@ -283,14 +283,14 @@
       "league": "Football",
       "name": "Bosnia-Herzegovina at Sweden",
       "date": "2026-11-14T19:45Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "16'",
       "teams": [
         {
           "name": "Sweden",
           "short": "Sweden",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Bosnia-Herzegovina",
@@ -434,7 +434,7 @@
           "name": "Kyrgyz Republic",
           "short": "Kyrgyz Rep.",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kgz.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Thien Truong Stadium"
@@ -444,8 +444,8 @@
       "league": "Football",
       "name": "Iran at Palestine",
       "date": "2026-11-14T15:00Z",
-      "state": "in",
-      "status": "24'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Palestine",
@@ -457,7 +457,7 @@
           "name": "Iran",
           "short": "Iran",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irn.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Basra International Stadium"
@@ -513,8 +513,8 @@
       "league": "Football",
       "name": "Manchester City at Chelsea",
       "date": "2026-11-14T13:30Z",
-      "state": "in",
-      "status": "90'+6'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Chelsea",
@@ -536,8 +536,8 @@
       "league": "Football",
       "name": "Everton at Tottenham Hotspur",
       "date": "2026-11-14T15:00Z",
-      "state": "in",
-      "status": "28'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Tottenham Hotspur",
@@ -559,8 +559,8 @@
       "league": "Football",
       "name": "Liverpool at Brighton & Hove Albion",
       "date": "2026-11-14T17:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Brighton & Hove Albion",
@@ -572,7 +572,7 @@
           "name": "Liverpool",
           "short": "Liverpool ",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19971.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "American Express Stadium"
@@ -582,8 +582,8 @@
       "league": "Football",
       "name": "Montpellier at Balagne",
       "date": "2026-11-14T13:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Balagne",
@@ -595,7 +595,7 @@
           "name": "Montpellier",
           "short": "Montpellier",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
-          "score": "0"
+          "score": "5"
         }
       ],
       "venue": "Stade Jacques-Ambroggi"
@@ -605,14 +605,14 @@
       "league": "Football",
       "name": "Diables Noirs at Le Puy",
       "date": "2026-11-14T13:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Le Puy",
           "short": "Le Puy",
           "logo": "",
-          "score": "0"
+          "score": "4"
         },
         {
           "name": "Diables Noirs",
@@ -641,7 +641,7 @@
           "name": "Stade de Reims",
           "short": "Reims",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stade Charles Van de Veegaete"
@@ -658,13 +658,13 @@
           "name": "Versailles 78",
           "short": "Versailles",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10675.png",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Rodez Aveyron",
           "short": "Rodez Aveyron",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7719.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Stade Georges Lefèvre"
@@ -674,20 +674,20 @@
       "league": "Football",
       "name": "Sochaux at CA Boulay",
       "date": "2026-11-14T13:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT-Pens",
       "teams": [
         {
           "name": "CA Boulay",
           "short": "Boulay",
           "logo": "",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Sochaux",
           "short": "Sochaux",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/272.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Stade Charles Muller"
@@ -697,8 +697,8 @@
       "league": "Football",
       "name": "Frejus at Rhone Crussol Foot",
       "date": "2026-11-14T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Rhone Crussol Foot",
@@ -710,7 +710,7 @@
           "name": "Frejus",
           "short": "Frejus",
           "logo": "",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Mistral Stadium"
@@ -720,8 +720,8 @@
       "league": "Football",
       "name": "Hauts Lyonnais at Chalon-sur-Saone",
       "date": "2026-11-14T15:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Chalon-sur-Saone",
@@ -733,7 +733,7 @@
           "name": "Hauts Lyonnais",
           "short": "Hauts Lyonnais",
           "logo": "",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Terrain Jean-Pierre Adams"
@@ -743,8 +743,8 @@
       "league": "Football",
       "name": "Caen at Choisy Au Bac",
       "date": "2026-11-14T15:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Choisy Au Bac",
@@ -756,7 +756,7 @@
           "name": "Caen",
           "short": "Caen",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2927.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Stade Paul Cosyns"
@@ -766,8 +766,8 @@
       "league": "Football",
       "name": "Clermont Foot at Fontenay Foot",
       "date": "2026-11-14T15:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Fontenay Foot",
@@ -779,7 +779,7 @@
           "name": "Clermont Foot",
           "short": "Clermont Foot",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3171.png",
-          "score": "0"
+          "score": "5"
         }
       ],
       "venue": "Stade Emmanuel Murzeau"
@@ -789,20 +789,20 @@
       "league": "Football",
       "name": "Annecy at Firminy",
       "date": "2026-11-14T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT-Pens",
       "teams": [
         {
           "name": "Firminy",
           "short": "Firminy",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Annecy",
           "short": "Annecy",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18066.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stade Le Corbusier 1"
@@ -812,20 +812,20 @@
       "league": "Football",
       "name": "ES Thaon at IC Croix",
       "date": "2026-11-14T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "IC Croix",
           "short": "IC Croix",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "ES Thaon",
           "short": "Thaon",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Stade Henri Seigneur"
@@ -835,20 +835,20 @@
       "league": "Football",
       "name": "Vertou at Le Poire SV",
       "date": "2026-11-14T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Le Poire SV",
           "short": "Le Poire SV",
           "logo": "",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Vertou",
           "short": "Vertou",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stade de l'Idonnière"
@@ -858,20 +858,20 @@
       "league": "Football",
       "name": "Bourg-Peronnas at Pont-de-Cheruy",
       "date": "2026-11-14T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Pont-de-Cheruy",
           "short": "Pont-de-Cheruy",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Bourg-Peronnas",
           "short": "Bourg-Peronnas",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11895.png",
-          "score": "0"
+          "score": "5"
         }
       ],
       "venue": "Terrain Edouard Grammont"
@@ -881,8 +881,8 @@
       "league": "Football",
       "name": "La Baule-Le Pouliguen at Saint Sebastien",
       "date": "2026-11-14T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Saint Sebastien",
@@ -894,7 +894,7 @@
           "name": "La Baule-Le Pouliguen",
           "short": "Pouliguen",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Stade René Massé 1"
@@ -904,20 +904,20 @@
       "league": "Football",
       "name": "Concarneau at Tinteniac St Domineuc",
       "date": "2026-11-14T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Tinteniac St Domineuc",
           "short": "Tinteniac",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Concarneau",
           "short": "Concarneau",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7718.png",
-          "score": "0"
+          "score": "4"
         }
       ],
       "venue": "Roger Salengro Stadium"
@@ -927,20 +927,20 @@
       "league": "Football",
       "name": "Biesheim at Koetzingue",
       "date": "2026-11-14T16:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Koetzingue",
           "short": "Koetzingue",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Biesheim",
           "short": "Biesheim",
           "logo": "",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Stade de la Croix 1"
@@ -950,8 +950,8 @@
       "league": "Football",
       "name": "Sundhoffen at Amneville",
       "date": "2026-11-14T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Amneville",
@@ -963,7 +963,7 @@
           "name": "Sundhoffen",
           "short": "Sundhoffen",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stade Andre Valentin"
@@ -973,8 +973,8 @@
       "league": "Football",
       "name": "Selongey at Asptt Dijon",
       "date": "2026-11-14T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Asptt Dijon",
@@ -986,7 +986,7 @@
           "name": "Selongey",
           "short": "Selongey",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Stade Des Poussots"
@@ -996,20 +996,20 @@
       "league": "Football",
       "name": "FC Chambly at Caen",
       "date": "2026-11-14T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Caen",
           "short": "Caen",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2927.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "FC Chambly",
           "short": "FC Chambly",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11880.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Stade Maurice-Fouque"
@@ -1019,14 +1019,14 @@
       "league": "Football",
       "name": "Horizon Patho at Chateaubriant",
       "date": "2026-11-14T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Chateaubriant",
           "short": "Chateaubrian",
           "logo": "",
-          "score": "0"
+          "score": "5"
         },
         {
           "name": "Horizon Patho",
@@ -1042,8 +1042,8 @@
       "league": "Football",
       "name": "ESA Linas-Montlhery at Contres",
       "date": "2026-11-14T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Contres",
@@ -1055,7 +1055,7 @@
           "name": "ESA Linas-Montlhery",
           "short": "Linas-Montlhery",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Complexe Henri Chatrier"
@@ -1065,20 +1065,20 @@
       "league": "Football",
       "name": "Chassieu Declines FC at Cournon",
       "date": "2026-11-14T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT-Pens",
       "teams": [
         {
           "name": "Cournon",
           "short": "Cournon",
           "logo": "",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Chassieu Declines FC",
           "short": "Chassieu",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Stade Joseph et Michel Gardet"
@@ -1088,8 +1088,8 @@
       "league": "Football",
       "name": "US Quevilly at Dunkerque",
       "date": "2026-11-14T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Dunkerque",
@@ -1101,7 +1101,7 @@
           "name": "US Quevilly",
           "short": "US Quevilly",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7721.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Stade Marcel-Tribut"
@@ -1111,20 +1111,20 @@
       "league": "Football",
       "name": "Riviera at Grau-Du-Roi",
       "date": "2026-11-14T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Grau-Du-Roi",
           "short": "GrauduRoi",
           "logo": "",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Riviera",
           "short": "Riviera",
           "logo": "",
-          "score": "0"
+          "score": "4"
         }
       ],
       "venue": "Stade Michel Mézy"
@@ -1157,20 +1157,20 @@
       "league": "Football",
       "name": "Avranches at Le Touquet",
       "date": "2026-11-14T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Le Touquet",
           "short": "Touquet",
           "logo": "",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Avranches",
           "short": "Avranches",
           "logo": "",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Stade Gerard Houllier"
@@ -1180,20 +1180,20 @@
       "league": "Football",
       "name": "US Feurs at Lyon-la-Duchere",
       "date": "2026-11-14T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Lyon-la-Duchere",
           "short": "Lyon-la-Duchere",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "US Feurs",
           "short": "Feurs",
           "logo": "",
-          "score": "0"
+          "score": "4"
         }
       ],
       "venue": "Stade de Balmont"
@@ -1203,20 +1203,20 @@
       "league": "Football",
       "name": "AF Virois at Pays de Saint-Omer",
       "date": "2026-11-14T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT-Pens",
       "teams": [
         {
           "name": "Pays de Saint-Omer",
           "short": "Saint-Omer",
           "logo": "",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "AF Virois",
           "short": "AF Virois",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Stade Gaston Bonnet"
@@ -1226,20 +1226,20 @@
       "league": "Football",
       "name": "Am. du Personnel Municipal Metz at Racing Besancon",
       "date": "2026-11-14T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Racing Besancon",
           "short": "Racing Besan",
           "logo": "",
-          "score": "0"
+          "score": "4"
         },
         {
           "name": "Am. du Personnel Municipal Metz",
           "short": "Am. du Perso",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stade Leo Lagrange"
@@ -1249,8 +1249,8 @@
       "league": "Football",
       "name": "Bayonne at Sag Cestas",
       "date": "2026-11-14T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Sag Cestas",
@@ -1262,7 +1262,7 @@
           "name": "Bayonne",
           "short": "Bayonne",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Bouzet Sports Complex"
@@ -1272,8 +1272,8 @@
       "league": "Football",
       "name": "Rouen at Saint-Brieuc",
       "date": "2026-11-14T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT-Pens",
       "teams": [
         {
           "name": "Saint-Brieuc",
@@ -1295,14 +1295,14 @@
       "league": "Football",
       "name": "Boulogne at St-Ouen L'Aumone",
       "date": "2026-11-14T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "St-Ouen L'Aumone",
           "short": "St-Ouen L'Au",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Boulogne",
@@ -1341,20 +1341,20 @@
       "league": "Football",
       "name": "Oberlauterbach at Strasbourg Koenigshoffen",
       "date": "2026-11-14T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Strasbourg Koenigshoffen",
           "short": "S Koenigshoffen",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Oberlauterbach",
           "short": "Oberlauterbach",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Stade Charles Frey"
@@ -1364,8 +1364,8 @@
       "league": "Football",
       "name": "Villefranche at US Cheminots Paray-Foot",
       "date": "2026-11-14T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "US Cheminots Paray-Foot",
@@ -1377,7 +1377,7 @@
           "name": "Villefranche",
           "short": "Villefranche",
           "logo": "",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Stade Des Sables 1"
@@ -1387,20 +1387,20 @@
       "league": "Football",
       "name": "FC Fleury 91 at Vesoul",
       "date": "2026-11-14T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT-Pens",
       "teams": [
         {
           "name": "Vesoul",
           "short": "Vesoul",
           "logo": "",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "FC Fleury 91",
           "short": "FC Fleury 91",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Stade René Hologne"
@@ -1410,20 +1410,20 @@
       "league": "Football",
       "name": "Saint-Pierre Milizac at Vitre",
       "date": "2026-11-14T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Vitre",
           "short": "Vitre",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Saint-Pierre Milizac",
           "short": "St-Pierre",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Stade Municipal de Vitré"
@@ -1433,20 +1433,20 @@
       "league": "Football",
       "name": "Castanet at Balma",
       "date": "2026-11-14T17:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT-Pens",
       "teams": [
         {
           "name": "Balma",
           "short": "Balma",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Castanet",
           "short": "Castanet",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stade Nicolas Campailla"
@@ -1778,20 +1778,20 @@
       "league": "Football",
       "name": "Portishead Town at Dulwich Hamlet",
       "date": "2026-11-14T15:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Dulwich Hamlet",
           "short": "Dulwich",
           "logo": "",
-          "score": "0"
+          "score": "4"
         },
         {
           "name": "Portishead Town",
           "short": "Portishead",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Champion Hill"
@@ -1824,20 +1824,20 @@
       "league": "Football",
       "name": "Eibar at Alavés",
       "date": "2026-11-14T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Alavés",
           "short": "Alavés",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21378.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Eibar",
           "short": "Eibar",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21376.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Mendizorrotza"
@@ -1847,8 +1847,8 @@
       "league": "Football",
       "name": "FC Badalona at Real Madrid",
       "date": "2026-11-14T19:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "29'",
       "teams": [
         {
           "name": "Real Madrid",
@@ -1870,8 +1870,8 @@
       "league": "Football",
       "name": "Paris FC at Le Havre AC",
       "date": "2026-11-14T14:00Z",
-      "state": "in",
-      "status": "67'",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Le Havre AC",
@@ -1893,14 +1893,14 @@
       "league": "Football",
       "name": "Saint-Malo at OL Lyonnes",
       "date": "2026-11-14T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "OL Lyonnes",
           "short": "Lyonnes",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19256.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Saint-Malo",
@@ -1916,20 +1916,20 @@
       "league": "Football",
       "name": "Toulouse at Strasbourg",
       "date": "2026-11-14T17:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Strasbourg",
           "short": "Strasbourg",
           "logo": "",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Toulouse",
           "short": "Toulouse",
           "logo": "",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stade de la Meinau"
@@ -1939,8 +1939,8 @@
       "league": "Football",
       "name": "FC Fleury 91 at Montpellier",
       "date": "2026-11-14T17:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Montpellier",
@@ -1952,7 +1952,7 @@
           "name": "FC Fleury 91",
           "short": "Fleury",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21637.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Stade Bernard Gasset No. 7"
@@ -2054,20 +2054,20 @@
       "league": "Football",
       "name": "Botswana at Uganda",
       "date": "2026-11-14T16:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Uganda",
           "short": "Uganda",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uga.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Botswana",
           "short": "Botswana",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bot.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "Hoima City Stadium"
@@ -2077,8 +2077,8 @@
       "league": "Football",
       "name": "Togo at Algeria",
       "date": "2026-11-14T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "HT",
       "teams": [
         {
           "name": "Algeria",
@@ -2100,8 +2100,8 @@
       "league": "Football",
       "name": "South Sudan at Angola",
       "date": "2026-11-14T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "HT",
       "teams": [
         {
           "name": "Angola",
@@ -2238,8 +2238,8 @@
       "league": "Football",
       "name": "AFC Toronto at Montreal Roses FC",
       "date": "2026-11-14T19:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "45'+1'",
       "teams": [
         {
           "name": "Montreal Roses FC",
@@ -2251,7 +2251,7 @@
           "name": "AFC Toronto",
           "short": "Toronto",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131258.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "TD Place Stadium"
