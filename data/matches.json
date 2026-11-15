@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T00:01:44.004558+00:00",
+  "updated_at": "2026-11-15T06:54:55.314597+00:00",
   "count": 100,
   "items": [
     {
@@ -534,13 +534,13 @@
     {
       "id": "401932741",
       "league": "Football",
-      "name": "FC Limonest at RIOM",
+      "name": "FC Limonest at Riom",
       "date": "2026-11-15T13:00Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
         {
-          "name": "RIOM",
+          "name": "Riom",
           "short": "Riom",
           "logo": "",
           "score": "0"
@@ -771,7 +771,7 @@
       "teams": [
         {
           "name": "Stade Castelbourgeois",
-          "short": "Castel",
+          "short": "Castelbourgeois",
           "logo": "",
           "score": "0"
         },
@@ -823,7 +823,7 @@
         },
         {
           "name": "Baume-Les-Dames",
-          "short": "Baume",
+          "short": "Baume-Les-Dames",
           "logo": "",
           "score": "0"
         }
@@ -1111,8 +1111,8 @@
       "league": "Football",
       "name": "Dallas Trinity FC at Tampa Bay Sun FC",
       "date": "2026-11-15T22:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "Postponed",
       "teams": [
         {
           "name": "Tampa Bay Sun FC",
