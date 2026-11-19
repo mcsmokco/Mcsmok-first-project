@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T02:44:03.315589+00:00",
-  "count": 39,
+  "updated_at": "2026-11-19T11:00:37.761913+00:00",
+  "count": 42,
   "items": [
     {
       "id": "401933535",
@@ -486,18 +486,87 @@
       "venue": "Estádio Cícero Pompeu de Toledo"
     },
     {
+      "id": "401934704",
+      "league": "Football",
+      "name": "Deportivo Maldonado at Boston River",
+      "date": "2026-11-19T19:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Boston River",
+          "short": "Boston River",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9999.png",
+          "score": "0"
+        },
+        {
+          "name": "Deportivo Maldonado",
+          "short": "Maldonado",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10000.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Campeones Olímpicos"
+    },
+    {
+      "id": "401934686",
+      "league": "Football",
+      "name": "Cerro Largo at Peñarol",
+      "date": "2026-11-19T19:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Peñarol",
+          "short": "Peñarol",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2683.png",
+          "score": "0"
+        },
+        {
+          "name": "Cerro Largo",
+          "short": "Cerro Largo",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9902.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Estadio Campeón del Siglo"
+    },
+    {
+      "id": "401934703",
+      "league": "Football",
+      "name": "Montevideo City Torque at Progreso",
+      "date": "2026-11-19T19:30Z",
+      "state": "pre",
+      "status": "Scheduled",
+      "teams": [
+        {
+          "name": "Progreso",
+          "short": "Progreso",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6866.png",
+          "score": "0"
+        },
+        {
+          "name": "Montevideo City Torque",
+          "short": "MC Torque",
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19002.png",
+          "score": "0"
+        }
+      ],
+      "venue": "Parque Abraham Paladino"
+    },
+    {
       "id": "401930693",
       "league": "Football",
       "name": "Shillong Lajong FC at Dempo Sports Club",
       "date": "2026-11-19T10:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "29'",
       "teams": [
         {
           "name": "Dempo Sports Club",
           "short": "Dempo SC",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Shillong Lajong FC",
@@ -719,7 +788,7 @@
       "id": "401932586",
       "league": "Football",
       "name": "Bowling Green at Marshall",
-      "date": "2026-11-20T00:15Z",
+      "date": "2026-11-20T00:10Z",
       "state": "pre",
       "status": "Scheduled",
       "teams": [
