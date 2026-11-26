@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T03:41:41.091332+00:00",
+  "updated_at": "2026-11-26T13:27:48.381348+00:00",
   "count": 59,
   "items": [
     {
@@ -950,20 +950,20 @@
       "league": "Football",
       "name": "Kitchee SC at Gangwon FC",
       "date": "2026-11-26T10:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Gangwon FC",
           "short": "Gangwon",
           "logo": "",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Kitchee SC",
           "short": "Kitchee SC",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Gangneung High1 Arena"
@@ -973,14 +973,14 @@
       "league": "Football",
       "name": "Phnom Penh Crown FC at Kuching City",
       "date": "2026-11-26T10:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Kuching City",
           "short": "Kuching",
           "logo": "",
-          "score": "0"
+          "score": "3"
         },
         {
           "name": "Phnom Penh Crown FC",
@@ -996,20 +996,20 @@
       "league": "Football",
       "name": "Shanghai Shenhua FC at Tampines Rovers FC",
       "date": "2026-11-26T10:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Tampines Rovers FC",
           "short": "Tampines Rovers",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7998.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Shanghai Shenhua FC",
           "short": "Shanghai Shenhua",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/977.png",
-          "score": "0"
+          "score": "7"
         }
       ],
       "venue": "Jalan Besar Stadium"
@@ -1019,8 +1019,8 @@
       "league": "Football",
       "name": "Lion City Sailors FC at BG Pathum United",
       "date": "2026-11-26T12:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "52'",
       "teams": [
         {
           "name": "BG Pathum United",
@@ -1032,7 +1032,7 @@
           "name": "Lion City Sailors FC",
           "short": "LC Sailors",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8040.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "BG Stadium"
@@ -1042,8 +1042,8 @@
       "league": "Football",
       "name": "Machida Zelvia at PKR Svay Rieng",
       "date": "2026-11-26T12:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "55'",
       "teams": [
         {
           "name": "PKR Svay Rieng",
@@ -1065,20 +1065,20 @@
       "league": "Football",
       "name": "Adelaide United FC at Tai Po FC",
       "date": "2026-11-26T12:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "55'",
       "teams": [
         {
           "name": "Tai Po FC",
           "short": "Tai Po",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Adelaide United FC",
           "short": "Adelaide Utd",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5321.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Mong Kok Stadium"
@@ -1134,8 +1134,8 @@
       "league": "Football",
       "name": "Belgium U17 at New Zealand U17",
       "date": "2026-11-26T13:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "28'",
       "teams": [
         {
           "name": "New Zealand U17",
@@ -1147,7 +1147,7 @@
           "name": "Belgium U17",
           "short": "Belgium",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
-          "score": "0"
+          "score": "4"
         }
       ],
       "venue": "Aspire Zone Pitch 4"
@@ -1157,8 +1157,8 @@
       "league": "Football",
       "name": "Mali U17 at Vietnam U17",
       "date": "2026-11-26T13:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "27'",
       "teams": [
         {
           "name": "Vietnam U17",
