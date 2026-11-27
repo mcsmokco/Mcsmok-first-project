@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T04:27:32.784579+00:00",
+  "updated_at": "2026-11-27T14:09:49.303356+00:00",
   "count": 89,
   "items": [
     {
@@ -329,20 +329,20 @@
       "league": "Football",
       "name": "Luxembourg at Cyprus",
       "date": "2026-11-27T09:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Cyprus",
           "short": "Cyprus",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cyp.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Luxembourg",
           "short": "Luxembourg",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lux.png",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Stadio Dasaki Achnas"
@@ -490,14 +490,14 @@
       "league": "Football",
       "name": "Melbourne City FC at Macarthur FC",
       "date": "2026-11-27T08:40Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "Macarthur FC",
           "short": "Macarthur",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19340.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Melbourne City FC",
@@ -513,20 +513,20 @@
       "league": "Football",
       "name": "Al Khaleej at Al Kholood",
       "date": "2026-11-27T12:15Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "90'+5'",
       "teams": [
         {
           "name": "Al Kholood",
           "short": "Al Kholood",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22028.png",
-          "score": "0"
+          "score": "2"
         },
         {
           "name": "Al Khaleej",
           "short": "Al Khaleej",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21829.png",
-          "score": "0"
+          "score": "1"
         }
       ],
       "venue": "King Abdullah Sport City Stadium"
@@ -651,20 +651,20 @@
       "league": "Football",
       "name": "TPS at FC Ilves",
       "date": "2026-11-27T11:30Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "post",
+      "status": "FT",
       "teams": [
         {
           "name": "FC Ilves",
           "short": "FC Ilves",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "TPS",
           "short": "TPS",
           "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8219.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Tammelan Stadion"
@@ -672,7 +672,7 @@
     {
       "id": "401936553",
       "league": "Football",
-      "name": "FC LOKOMOTÍVA KOŠICE at 1. FC Tatran Presov",
+      "name": "FC Lokomotíva Kosice at 1. FC Tatran Presov",
       "date": "2026-11-27T13:00Z",
       "state": "pre",
       "status": "Scheduled",
@@ -684,8 +684,8 @@
           "score": "0"
         },
         {
-          "name": "FC LOKOMOTÍVA KOŠICE",
-          "short": "FCLK",
+          "name": "FC Lokomotíva Kosice",
+          "short": "Kosice",
           "logo": "",
           "score": "0"
         }
@@ -881,8 +881,8 @@
       "league": "Football",
       "name": "Serbia U17 at Colombia U17",
       "date": "2026-11-27T13:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "53'",
       "teams": [
         {
           "name": "Colombia U17",
@@ -904,8 +904,8 @@
       "league": "Football",
       "name": "Japan U17 at Honduras U17",
       "date": "2026-11-27T13:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "51'",
       "teams": [
         {
           "name": "Honduras U17",
@@ -917,7 +917,7 @@
           "name": "Japan U17",
           "short": "Japan",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
-          "score": "0"
+          "score": "3"
         }
       ],
       "venue": "Aspire Zone Pitch 4"
@@ -927,8 +927,8 @@
       "league": "Football",
       "name": "Brazil U17 at Costa Rica U17",
       "date": "2026-11-27T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "Costa Rica U17",
@@ -950,14 +950,14 @@
       "league": "Football",
       "name": "Tanzania U17 at Republic of Ireland U17",
       "date": "2026-11-27T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "Republic of Ireland U17",
           "short": "Rep Ireland",
           "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irl.png",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Tanzania U17",
@@ -1617,8 +1617,8 @@
       "league": "Football",
       "name": "Churchill Brothers at Inter Kashi",
       "date": "2026-11-27T14:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "9'",
       "teams": [
         {
           "name": "Inter Kashi",
@@ -1640,20 +1640,20 @@
       "league": "Football",
       "name": "Al Ahli Tripoli at Azam FC",
       "date": "2026-11-27T13:00Z",
-      "state": "pre",
-      "status": "Scheduled",
+      "state": "in",
+      "status": "49'",
       "teams": [
         {
           "name": "Azam FC",
           "short": "Azam",
           "logo": "",
-          "score": "0"
+          "score": "1"
         },
         {
           "name": "Al Ahli Tripoli",
           "short": "Al Ahli Tripoli",
           "logo": "",
-          "score": "0"
+          "score": "2"
         }
       ],
       "venue": "Amaan Stadium"
